@@ -1,5 +1,7 @@
 ---
-category: blog
+category: 
+  - ""
+  - politics
 layout: post
 title: "Post number 2!"
 date: {}
