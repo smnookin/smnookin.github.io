@@ -21,5 +21,3 @@ Next steps:
 - Index and article pages
 - Home page
 - Image testing
-
-
