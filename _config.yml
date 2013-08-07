@@ -11,13 +11,8 @@ prose:
     _posts:
       - name: "published"
         field:
-          element: "select"
-          label: "Published"
-          options:
-            - name: "True"
-              value: "true"
-            - name: "False"
-              value: "false"
+          element: "checkbox"
+          label: "Publish"
       - name: "category"
         field:
           element: "select"
