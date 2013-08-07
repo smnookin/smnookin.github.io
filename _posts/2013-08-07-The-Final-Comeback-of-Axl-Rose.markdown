@@ -1,7 +1,7 @@
 ---
 published: true
 title: The Final Comeback of Axl Rose
-category: sports
+category: art
 layout: default
 ---
 
