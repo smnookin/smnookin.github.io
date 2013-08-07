@@ -12,6 +12,7 @@ prose:
       - name: "category"
         field:
           element: "select"
+          label: "Genre"
           options:
             - name: "Science"
               value: "science"
