@@ -13,28 +13,18 @@ prose:
         field:
           element: "select"
           options:
-            - name: "Sports"
-              value: "sports"
+            - name: "Science"
+              value: "science"
             - name: "Politics"
               value: "politics"
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Choose layout"
-          options:
-            - name: "Default"
-              value: "default"
-            - name: "Post"
-              value: "post"
+            - name: "Art"
+              value: "art"
+            - name: "Course"
+              value: "course"
       - name: "title"
         field:
           element: "text"
           label: "Title"
-          value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
           value: ""
       - name: "tags"
         field:
@@ -42,10 +32,10 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Reading"
+              value: "reading"
+            - name: "Student work"
+              value: "student"
     _posts/static:
       - name: "layout"
         field:
