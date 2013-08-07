@@ -2,7 +2,7 @@
 published: true
 title: The Final Comeback of Axl Rose
 category: art
-layout: default
+layout: post
 ---
 
 ***
