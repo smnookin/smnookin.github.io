@@ -11,8 +11,12 @@ prose:
     _posts:
       - name: "category"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "select"
+          options:
+            - name: "Sports"
+              value: "sports"
+            - name: "Politics"
+              value: "politics"
       - name: "layout"
         field:
           element: "select"
