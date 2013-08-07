@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Final Comeback of Axl Rose
 category: sports
 layout: default
