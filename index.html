@@ -4,10 +4,11 @@ title: Home
 ---
 {% for post in site.posts %}
  <li>
-	<div>
-		<h1 id="{{_post.title_}}">{{ post.title }}</h1>
-		<p> {{ post.content }} </p>
-		<a href="{{ post.url }}">More &raquo;</a><br><span>{{ post.date | date_to_string }}</span>
+	<div class="panel">
+	    <h1 class="subheader">{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>
+		<h4>
+			<p>{{ post.content }} <br><a href="{{ post.url }}">More &raquo;</a></p>
+		</h4>
 	</div>
  </li>
 {% endfor %}

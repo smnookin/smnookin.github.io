@@ -7,26 +7,27 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
-	<title>{{ page.title }}</title>
+    <title>{{ page.title }}</title>
 
   <link rel="stylesheet" href="/assets/css/normalize.css">
   <link rel="stylesheet" href="/assets/css/foundation.css">
+  <link rel="stylesheet" href="/assets/css/overrides.css">
 
   <script href="/assets/js/vendor/custom.modernizr.js"></script>
 
 </head>
 <body>
 
-	<div class="row">
-		<div class="large-12 columns">
-			<h2 class="subheader">{{ site.name }}</h2>
-			<ul class="inline-list">
-				<li><a href="/">Home</a></li>
-				<li><a href="/about">About</a></li>
-			</ul>
-			<hr />
-		</div>
-	</div>
+    <div class="row">
+        <div class="large-12 columns">
+            <h2 class="subheader">{{ site.name }}</h2>
+            <ul class="inline-list">
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+            </ul>
+            <hr />
+        </div>
+    </div>
   
 <!-- End Header and Nav -->
 
@@ -35,7 +36,7 @@
   <div class="row">
     <div class="large-12 columns">
     <ul data-orbit>
-	{{ content }}
+    {{ content }}
     </ul>
     
     <hr />
@@ -44,8 +45,8 @@
   
 <!-- Three-up Content Blocks -->
 
-	<div class="row">
-		<div class="large-4 columns">
+    <div class="row">
+        <div class="large-4 columns">
       <img src="http://placehold.it/400x300&text=[img]" />
       <h4>This is a content section.</h4>
       <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
@@ -62,7 +63,7 @@
       <h4>This is a content section.</h4>
       <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
     </div>
-	
+    
     </div>
     
 <!-- Call to Action Panel -->
@@ -115,7 +116,16 @@
 
   <script src="/assets/js/foundation.min.js"></script>
   <script>
-    $(document).foundation();
+    $(document).foundation('orbit', {
+      animation: 'fade',
+      timer_speed: 5000,
+      animation_speed: 500,
+      stack_on_small: true,
+      navigation_arrows: false,
+      timer: true,
+      bullets: false,
+      variable_height: false,
+    });
   </script>
   <!-- End Footer -->
 </body>
