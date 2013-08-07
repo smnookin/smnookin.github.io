@@ -9,6 +9,15 @@ prose:
   media: 'assets'
   metadata:
     _posts:
+      - name: "published"
+        field:
+          element: "select"
+          label: "Status"
+          options:
+            - name: "True"
+              value: "true"
+            - name: "False"
+              value: "false"
       - name: "category"
         field:
           element: "select"
