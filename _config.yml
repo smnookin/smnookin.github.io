@@ -1,7 +1,7 @@
-name: 21W.737j
+name: 21st-Century Journalism
 markdown: redcarpet
 pygments: true
-permalink: pretty
+permalink: none
 prose:
   rooturl: '_posts'
   siteurl: "http://smnookin.github.io/"

@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-{% for post in site.posts %}
+{% for post in site.posts limit:3 %}
  <li>
 	<div class="panel">
 	    <h1 class="subheader">{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>

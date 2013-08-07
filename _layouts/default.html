@@ -1,38 +1,10 @@
-<!DOCTYPE html>
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+{% include doctype.html %}
 <head>
-  <meta charset="utf-8" />
-
-  <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width" />
-
-    <title>{{ page.title }}</title>
-
-  <link rel="stylesheet" href="/assets/css/normalize.css">
-  <link rel="stylesheet" href="/assets/css/foundation.css">
-  <link rel="stylesheet" href="/assets/css/overrides.css">
-
-  <script href="/assets/js/vendor/custom.modernizr.js"></script>
-
+{% include head.html %}
 </head>
+
 <body>
-
-    <div class="row">
-        <div class="large-12 columns">
-            <h2 class="subheader">{{ site.name }}</h2>
-            <ul class="inline-list">
-                <li><a href="/">Home</a></li>
-                <li><a href="/about">About</a></li>
-            </ul>
-            <hr />
-        </div>
-    </div>
-  
-<!-- End Header and Nav -->
-
-<!-- First Band (Slider) -->
-
+{% include nav.html %}
   <div class="row">
     <div class="large-12 columns">
     <ul data-orbit>
@@ -43,72 +15,43 @@
     </div>
   </div>
   
-<!-- Three-up Content Blocks -->
+<div class="row">
+<div class="large-4 columns">
+<h5 class="subheader">Science</h5>
+<img src="http://placehold.it/400x300&text=[img]" />
+<h4 class="subheader">Hubble in trouble</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+</div>
 
-    <div class="row">
-        <div class="large-4 columns">
-		<h5 class="subheader">Science</h5>
-      <img src="http://placehold.it/400x300&text=[img]" />
-      <h4 class="subheader">Hubble in trouble</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
-    </div>
-    
-    <div class="large-4 columns">
-		<h5 class="subheader">Course Updates</h5>
-      <img src="http://placehold.it/400x300&text=[img]" />
-      <h4 class="subheader">Homework eats dog</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
-    </div>
-    
-    <div class="large-4 columns">
-		<h5 class="subheader">Politics</h5>
-      <img src="http://placehold.it/400x300&text=[img]" />
-      <h4 class="subheader">Beltway meltdown</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
-    </div>
-    
-    </div>
-    
-  <!-- Footer -->
-  <footer class="row">
-    <div class="large-12 columns">
-      <hr />
-      <div class="row">
-        <div class="large-6 columns">
-          <p>&copy; Copyright no one at all. Go to town.</p>
-        </div>
-        <div class="large-6 columns">
-          <ul class="inline-list right">
-            <li><a href="#">Link 1</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li>
-            <li><a href="#">Link 4</a></li>
-          </ul>
-        </div>
-      </div>
-    </div> 
-  </footer>
+<div class="large-4 columns">
+<h5 class="subheader">Course Updates</h5>
+<img src="http://placehold.it/400x300&text=[img]" />
+<h4 class="subheader">Homework eats dog</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+</div>
 
-  <script>
-  document.write('<script src=/assets/js/vendor/' +
-  ('__proto__' in {} ? 'zepto' : 'jquery') +
-  '.js><\/script>')
-  </script>
-
-
-  <script src="/assets/js/foundation.min.js"></script>
-  <script>
-    $(document).foundation('orbit', {
-      animation: 'fade',
-      timer_speed: 5000,
-      animation_speed: 500,
-      stack_on_small: true,
-      navigation_arrows: false,
-      timer: true,
-      bullets: false,
-      variable_height: false,
-    });
-  </script>
-  <!-- End Footer -->
+<div class="large-4 columns">
+<h5 class="subheader">Politics</h5>
+<img src="http://placehold.it/400x300&text=[img]" />
+<h4 class="subheader">Beltway meltdown</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+</div>
+</div>
+    
+{% include footer.html %}
+{% include scripts.html %}
+<script>
+  $(document).foundation('orbit', {
+    animation: 'fade',
+    timer_speed: 5000,
+    animation_speed: 500,
+    stack_on_small: true,
+    navigation_arrows: false,
+    timer: true,
+    bullets: false,
+	  slide_number: false,
+    variable_height: false,
+  });
+</script>
 </body>
 </html>
