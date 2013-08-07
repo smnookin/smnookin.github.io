@@ -12,7 +12,7 @@ prose:
       - name: "published"
         field:
           element: "select"
-          label: "Status"
+          label: "Published"
           options:
             - name: "True"
               value: "true"
