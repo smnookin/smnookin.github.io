@@ -2,9 +2,12 @@
 layout: default
 title: Home
 ---
-<h1 class="subheader">Posts</h1>
-<ul class="large-block-grid-5">
 {% for post in site.posts %}
- <li><a href="{{ post.url }}">{{ post.title }}</a><br><span>{{ post.date | date_to_string }}</span></li>
+ <li>
+	<div>
+		<h1 id="{{_post.title_}}">{{ post.title }}</h1>
+		<p> {{ post.content }} </p>
+		<a href="{{ post.url }}">More &raquo;</a><br><span>{{ post.date | date_to_string }}</span>
+	</div>
+ </li>
 {% endfor %}
-</ul>
