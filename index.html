@@ -1,0 +1,10 @@
+---
+layout: default
+title: Home
+---
+<h1 class="subheader">Posts</h1>
+<ul class="large-block-grid-5">
+{% for post in site.posts %}
+ <li><a href="{{ post.url }}">{{ post.title }}</a><br><span>{{ post.date | date_to_string }}</span></li>
+{% endfor %}
+</ul>
