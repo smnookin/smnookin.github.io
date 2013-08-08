@@ -1,3 +1,7 @@
 .orbit-container {
   background: transparent; 
 }
+
+.orbit-slides-container {
+  height:500px;
+}
