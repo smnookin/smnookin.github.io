@@ -6,7 +6,6 @@ category: politics
 tags: 
   - student
 ---
-
-## It appears that the telescope has fogged up
+It appears that the telescope has fogged up
 
 Water vapor? Steam? Gaseous H20?
