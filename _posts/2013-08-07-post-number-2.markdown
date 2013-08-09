@@ -2,7 +2,6 @@
 layout: post
 category: art
 title: "Post number 2!"
-date: {}
 published: true
 ---
 
