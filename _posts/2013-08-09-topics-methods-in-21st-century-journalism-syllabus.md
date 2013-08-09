@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Topics & Methods in 21st Century Journalism: Syllabus"
+title: Syllabus
 category: course
 ---
 
