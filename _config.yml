@@ -1,4 +1,4 @@
-name: 21st-Century Journalism test
+name: 21W.737: 21st Century Journalism
 markdown: redcarpet
 pygments: true
 permalink: none
@@ -45,6 +45,15 @@ prose:
               value: "reading"
             - name: "Student work"
               value: "student"
+            - name: "Slider"
+              value: "slider"
+            - name: "Home1"
+              value: "1st image box on homepage"
+            - name: "Home2" 
+              value: "2nd image box on homepage"
+            - name: "Home3"
+              value: "3rd image box on homepage"
+            
     _posts/static:
       - name: "layout"
         field:
