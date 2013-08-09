@@ -1,8 +1,8 @@
 ---
-category: politics
 layout: post
+category: art
 title: "Post number 2!"
-date:   2013-08-07 12:18:08
+date: {}
 published: true
 ---
 
