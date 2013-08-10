@@ -31,11 +31,6 @@ A central component of the course is an online portal, created specifically for 
 
 The portal will allow students to experience all aspects of producing a story, from investigation and writing to editing and layout. Students would also be able to “comment” on their classmates’ assignments, mimicking the interactive nature on online news content.
 
-Course requirements
-
-Required textbooks
-
-Recommended books
 
 **Assignments and grading**
 
