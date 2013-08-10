@@ -20,10 +20,10 @@ The diminishment of these traditional gatekeepers has far-reaching consequences.
 
 “Topics in 21st Century Journalism” is comprised of three modular units, each of which is comprised of four class sessions. Each unit will focus on a broad topic area and a distinct methodology, and each unit will require students to write a different type of modern-day news story. The breakdown is as follows:
 
-					Unit 1					Unit 2				Unit 3
-Topic area				Science journalism			Political journalism		Arts journalism
-Methodology 		Long-form reportage		Gonzo journalism		Profile writing
-Assignment			“Hard news” stories		Blog posts				Feature stories	
+						Topic area					Methodology					Assignment
+						Science 					Long-form					News stories
+						Politics					Gonzo journalism			Blog posts
+						Arts 						Profiles					Feature stories	
 
 A central component of the course is an online portal, created specifically for the course, which will mimic an online-news site. The portal will be populated with students’ assignments from each of the three units, and students will participate in editorial decisions and back-end maintenance related to the site. The site has been designed using Foundation 4 (foundation.zurb.com) and will be maintained using github and prose.io. Students are not expected to have any previous knowledge with these tools – they will be discussed in the course itself. 
 
@@ -58,11 +58,11 @@ Unit 3: Art feature story: 30%
 - Final draft – 18%
 
 Grades will be assigned according to the following scale:
-A: Consistently excellent work. 
-B: Good, solid work.
-C: Satisfactory but lackluster.
-D: Consistently sub-par work produced with a minimum of effort
-F: Unsatisfactory
+- A: Consistently excellent work. 
+- B: Good, solid work.
+- C: Satisfactory but lackluster.
+- D: Consistently sub-par work produced with a minimum of effort
+- F: Unsatisfactory
 
 
 **Course policies**
