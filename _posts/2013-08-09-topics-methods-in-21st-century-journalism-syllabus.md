@@ -81,7 +81,3 @@ Plagiarism — use of another's intellectual work without acknowledgment — is 
 **MIT Writing and Communication Center (12-132)**
 
 The writing center offers you free professional advice from published lecturers about oral presentations and about all types of academic, creative, and professional writing. Go to http://writing.mit.edu/wcc and click on “Appointment.” If you cannot find an open appointment slot, click on the clock in the upper left-hand corner of each day’s block. When a cancellation occurs that day, you will be automatically notified by email. Because several people might receive that same message, go online ASAP to schedule that open spot; 96% of clients who want an appointment end up with one if they use the Wait List. The best way to guarantee an appointment is to schedule early!
-
- 
-
-
