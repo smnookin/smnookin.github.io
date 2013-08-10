@@ -42,22 +42,22 @@ Recommended books
 Class participation will comprise 20 percent of your final grade. Assignments related to the first two units will be worth 25 percent each; assignments related to the final unit will be worth 30 percent. The breakdown is as follows:
 
 Unit 1: Science news story: 25%
-Pitch – 3%
-	Lede – 4%
-	Rough draft – 6%
-	Final draft – 12%
+- Pitch – 3%
+- Lede – 4%
+- Rough draft – 6%
+- Final draft – 12%
 
 Unit 2: Political blog posts: 25%
-	Pitch – 3%
-	Blog post 1 – 7%
-	Blog post 2 – 7%
-	Blog post 3 – 8%
+- Pitch – 3%
+- Blog post 1 – 7%
+- Blog post 2 – 7%
+- Blog post 3 – 8%	
 
 Unit 3: Art feature story: 30%
-Pitch – 2%
-Outline – 3%
-Rough draft – 7%
-Final draft – 18%
+- Pitch – 2%
+- Outline - 3%
+- Rough draft – 7%
+- Final draft – 18%
 
 Grades will be assigned according to the following scale:
 A: Consistently excellent work. 
