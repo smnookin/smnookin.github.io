@@ -20,8 +20,10 @@ The diminishment of these traditional gatekeepers has far-reaching consequences.
 “Topics in 21st Century Journalism” is comprised of three modular units, each of which is comprised of four class sessions. Each unit will focus on a broad topic area and a distinct methodology, and each unit will require students to write a different type of modern-day news story. The breakdown is as follows:
 
 					Unit 1					Unit 2					Unit 3
-Topic area			Science journalism		Political journalism	Arts journalism<br>
-Methodology 		Long-form reportage		Gonzo journalism		Profile writing<br>
+Topic area			Science journalism		Political journalism	Arts journalism
+
+Methodology 		Long-form reportage		Gonzo journalism		Profile writing
+
 Assignment			“Hard news” stories		Blog posts				Feature stories	
 
 A central component of the course is an online portal, created specifically for the course, which will mimic an online-news site. The portal will be populated with students’ assignments from each of the three units, and students will participate in editorial decisions and back-end maintenance related to the site. The site has been designed using Foundation 4 (foundation.zurb.com) and will be maintained using github and prose.io. Students are not expected to have any previous knowledge with these tools – they will be discussed in the course itself. 
@@ -35,6 +37,7 @@ Required textbooks
 Recommended books
 
 **Assignments and grading**
+
 Class participation will comprise 20 percent of your final grade. Assignments related to the first two units will be worth 25 percent each; assignments related to the final unit will be worth 30 percent. The breakdown is as follows:
 
 Unit 1: Science news story: 25%
@@ -73,9 +76,11 @@ Attendance is mandatory. Two unexcused absences will result in a reduction of a 
 
 
 **MIT Statement on Plagiarism**
+
 Plagiarism — use of another's intellectual work without acknowledgment — is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgment for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the Writing and Communication Center and the MIT Website on Plagiarism.
 
-**MIT Writing and Communication Center (12-132) **
+**MIT Writing and Communication Center (12-132)**
+
 The writing center offers you free professional advice from published lecturers about oral presentations and about all types of academic, creative, and professional writing. Go to http://writing.mit.edu/wcc and click on “Appointment.” If you cannot find an open appointment slot, click on the clock in the upper left-hand corner of each day’s block. When a cancellation occurs that day, you will be automatically notified by email. Because several people might receive that same message, go online ASAP to schedule that open spot; 96% of clients who want an appointment end up with one if they use the Wait List. The best way to guarantee an appointment is to schedule early!
 
  
