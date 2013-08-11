@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Snow Fall: The Avalanche at Tunnel Creek"
 category: science
 tags: 
