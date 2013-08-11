@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Angelina Jolie Dies for Our Sins
 category: art
 tags: 
