@@ -2,7 +2,9 @@
 layout: post
 published: false
 title: "The Worst Celebrity Profile Ever Written?"
-category: science
+category: art
+tags: 
+  - reading
 ---
 
 One journalist tears apart Esquire's 'Angelina Jolie Dies for Our Sins'. Through his critique, he tackles larger problems with the process of writing celebrity profiles. "I don't regard this piece as an attack on the writer (whose noncelebrity work I've often admired), but as an attempt to rescue him, to save him from further assignments of this nature."  [External Link](http://www.slate.com/articles/life/the_spectator/2007/06/the_worst_celebrity_profile_ever_written.single.html)
