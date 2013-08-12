@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Introduction to Seth Mnookin's 'The Panic Virus'"
+title: "Intro to 'The Panic Virus'"
 category: science
 tags: 
   - reading
