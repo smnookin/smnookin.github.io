@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "The Worst Celebrity Profile Ever Written?"
+title: "The Worst Celebrity Profile Ever?"
 category: art
 tags: 
   - reading
