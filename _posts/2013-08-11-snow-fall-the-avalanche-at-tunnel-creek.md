@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Snow Fall: The Avalanche at Tunnel Creek"
+title: "Snow Fall: Avalanche at Tunnel Creek"
 category: science
 tags: 
   - reading

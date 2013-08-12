@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Lives from a Cell
+title: "Lewis Thomas's 'Lives of a Cell'"
 category: science
 tags: 
   - hero

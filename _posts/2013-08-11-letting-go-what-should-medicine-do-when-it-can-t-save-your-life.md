@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Letting Go: What Should Medicine Do When It Can't Save Your Life?"
+title: "When Is it Time to Let Go?"
 category: science
 tags: 
   - hero
