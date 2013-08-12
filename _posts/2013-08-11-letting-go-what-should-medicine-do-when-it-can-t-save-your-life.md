@@ -4,6 +4,7 @@ published: true
 title: "Letting Go: What Should Medicine Do When It Can't Save Your Life?"
 category: science
 tags: 
+  - hero
   - reading
 ---
 

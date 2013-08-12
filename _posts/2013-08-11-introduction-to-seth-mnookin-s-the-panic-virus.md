@@ -4,6 +4,7 @@ published: true
 title: "Introduction to Seth Mnookin's 'The Panic Virus'"
 category: science
 tags: 
+  - hero
   - reading
 ---
 

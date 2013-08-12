@@ -2,10 +2,10 @@
 layout: default
 title: Home
 ---
-{% for post in site.posts %}
+{% for post in site.tags.hero %}
  <li>
 	<div class="panel">
-	    <h1 class="subheader">{{ post.title }} <small>{{ post.date | date_to_string }}</small></h1>
+	    <h1 class="subheader">{{ post.title }} <br /><small>{{ post.date | date_to_string }}</small></h1>
 		<h4>
 			<p>{{ post.excerpt }} <br><a href="{{ post.url }}">More &raquo;</a></p>
 		</h4>

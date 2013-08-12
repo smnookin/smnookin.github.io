@@ -5,3 +5,10 @@
 .orbit-slides-container {
   height:500px;
 }
+
+#hero img {
+	max-width:400px;
+	padding: 10px;
+	border: 1px solid #999;
+	text-align:left;
+}
