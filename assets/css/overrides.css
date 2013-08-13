@@ -1,3 +1,7 @@
+#mainnav .inline-list {
+	font-size:25px;
+}
+
 .orbit-container {
   background: transparent; 
 }
