@@ -10,6 +10,7 @@ In 21W.737, we will write news stories, blog posts, and feature-length profiles 
 
 **Introduction**
 
+Unit 1: Science News Story
 - Pitch - 3%
 - Lede - 4%
 - Rough draft - 7%
