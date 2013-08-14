@@ -4,7 +4,7 @@ published: false
 title: Requiem for a Dream
 category: science
 tags: 
-  - hero
+  - slider
   - reading
 ---
 

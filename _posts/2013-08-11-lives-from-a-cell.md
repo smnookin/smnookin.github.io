@@ -4,7 +4,7 @@ published: true
 title: "Lewis Thomas's 'Lives of a Cell'"
 category: science
 tags: 
-  - hero
+  - slider
   - reading
 ---
 

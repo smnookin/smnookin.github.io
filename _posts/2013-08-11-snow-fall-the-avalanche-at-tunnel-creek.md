@@ -5,7 +5,7 @@ title: "Snow Fall: Avalanche at Tunnel Creek"
 category: science
 tags: 
   - reading
-  - hero
+  - slider
 ---
 
 ![screenshot of top](http://farm9.staticflickr.com/8391/8516846296_3100101067_o.jpg)
