@@ -10,10 +10,10 @@ In 21W.737, we will write news stories, blog posts, and feature-length profiles 
 
 **Introduction**
 
-- Pitch
-- Lede
-- Rough draft
-- Final draft
+- Pitch - 3%
+- Lede - 4%
+- Rough draft - 7%
+- Final draft - 8%
 
 
 
