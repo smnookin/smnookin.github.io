@@ -13,6 +13,7 @@ In 21W.737, we will write news stories, blog posts, and feature-length profiles 
 - item
 - item
 - item
+- item
 
 
 The practice and production of journalism is undergoing revolutionary changes. These are the result of a unique convergence of factors, including a societal-wide de-centralization of power, the advent of the Internet, the drying up of traditional revenue sources, and the unprecedented ability of consumers to create information cocoons in which they’re only exposed to viewpoints that confirm their worldviews. Despite the fervent hope of many in the journalism community, these changes are secular and not cyclical: We will never return to an era when a handful of news organizations have the money, the resources, and the reach to dictate what stories the public should consider worthy of its attention.
