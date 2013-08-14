@@ -1,5 +1,5 @@
 name: Topics and Methods in 21st Century Journalism
-description: 'Instructor: <a href="http://sethmnookin.com" target="_blank">Seth Mnookin</a>.    Mon 2pm-5pm, <a href="http://whereis.mit.edu/?go=26">26-142</a>'
+description: 'Instructor: <a href="http://sethmnookin.com" target="_blank">Seth Mnookin</a>. Mon 2pm-5pm, <a href="http://whereis.mit.edu/?go=26">26-142</a>'
 markdown: redcarpet
 pygments: true
 permalink: none
@@ -48,12 +48,12 @@ prose:
               value: "student"
             - name: "Slider"
               value: "slider"
-            - name: "Home1"
-              value: "1st image box on homepage"
-            - name: "Home2" 
-              value: "2nd image box on homepage"
-            - name: "Home3"
-              value: "3rd image box on homepage"
+            - name: "1st image box on homepage"
+              value: "image1"
+            - name: "2nd image box on homepage" 
+              value: "image2"
+            - name: "3rd image box on homepage"
+              value: "image3"
             
     _posts/static:
       - name: "layout"
