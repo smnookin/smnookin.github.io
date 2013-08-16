@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Requiem for a Dream
 category: 
-  - arts
+  - politics
   - art
 tags: 
   - slider
