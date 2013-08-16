@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Syllabus
-category: politics
+category: course
 tags: 
   - slider
 ---
