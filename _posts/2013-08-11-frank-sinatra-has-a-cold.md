@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Frank Sinatra Has a Cold
 category: art
 tags: 
