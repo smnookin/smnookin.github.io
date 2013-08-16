@@ -2,7 +2,7 @@
 layout: post
 published: false
 title: The website
-category: science
+category: course
 ---
 
 ## A New Post
