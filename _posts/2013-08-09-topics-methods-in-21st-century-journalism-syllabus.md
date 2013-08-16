@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Course Info
+title: Syllabus
 category: course
 tags: 
   - slider
