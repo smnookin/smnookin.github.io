@@ -1,8 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: The Syllabus
-category: science
+category: course
+tags: 
+  - slider
 ---
 
 ## A New Post 
