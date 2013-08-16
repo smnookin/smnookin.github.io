@@ -5,6 +5,4 @@ title: Insider Baseball
 category: politics
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![](http://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Didion-Fictions.jpg/200px-Didion-Fictions.jpg)
