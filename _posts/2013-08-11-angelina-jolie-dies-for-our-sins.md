@@ -4,7 +4,6 @@ published: true
 title: Angelina Jolie Dies for Our Sins
 category: 
   - art
-  - science
 tags: 
   - reading
 ---
