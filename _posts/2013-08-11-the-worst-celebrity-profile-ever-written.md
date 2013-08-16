@@ -1,8 +1,10 @@
 ---
 layout: post
-published: true
+published: false
 title: "The Worst Celebrity Profile Ever?"
-category: art
+category: 
+  - art
+  - science
 tags: 
   - reading
   - slider
