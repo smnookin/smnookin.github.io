@@ -58,6 +58,7 @@ Unit 1: Science News Story
 - Final draft - 8%
 
 Unit 2: Political blog posts: 25%
+
 - Pitch – 3%
 - Blog post 1 – 7%
 - Blog post 2 – 7%
