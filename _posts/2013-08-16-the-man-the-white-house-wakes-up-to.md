@@ -5,6 +5,5 @@ title: The Man the White House Wakes Up To
 category: politics
 ---
 
-## A New Post
+![](http://wonkette.com/wp-content/uploads/2010/05/mikeallencover.jpg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
