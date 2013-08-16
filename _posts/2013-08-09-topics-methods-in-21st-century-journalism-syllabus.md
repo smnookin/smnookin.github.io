@@ -50,11 +50,12 @@ The portal will allow students to experience all aspects of producing a story, f
 
 Class participation will comprise 20 percent of your final grade. Assignments related to the first two units will be worth 25 percent each; assignments related to the final unit will be worth 30 percent. The breakdown is as follows:
 
-Unit 1: Science news story: 25%
-- Pitch – 3%
-- Lede – 4%
-- Rough draft – 6%
-- Final draft – 12%
+Unit 1: Science News Story
+
+- Pitch - 3%
+- Lede - 4%
+- Rough draft - 7%
+- Final draft - 8%
 
 Unit 2: Political blog posts: 25%
 - Pitch – 3%
