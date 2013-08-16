@@ -2,9 +2,7 @@
 layout: post
 published: true
 title: Requiem for a Dream
-category: 
-  - art
-  - arts
+category: art
 tags: 
   - slider
   - reading
