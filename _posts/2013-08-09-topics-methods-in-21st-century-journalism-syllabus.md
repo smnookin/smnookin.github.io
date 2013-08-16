@@ -48,14 +48,14 @@ Class participation will comprise 20 percent of your final grade. Assignments re
 - Rough draft - 7%
 - Final draft - 8%
 
-Unit 2: Political blog posts: 25%
+<u>Unit 2: Political blog posts: 25%</u>
 
 - Pitch – 3%
 - Blog post 1 – 7%
 - Blog post 2 – 7%
 - Blog post 3 – 8%	
 
-Unit 3: Art feature story: 30%
+<u>Unit 3: Art feature story: 30%</u>
 
 - Pitch – 2%
 - Outline - 3%
