@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "The Worst Celebrity Profile Ever?"
 category: course
 tags: 
