@@ -65,12 +65,14 @@ Unit 2: Political blog posts: 25%
 - Blog post 3 – 8%	
 
 Unit 3: Art feature story: 30%
+
 - Pitch – 2%
 - Outline - 3%
 - Rough draft – 7%
 - Final draft – 18%
 
 Grades will be assigned according to the following scale:
+
 - A: Consistently excellent work. 
 - B: Good, solid work.
 - C: Satisfactory but lackluster.
