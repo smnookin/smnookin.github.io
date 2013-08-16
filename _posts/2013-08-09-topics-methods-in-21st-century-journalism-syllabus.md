@@ -9,7 +9,8 @@ tags:
   - slider
 ---
 
-![](/http://upload.wikimedia.org/wikipedia/commons/c/ca/12-03-01-axel-springer-by-RalfR-17.jpg)In 21W.737, we will write news stories, blog posts, and feature-length profiles and use those to populate our own on-line news site. We will examine ways to draw readers in -- and in doing so, will develop techniques to make our own writing more accessible and inviting. The course meets Mondays from 2pm to 5pm in <a href="http://whereis.mit.edu/?go=26" target="_blank">26-142</a>. More information -- including the syllabus, readings, and assignments -- can be found on <a href="https://stellar.mit.edu/S/course/21W/fa13/21W.737/" target="_blank">Stellar</a>. You can also <a href="mailto:smnookin@mit.edu" target="_blank">email the instructor</a>, assistant professor <a href="http://sethmnookin.com" target="_blank">Seth Mnookin</a>, with any questions.</p>
+![](/http://upload.wikimedia.org/wikipedia/commons/c/ca/12-03-01-axel-springer-by-RalfR-17.jpg)
+In 21W.737, we will write news stories, blog posts, and feature-length profiles and use those to populate our own on-line news site. We will examine ways to draw readers in -- and in doing so, will develop techniques to make our own writing more accessible and inviting. The course meets Mondays from 2pm to 5pm in <a href="http://whereis.mit.edu/?go=26" target="_blank">26-142</a>. More information -- including the syllabus, readings, and assignments -- can be found on <a href="https://stellar.mit.edu/S/course/21W/fa13/21W.737/" target="_blank">Stellar</a>. You can also <a href="mailto:smnookin@mit.edu" target="_blank">email the instructor</a>, assistant professor <a href="http://sethmnookin.com" target="_blank">Seth Mnookin</a>, with any questions.</p>
 
 
 **Introduction**
