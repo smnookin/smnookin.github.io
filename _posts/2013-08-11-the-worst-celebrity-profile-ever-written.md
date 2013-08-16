@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "The Worst Celebrity Profile Ever?"
-category: art
+category: course
 tags: 
   - reading
 ---
