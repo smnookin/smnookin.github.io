@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Insider Baseball
-category: science
+category: politics
 ---
 
 ## A New Post
