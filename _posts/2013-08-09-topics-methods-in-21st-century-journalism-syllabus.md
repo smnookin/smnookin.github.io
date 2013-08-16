@@ -2,9 +2,7 @@
 layout: post
 published: true
 title: Course Info
-category: 
-  - course
-  - science
+category: course
 tags: 
   - slider
 ---
