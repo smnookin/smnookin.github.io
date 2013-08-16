@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: ""
-category: science
+category: politics
 ---
 
 ## A New Post
