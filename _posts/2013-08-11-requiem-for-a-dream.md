@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Requiem for a Dream
 category: science
 tags: 
