@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: test
 category: politics
 ---
 
