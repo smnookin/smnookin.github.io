@@ -3,7 +3,8 @@ layout: post
 published: true
 title: "The Worst Celebrity Profile Ever?"
 category: art
-tags: ""
+tags: 
+  - reading
 ---
 
 ![Angelina Jolie](http://fc06.deviantart.net/fs71/f/2010/303/9/9/angelina_jolie____psd_coloring_by_gokhanz-d31tbkn.jpg)
