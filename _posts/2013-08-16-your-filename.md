@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: Insider Baseball
 category: politics
 ---
 
