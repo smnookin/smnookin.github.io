@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Requiem for a Dream
-category: science
+category: arts
 tags: 
   - slider
   - reading
