@@ -8,4 +8,4 @@ tags:
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/7/7d/Osmia_ribifloris_bee.jpg) <br>
-Science writer **Ed Yong** uses a 2013 PNAS paper to<a href="http://phenomena.nationalgeographic.com/2013/07/23/how-loyalty-paints-a-meadow/">tackle the disappearance of bees</a> over at his _National Geographic_ blog, Not Exactly Rocket Science. 
+Science writer **Ed Yong** uses a 2013 PNAS paper to <a href="http://phenomena.nationalgeographic.com/2013/07/23/how-loyalty-paints-a-meadow/">tackle the disappearance of bees</a> over at his _National Geographic_ blog, Not Exactly Rocket Science. 
