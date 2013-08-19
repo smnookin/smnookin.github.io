@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Syllabus
 category: course
 tags: 
