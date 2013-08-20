@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Seduction and deceit in a firefly's flashes"
 category: science
 ---
