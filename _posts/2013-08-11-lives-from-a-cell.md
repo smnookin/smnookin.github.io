@@ -3,7 +3,7 @@ layout: post
 published: true
 title: "Lewis Thomas's 'Lives of a Cell'"
 category: science
-date: 2013-01-04
+date: 2013-01-01
 tags: 
   - slider
   - reading
