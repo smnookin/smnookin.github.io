@@ -14,6 +14,11 @@ prose:
         field:
           element: "checkbox"
           label: "Publish"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Order"
+          placeholder: "Enter a date in the form 2013-01-01 to order this slide in the hero"
       - name: "category"
         field:
           element: "select"

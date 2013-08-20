@@ -3,6 +3,7 @@ layout: post
 published: true
 title: "Snow Fall: Avalanche at Tunnel Creek"
 category: science
+date: 2013-01-02
 tags: 
   - reading
   - slider

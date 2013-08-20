@@ -3,6 +3,7 @@ layout: post
 published: true
 title: The Syllabus
 category: course
+date: 2013-01-01
 tags: 
   - slider
 ---

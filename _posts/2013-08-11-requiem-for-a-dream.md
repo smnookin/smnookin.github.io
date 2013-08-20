@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Requiem for a Dream
 category: art
+date: 2013-01-03
 tags: 
   - slider
   - reading
