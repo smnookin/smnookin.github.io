@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "SECRET VIDEO: Romney Tells Millionaire Donors What He REALLY Thinks of Obama Voters"
+title: "Mother Jones releases Romney's 47% video"
 category: politics
 tags: 
   - reading
