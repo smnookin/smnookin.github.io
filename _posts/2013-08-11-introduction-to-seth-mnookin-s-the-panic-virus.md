@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "Intro to 'The Panic Virus'"
 category: science
 tags: 
