@@ -7,7 +7,9 @@ title: Home
  <li>
 	<h4 class="subheader topic">{{ post.category | capitalize }}</h4>
 	<div class="panel">
-	    <h1 class="subheader">{{ post.title }} <br /><small>{{ post.displaydate | date_to_string }}</small></h1>
+	    <h2 class="subheader">{{ post.title }} <br />
+			<small>{{ post.author }} :: {{ post.displaydate | date_to_string }}</small>
+		</h2>
 		<h4 class="subheader">
 			<p>{{ post.excerpt }} [ <a href="{{ post.url }}">More &hellip;</a> ] </p>
 		</h4>
