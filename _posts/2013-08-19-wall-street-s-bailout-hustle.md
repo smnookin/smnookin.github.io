@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Raping taxpayers and clients: Matt Taibbi on Wall Street's Bailout Hustle"
+title: "Raping taxpayers and clients: Wall Street's Bailout Hustle"
 category: politics
 tags: 
   - reading
