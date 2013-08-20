@@ -26,7 +26,7 @@ prose:
             - name: "Arts"
               value: "arts"
             - name: "Course"
-              value: "course Info"
+              value: "course info"
       - name: "title"
         field:
           element: "text"
