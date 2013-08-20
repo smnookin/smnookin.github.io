@@ -1,5 +1,6 @@
 ---
 layout: post
+displaydate: 2013-01-02 11:59:59
 published: true
 title: "Lewis Thomas's 'Lives of a Cell'"
 category: science

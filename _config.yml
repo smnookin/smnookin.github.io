@@ -14,6 +14,16 @@ prose:
         field:
           element: "checkbox"
           label: "Publish"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          placeholder: "Enter the name of the Author of this article"
+      - name: "displaydate"
+        field:
+          element: "text"
+          label: "Publish Date"
+          placeholder: "Enter a date in the form 2013-01-01 to show for publication of this article"
       - name: "date"
         field:
           element: "text"

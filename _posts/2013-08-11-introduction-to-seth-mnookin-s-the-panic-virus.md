@@ -1,5 +1,6 @@
 ---
 layout: post
+displaydate: 2013-01-02 11:59:59
 published: false
 title: "Intro to 'The Panic Virus'"
 category: science

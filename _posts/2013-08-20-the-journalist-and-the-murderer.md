@@ -1,7 +1,9 @@
 ---
 layout: post
-published: false
-title: "Janet Malcolm's "
+displaydate: 2013-01-02 11:59:59
+displaydate: 2013-01-02 11:59:59
+published: true
+title: The Journalist and the Murderer
 category: politics
 tags: 
   - reading

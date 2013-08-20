@@ -1,6 +1,8 @@
 ---
 layout: post
-published: true
+displaydate: 2013-01-02 11:59:59
+displaydate: 2013-01-02 11:59:59
+published: false
 title: Navigating Love and Autism
 category: science
 tags: 
