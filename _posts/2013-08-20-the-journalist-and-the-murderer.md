@@ -1,7 +1,7 @@
 ---
 layout: post
-published: true
-title: "Janet Malcolm's \"The Journalist and the Murderer\""
+published: false
+title: "Janet Malcolm's "
 category: politics
 tags: 
   - reading
