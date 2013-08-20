@@ -1,6 +1,7 @@
 ---
 layout: post
 displaydate: 2013-01-02 11:59:59
+date: 2013-01-01 11:59:59
 published: true
 title: "Seduction and deceit in a firefly's flashes"
 category: science
