@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "SECRET VIDEO: Romney Tells Millionaire Donors What He REALLY Thinks of Obama Voters"
 category: politics
 tags: 
