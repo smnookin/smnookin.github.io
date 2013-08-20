@@ -23,9 +23,9 @@ prose:
               value: "science"
             - name: "Politics"
               value: "politics"
-            - name: "Art"
+            - name: "Arts"
               value: "art"
-            - name: "Course"
+            - name: "Course info"
               value: "course"
       - name: "title"
         field:
