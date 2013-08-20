@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: The Syllabus
-category: science
+category: course
 tags: 
   - slider
 ---
