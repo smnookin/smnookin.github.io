@@ -2,8 +2,10 @@
 layout: default
 title: Home
 ---
+<ul id="hero" data-orbit>
 {% for post in site.tags.slider %}
  <li>
+	<h4 class="subheader topic">{{ post.category | capitalize }}</h4>
 	<div class="panel">
 	    <h1 class="subheader">{{ post.title }} <br /><small>{{ post.date | date_to_string }}</small></h1>
 		<h4 class="subheader">
@@ -12,3 +14,4 @@ title: Home
 	</div>
  </li>
 {% endfor %}
+</ul>

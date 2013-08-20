@@ -2,10 +2,10 @@
 	font-size:25px;
 }
 
-/*.orbit-container {
+.orbit-container {
   background: transparent; 
 }
-*/
+
 /*.orbit-slides-container {
   height:500px;
 }
@@ -38,4 +38,8 @@
 
 /*.orbit-slides-container li h4 {
 	margin-right:30px;
+}*/
+
+/*.topic {
+	margin:20px;
 }*/
