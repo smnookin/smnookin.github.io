@@ -28,8 +28,12 @@
   background-color: rgba(0, 0, 0, 0.1);
 }
 
+.orbit-slides-container {
+	height:500px;
+}
+
 .orbit-slides-container li {
-	height:600px;
+	height:500px;
 }
 
 small {
