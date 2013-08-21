@@ -1,14 +1,18 @@
 ---
 layout: post
-displaydate: 2013-01-02 11:59:59
-date: 2013-01-01 11:59:59
+displaydate: 
+  - 2013-01-02T11:59:59.000Z
+  - "Wed Jan 02 2013 06:59:59 GMT-0500 (EST)"
+date: 
+  - 2013-01-03T00:00:00.000Z
+  - "Wed Jan 02 2013 19:00:00 GMT-0500 (EST)"
 published: true
 title: "Snow Fall: Avalanche at Tunnel Creek"
 category: science
-date: 2013-01-03
 tags: 
   - reading
   - slider
+author: John Branch
 ---
 
 ![screenshot of top](http://sethmnookin.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-16-at-5.15.51-PM.png)
