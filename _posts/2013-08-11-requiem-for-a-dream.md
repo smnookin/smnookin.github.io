@@ -3,7 +3,7 @@ layout: post
 displaydate: 2013-01-02 11:59:59
 date: 2013-01-01 11:59:59
 published: true
-title: Requiem for a Dream
+title: <a href="http://www.newyorker.com/reporting/2013/03/11/130311fa_fact_macfarquhar?currentPage=all" target="_blank">Requiem for a Dream</a>
 author: Larissa MacFarquhar
 category: art
 date: 2013-01-02
