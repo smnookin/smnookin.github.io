@@ -3,7 +3,7 @@ layout: post
 displaydate: 2013-01-02 11:59:59
 date: 2013-01-01 11:59:59
 published: true
-title: The Syllabus
+title: <a href="http://cms350.com/course/the-syllabus.html">The Syllabus</a>
 author: Seth Mnookin
 category: course
 date: 2013-01-04
