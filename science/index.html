@@ -12,7 +12,7 @@ title: Science
 {% for post in site.categories.science limit:3 %}
 <div class="row feature">
 	<div class="large-12 columns">
-		<h4 class="subheader">{{ post.title}} <small>{{ post.author}} :: {{ post.displaydate | date_to_string }}</small></h4>
+		<h4 class="subheader">{{ post.title}} <small>{{ post.author}}</small></h4>
 		<p>{{ post.excerpt }}</p>[ <a href="{{ post.url }}">More &hellip;</a> ]
 		<hr>
 	</div>
