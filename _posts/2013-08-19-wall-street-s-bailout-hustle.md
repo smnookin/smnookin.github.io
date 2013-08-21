@@ -1,12 +1,17 @@
 ---
 layout: post
-displaydate: 2013-01-02 11:59:59
-date: 2013-01-01 11:59:59
-published: false
+displaydate: 
+  - 2013-01-02T11:59:59.000Z
+  - "Wed Jan 02 2013 06:59:59 GMT-0500 (EST)"
+date: 
+  - 2013-01-01T11:59:59.000Z
+  - "Tue Jan 01 2013 06:59:59 GMT-0500 (EST)"
+published: true
 title: "Wall Street's Bailout Hustle"
 category: politics
 tags: 
   - reading
+author: Matt Taibbi
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/6/65/Wall_Street_Sign_NYC.jpg)<br>
