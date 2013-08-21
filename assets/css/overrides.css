@@ -61,3 +61,19 @@ small {
 .list img {
 	display:none;
 }
+
+.subheader {
+	line-height:0.9 !important;
+}
+
+#hero h4.excerpt {
+	margin:0 30px;
+}
+
+hr {
+	margin:0 0 10px 0;
+}
+
+.inline-list {
+	margin-bottom:0;
+}
