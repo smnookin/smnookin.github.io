@@ -11,7 +11,6 @@ title: "Snow Fall: Avalanche at Tunnel Creek"
 category: science
 tags: 
   - reading
-  - slider
 author: John Branch
 ---
 
