@@ -7,7 +7,7 @@ date:
   - 2013-01-01T11:59:59.000Z
   - "Tue Jan 01 2013 06:59:59 GMT-0500 (EST)"
 published: true
-title: <a href=
+title: Angelina Jolie Dies For Our Sins
 category: 
   - art
 tags: 
