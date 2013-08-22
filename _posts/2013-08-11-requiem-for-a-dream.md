@@ -5,7 +5,7 @@ date: 2013-01-01 11:59:59
 published: true
 title: Requiem for a Dream
 author: Larissa MacFarquhar
-category: art
+category: arts
 date: 2013-01-02
 tags: 
   - slider

@@ -4,7 +4,7 @@ displaydate: 2013-01-02 11:59:59
 date: 2013-01-01 11:59:59
 published: true
 title: Citizen Kubrick
-category: art
+category: arts
 tags: 
   - reading
 author: Jon Ronson

@@ -4,7 +4,7 @@ displaydate: 2013-01-02 11:59:59
 date: 2013-01-01 11:59:59
 published: true
 title: "Schulz: Why I Despise The Great Gatsby"
-category: art
+category: arts
 tags: 
   - reading
 author: Kathryn Schulz
