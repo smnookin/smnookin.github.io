@@ -16,4 +16,4 @@ tags:
 author: Gay Talese
 ---
 
-![](/http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Joe_Louis_-_Max_Schmeling_-_1936.jpg/640px-Joe_Louis_-_Max_Schmeling_-_1936.jpg)This 1962 piece about the man commonly considered the greatest heavyweight of all time has never gotten as much attention as Talese's 1966 stories about Frank Sinatra and Joe DiMaggio -- but there are those who consider it the writer's most impressive profile, and the piece that gave birth to the modern-day profile as we know it.
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Joe_Louis_-_Max_Schmeling_-_1936.jpg/640px-Joe_Louis_-_Max_Schmeling_-_1936.jpg)This 1962 piece about the man commonly considered the greatest heavyweight of all time has never gotten as much attention as Talese's 1966 stories about Frank Sinatra and Joe DiMaggio -- but there are those who consider it the writer's most impressive profile, and the piece that gave birth to the modern-day profile as we know it.
