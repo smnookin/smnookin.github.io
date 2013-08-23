@@ -26,7 +26,7 @@ The diminishment of these traditional gatekeepers has far-reaching consequences.
 
 “Topics in 21st Century Journalism” is comprised of three modular units, each of which is comprised of four class sessions. Each unit will focus on a broad topic area and a distinct methodology, and each unit will require students to write a different type of modern-day news story. The breakdown is as follows:
 
-						Topic area					Methodology					Assignment
+						<u>Topic area					Methodology					Assignment</u>
 						Science 					Long-form					News stories
 						Politics					Gonzo journalism			Blog posts
 						Arts 						Profiles					Feature stories	
