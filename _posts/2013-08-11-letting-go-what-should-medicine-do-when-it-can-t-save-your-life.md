@@ -16,4 +16,4 @@ author: Atul Gawande
 
 ![generic hospital pic](http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hospital_room_ubt.jpeg/320px-Hospital_room_ubt.jpeg)
 In a 2010 _New Yorker_ piece, physician-journalist <a href="http://www.newyorker.com/reporting/2010/08/02/100802fa_fact_gawande?currentPage=all" target="_blank">**Gawande** asked when doctors should stop treating their patients</a>. 
-"'Is she dying?' one of the sisters asked me," he wrote. "I didn’t know how to answer. ... In the past few decades, medical science has rendered obsolete centuries of experience, tradition, and language about our mortality, and created a new difficulty for mankind: how to die."
+"In the past few decades," he wrote, "medical science has rendered obsolete centuries of experience, tradition, and language about our mortality, and created a new difficulty for mankind: how to die."
