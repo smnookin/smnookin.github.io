@@ -1,14 +1,17 @@
 ---
 layout: post
-displaydate: 1988-10-27 11:59:59
-date: 2013-01-01 11:59:59
+displaydate: 
+  - 1988-10-27T11:59:59.000Z
+  - "Thu Oct 27 1988 07:59:59 GMT-0400 (EDT)"
+date: 
+  - 2013-01-01T11:59:59.000Z
+  - "Tue Jan 01 2013 06:59:59 GMT-0500 (EST)"
 published: true
 title: Insider Baseball
 category: politics
 author: Joan Didion
 tags: 
   - reading
-  - slider
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Didion-Fictions.jpg/200px-Didion-Fictions.jpg)
