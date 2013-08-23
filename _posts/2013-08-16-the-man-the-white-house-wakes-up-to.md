@@ -12,6 +12,7 @@ category: politics
 author: Mark Leibovich
 tags: 
   - reading
+  - slider
 ---
 
 ![](http://wonkette.com/wp-content/uploads/2010/05/mikeallencover.jpg) <br>
