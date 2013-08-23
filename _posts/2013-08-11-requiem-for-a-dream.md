@@ -1,16 +1,19 @@
 ---
 layout: post
-displaydate: 2013-01-02 11:59:59
-date: 2013-01-01 11:59:59
+displaydate: 
+  - 2013-01-02T11:59:59.000Z
+  - "Wed Jan 02 2013 06:59:59 GMT-0500 (EST)"
+date: 
+  - 2013-01-02T00:00:00.000Z
+  - "Tue Jan 01 2013 19:00:00 GMT-0500 (EST)"
 published: true
 title: Requiem for a Dream
 author: Larissa MacFarquhar
 category: arts
-date: 2013-01-02
 tags: 
   - slider
   - reading
 ---
 
 ![Aaron Swartz](http://upload.wikimedia.org/wikipedia/commons/0/06/Aaron_Swartz_profile.jpg)
-Two months after Aaron Swartz's suicide, <a href="http://www.newyorker.com/reporting/2013/03/11/130311fa_fact_macfarquhar?currentPage=all" target="_blank">_New Yorker_ staff writer **Larissa MacFarquhar** explores the young programmer's "darker side."</a> She uses long excerpts from interviews with Swartz's family and friends, as well as his own writing, to build a portrait of a brilliant but complex man. "If you can do anything you want, then every day becomes an existential problem," she writes, "--an empty space of possibility that has no ceiling but also no walls and no floor."
+Two months after Aaron Swartz's suicide, <a href="http://www.newyorker.com/reporting/2013/03/11/130311fa_fact_macfarquhar?currentPage=all" target="_blank">_The New Yorker_ explored the young programmer's "darker side."</a> MacFarquhar uses long excerpts from interviews with Swartz's family and friends, as well as Swartz's own writing, to build a portrait of a brilliant but complex man. "If you can do anything you want, then every day becomes an existential problem," she writes, "--an empty space of possibility that has no ceiling but also no walls and no floor."
