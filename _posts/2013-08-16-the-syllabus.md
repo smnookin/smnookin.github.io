@@ -1,12 +1,11 @@
 ---
 layout: post
-displaydate: 2013-01-02 11:59:59
-date: 2013-01-01 11:59:59
+displaydate: "2013-01-02"
+date: "2013-01-04"
 published: true
 title: The Syllabus
 author: Seth Mnookin
 category: course
-date: 2013-01-04
 tags: 
   - slider
 ---
@@ -96,5 +95,3 @@ The writing center offers free one-on-one professional advice from published wri
 **Academic Integrity Handbook**
 
 The Institute’s Academic Integrity Handbook, which includes information on avoiding plagiarism, why and what to cite, and much more, can be found at http://integrity.mit.edu.
-
-
