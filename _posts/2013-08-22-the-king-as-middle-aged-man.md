@@ -1,9 +1,10 @@
 ---
 layout: post
 published: true
-title: Untitled
+title: "Joe Louis: The King as Middle-Aged Man"
 category: science
 author: Gay Talese
+"": re
 tags: 
   - reading
 ---
