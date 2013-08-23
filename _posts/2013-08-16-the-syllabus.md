@@ -31,7 +31,7 @@ The diminishment of these traditional gatekeepers has far-reaching consequences.
 						Politics					Gonzo journalism			Blog posts
 						Arts 						Profiles					Feature stories	
                         
-
+<br>
 
 
 A central component of the course is an online portal, created specifically for the course, which will mimic an online-news site. The portal will be populated with students’ assignments from each of the three units, and students will participate in editorial decisions and back-end maintenance related to the site. The site has been designed using Foundation 4 (foundation.zurb.com) and will be maintained using github and prose.io. Students are not expected to have any previous knowledge with these tools – they will be discussed in the course itself. 
