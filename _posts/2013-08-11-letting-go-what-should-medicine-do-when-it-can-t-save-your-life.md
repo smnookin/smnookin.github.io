@@ -8,9 +8,10 @@ published: true
 title: "When Is it Time to Let Go?"
 category: science
 tags: 
-  - hero
   - reading
+  - slider
 author: Atul Gawande
+"": sl
 ---
 
 ![generic hospital pic](http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hospital_room_ubt.jpeg/320px-Hospital_room_ubt.jpeg)
