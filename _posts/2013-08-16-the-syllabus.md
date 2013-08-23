@@ -75,13 +75,13 @@ Grades will be assigned according to the following scale:
 
 **Course policies**
 
-<u>Graduate level credit</u><br>
+<u>Graduate level credit</u>
 Graduate students who want to receive graduate-level credit must contact the instructor to arrange for additional assignments to be completed during the semester.
 
-<u>Attendance/lateness</u><br>
+<u>Attendance/lateness</u>
 Attendance is mandatory. Two unexcused absences will result in a reduction of a letter grade for the semester, three unexcused absences will result in the reduction of two letter grades for the semester, and four unexcused absences will result in your being withdrawn from the course. Being more than ten minutes late to class will be considered the equivalent of one-fourth of an unexcused absence.
 
-<u>Use of laptops and tablets in class</u><br>
+<u>Use of laptops and tablets in class</u>
 A significant portion of the class will take place on the course’s website; because of this, laptop use is not only permitted but encouraged. I will not police your computer use during class but I fully expect that anything you are doing during class time relates to the class itself. “Topics and Methods in 21st Century Journalism” is a collaborative effort. Each of you will aid and benefit from the engaged participation of your colleagues. Use of your computer for non-class work is damaging to both the spirit and practical functioning of this course.
 
 
