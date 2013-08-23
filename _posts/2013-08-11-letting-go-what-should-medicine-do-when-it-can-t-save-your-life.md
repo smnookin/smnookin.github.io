@@ -16,5 +16,5 @@ author: Atul Gawande
 ---
 
 ![generic hospital pic](http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hospital_room_ubt.jpeg/320px-Hospital_room_ubt.jpeg)
-In a famous 2010 piece in _The New Yorker_, physician-journalist <a href="http://www.newyorker.com/reporting/2010/08/02/100802fa_fact_gawande?currentPage=all" target="_blank">**Atul Gawande** explores if and when it's best for doctors to stop treating their patients</a>. 
-"'Is she dying?' one of the sisters asked me. I didn’t know how to answer the question. I wasn’t even sure what the word 'dying' meant anymore. In the past few decades, medical science has rendered obsolete centuries of experience, tradition, and language about our mortality, and created a new difficulty for mankind: how to die."
+In a famous 2010 piece in _The New Yorker_, physician-journalist <a href="http://www.newyorker.com/reporting/2010/08/02/100802fa_fact_gawande?currentPage=all" target="_blank">**Gawande** explored if and when it's best for doctors to stop treating their patients</a>. 
+"'Is she dying?' one of the sisters asked me," he wrote in a particularly poignant section. "I didn’t know how to answer the question. ... In the past few decades, medical science has rendered obsolete centuries of experience, tradition, and language about our mortality, and created a new difficulty for mankind: how to die."
