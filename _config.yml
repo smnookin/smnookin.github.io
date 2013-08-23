@@ -23,12 +23,12 @@ prose:
         field:
           element: "text"
           label: "Publish Date"
-          placeholder: "Enter a date in the form 2013-01-01 to show for publication of this article"
+          value: ""
       - name: "date"
         field:
           element: "text"
           label: "Order"
-          placeholder: "Enter a date in the form 2013-01-01 to order this slide in the hero"
+          value: ""
       - name: "category"
         field:
           element: "select"
