@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Test uncategorized to see if doesn't show up on page."
 category: course
 ---
