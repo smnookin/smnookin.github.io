@@ -2,7 +2,7 @@
 layout: page
 ---
 <h2 class="subheader">{{ page.title }}</h2>
-<h4 class="subheader">{{ page.author }}</h4>
+<h4 class="subheader">{{ page.author }}, {{ page.displaydate | date: "%B %d %Y" }}</h4>
 <div class="post">
 {{ content }}
 </div>
