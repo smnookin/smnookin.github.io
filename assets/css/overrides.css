@@ -81,3 +81,10 @@ footer {
 	padding-top: 50px;
 	margin-top: -10px;
 }
+
+.more {
+	display:inline-block;
+	padding-bottom:10px;
+	font-size: 90%;
+	position:relative;
+}
