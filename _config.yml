@@ -69,6 +69,8 @@ prose:
               value: "image2"
             - name: "3rd image box on homepage"
               value: "image3"
+            - name: "Logistics and resources"
+              value: "resources"              
             
     _posts/static:
       - name: "layout"
