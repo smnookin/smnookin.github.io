@@ -12,7 +12,7 @@ title: Course info
 {% for post in site.categories.course limit:3 %}
 <div class="row feature">
 	<div class="large-12 columns">
-		<h4 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <small>{{ post.displaydate | date: "%d %B %Y" }} {{ post.author}}<br><a href="{{ post.url }}">read more &raquo;</a></small></h4>
+		<h4 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <small>{{ post.author}} {{ post.displaydate | date: "%B %d %Y" }}<br><a href="{{ post.url }}">read more &raquo;</a></small></h4>
 		{{ post.excerpt }}
 		<hr>
 	</div>
@@ -22,7 +22,7 @@ title: Course info
 {% for post in site.categories.course offset:3 %}
 <div class="row list">
 	<div class="large-12 columns">
-		<h5 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <small>{{ post.author}}</small></h5>
+		<h5 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <small>{{ post.author}} {{ post.displaydate | date: "%B %d %Y" }}</small></h5>
 		<hr>
 	</div>
 </div>
