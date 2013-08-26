@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: 2013-01-02 11:59:59
-date: 2013-01-01 11:59:59
+displaydate: 2013-01-02
+date: 2013-01-01
 published: true
 title: The Runaway General
 category: politics

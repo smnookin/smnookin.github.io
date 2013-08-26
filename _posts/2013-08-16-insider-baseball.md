@@ -1,11 +1,7 @@
 ---
 layout: post
-displaydate: 
-  - 1988-10-27T11:59:59.000Z
-  - "Thu Oct 27 1988 07:59:59 GMT-0400 (EDT)"
-date: 
-  - 2013-01-01T11:59:59.000Z
-  - "Tue Jan 01 2013 06:59:59 GMT-0500 (EST)"
+displaydate: "2013-01-02"
+date: "2013-01-02"
 published: true
 title: Insider Baseball
 category: politics

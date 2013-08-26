@@ -1,5 +1,7 @@
 ---
 layout: post
+displaydate: "2013-01-02"
+date: "2013-01-02"
 published: true
 title: A Race to Save the Orange
 category: science

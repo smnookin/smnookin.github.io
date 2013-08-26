@@ -1,10 +1,7 @@
 ---
 layout: post
-displaydate: 
-  - 2013-01-02T11:59:59.000Z
-  - "Wed Jan 02 2013 06:59:59 GMT-0500 (EST)"
-  - "Wed Jan 02 2013 06:59:59 GMT-0500 (EST),Wed Jan 02 2013 06:59:59 GMT-0500 (EST)"
-date: "Tue Jan 01 2013 06:59:59 GMT-0500 (EST)"
+displaydate: "2013-01-02"
+date: "2013-01-02"
 published: true
 title: "Lewis Thomas's 'Lives of a Cell'"
 author: Lewis Thomas
