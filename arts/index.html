@@ -10,7 +10,7 @@ title: Arts
 
 {% for post in site.categories.arts limit:3 %}
 <div class="row feature">
-	<div class="large-12 columns">
+	<div class="large-12 columns item">
 		<h4 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <small>{{ post.author}}</small></h4>
 		<p>{{ post.excerpt }}</p>
 		<hr>
@@ -20,9 +20,9 @@ title: Arts
 
 {% for post in site.categories.arts offset:3 %}
 <div class="row list">
-	<div class="large-12 columns">
+	<div class="large-12 columns item">
 		<h5 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <small>{{ post.author}}</small></h5>
-		<hr>
+		{% if forloop.last == false %}<hr>{% endif %}
 	</div>
 </div>
 {% endfor %}

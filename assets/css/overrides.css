@@ -1,3 +1,7 @@
+#mainnav {
+/*	background-color: #DDD;*/
+}
+
 #mainnav .inline-list {
 	font-size:25px;
 }
@@ -49,6 +53,10 @@ small {
 	margin-right: 15px;
 }
 
+.list .item {
+	margin: 10px 0;
+}
+
 .list img {
 	display:none;
 }
@@ -67,4 +75,9 @@ hr {
 
 .inline-list {
 	margin-bottom:0;
+}
+
+footer {
+	padding-top: 50px;
+	margin-top: -10px;
 }
