@@ -4,6 +4,7 @@ displaydate: 2013-01-02
 date: 2013-01-01
 published: true
 title: Frank Sinatra Has a Cold
+link: 'http://www.esquire.com/features/ESQ1003-OCT_SINATRA_rev_'
 category: arts
 tags: 
   - reading

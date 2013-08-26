@@ -3,6 +3,7 @@ layout: post
 published: true
 title: "The Kandy-Kolored Tangerine-Flake Streamline Baby"
 category: arts
+link: 'https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic10/readings/Tom_Wolfe_-_Kandy-Kolored---ke_Streamline_Baby/Tom_Wolfe_-_Kandy-Kolored---ke_Streamline_Baby.pdf'
 tags: 
   - reading
 author: Tom Wolfe

@@ -3,6 +3,7 @@ layout: post
 published: true
 title: "Kafka's Inner Life"
 category: arts
+link: http://www.newrepublic.com/article/112836/saul-friedlanders-franz-kafka-reviewed-billy-giraldi
 tags: 
   - reading
 author: William Giraldi

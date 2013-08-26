@@ -19,6 +19,11 @@ prose:
           element: "text"
           label: "Author"
           placeholder: "Enter the name of the Author of this article"
+      - name: "link"
+        field:
+          element: "text"
+          label: "External Link"
+          placeholder: "Enter link to an external article"
       - name: "displaydate"
         field:
           element: "text"
