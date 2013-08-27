@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: "2013-01-02"
-date: "2013-01-02"
+displaydate: "2013-03-11"
+date: "2013-08-21"
 published: true
 title: Requiem for a Dream
 author: Larissa MacFarquhar
