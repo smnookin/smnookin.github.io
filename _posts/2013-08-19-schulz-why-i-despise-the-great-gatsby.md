@@ -8,6 +8,7 @@ category: arts
 tags: 
   - reading
 author: Kathryn Schulz
+link: "http://www.vulture.com/2013/05/schulz-on-the-great-gatsby.html"
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/en/b/b0/Gatsby_1925_jacket.gif)<br>
