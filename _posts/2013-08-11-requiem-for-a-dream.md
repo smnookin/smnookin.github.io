@@ -9,7 +9,7 @@ category: arts
 tags: 
   - slider
   - reading
-link: "http://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic11/readings/Larissa_MacFarquhar:_The_---z_:_The_New_Yorker/Larissa_MacFarquhar:_The_---z_:_The_New_Yorker.pdf"
+link: "http://www.newyorker.com/reporting/2013/03/11/130311fa_fact_macfarquhar"
 ---
 
 ![Aaron Swartz](http://upload.wikimedia.org/wikipedia/commons/0/06/Aaron_Swartz_profile.jpg)
