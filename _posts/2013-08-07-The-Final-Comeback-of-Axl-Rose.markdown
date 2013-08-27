@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: "2013-01-02"
-date: "2013-01-02"
+displaydate: "2006-09-01"
+date: "2013-08-18"
 published: true
 title: The Final Comeback of Axl Rose
 author: John Jeremiah Sullivan
