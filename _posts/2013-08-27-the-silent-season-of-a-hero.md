@@ -8,7 +8,7 @@ displaydate: "1966-07-01"
 tags: 
   - reading
 author: Gay Talese
-date: "2013-08-19"
+date: "2013-08-22"
 ---
 
 Gay Talese's Joe Dimaggio profile.
