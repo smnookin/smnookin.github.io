@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: "2013-01-02"
-date: "2013-01-02"
+displaydate: "2013-05-06"
+date: "2013-08-16"
 published: true
 title: Why I Despise The Great Gatsby
 category: arts
