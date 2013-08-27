@@ -1,7 +1,7 @@
 ---
 layout: post
 displaydate: "1966-04-01"
-date: "2013-08-26"
+date: "2013-08-24"
 published: true
 title: Frank Sinatra Has a Cold
 link: "http://www.esquire.com/features/ESQ1003-OCT_SINATRA_rev_"
