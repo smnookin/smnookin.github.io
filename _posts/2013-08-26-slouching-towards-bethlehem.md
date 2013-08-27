@@ -2,8 +2,8 @@
 layout: post
 published: true
 title: Slouching Towards Bethlehem
-category: arts
-link: 'https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic7/readings/Didion_Slouching_Towards_Bethlehem/Didion_Slouching_Towards_Bethlehem.pdf'
+category: politics
+link: "https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic7/readings/Didion_Slouching_Towards_Bethlehem/Didion_Slouching_Towards_Bethlehem.pdf"
 tags: 
   - reading
 displaydate: "1967-09-23"
