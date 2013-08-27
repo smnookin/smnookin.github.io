@@ -1,6 +1,6 @@
 ---
 layout: post
-displaydate: "2010-07-20"
+displaydate: "2007-07-01"
 date: "2013-08-17"
 published: true
 title: Angelina Jolie Dies For Our Sins
