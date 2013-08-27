@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: "2013-01-02"
-date: "2013-01-02"
+displaydate: "2010-07-20"
+date: "2013-08-17"
 published: true
 title: Angelina Jolie Dies For Our Sins
 category: arts
