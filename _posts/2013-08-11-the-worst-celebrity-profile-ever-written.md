@@ -8,6 +8,7 @@ category: arts
 tags: 
   - reading
 author: Ron Rosenbaum
+link: "http://www.slate.com/articles/life/the_spectator/2007/06/the_worst_celebrity_profile_ever_written.single.html"
 ---
 
 ![Angelina Jolie](http://fc06.deviantart.net/fs71/f/2010/303/9/9/angelina_jolie____psd_coloring_by_gokhanz-d31tbkn.jpg)
