@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: "2013-01-02"
-date: "2013-01-02"
+displaydate: "2004-03-26"
+date: "2013-08-14"
 published: true
 title: Citizen Kubrick
 category: arts
