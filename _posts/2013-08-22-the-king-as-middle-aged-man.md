@@ -1,7 +1,7 @@
 ---
 layout: post
 displaydate: "1962-06-01"
-date: "2013-08-21"
+date: "2013-08-26"
 published: true
 title: "Joe Louis: The King as Middle-Aged Man"
 category: arts
