@@ -8,6 +8,7 @@ category: arts
 tags: 
   - reading
 author: Jon Ronson
+link: "http://www.theguardian.com/film/2004/mar/27/features.weekend"
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/4/46/Kubrick_-_Barry_Lyndon_candid.JPG)<br>
