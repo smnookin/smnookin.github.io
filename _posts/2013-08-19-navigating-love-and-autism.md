@@ -8,6 +8,7 @@ category: science
 tags: 
   - reading
 author: Amy Harmon
+link: "http://www.nytimes.com/2011/12/26/us/navigating-love-and-autism.html?pagewanted=all"
 ---
 
 ![](http://graphics8.nytimes.com/images/2011/12/26/us/autism/autism-popup.jpg) <br>
