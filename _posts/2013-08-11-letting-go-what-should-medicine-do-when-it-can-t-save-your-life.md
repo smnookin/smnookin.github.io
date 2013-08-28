@@ -10,6 +10,7 @@ tags:
   - slider
 author: Atul Gawande
 "": sl
+link: "http://www.newyorker.com/reporting/2010/08/02/100802fa_fact_gawande"
 ---
 
 ![generic hospital pic](http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hospital_room_ubt.jpeg/320px-Hospital_room_ubt.jpeg)
