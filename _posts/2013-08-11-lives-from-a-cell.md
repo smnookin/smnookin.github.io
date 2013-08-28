@@ -8,6 +8,7 @@ author: Lewis Thomas
 category: science
 tags: 
   - reading
+link: "https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic5/readings/Selections_from_Lives_of_a_Cell_-_Lewis_Thomas/Selections_from_Lives_of_a_Cell_-_Lewis_Thomas.pdf"
 ---
 
 ![Lewis Thomas](http://www.greatthoughtstreasury.com/sites/default/files/thomasweb[1].jpg)
