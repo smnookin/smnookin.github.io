@@ -9,6 +9,7 @@ tags:
   - hero
   - reading
 author: Seth Mnookin
+link: "https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic5/readings/The_Panic_Virus_intro/The_Panic_Virus_intro.pdf"
 ---
 
 ![The Panic Virus](http://autismsciencefoundation.org/sites/default/files/THE-PANIC-VIRUS-cover.jpg)
