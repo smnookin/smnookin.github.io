@@ -1,6 +1,6 @@
 ---
 layout: post
-displaydate: "2013-01-02"
+displaydate: "2010-08-02"
 date: "2013-01-02"
 published: true
 title: "When Is it Time to Let Go?"
