@@ -1,6 +1,6 @@
 ---
 layout: post
-displaydate: "2013-01-02"
+displaydate: "1988-10-27"
 date: "2013-01-02"
 published: true
 title: Insider Baseball
@@ -8,6 +8,7 @@ category: politics
 author: Joan Didion
 tags: 
   - reading
+link: "http://www.nybooks.com/articles/archives/1988/oct/27/insider-baseball/?pagination=false"
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Didion-Fictions.jpg/200px-Didion-Fictions.jpg)
