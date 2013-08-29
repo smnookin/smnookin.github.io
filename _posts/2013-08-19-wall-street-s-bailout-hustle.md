@@ -1,13 +1,16 @@
 ---
 layout: post
-displaydate: 2013-01-02
-date: 2013-01-01
+displaydate: "2010-02-17"
+date: 
+  - 2013-01-01T00:00:00.000Z
+  - "Mon Dec 31 2012 19:00:00 GMT-0500 (EST)"
 published: true
 title: "Wall Street's Bailout Hustle"
 category: politics
 tags: 
   - reading
 author: Matt Taibbi
+link: "http://www.rollingstone.com/politics/news/wall-streets-bailout-hustle-20100217"
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/6/65/Wall_Street_Sign_NYC.jpg)<br>
