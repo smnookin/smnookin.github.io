@@ -5,7 +5,11 @@ title: Home
 <ul id="hero" data-orbit>
 {% for post in site.tags.slider %}
  <li>
+    {% if post.category == 'course' %}
+	<h4 class="subheader topic">Course info</h4>
+    {% else %}
 	<h4 class="subheader topic">{{ post.category | capitalize }}</h4>
+    {% endif %}
 	<div class="panel">
 	    <h2 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <br />
 			<small>{{ post.author}}, {{ post.displaydate | date: "%B %d %Y" }}</small>
