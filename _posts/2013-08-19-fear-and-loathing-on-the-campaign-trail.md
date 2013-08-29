@@ -1,6 +1,6 @@
 ---
 layout: post
-displaydate: "2012-09-02"
+displaydate: "1972-11-01"
 date: "2013-01-02"
 published: true
 title: "Fear and Loathing on the Campaign Trail '72"
@@ -8,7 +8,7 @@ category: politics
 tags: 
   - reading
 author: Hunter S. Thompson
-link: "http://www.nytimes.com/2012/09/02/magazine/feel-the-loathing-on-the-campaign-trail.html?pagewanted=all&_r=0"
+link: "https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic7/readings/Selections_from_Fear_and_---ampaign_Trail_1972/Selections_from_Fear_and_---ampaign_Trail_1972.pdf"
 ---
 
 ![](http://sethmnookin.com/wp-content/uploads/2013/08/HST-edited-2.png)<br>
