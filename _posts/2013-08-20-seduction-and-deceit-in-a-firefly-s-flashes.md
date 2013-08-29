@@ -1,6 +1,6 @@
 ---
 layout: post
-displaydate: "2013-01-02"
+displaydate: "2009-06-30"
 date: "2013-01-02"
 published: true
 title: "Seduction and deceit in a firefly's flashes"
