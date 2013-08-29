@@ -1,6 +1,6 @@
 ---
 layout: post
-displaydate: "2013-01-02"
+displaydate: "2011-12-26"
 date: "2013-01-02"
 published: true
 title: Navigating Love and Autism
