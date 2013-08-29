@@ -1,6 +1,6 @@
 ---
 layout: post
-displaydate: "2013-01-01"
+displaydate: "1979-01-01"
 date: "2012-12-31"
 published: true
 title: The Great Shark Hunt
