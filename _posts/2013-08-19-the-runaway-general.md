@@ -1,13 +1,16 @@
 ---
 layout: post
-displaydate: 2013-01-02
-date: 2013-01-01
+displaydate: "2010-06-22"
+date: 
+  - 2013-01-01T00:00:00.000Z
+  - "Mon Dec 31 2012 19:00:00 GMT-0500 (EST)"
 published: true
 title: The Runaway General
 category: politics
 tags: 
   - reading
 author: Michael Hastings
+link: "https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/topic8/readings/The_Runaway_General/The_Runaway_General.pdf"
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/0/0c/StanleyMcChrystal.jpg)<br>
