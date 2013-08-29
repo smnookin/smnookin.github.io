@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: "2013-01-02"
-date: "2013-01-01"
+displaydate: "2013-08-29"
+date: "2013-08-29"
 published: true
 title: The website
 category: course
