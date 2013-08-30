@@ -10,7 +10,7 @@ tags:
   - slider
 ---
 
-![](http://sethmnookin.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-30-at-5.46.03-PM.png)21W.737/CMS.350 will give students a broad understanding of what it means to produce journalism today. We will do this by evaluating the limitations and strengths of specific types of media, ranging from <a href="http://nytimes.com" target="_blank">_The New York Times_</a> to Twitter feeds - and in doing so, we will develop tools to effectively communicate our own work and research to non-specialist audiences. 
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_new_york_times_building_in_new_york_city.jpg/180px-The_new_york_times_building_in_new_york_city.jpg)21W.737/CMS.350 will give students a broad understanding of what it means to produce journalism today. We will do this by evaluating the limitations and strengths of specific types of media, ranging from <a href="http://nytimes.com" target="_blank">_The New York Times_</a> to Twitter feeds - and in doing so, we will develop tools to effectively communicate our own work and research to non-specialist audiences. 
 
 
 Students submit assignments via <a href="http://CMS350.com">an online portal</a>, which mimics the style and substance of an online news source. The course meets Mondays from 2pm to 5pm in <a href="http://whereis.mit.edu/?go=26" target="_blank">26-142</a>. More information -- including the syllabus, readings, and assignments -- can be found on <a href="https://stellar.mit.edu/S/course/21W/fa13/21W.737/" target="_blank">Stellar</a>. You can also <a href="mailto:smnookin@mit.edu" target="_blank">email the instructor</a>, assistant professor <a href="http://sethmnookin.com" target="_blank">Seth Mnookin</a>, with any questions.</p>
