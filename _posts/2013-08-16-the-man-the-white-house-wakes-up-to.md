@@ -8,7 +8,6 @@ category: politics
 author: Mark Leibovich
 tags: 
   - reading
-  - slider
 link: "http://www.nytimes.com/2010/04/25/magazine/25allen-t.html?pagewanted=all"
 ---
 
