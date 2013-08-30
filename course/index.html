@@ -9,7 +9,7 @@ title: Course info
 	</div>
 </div>
 
-{% for post in site.categories.course limit:3 %}
+{% for post in site.categories.course %}
 <div class="row feature">
 	<div class="large-12 columns item">
 	    {% if post.tags contains 'reading' %}
@@ -22,22 +22,6 @@ title: Course info
 	      <a href="{{ post.url }}" title="read more" class="more">read more &raquo;</a>
 	    {% endunless %}
 		<hr>
-	</div>
-</div>
-{% endfor %}
-
-{% for post in site.categories.course offset:3 %}
-<div class="row list">
-	<div class="large-12 columns item">
-	    {% if post.tags contains 'reading' %}
-			<h3 class="subheader"><a href="{{ post.link }}">{{ post.title}}</a> <small>{{ post.author}}, {{ post.displaydate | date: "%B %d %Y" }}</small></h3>
-	    {% else %}
-			<h3 class="subheader"><a href="{{ post.url }}">{{ post.title}}</a> <small>{{ post.author}}, {{ post.displaydate | date: "%B %d %Y" }}</small></h3>
-	    {% endif %}
-	    {% unless post.tags contains 'reading' %}
-	      <a href="{{ post.url }}" title="read more" class="more">read more &raquo;</a>
-	    {% endunless %}
-		{% if forloop.last == false %}<hr>{% endif %}
 	</div>
 </div>
 {% endfor %}
