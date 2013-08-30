@@ -7,7 +7,6 @@ title: Requiem for a Dream
 author: Larissa MacFarquhar
 category: arts
 tags: 
-  - slider
   - reading
 link: "http://www.newyorker.com/reporting/2013/03/11/130311fa_fact_macfarquhar"
 ---
