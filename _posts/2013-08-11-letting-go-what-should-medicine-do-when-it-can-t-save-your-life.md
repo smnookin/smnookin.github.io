@@ -7,7 +7,6 @@ title: "When Is it Time to Let Go?"
 category: science
 tags: 
   - reading
-  - slider
 author: Atul Gawande
 "": sl
 link: "http://www.newyorker.com/reporting/2010/08/02/100802fa_fact_gawande"
