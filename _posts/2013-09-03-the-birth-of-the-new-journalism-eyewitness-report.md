@@ -8,6 +8,7 @@ link: "http://nymag.com/news/media/47353/#"
 displaydate: "1972-02-14"
 tags: 
   - reading
+date: "2013-08-21"
 ---
 
 ![](http://images.nymag.com/news/media/1972-0214-cover-250.jpg)A decade after
