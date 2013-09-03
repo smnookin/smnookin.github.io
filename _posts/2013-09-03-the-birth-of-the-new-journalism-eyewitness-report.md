@@ -10,4 +10,4 @@ tags:
   - reading
 ---
 
-[NY Mag cover](http://images.nymag.com/news/media/1972-0214-cover-250.jpg)A decade after
+![](http://images.nymag.com/news/media/1972-0214-cover-250.jpg)A decade after
