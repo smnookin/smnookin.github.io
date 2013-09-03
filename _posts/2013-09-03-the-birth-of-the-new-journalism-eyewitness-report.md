@@ -11,4 +11,4 @@ tags:
 date: "2013-08-21"
 ---
 
-![](http://images.nymag.com/news/media/1972-0214-cover-250.jpg)A decade after
+![](http://images.nymag.com/news/media/1972-0214-cover-250.jpg)One of the towering talents that gave birth to a new, more visceral and personal brand of journalism looks back at its founding a decade later. "God knows I didn't have anything new in mind, much less anything literary, when I took my first newspaper job," Wolfe writes, describing his arrival at the now-defunct _New York Herald Tribune_ in 1962. The rest, as they say, is history.
