@@ -13,4 +13,4 @@ link: "https://stellar.mit.edu/S/course/21W/fa13/21W.737/courseMaterial/topics/t
 ---
 
 ![The Panic Virus](http://autismsciencefoundation.org/sites/default/files/THE-PANIC-VIRUS-cover.jpg)
-"Until that night, Kelly had never given much thought to the potential repercussions of her decision not to have Matthew vaccinated. 'I must have read somewhere that after he turned three, he would have been okay for many of those diseases,' she says. 'I thought he was in the clear.' She was wrong." [Fake External Link](www.theraptorlab.com)
+In 1998 Andrew Wakefield, a British gastroenterologist with a history of self-promotion, published a paper with a shocking allegation: the measles-mumps-rubella vaccine might cause autism. The media seized hold of the story and, in the process, helped to launch one of the most devastating health scares ever. In _The Panic Virus_, Mnookin draws on interviews with parents, public-health advocates, scientists, and anti-vaccine activists to tackle a fundamental question: How do we decide what the truth is? 
