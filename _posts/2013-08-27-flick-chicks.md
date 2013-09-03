@@ -12,4 +12,4 @@ tags:
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/2/2d/MindyKaling08.jpg)
-A frustrated television writer runs through the popular, overworn tropes for women in Hollywood movies, including The Klutz, The Ethereal Weirdo, and The Woman Who Works in an Art Gallery. Romantic comedies and sci-fi, she says, are equally implausible: "They’re all participating in a similar level of fakey razzle-dazzle, and I enjoy every second of it."
+A frustrated television writer runs through the popular, overworn tropes for women in Hollywood movies, including The Klutz, The Ethereal Weirdo, and The Woman Who Works in an Art Gallery. Romantic comedies and sci-fi, Kaling says, are equally implausible: "They’re all participating in a similar level of fakey razzle-dazzle, and I enjoy every second of it."
