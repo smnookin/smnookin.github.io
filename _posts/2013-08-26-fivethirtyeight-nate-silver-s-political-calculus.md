@@ -7,7 +7,7 @@ tags:
   - reading
 author: Nate Silver
 displaydate: "2012-11-06"
-date: "2014-08-24"
+date: "2013-08-24"
 link: "http://fivethirtyeight.blogs.nytimes.com/2012/11/06/live-blog-the-2012-presidential-election/"
 ---
 
