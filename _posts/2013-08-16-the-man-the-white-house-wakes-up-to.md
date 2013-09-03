@@ -12,4 +12,4 @@ link: "http://www.nytimes.com/2010/04/25/magazine/25allen-t.html?pagewanted=all"
 ---
 
 ![](http://wonkette.com/wp-content/uploads/2010/05/mikeallencover.jpg) <br>
-Every morning, the most powerful people in Washington receive their first dose of news from one man: _Politico_'s sleepless White House correspondent. Though he seems to know what's going on with everyone else in town, no one knows much about him. <a href="http://www.nytimes.com/2010/04/25/magazine/25allen-t.html?pagewanted=all">This _New York Times Magazine_ feature</a> turns a mirror back on "the 'most powerful' journalist in the capital."
+Every morning, the most powerful people in Washington receive their first dose of news from one man: **Mike Allen**, _Politico_'s indefatigable White House correspondent. Though he seems to know what's going on with everyone else in town, no one knows much about him. <a href="http://www.nytimes.com/2010/04/25/magazine/25allen-t.html?pagewanted=all">This _New York Times Magazine_ feature</a> turns a mirror back on "the 'most powerful' journalist in the capital."
