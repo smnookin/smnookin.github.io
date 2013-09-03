@@ -11,7 +11,7 @@ author: Ron Rosenbaum
 link: "http://www.slate.com/articles/life/the_spectator/2007/06/the_worst_celebrity_profile_ever_written.single.html"
 ---
 
-![Angelina Jolie](http://fc06.deviantart.net/fs71/f/2010/303/9/9/angelina_jolie____psd_coloring_by_gokhanz-d31tbkn.jpg)
+![Angelina Jolie](http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Angelina_Jolie_by_Gage_Skidmore.jpg/391px-Angelina_Jolie_by_Gage_Skidmore.jpg)
 A longtime cultural critic [tears apart _Esquire_'s "Angelina Jolie Dies for Our Sins."](http://www.slate.com/articles/life/the_spectator/2007/06/the_worst_celebrity_profile_ever_written.single.html) Through his critique, Rosenbaum tackles larger problems with the process of writing celebrity profiles. "I don't regard this piece as an attack on the writer (whose noncelebrity work I've often admired), but as an attempt to rescue him, to save him from further assignments of this nature."  
 
 
