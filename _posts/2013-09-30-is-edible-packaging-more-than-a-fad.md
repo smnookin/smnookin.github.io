@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Is Edible Packaging More Than a Fad?"
 category: science
 author: Evelyn Ting
