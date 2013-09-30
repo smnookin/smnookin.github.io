@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Tally the true cost of a measles comeback
 category: science
 author: Seth Mnookin
