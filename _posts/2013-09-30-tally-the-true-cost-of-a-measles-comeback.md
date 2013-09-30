@@ -3,6 +3,11 @@ layout: post
 published: false
 title: Tally the true cost of a measles comeback
 category: science
+author: Seth Mnookin
+displaydate: "September 30, 2013"
+date: "September 29, 2013"
+tags: 
+  - student
 ---
 
 ![](http://c.o0bg.com/rf/image_371w/Boston/2011-2020/2013/09/20/BostonGlobe.com/Magazine/Images/178236763.jpg)If you were going to write down the most frightening infectious diseases you could think of, measles probably wouldn’t be near the top of your list. Compared with the devastation of HIV/AIDS or the gruesome deaths caused by hemorrhagic fevers like Ebola, measles, with its four-day-long fevers and pervasive rashes, seems like nothing more than an annoyance.
