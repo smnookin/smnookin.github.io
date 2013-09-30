@@ -4,7 +4,7 @@ published: true
 title: Tally the true cost of a measles comeback
 category: science
 author: Seth Mnookin
-displaydate: "September 30, 2013"
+displaydate: "September 29, 2013"
 date: "September 29, 2013"
 tags: 
   - student
