@@ -3,6 +3,7 @@ layout: post
 published: false
 title: "A case-by-case rebuttal of one student’s apathy about politics"
 category: science
+author: Michael C
 ---
 
 ## A case-by-case rebuttal of one student’s apathy about politics
