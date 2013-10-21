@@ -16,7 +16,7 @@ I had always been aware of this apathy, but a blog post by a classmate explainin
 
 Some representative quotes from the blog post in question:
 
-**Affirmative action**
+## **Affirmative action**
 > “I just need to work hard enough to get myself into places in spite of affirmative action (I am Asian American, and affirmative action helps other groups at my group’s expense.”
 
 The author evidently believes that the purpose of affirmative action is to allow low-achieving minorities to achieve positions they don’t deserve, at the expense of more qualified applicants.
@@ -31,7 +31,7 @@ The amount of privilege in the author’s claim is frankly astounding.  He state
 
 I encourage the author to read [this blog post](http://mitadmissions.org/blogs/entry/diversity-or-merit) by Chris Peterson, an admissions counselor at MIT.
 
-**Philosophical waxings on government**
+## **Philosophical waxings on government**
 
 > “I believe the government exists only to provide a minimum standard of living.  As long as my safety, well-being, and ability to pursue a better life are guaranteed, I am okay with the status quo.”
 
@@ -41,7 +41,7 @@ And yet the author directly contradicts this in the next sentence.  What the aut
 
 I’m not sure how to categorize this naïve and rather ludicrous opinion.  Pseudo-libertarian?  Selfish?  I would encourage the author to step out of his bubble into the real world – poverty in America isn’t just some abstract statistic.  It’s a very real thing that affects real people every day.  If the author believes that the current government already guarantees a minimum level of safety, well-being, and opportunity for everyone, he should probably open his eyes.
 
-**Gay marriage**
+## **Gay marriage**
 
 > “I am not interested because it does not affect any of my friends or family.”
 
