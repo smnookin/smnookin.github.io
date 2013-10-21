@@ -43,12 +43,12 @@ Gay marriage
 
 > “I am not interested because it does not affect any of my friends or family.”
 
-The claim that the author does not have any LGBT friends or relatives is almost certainly false.  According to the Pew Research Center, 41% of Americans say a close friend or member of their family is openly gay.  Considering that the author is currently in a highly diverse environment, attending a university that brings together people from all across the world, the odds that he knows someone who is LGBT rise significantly.  Either the author is very selectively choosing friends or he is just being willfully ignorant.
+The claim that the author does not have any LGBT friends or relatives is almost certainly false.  [According to the Pew Research Center](http://www.pewresearch.org/2007/05/22/fourinten-americans-have-close-friends-or-relatives-who-are-gay/), 41% of Americans say a close friend or member of their family is openly gay.  Considering that the author is currently in a highly diverse environment, attending a university that brings together people from all across the world, the odds that he knows someone who is LGBT rise significantly.  Either the author is very selectively choosing friends or he is just being willfully ignorant.
 
 But let’s pretend for a moment that the author really doesn’t know any LGBT people.  This still does not constitute an argument for apathy.  Imagine someone in the 1960s arguing that “because I don’t know any black people, I don’t care about civil rights for all.”  This argument, when applied to gay marriage, is equally ludicrous.
 
 As noted earlier, the author believes in the minimum amount of government possible.  Except when it pertains to issues of civil liberties, apparently.
-I encourage the author to read this compelling op-ed by Frank Bruni, a gay columnist at the New York Times.
+I encourage the author to read [this compelling op-ed](http://www.nytimes.com/2011/06/26/opinion/sunday/26bruni.html) by Frank Bruni, a gay columnist at the New York Times.
  
 In conclusion, I highly encourage the author to reconsider his apathy towards politics – not only because I believe he is dead wrong about many issues, but also because this sort of willful ignorance is harmful for society as a whole.
 	
