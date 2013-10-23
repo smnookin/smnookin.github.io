@@ -10,7 +10,7 @@ tags:
 
 ## Wireless Technology Helps Autonomous Cars Avoid Collisions
 
-![](http://sethmnookin.com/wp-content/uploads/2013/08/Sinatra-4-3.png) Automakers are expecting autonomous cars to be commercially available by the end of the decade, but the cars have to overcome one crucial flaw first.
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hands-free_Driving.jpg/800px-Hands-free_Driving.jpg) Automakers are expecting autonomous cars to be commercially available by the end of the decade, but the cars have to overcome one crucial flaw first.
 
 Just like human drivers, autonomous cars have blind spots. According to the National Highway Traffic Safety Administration, blind spots cause 840,000 collisions and 300 fatalities a year in the U.S. The sensors on the cars can only view objects in their lines of sight. But MIT researchers are aiming to solve this problem by letting cars wirelessly share information about potential dangers.
 
