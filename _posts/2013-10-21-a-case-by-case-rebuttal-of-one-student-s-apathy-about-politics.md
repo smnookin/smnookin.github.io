@@ -4,6 +4,7 @@ published: false
 title: "A case-by-case rebuttal of one student’s apathy about politics"
 category: science
 author: Michael C
+displaydate: "10-23-2013"
 ---
 
 ## A case-by-case rebuttal of one student’s apathy about politics
@@ -53,5 +54,3 @@ As noted earlier, the author believes in the minimum amount of government possib
 I encourage the author to read [this compelling op-ed](http://www.nytimes.com/2011/06/26/opinion/sunday/26bruni.html) by Frank Bruni, a gay columnist at the New York Times.
  
 In conclusion, I highly encourage the author to reconsider his apathy towards politics – not only because I believe he is dead wrong about many issues, but also because this sort of willful ignorance is harmful for society as a whole.
-	
-
