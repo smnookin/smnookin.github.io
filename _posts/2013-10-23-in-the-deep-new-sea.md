@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: Untitled
 category: science
 author: Mia Guild
 displaydate: 10/23/2013
@@ -19,6 +19,4 @@ Dr. Mandelman conducts most of his research in Eleuthera, Bahamas. He primarily 
 “The physiological consequences of [long line fishing] is still poorly misunderstood, and to study the effects of longline fishing we looked into how catch-and- release impact the exploited Caribbean Reef Shark,” Mandelman said. 
 In the Bahamas, Dr. Mandelman and his team catch sharks using fishing hooks, and take blood samples to measure how much physical stress and trauma impact growth, feeding and swimming behavior, and the immune system. His research showed there was indeed a correlation between the stress level and the time sharks were captured. Documenting the physiological suffering of captured as a consequence of catch-and-release of sharks is vital in understanding effective fishery management, Mandelman’s study showed.
 The aquarium hosts lectures, seminars, and events including sustainable seafood dinners so that researchers can educate and connect with the general audience. 
- “I could do all this research and publish several studies, but in the end what matters is how much the public audience can understand,” Mandelman said. Ultimately, the Aquarium should educate visitors about the aquatic world. His hope that the glistening new aquarium will attract more visitors, and the public will leave not only satisfied with the beauty of the deep, but with a better understanding of our dependence on it.  
-
-
+ “I could do all this research and publish several studies, but in the end what matters is how much the public audience can understand,” Mandelman said. Ultimately, the Aquarium should educate visitors about the aquatic world. His hope that the glistening new aquarium will attract more visitors, and the public will leave not only satisfied with the beauty of the deep, but with a better understanding of our dependence on it.
