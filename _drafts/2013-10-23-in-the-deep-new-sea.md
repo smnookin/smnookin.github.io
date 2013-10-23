@@ -3,11 +3,15 @@ layout: post
 published: false
 title: In the Deep New Sea
 category: science
+author: Mia Guild
+displaydate: 10/23/2013
+tags: 
+  - student
 ---
 
 ## A New Post
 
-One hundred forty new species, three giant turtles, and two species of sharks roam the New England Aquarium’s new 26-foot deep 40-foot wide tank, which is the result of a $43-million, six-year renovation that revamped not only the Aquarium itself, but also its, research labs as well. 
+One hundred forty new species, ![](/http://upload.wikimedia.org/wikipedia/commons/4/45/Giant_Tortoise.jpg), and two species of sharks roam the New England Aquarium’s new 26-foot deep 40-foot wide tank, which is the result of a $43-million, six-year renovation that revamped not only the Aquarium itself, but also its, research labs as well. 
 
 The marine mammal center was constructed to expand out to the Boston harbor, allowing visitors to gather outside to watch fur seals and sea lions swim, play, and perform tricks for a more interactive experience. The Shark and Ray Touch Tank, popular amongst children, is brand new allowing visitors to stroke sharks and stingrays as the species swim by. In addition to the completed renovations specially targeted for visitors, the six-year renovation project also expanded the Aquarium’s Marine Stress Research Programs and improved labs. In addition, a fraction of the $17 million is contributed in the Aquarium’s effort in leading campaigns to support conservation and sustainability. The highlight of this massive undertaking, however, was a 10-month reconstruction of the famous, 20,000-gallon tank, home to more than 2000 species.  The new “coral” is actually made of fiberglass, a more fish friendly material to replace a harsher material that snagged the fish and caused injury. The installation of additional viewing windows allows for an improved viewing experience as visitors can view  the diverse array of fish, turtles, and sharks from the top of the tank from throughout the different locations in the aquarium. The top of the aquarium is now accessible to visitors, as the aquarium has allowed visitors to go to the very top and look directly into the blue-green waterThe water is pumped directly from Boston Harbor, copious amounts of tests occurs, and depending on those results and the outside conditions, the protocol for cleaning and managing the tank changes, making the new tank friendlier to the fish. 
 Myrtle, the popular 550-pound green sea turtle is back. Visitors can now also see 40 additional species including the blacknose shark, midnight parrotfish, trumpet fish, and yellow goatfish. 
