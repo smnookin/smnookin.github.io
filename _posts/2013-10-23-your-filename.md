@@ -2,7 +2,10 @@
 layout: post
 published: false
 title: "Active Mind and Inactive Hand: MIT Student Activism"
-category: science
+category: politics
+author: Noalee Harel
+tags: 
+  - student
 ---
 
 ## Active Mind and Inactive Hand: MIT Student Activism
