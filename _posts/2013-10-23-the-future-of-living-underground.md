@@ -20,4 +20,4 @@ The Singapore project JTC Corporation, Singapore’s primary developer and manag
 
 Of course, if building underground were easy, everyone would be doing it, but the added complications result in a final bill that can be up to four times more expensive than aboveground development. Initial steps prior to excavation include conducting an environmental impact assessment on the maximum size that can be built, investigating the soil and rock properties of the specific site, determining the method of excavation, analyzing the behavior of people who work indoors for long periods of time and potential psychological effects of working underground for extended periods of time and establishing emergency protocols, especially for the petrochemical storage. 
 
-It remains to be seen whether or not these initiatives for subterranean living are a viable solution to the challenge of over-densification, not only for the technological hurdles, but the psychological ones. 
+It remains to be seen whether or not these initiatives for subterranean living are a viable solution to the challenge of over-densification, not only for the technological hurdles, but the psychological ones.
