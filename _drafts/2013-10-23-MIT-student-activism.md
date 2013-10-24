@@ -35,5 +35,4 @@ Even though I was not the most politically minded person before coming to MIT, I
 From the survey responses, as well as my satisfaction at this point in my MIT career, I have concluded that it’s not a bad thing that MIT is a politically inactive school. It’s not a good thing either. It’s another aspect of being a student in this one-of-a-kind town of nerds – an experience I’d advocate for any day.  
 
 
-Link to survey results: 
-https://docs.google.com/spreadsheet/ccc?key=0AoB2ixkE3gS0dDdUaVVqc20zS1REQ3ZKS2p3dWpwU1E&usp=sharing
+Survey results can be found [here](https://docs.google.com/spreadsheet/ccc?key=0AoB2ixkE3gS0dDdUaVVqc20zS1REQ3ZKS2p3dWpwU1E&usp=sharing)
