@@ -31,11 +31,4 @@ alumnae being outraged at the loss of L and E, I was not sure what my next step 
 Fast forward a year and a half, I am still unable to define when the change 
 occurred. A very important person whose name I will not mention for my own 
 protection, let’s call her Mrs. V-I-L, demands that my job is not to pin point the 
-historical date of the spelling change but to educate the ignorant. To avoid any fights breaking out, the college’s Public Affairs team avoids the word all together. Any 
-sort of social media posting of the word can lead to seriously snarky comments (see 
-
-picture above.) Interestingly enough, a recent post in my residence hall’s Google
-
-group requests a ride for a quick trip to the “V-I-L.” I followed up with the email and 
-
-did not see any foul play. The search continues with no end in sight.
+historical date of the spelling change but to educate the ignorant. To avoid any fights breaking out, the college’s Public Affairs team avoids the word all together. Any sort of social media posting of the word can lead to seriously snarky comments (see picture above.) Interestingly enough, a recent post in my residence hall’s Google group requests a ride for a quick trip to the “V-I-L.” I followed up with the email and did not see any foul play. The search continues with no end in sight.
