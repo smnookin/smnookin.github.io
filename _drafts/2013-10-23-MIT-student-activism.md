@@ -6,6 +6,7 @@ category: politics
 author: Noalee Harel
 tags: 
   - student
+displaydate: 10/23/2013
 ---
 
 ## Active Mind and Inactive Hand: MIT Student Activism
