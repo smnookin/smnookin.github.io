@@ -6,6 +6,7 @@ category: science
 ---
 
 
+![](/assets/lol.png)
 “There has never been another way to spell the Vil, it’s always been, V-i-l.” 
 I politely smiled. For the past two days, I had been on a hunt to discover what the 
 correct spelling of the “Vil/Ville” was. The word refers to a small retail section of 
