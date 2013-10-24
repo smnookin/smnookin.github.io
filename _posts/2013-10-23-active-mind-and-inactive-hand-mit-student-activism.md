@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: "Active Mind and Inactive Hand: MIT Student Activism"
 category: science
 ---
 
