@@ -1,0 +1,24 @@
+---
+layout: post
+published: false
+title: ""
+category: politics
+author: Evelyn Ting
+displaydate: "2013-10-26"
+date: "2013-10-26"
+tags: 
+  - student
+---
+
+![](http://i.imgur.com/0uniBTSl.png)Cage homes in Hong Kong have been featured in newspapers and protested against for years. They are exactly what they sound like, metal mesh cages measuring roughly 6 ft x 2.5 ft, with up to twelve crammed and stacked into a single, standard apartment. Not only are these “homes” so small they bar occupants from being able to sit fully upright, they are plagued with a variety of problems from hygiene to lack of privacy and psychological distress. As many as 100,000 people are estimated to live in these cage homes, a large part due to out-of-reach property values. A recent Forbes’ ranking lists Hong Kong as the city with the most expensive real estate in the world, with Tokyo coming in second and London third. (New York is the only American city that ranks among the top ten).  
+
+Where luxury housing can sell up to an insane $13,000 per square foot and the average monthly rent is $2,830, the occupants of cage homes typically pay $200 per month on the other end of the spectrum. The fact that they have to even pay rent for a space smaller than an average prison cell is ridiculous, and the disparity between rich and poor in Hong Kong is most explicit when it comes to living space. Most of cage home residents are low-skilled workers and the elderly, unqualified or on the waitlist for public housing. Cage homes first appeared in the 1950s as a result of a huge influx of Chinese civil war refugees. Following the fall of the Nationalist Party and the establishment of the People’s Republic of China in October 1949, an estimated one million mainland Chinese crossed the border to Hong Kong. The extreme subdivision of apartments into cage-like dwellings– officially termed bedspace apartments– became the only way the city could respond to such a surge in population. 
+
+Owners of bedspace apartments are obligated to apply for a license to operate, but the lack of routine inspections means that many of these apartments do not meet basic structural and fire safety standards, not to mention sanitary standards. Little has been done on the legislative front to ensure better enforcement of these building standards, and outlawing subdivided apartments would just put more homeless on the streets. The familiarity of its regular news coverage every few months is alarming. 
+
+The most recent coverage is from designer Kwong Chi Kit’s collaboration with Hong Kong’s Society for Community Organization to produce miniature cage homes as part of their anti-poverty campaign this past August. The miniatures– the size of mouse-traps, replete with figurine and furnishings painted with painstaking detail– were placed on street corners in the heart of the financial district, where the reaction of passersby to the tiny installations were then photographed. Once again, the campaign managed to successfully draw the attention of both local and international reporters, even winning a global award for non-profit and social advertising, but one wonders if this is merely another glimpse into the poverty-stricken conditions we were already aware of a year ago, to be quickly overtaken by the next news item. It’s one thing to grab people’s attention, but quite another matter to persuade them to commit and take action. Kwong himself acknowledged in a video interview that the miniatures have received far more attention from tourists than local residents. 
+
+The concretization of the caged home into a physical object for public display is a significant shift from its depiction through photographs, which no longer have much shock-value in our image-saturated lives. One letdown, however, is the object’s size. Why shrink the object instead of making it full-scale, especially when size is the very issue at hand? If the reason behind putting these miniatures on the street is to force a bigger impact, what better way than to install a real-life cage home? Then, people would really get a sense of the dimensions within which their fellow citizens live. The danger in creating what are essentially art objects for social campaigns is their tendency to beautify the ugly conditions they seek to represent, even if it is not their intention. And in this particular case, the miniatures give off an innocent quality simply because of scale. The challenge is to deliver a powerful message without being too preachy, and a prime example is Duval Guillaume’s ad campaign against human trafficking. Staged in Amsterdam’s red light district, the performance is unsettling, yet does not go so far as to alienate viewers. 
+
+As cynical as it may sound, perhaps the only way to effect change is to place a real-sized, occupied cage home on the street and make it that much harder to turn a blind eye.   
+
