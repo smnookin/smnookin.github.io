@@ -3,12 +3,12 @@ layout: post
 published: false
 title: "Why I am not politically active: one MIT student’s perspective"
 category: politics
-author: Leo
+author: Leo Liu
 tags: 
   - student
+displaydate: "October 27, 2013"
+date: "October 19, 2013"
 ---
-
-## Why I am not politically active: one MIT student’s perspective
 
 A classmate recently mentioned that MIT students don’t seem as politically active as students at other schools. She was certainly correct about me. I have nearly zero interest in politics. It does not matter what level the issues occur at – dorm, campus, local, state, or nationwide. For the most part, I don’t feel strongly about those issues. I did not vote in the last presidential election, nor do I affiliate with a political party. My Facebook profile lists my “Political Views” simply as “Go Lakers!” According to my classmate’s statement, my own indifference is perhaps not that unusual at MIT. Regardless of whether that is true, why am I not politically active?
 
