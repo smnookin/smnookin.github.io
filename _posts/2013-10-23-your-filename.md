@@ -8,8 +8,6 @@ tags:
   - student
 ---
 
-## Active Mind and Inactive Hand: MIT Student Activism
-
 It did not take long for me to recognize the state of political activism – or lack thereof – on MIT’s campus. During my freshman year, I got involved with a political advocacy group called MIT Students for Israel that plans campus events to educate about Israel’s politics, culture and history. But soon after joining the group, I realized that there was no audience on campus for what we were trying to do – planning events wasn’t easy, and the regularly low turnout was anything but inspiring. By the time I was a sophomore, I decided to focus my time on the other organizations that I had joined – my sorority, a dance group and a high school student mentorship program – and I haven’t been politically active since.  
 
 
@@ -35,5 +33,4 @@ From the survey responses, as well as my satisfaction at this point in my MIT ca
 
 
 Link to survey results: 
-https://docs.google.com/spreadsheet/ccc?key=0AoB2ixkE3gS0dDdUaVVqc20zS1REQ3ZKS2p3dWpwU1E&usp=sharing 
-
+https://docs.google.com/spreadsheet/ccc?key=0AoB2ixkE3gS0dDdUaVVqc20zS1REQ3ZKS2p3dWpwU1E&usp=sharing
