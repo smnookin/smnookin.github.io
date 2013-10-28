@@ -7,10 +7,8 @@ displaydate: "2013-10-26"
 date: "2013-10-26"
 tags: 
   - student
-author: Leo
+author: Leo Liu
 ---
-
-##Thoughts on Rising Tuition and MOOCs
 
 The cost of higher education keeps increasing. College tuition and fees have more than doubled since 2000. The rising tuition discourages low-income students from applying to or attending schools. Middle class families that can afford the tuition are also pressured because the cost can often eat up most of their annual incomes. Furthermore, many students also graduate with debt from college loans taken to pay for tuition.
 
