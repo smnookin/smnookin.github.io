@@ -2,10 +2,13 @@
 layout: post
 published: false
 title: Goose Fathers and Their Seasonal Migrations
-category: science
+category: politics
+author: Raina Park
+displaydate: "October 28, 2013"
+date: "October 28, 2013"
+tags: 
+  - student
 ---
-
-## Goose Fathers and Their Seasonal Migrations
 
 ![](http://karthijaygee.files.wordpress.com/2011/01/flok-of-birds-v-formation.jpg)
 
