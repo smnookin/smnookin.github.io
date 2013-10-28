@@ -9,30 +9,22 @@ tags:
   - student
 ---
 
-My name is 美亜 (Mia). In Japanese, 美 means America and 亜 means Asia. My parents chose these characters because my mother is Japanese and my father is American. But my interest in these two countries goes beyond my name and heritage. I  believe that my generation can shape this relationship for decades to come. 
+My name is 美亜 (Mia). In Japanese, 美 means America and 亜 means Asia. My parents chose these characters because my mother is Japanese and my father is American. But my interest in these two countries goes beyond my name and heritage. I want to be part of a generation that cultivates a strong relationship between the two countries, and I  think that our generation, as students, can key role in the future of this relationship for decades to come. 
 
-Earlier this month I attended a conference hosted by the US-Japan council (USJC) in Washington D.C. The conference focused on strengthening the relationship between the two countires. 
-
-Though the relationship between the US and Japan tend to be strong, Japan’s slowing economy and a “pivot to Asia” has increased interest in other East Asian countries, but has consequently decreased interest in Japan. 
+With Chinese power on the rise, I think that important for the US and Japan to maintain this strong relationship. WHY?  
+For these reaons, It’s important for Japanese students to learn English, develop leadership skills, and learn to take initiative. For Americans, it’s important to make sure Japan contniues to be its top ally, despite the rise of other East Asian countires.
 
 In 2009, the number of Japanese students studying in America was less than half of what it was in 2000 and continued to fall until recently . Finally, the number of Japanese students studying abroad has increased. However, relative to students from other East Asian countries the number of Japanese students studying abroad is still very low. This is a problem for Japan. The Japanese firms will suffer if Japanese companies don’t globalize.  Japan needs global leaders who can speak English, function in a global environment, and take initiative and leadership--studying abroad could help them achieve those goals.
 
-Growing up in both Japan and America, attending typical American and Japanese schools, and interacting with friends from both countries,has made me especially aware of each country's strenghts. Most Americans visit Japan for the anime, the pop culture, the fashion and the music, but for me, Japan is so much more than that. 
+IN America..... 
 
-There’s the efficiency — train operators are remarkably on time and apologize if they run a mere 30 seconds late. 
+Earlier this month I attended a conference hosted by the US-Japan council (USJC) in Washington D.C., heavily discussed the necessities and ways  the two countires can remain strengthen relationship between the two countires.
 
-There’s the attention to detail — the end of the toilet paper roll at the public restroom neatly tucked into a triangle, where in the United States we would be suprised to find toilet paper at all. 
-
-Through my everyday interactions, I have found that typically the people are kind and considerate—if you forget your wallet in a taxi, someone will most likely deliver it back to your home. 
-
-Rich history is everywhere — if you turn onto any unassuming side street, the hustle and bustle of the city fades away, and you might find a Buddhist monk in his traditional clothing walking into a 300-year-old temple.
-
-And the food is the best of the best. Japan has more Michelin three-starred, restaurants then in any other country in the world. Even a one-dollar box of fried chicken from a convenience store is delicious. 
-
-I want to increase interest in Japan especially amongst Americans. I want them to think that it’s a cool place to work and live, and based on my experience at the US-Japan Council Conference, so do a lot of people. 
+Though the relationship between the US and Japan tend to be strong, Japan’s slowing economy and a “pivot to Asia” has increased interest in other East Asian countries, but has consequently decreased interest in Japan. 
 
 
-Attendees discussed Japan’s economy and civil sector, corporate leadership and a number of bilateral issues, including clean energy and technology, the changing face of communication, and global youth education. 
+
+
 
 The conference featured several prominent figures in US-Japan relations. John Strangfeld, the chairman and CEO of Prudential Financial, Inc., discussed the firms’ journey to establish a strong presence in Japan. He concluded his speech saying, “Prudential is a better company as a result of what we have learned from Japan”. Dr. Shinya Yamanaka, a Nobel Prize Winner in physiology believes that “both countries [the US and Japan] need to nurture strong ties to accelerate the speed of research, for the benefit of the many people with intractable diseases around the world.” These are examples of speakers and presenters out of many who spoke on the future of US-Japan relations. 
 
