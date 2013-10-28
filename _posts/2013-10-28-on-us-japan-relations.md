@@ -9,7 +9,7 @@ tags:
   - student
 ---
 
-My name is 美亜 (Mia). In Japanese, 美 means America and 亜 means Asia. My parents chose these characters because my mother is Japanese and my father is American. But my interest in these two countries goes beyond my name. I’m also very interested in US-Japan relations.
+My name is 美亜 (Mia). In Japanese, 美 means America and 亜 means Asia. My parents chose these characters because my mother is Japanese and my father is American. But my interest in these two countries goes beyond my name and heritage. I  believe that my generation can shape this relationship for decades to come. 
 
 Earlier this month I attended the US-Japan Council Conference hosted by the US-Japan council (USJC) in Washington D.C. USJC is a non-profit organization that strives to strengthen US-Japan relations. The theme for this year’s conference was Risk, Reward, and Innovation: Opportunities for the United States and Japan”. 
 
@@ -17,17 +17,17 @@ Though the relationship between the US and Japan tend to be strong, Japan’s sl
 
 In 2009, the number of Japanese students studying in America was less than half of what it was in 2000 and continued to fall until recently . Finally, the number of Japanese students studying abroad has increased. However, relative to students from other East Asian countries the number of Japanese students studying abroad is still very low. This is a problem for Japan. The Japanese firms will suffer if Japanese companies don’t globalize.  Japan needs global leaders who can speak English, function in a global environment, and take initiative and leadership--studying abroad could help them achieve those goals.
 
-Growing up in both Japan and America, attending typical American and Japanese schools, and interacting with friends from both countries, I can personally say that Japan is a really cool place. Most Americans visit Japan for the anime, the pop culture, the fashion and the music, but for me, Japan is so much more than that. 
+Growing up in both Japan and America, attending typical American and Japanese schools, and interacting with friends from both countries,has made me especially aware of each country's strenghts. Most Americans visit Japan for the anime, the pop culture, the fashion and the music, but for me, Japan is so much more than that. 
 
 There’s the efficiency — train operators are remarkably on time and apologize if they run a mere 30 seconds late. 
 
-There’s the attention to detail — the end of the toilet paper roll at the public restroom neatly tucked into a triangle, the sunflower intentionally placed diagonally to give off the notion of imperfection in a flower arrangement, a chocolate chip cookie from a local cafe wrapped inside a plastic bag with a thin ribbon.
+There’s the attention to detail — the end of the toilet paper roll at the public restroom neatly tucked into a triangle, where in the United States we would be suprised to find toilet paper at all. 
 
 Through my everyday interactions, I have found that typically the people are kind and considerate—if you forget your wallet in a taxi, someone will most likely deliver it back to your home. 
 
 Rich history is everywhere — if you turn onto any unassuming side street, the hustle and bustle of the city fades away, and you might find a Buddhist monk in his traditional clothing walking into a 300-year-old temple.
 
-And of course, the food is the best of the best.  Japan has more Michelin three-starred restaurants then in any other country in the world. Even a one-dollar box of fried chicken from a convenience store is delicious. 
+And the food is the best of the best. Japan has more Michelin three-starred, restaurants then in any other country in the world. Even a one-dollar box of fried chicken from a convenience store is delicious. 
 
 I want to increase interest in Japan especially amongst Americans. I want them to think that it’s a cool place to work and live, and based on my experience at the US-Japan Council Conference, so do a lot of people. 
 
