@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "Making jail look luxurious: Hong Kong's \"Cage Homes\" "
+title: "Making jail look luxurious: Hong Kong's \"Cage Homes\""
 category: politics
 author: Evelyn Ting
 displaydate: "2013-10-26"
