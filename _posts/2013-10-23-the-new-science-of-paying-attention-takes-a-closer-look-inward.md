@@ -30,4 +30,4 @@ An article recently published by the Brain and Creativity Institute at the Unive
 
 Appreciation of findings about the default mode could also inform policies that affect educators and schools, as studies have already found that trainings, such as meditation with children, aided their ability to focus, sustain attention, and stay on task. 
 
-Based on these initial investigations, Christodoulou calls for further research to study how recent changes in media’s role in society and demands on our attention affect internal processes in which humans are able to sympathize with others and make meaning of the outside world. 
+Based on these initial investigations, Christodoulou calls for further research to study how recent changes in media’s role in society and demands on our attention affect internal processes in which humans are able to sympathize with others and make meaning of the outside world.
