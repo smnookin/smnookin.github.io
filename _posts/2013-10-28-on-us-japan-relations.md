@@ -11,7 +11,7 @@ tags:
 
 My name is 美亜 (Mia). In Japanese, 美 means America and 亜 means Asia. My parents chose these characters because my mother is Japanese and my father is American. But my interest in these two countries goes beyond my name and heritage. I  believe that my generation can shape this relationship for decades to come. 
 
-Earlier this month I attended the US-Japan Council Conference hosted by the US-Japan council (USJC) in Washington D.C. USJC is a non-profit organization that strives to strengthen US-Japan relations. The theme for this year’s conference was Risk, Reward, and Innovation: Opportunities for the United States and Japan”. 
+Earlier this month I attended a conference hosted by the US-Japan council (USJC) in Washington D.C. The conference focused on strengthening the relationship between the two countires. 
 
 Though the relationship between the US and Japan tend to be strong, Japan’s slowing economy and a “pivot to Asia” has increased interest in other East Asian countries, but has consequently decreased interest in Japan. 
 
