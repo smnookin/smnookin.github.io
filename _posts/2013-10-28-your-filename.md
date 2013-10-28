@@ -1,15 +1,12 @@
 ---
 layout: post
 published: false
-title: ""
+title: Digital Natives Born Hungry
 category: politics
 author: Sue Li
 ---
 
 ## A New Post
-
-Digital Natives Born Hungry
-By Sue Li
 
 Sliding 16 ice cubes evenly into 4 cups while dodging obstacles like ladybugs and plastic straws makes learning number partitioning easy, even for three year olds. To pour and slurp an equal amount of juice in each cup, two preschoolers take turns tapping the plastic, kid proof iPad screen. Lemonade, produced by WGBH Digital Kids for the Next Generation Preschool Math project, is only one of many games for early childhood education presented at the Early Childhood Education Race to the Top Leadership Conference held at the Federal Reserve Bank of Boston on October 23rd. 
 
