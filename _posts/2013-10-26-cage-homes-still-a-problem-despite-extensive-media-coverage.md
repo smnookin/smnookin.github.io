@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Cage Homes Still a Problem Despite Extensive Media Coverage
+title: "Making jail look luxurious: Hong Kong's \"Cage Homes\" "
 category: politics
 author: Evelyn Ting
 displaydate: "2013-10-26"
@@ -20,5 +20,4 @@ The most recent coverage is from designer Kwong Chi Kit’s collaboration with H
 
 The concretization of the caged home into a physical object for public display is a significant shift from its depiction through photographs, which no longer have much shock-value in our image-saturated lives. One letdown, however, is the object’s size. Why shrink the object instead of making it full-scale, especially when size is the very issue at hand? If the reason behind putting these miniatures on the street is to force a bigger impact, what better way than to install a real-life cage home? Then, people would really get a sense of the dimensions within which their fellow citizens live. The danger in creating what are essentially art objects for social campaigns is their tendency to beautify the ugly conditions they seek to represent, even if it is not their intention. And in this particular case, the miniatures give off an innocent quality simply because of scale. The challenge is to deliver a powerful message without being too preachy, and a prime example is Duval Guillaume’s ad campaign against human trafficking. Staged in Amsterdam’s red light district, the performance is unsettling, yet does not go so far as to alienate viewers. 
 
-As cynical as it may sound, perhaps the only way to effect change is to place a real-sized, occupied cage home on the street and make it that much harder to turn a blind eye.   
-
+As cynical as it may sound, perhaps the only way to effect change is to place a real-sized, occupied cage home on the street and make it that much harder to turn a blind eye.
