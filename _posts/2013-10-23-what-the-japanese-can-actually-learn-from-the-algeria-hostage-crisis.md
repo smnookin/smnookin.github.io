@@ -9,11 +9,6 @@ tags:
   - student
 ---
 
-
-## Two Features of the Algeria Hostage Crisis
-
-
-
 	On January 16th, 2013, an al-Qaeda linked terrorist group attacked a multinationally-managed gas plant in In Amenas , Although the exact number of the casualties is yet to be known, at least 39 foreigners were said to be killed in the event, including 10 Japanese people, who worked for the Japan Gasoline Company. The incident shocked many in Japan, and the depth of the Japanese reaction can be seen in the reforms put in place by the government thereafter.
 
 	At the time, the Japanese government said that saving human life was a priority and that it would do its best to rescue all the Japanese hostages. Some  were rescued, but 10 were eventually killed and 4 foreign employees were still missing. Since the 16th, the Japanese government had frequently contacted the counterparts of other involved countries, such as Britain, France, Norway, and Algeria, and agreed to cooperate in exchanging the latest information. It emphatically asked the Algerian government to make sure about the safety of human life. However, at dawn of the 20th, it was reported to the Japanese government that the Algerian government had completed the responsive assault to the terrorists, and it was obvious that it had prioritized the oppression of the terrorists over the rescue of the hostages. Despite the reasonable efforts by the Japanese government, it ended up in the loss of its 10 civilians. In this context, it was pointed out by various media that the current system of the Japanese government to deal with the international security emergency should be fundamentally reviewed.
@@ -34,4 +29,4 @@ tags:
 
 	The older generation, however, lived through multiple terrorist attacks before 9/11, such as Lod Airport massacre in 1975, Subway Sarin Incident in 1995 and Luxor massacre in 1997, all of which Japanese people were deeply involved in. In fact, the first and the second were carried out by Japanese people themselves. Although terrorism has also attracted their attention far more after 9/11, for them, it’s just that the notion of “terrorism” came to be recognized more worldwide but the involvement of Japanese people in terrorism isn’t such a new thing. It would be understandable if the Algeria Hostage Crisis didn’t attract so much attention from them as an international terrorist attack which involved many Japanese people.
 
-	The Algeria Hostage Crisis is worth paying attention from political viewpoint. However, as one of the features this incident has, it unexpectedly revealed the generation gap among the Japanese people about the perspective toward "terrorism."
+	The Algeria Hostage Crisis is worth paying attention from political viewpoint. However, as one of the features this incident has, it unexpectedly revealed the generation gap among the Japanese people about the perspective toward “terrorism.”
