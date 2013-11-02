@@ -1,12 +1,11 @@
 ---
 layout: post
 published: true
-title: Untitled
+title: "Throwdown at Wellesley: It's Ville, dammit!"
 category: politics
 author: Nathalie Davidson
 displaydate: "October 24, 2013"
 ---
-
 
 ![Screen shot 2013-10-28 at 4.21.09 PM.png](/assets/Screen shot 2013-10-28 at 4.21.09 PM.png)
 
