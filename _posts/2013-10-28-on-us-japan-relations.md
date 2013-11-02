@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: Living up to my Name
 category: politics
 author: Mia Guild
 displaydate: 10/28/2013
 tags: 
   - student
+date: 10/28/2013
 ---
 
 My name is 美亜 (Mia). In Japanese, 美 means America and 亜 means Asia. My parents chose these characters because my mother is Japanese and my father is American. But my interest in these two countries goes beyond my name and heritage. I want to be part of a generation that cultivates a strong relationship between the two countries, and I think that our generation, as students, can key role in the future of this relationship for decades to come. 
