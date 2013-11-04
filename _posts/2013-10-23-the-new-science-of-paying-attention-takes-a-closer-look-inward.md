@@ -10,7 +10,6 @@ tags:
   - student
 ---
 
-![](/assets/mediawatching.jpg)
 We have seen this scene in classrooms before. “Pay attention,” the teacher says at the child looking out the window. She believes the student is bored, disengaged, and focusing his or her attention on something other than the lesson, definitely not learning the material on the board. 
 
 This is how we might have thought about education ten or twenty years ago. But could all that be changing? 
