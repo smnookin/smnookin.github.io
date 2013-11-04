@@ -6,8 +6,8 @@ category: science
 author: Leo Liu
 tags: 
   - student
-displaydate: "October 27, 2013"
-date: "October 20, 2013"
+displaydate: "2013-10-27"
+displaydate: "2013-10-20"
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hands-free_Driving.jpg/800px-Hands-free_Driving.jpg) Automakers are expecting autonomous cars to be commercially available by the end of the decade, but the cars have to overcome one crucial flaw first.

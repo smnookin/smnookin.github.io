@@ -4,7 +4,8 @@ published: false
 title: The New Science of Paying Attention Takes a Closer Look Inward
 category: science
 author: Sue Li
-displaydate: 10.23.2013
+displaydate: "2013-10-23"
+date: "2013-10-23"
 ---
 
 ![](/assets/mediawatching.jpg)

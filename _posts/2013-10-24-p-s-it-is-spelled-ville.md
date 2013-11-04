@@ -4,8 +4,8 @@ published: true
 title: "Throwdown at Wellesley: It's Ville, dammit!"
 category: politics
 author: Nathalie Davidson
-displaydate: "October 24, 2013"
-date: 10/25/2013
+displaydate: "2013-10-24"
+date: "2013-10-25"
 tags: 
   - student
 ---

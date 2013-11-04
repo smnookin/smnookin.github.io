@@ -4,7 +4,8 @@ published: false
 title: Untitled
 category: science
 author: Mia Guild
-displaydate: 10/23/2013
+displaydate: "2013-10-23"
+date: "2013-10-23"
 tags: 
   - student
 ---
