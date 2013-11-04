@@ -22,7 +22,7 @@ The second point is controversial. Over the initiative of information gathering,
 
 Thinking about the political situation at that time—right after the regime change—it’s reasonable that the Algeria Hostage Crisis attracted a lot of attention in the government, but did it generate the same interest among the Japanese society at that time?
 
-Let me briefly introduce my curious personal experience. After this incidence, I talked with my professor, who was around 40, about how shocking the news had been to me. 10 Japanese people were killed in the terrorist attack in Africa! I thought she would agree with me. However, her response made me surprised: “Why? It’s not rare that the Japanese people are involved in terrorism.
+Let me briefly introduce my curious personal experience. After this incidence, I talked with my professor, who was around 40, about how shocking the news had been to me. 10 Japanese people were killed in the terrorist attack in Africa! I thought she would agree with me. However, her response made me surprised: “Why? It’s not rare that the Japanese people are involved in terrorism.”
 
 Of course, my personal surprise cannot be generalized, but where does this difference of reaction come from? Through analyzing this question, I came to think that how the Japanese people react to terrorist attacks might depend on whether or not they lived through similar incidents before the 9/11 attack.
 
