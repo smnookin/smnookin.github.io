@@ -4,6 +4,10 @@ published: false
 title: Digital Natives Born Hungry
 category: politics
 author: Sue Li
+displaydate: "2013-11-04"
+date: "2013-11-01"
+tags: 
+  - student
 ---
 
 ## 
@@ -21,4 +25,3 @@ Attracting leaders in all fields of early childhood expertise, the most popular 
 In order to prepare our kids for the 21st century in an age, we must harness rather than ignore the technological changes in our society and in our classrooms, encouraging creative thinking through technology, not just finding “right answers, but really interesting answers.” A child writing numbers on an iPad gains no more additional value than the child who scratches numbers in chalk on an old slate, and in fact, will lose the tactical experience of the smell of the wood, sound of her own writing, or feel of the powder.
 
 We are at the cusp of a new movement in which technology will not only become more ubiquitous and pervasive but also reach younger audiences, and as “digital immigrants,” if we can’t beat ‘em, then might as well join ‘em. However, keeping in mind our responsibilities to our next generation, Marisa Wolsky, executive producer of children’s programming at WGBH reminds us that when providing our kids with digital content, to not leave them hungry by feeding them “empty calories.”
-
