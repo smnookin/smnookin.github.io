@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Untitled
+title: Mia Aquarium story
 category: science
 author: Mia Guild
 displaydate: "2013-10-23"
