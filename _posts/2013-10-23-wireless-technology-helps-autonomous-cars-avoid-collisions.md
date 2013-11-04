@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Wireless Technology Helps Autonomous Cars Avoid Collisions
+title: Wireless technology helps autonomous cars avoid collisions
 category: science
 author: Leo Liu
 tags: 
