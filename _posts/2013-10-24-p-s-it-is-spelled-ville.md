@@ -11,7 +11,6 @@ tags:
 ---
 
 ![Screen shot 2013-10-28 at 4.21.09 PM.png](/assets/Screen shot 2013-10-28 at 4.21.09 PM.png)
-
 “There has never been another way to spell the Vil, it’s always been, V-i-l.” I politely smiled. For the past two days, I had been on a hunt to discover what the correct spelling of the “Vil/Ville” was. The word refers to a small retail section of Wellesley adjacent to the college. The Vil/Ville nickname is a fond term students use for the village where they often travel in packs to sniff out a bargain at the Gap or to visit the local watering hole, Starbucks.  
 
 Somewhere in the decade of wild hair, tight colorful spandex, and getting physical with Olivia Newton John, the Vil added an "le" to its spelling. Perhaps too many Wellesley students were involved in the current debates of the time to bother with spelling.  Most outsiders are unaware there’s ever been a debate: When I asked residents and shopkeepers about the spelling conundrum, they had no idea what I was talking about. 
