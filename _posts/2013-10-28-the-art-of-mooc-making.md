@@ -1,10 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: The Art of MOOC Making
 category: politics
 author: Sue Li
-displaydate: "10-23-2013"
+displaydate: "2013-10-23"
+date: "2013-10-23"
+tags: 
+  - student
 ---
 
 If I told you that thousands of students are dropping out of Harvard and MIT, you might not believe me. But what if I told you they were discontinuing their studies online? They’re part of a recent movement in educational technology called MOOCs, Massive Online Open Courseware, which have been springing up in universities everywhere in the world, especially since the launch of edX last year, a joint venture by these two powerhouse research institutions, to make higher education accessible to all. 
@@ -23,4 +26,3 @@ As a result of the cuts in funding and loss of arts education, John Maeda has be
 John Oho, president of Oho Interactive who strategizes design solutions for nonprofits, companies, and other clients, believes that four components— usability, beauty, emotion, and meaning---equal lovability. The role of usability and meaning seem obvious; the solution must be relevant for its user and solve a problem. However, in the later stages of his strategy development, he also realized how equally important were both beauty and emotion. They provide motivation and are the “lasting glue,” he explains. They are what stuck with his clients after the product, many times also in the form of a screen such as a website, was gone.
 
 So, how do educators and technologies ensure beauty and emotion, two seemingly incompatible ideas? It’s a solution that must be designed, and a shift in the way that we might think about education for the 21st century.
-
