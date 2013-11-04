@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Two Features of the Algeria Hostage Crisis
+title: Two features of the Algeria hostage crisis
 category: politics
 author: Maho Sugihara
 displaydate: "2013-10-23"
