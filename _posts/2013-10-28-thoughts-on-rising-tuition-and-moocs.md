@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Thoughts on Rising Tuition and MOOCs
+title: Thoughts on rising tuition and MOOCs
 category: politics
 displaydate: "2013-10-26"
 date: "2013-10-26"
