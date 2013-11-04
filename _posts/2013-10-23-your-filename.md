@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Active Mind and Inactive Hand: MIT Student Activism"
 category: politics
 author: Noalee Harel
@@ -8,7 +8,6 @@ date: "2013-10-23"
 displaydate: "2013-10-23"
 tags: 
   - student
-
 ---
 
 It did not take long for me to recognize the state of political activism – or lack thereof – on MIT’s campus. During my freshman year, I got involved with a political advocacy group called MIT Students for Israel that plans campus events to educate about Israel’s politics, culture and history. But soon after joining the group, I realized that there was no audience on campus for what we were trying to do – planning events wasn’t easy, and the regularly low turnout was anything but inspiring. By the time I was a sophomore, I decided to focus my time on the other organizations that I had joined – my sorority, a dance group and a high school student mentorship program – and I haven’t been politically active since.  
