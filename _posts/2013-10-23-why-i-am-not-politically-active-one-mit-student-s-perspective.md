@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "Why I am not politically active: one MIT student’s perspective"
 category: politics
 author: Leo Liu
