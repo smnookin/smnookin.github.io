@@ -10,8 +10,6 @@ tags:
   - student
 ---
 
-## 
-
 Sliding 16 ice cubes evenly into 4 cups while dodging obstacles like ladybugs and plastic straws makes learning number partitioning easy, even for three year olds. To pour and slurp an equal amount of juice in each cup, two preschoolers take turns tapping the plastic, kid proof iPad screen. Lemonade, produced by WGBH Digital Kids for the Next Generation Preschool Math project, is only one of many games for early childhood education presented at the Early Childhood Education Race to the Top Leadership Conference held at the Federal Reserve Bank of Boston on October 23rd. 
 
 Tom Weber, the Commissioner of Massachusetts Department of Early Education and Care, which launched in 2005 as the first independent department in the nation to focus on this population of children, stressed the importance of closing the achievement gap early, which begins at 1-2 years of age, rather than in kindergarten or first grade. “The return on investment is incomparable. Studies routinely place 10 to 18 dollars on each dollar spent on early childhood education.” Matthew Malone, Secretary of Education, agreed. “Early single dollar we don’t invest in early childhood is a waste of money.”
