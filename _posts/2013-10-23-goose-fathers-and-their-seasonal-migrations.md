@@ -4,8 +4,8 @@ published: false
 title: Goose Fathers and Their Seasonal Migrations
 category: politics
 author: Raina Park
-displaydate: "October 28, 2013"
-date: "October 28, 2013"
+displaydate: "2013-10-28"
+date: "2013-10-28"
 tags: 
   - student
 ---
