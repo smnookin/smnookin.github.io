@@ -2,12 +2,13 @@
 layout: post
 published: false
 title: "A case-by-case rebuttal of one student’s apathy about politics"
-category: science
-author: Michael C
-displaydate: "10-23-2013"
+category: politics
+author: Michael Cheung
+displaydate: "2013-10-23"
+date: "2013-10-23"
+tags: 
+  - student
 ---
-
-## A case-by-case rebuttal of one student’s apathy about politics
 
 MIT students don’t really care about politics.  
 
