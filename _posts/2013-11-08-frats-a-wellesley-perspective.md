@@ -4,7 +4,7 @@ published: false
 title: "Frats: A Wellesley Perspective "
 category: politics
 author: Mia Guild
-displaydate: "11-08-2013"
+displaydate: "2013-11-08"
 tags: 
   - student
 ---
@@ -21,7 +21,7 @@ Hajin Park, a freshman at Wellesley, said that she was bummed that there wouldn�
 
 Although many Wellesley students now feel that their social lives are in jeopardy, other students are relieved by the crackdown. 
 
- “ [Frat boys] just find ways to get drunk and do something stupid…and partying and being part of a frat only exacerbates that situation,” said one junior who wished to remain anonymous. 
+“[Frat boys] just find ways to get drunk and do something stupid…and partying and being part of a frat only exacerbates that situation,” said one junior who wished to remain anonymous. 
 
 Sophomore Maya Marlette said that most students think frat boys are “icky”, “conceited,” and ”egotistical”. “I see frats as sort of needy, a little gross,” Marlette said.
 
