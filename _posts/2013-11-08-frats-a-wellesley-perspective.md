@@ -11,7 +11,7 @@ tags:
 
 After an 18-year-old student fell through a skylight and down four stories, an investigation was brought about that led to a ban on social gatherings and parties until further notice at frats, sororities, and Independent Living Groups at MIT. During these investigations, the Boston Inspection Services Department found that many of these residences violated safety regulations. 
 
-Greek life doesn’t exist at Wellesley College, but many Wellesley students party or attend social gatherings at MIT frats and consider MIT to be a large part of their social life. So it’s no surprise that many Wellesley students were shocked, surprised, and upset by the news [of the ban].
+Greek life doesn’t exist at Wellesley College, but many Wellesley students party or attend social gatherings at MIT frats and consider MIT to be a large part of their social life. So it’s no surprise that many Wellesley students were shocked, surprised, and upset by the news of the ban.
 
 “I'm surprised and saddened by the shutdown of the frats since there were traditions [both at Wellesley and MIT] of going to rush week in September that may never happen again,” said Wellesley sophomore Laura Brindley. “I have enjoyed going to frats in the past. They were a good stress-reliever and a good reason to get off campus on weekends.” 
 
