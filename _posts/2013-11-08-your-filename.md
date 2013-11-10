@@ -1,10 +1,12 @@
 ---
 layout: post
 published: false
-title: ""
+title: "Mia - Frat/sorority article"
 category: politics
 author: Mia Guild
 displaydate: "2013-11-08"
+tags: 
+  - student
 ---
 
 After an 18-year-old student fell through a skylight and down four stories, an investigation was brought about that led to a ban on social gatherings and parties until further notice at frats, sororities, and Independent Living Groups at MIT. During these investigations, the Boston Inspection Services Department found that many of these residences violated safety regulations. 
