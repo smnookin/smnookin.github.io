@@ -11,7 +11,7 @@ tags:
   - slider
 ---
 
-![](http://i.imgur.com/0uniBTSl.png)Cage homes in Hong Kong have been featured in newspapers and protested against for years. They are exactly what they sound like, metal mesh cages measuring roughly 6 ft x 2.5 ft, with up to twelve crammed and stacked into a single, standard apartment. Not only are these “homes” so small they bar occupants from being able to sit fully upright, they are plagued with a variety of problems from hygiene to lack of privacy and psychological distress.
+![](http://i.imgur.com/0uniBTSl.png) Cage homes in Hong Kong have been featured in newspapers and protested against for years. They are exactly what they sound like, metal mesh cages measuring roughly 6 ft x 2.5 ft, with up to twelve crammed and stacked into a single, standard apartment. Not only are these “homes” so small they bar occupants from being able to sit fully upright, they are plagued with a variety of problems from hygiene to lack of privacy and psychological distress.
 
 As many as 100,000 people are estimated to live in these cage homes, a large part due to out-of-reach property values. A [recent Forbes’ ranking](http://www.forbes.com/sites/kenrapoza/2013/03/23/the-worlds-most-expensive-cities/) lists Hong Kong as the city with the most expensive real estate in the world, with Tokyo coming in second and London third. (New York is the only American city that ranks among the top ten).  
 
