@@ -1,0 +1,25 @@
+---
+layout: post
+published: false
+title: "Citizen Reporters in Social Media: The Mexican Avengers"
+category: science
+author: Nathalie Davidson
+displaydate: 24 November 2013
+---
+
+
+It’s easy to get away with murder in Mexico: [over the past six years, 101,119 murders have been reported](http://latino.foxnews.com/latino/news/2012/11/27/mexico-murders-at-over-101000-in-past-6-years-report-says/). It’s no wonder that Mexican journalists are often afraid to report information on drug cartels. Over the last several years, however, Twitter and other social media platforms have allowed reporters and citizen journalists to spread information while remaining protected by the anonymity of the web. In 2011, anonymous users began tweeting and reporting about the high-risk areas of Monterrey, a large city in northern Mexico. One of the best known, @trackmty, asked her followers to help her identify and denounce people who helped drug cartels. Before long, @trackmty and her 57,127 followers had done what the Mexican police are often unable or unwilling to accomplish: They’d made it impossible for drug cartel informants to continue.
+
+[Eni Mustafaraj](http://cs.wellesley.edu/~eni/) and [Panagiotis “Takis” Metaxas](http://cs.wellesley.edu/~pmetaxas/), two computer science professors at Wellesley College, wrote computer programs that mined data about the social media communities created in Monterrey to research how anonymous individuals on social media become influential and gain trust in communities. Andres Monroy-Hernandez, a post-doctoral researcher at Microsoft Research, presented Metaxas with a data set from Monterrey. Unsatisfied with the data collection, Mustafaraj set out to write programs to collect more information. The Wellesley professors started plotting the data based on citizen involvement in news spreading. 
+
+What they discovered is how fast trust can be established and broken in a community. @trackmty, who was initially known for being active against the drug cartels, suddenly was being accused of being a drug cartel facilitator. “This [change] really spiked our interests because it had to do with the fact of how you establish trust and how people decide who to trust when you’re an anonymous,” Mustafaraj explained. 
+
+A new anonymous account appeared in April 2011 and spent its first day sending 57 tweets accusing @trackmyt of working for the Zetas cartel. By reporting on calm areas in the city, she was giving cartel members helpful information that facilitated their drug trade. After persistent tweeting and a negative blog post by the popular Blog del Narco, her credibility was broken, the trust was lost, and @trackmty stopped tweeting by the end of June. 
+
+Defining what trust is and how you can get someone to trust an anonymous reporter is no easy feat. Both professors think that consistency in tweets lead to establishing credibility. Consistency can be tweeting information that proves to be true but also tweeting credible information often. Metaxas said, “When people really want to find information they will look for who is giving the information and if they see a consistent trend in their behavior they will trust it, even though they don’t know exactly who you are.” 
+
+All of this research and data collection falls under the umbrella of  “[Trails of Trustworthiness](http://cs.wellesley.edu/~pmetaxas/TrustTrails.pdf),” another project the Wellesley professors are collaborating on. Mustafaraj and Metaxas are working towards defining what a person can or cannot trust on social media. The paper outlines the seeds of a major project that they are currently undertaking. The project is not going to definitively reveal whether or not the piece of information is a true statement but rather help those who are actively searching for the truth. “We’re not going to say to the user ‘oh you should trust this, oh you shouldn’t trust this’ but we’re going to provide them with multiple sources to allow them to make an informed decision so they can see for themselves that maybe they shouldn’t be trusting that account,” said Mustafaraj. 
+
+In the Monterrey community, the most active Twitter practice was retweeting. A retweet is someone else’s tweet that you chose to share with all your followers. For Metaxas, retweeting makes sense as endorsement or a kind of trust. It’s indicative of agreement between the original sender and the retweeter. Retweets are providing information about a community of social media users that are in agreement on specific issues.  “[They are] essentially saying I trust this information enough so I will base my daily routine on this information. So that’s why we coined the term trust.” 
+
+In locations such as Mexico where citizen reporting is a necessity for living, defining what is trustworthy is vital. “Misinformation is important when there is something at stake. When you are about to make some decision and you need, you rely on sources out there and you want to make sure you’re relying on sources that are trustworthy,” explained Mustafaraj. 
