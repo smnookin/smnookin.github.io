@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "UntitWellesley College vs. The Environment: Fossil Free Wellesley’s divestment campaignled"
+title: "Wellesley College vs. The Environment: Fossil Free Wellesley’s divestment campaignled"
 category: politics
 author: Mia Guild
 displaydate: 24 November 2013
@@ -9,7 +9,7 @@ tags:
   - student
 ---
 
-![](/<a href="http://ow.ly/i/287Cg" target="_blank"><img src="http://static.ow.ly/photos/normal/287Cg.jpg" alt="Owly Images" /></a>)
+![](/assets/287Cg.jpg)
 On October 23rd,ten students from Fossil Free Wellesley met with representatives from the school’s Board of Trustees, Vice President for Finance and Administration Ben Hammond, Chief Investment Officer Deborah Kuenster, and President Kim Bottomly to ask the board to divest from publicly traded fossil fuel companies within the next two years.
 
 This year, the group has been staging die-ins, a type of protest where students simulated, petitioning and spreading awareness for their cause around campus.
@@ -44,5 +44,4 @@ Other students say that the campaign is not properly presenting facts and inform
 If Wellesley divests, it wouldn’t be the first time. In the 1980s, there was a student run campaign calling upon the school’s president and board of trustees to divest from apartheid in South Africa. But students against today’s divestment campaign argue that divesting from companies that operated in South Africa was a completely different situation. 
 “When colleges around the country decided to divest from companies that operated in South Africa, their goal was to pressure to dismantle, and it is fair to assume that the deeper goal was to stop racism in South Africa. However, dismantling the fossil fuel is not the first step toward environmental protection. While South Africa was physically able to operate without Apartheid, our world is not physically able to operate without fossil fuels” said Williams.
 
-The moral motivations behind today’s campaign are honorable. Everyone knows that climate change exists and that we are facing environmental consequences, and who doesn’t want to fight that? But the way Fossil Free Wellesley presents its case makes it seem as if those opposing the Fossil Free campaign are denying the effects that fossil fuel companies have on the environment, which isn’t the case. Plus, the solutions to climate change are more complex than simply divesting. Personally, I’m not sure that Fossil Free Wellesley has considered the full issue at hand and has not thoroughly thought through the environmental and financial implications of divestment. Until there are feasible, stronger, and more reliable sources of energy, I do not think that divestment will stop fossil fuel companies. These accompanies are also hard at work researching alternative energy sources, so a movement like this would make more sense once there are affordable and reliable energy sources available. 
-
+The moral motivations behind today’s campaign are honorable. Everyone knows that climate change exists and that we are facing environmental consequences, and who doesn’t want to fight that? But the way Fossil Free Wellesley presents its case makes it seem as if those opposing the Fossil Free campaign are denying the effects that fossil fuel companies have on the environment, which isn’t the case. Plus, the solutions to climate change are more complex than simply divesting. Personally, I’m not sure that Fossil Free Wellesley has considered the full issue at hand and has not thoroughly thought through the environmental and financial implications of divestment. Until there are feasible, stronger, and more reliable sources of energy, I do not think that divestment will stop fossil fuel companies. These accompanies are also hard at work researching alternative energy sources, so a movement like this would make more sense once there are affordable and reliable energy sources available.
