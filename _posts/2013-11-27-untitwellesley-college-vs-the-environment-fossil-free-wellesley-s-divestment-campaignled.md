@@ -9,7 +9,7 @@ tags:
   - student
 ---
 
-On October 23rd,ten students from Fossil Free Wellesley met with representatives from the school’s Board of Trustees, Vice President for Finance and Administration Ben Hammond, Chief Investment Officer Deborah Kuenster, and President Kim Bottomly to ask the board to divest from publicly traded fossil fuel companies within the next two years.
+O![](/<a href="http://ow.ly/i/287Cg" target="_blank"><img src="http://static.ow.ly/photos/normal/287Cg.jpg" alt="Owly Images" /></a>)n October 23rd,ten students from Fossil Free Wellesley met with representatives from the school’s Board of Trustees, Vice President for Finance and Administration Ben Hammond, Chief Investment Officer Deborah Kuenster, and President Kim Bottomly to ask the board to divest from publicly traded fossil fuel companies within the next two years.
 
 This year, the group has been staging die-ins, a type of protest where students simulated, petitioning and spreading awareness for their cause around campus.
 
