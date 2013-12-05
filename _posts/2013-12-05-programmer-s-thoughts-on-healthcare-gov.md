@@ -10,7 +10,10 @@ tags:
   - student
 ---
 
-![](/assets/test2.png) Healthcare.gov is a mess. When the site first launched on October 1, it was totally unusable. Today, the site still doesn’t work. One user spent several hours a day for a whole month repeatedly trying to sign up for healthcare. The exact problems he encountered on the site before finally succeeding are chronicled [here](http://www.cnbc.com/id/101171790). One of the technical leaders of the project [just resigned](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/11/06/healthcare-govs-head-tech-guy-is-out/), and officials are [currently testifying](http://online.wsj.com/news/articles/SB10001424052702303309504579181763508216406) in Congress about the site’s issues. As a computer programmer, this problem interests me.
+![](/assets/test2.png)
+![image.jpg](/assets/image.jpg)
+![](/assets/image.jpg)
+Healthcare.gov is a mess. When the site first launched on October 1, it was totally unusable. Today, the site still doesn’t work. One user spent several hours a day for a whole month repeatedly trying to sign up for healthcare. The exact problems he encountered on the site before finally succeeding are chronicled [here](http://www.cnbc.com/id/101171790). One of the technical leaders of the project [just resigned](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/11/06/healthcare-govs-head-tech-guy-is-out/), and officials are [currently testifying](http://online.wsj.com/news/articles/SB10001424052702303309504579181763508216406) in Congress about the site’s issues. As a computer programmer, this problem interests me.
 
 Healthcare.gov is a key piece of Obamacare, which Congress passed in 2010. The site allows users to shop for new health insurance plans. Several contracting firms, including the CGI Group, Experian, and Quality Software Services, built different parts of the website, but the entire list of firms has not been published. The total cost of the contracts ballooned to [$292 million](http://uk.reuters.com/article/2013/10/17/uk-usa-healthcare-technology-insight-idUKBRE99G06120131017). How could a site that cost so much not work?
 
