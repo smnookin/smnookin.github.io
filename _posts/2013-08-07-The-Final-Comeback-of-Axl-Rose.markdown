@@ -1,12 +1,12 @@
 ---
 layout: post
-displaydate: "2006-09-01"
+displaydate: "2014-07-25"
 date: "2013-08-18"
 published: true
 title: The Final Comeback of Axl Rose
 author: John Jeremiah Sullivan
 category: arts
-tags: 
+tags:
   - reading
 link: "http://www.gq.com/entertainment/celebrities/200609/final-comeback-axl-rose"
 ---
