@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Programmer's Thoughts on Healthcare.gov"
 category: politics
 author: Leo Liu
