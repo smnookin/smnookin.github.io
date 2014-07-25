@@ -1,7 +1,7 @@
 ---
 layout: post
-displaydate: "2013-09-07"
-date: "2013-09-07"
+displaydate: "2014-07-25"
+date: "2014-07-25"
 published: true
 title: The Syllabus
 author: Seth Mnookin
