@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: The New Science of Paying Attention Takes a Closer Look Inward
 category: science
 author: Sue Li
