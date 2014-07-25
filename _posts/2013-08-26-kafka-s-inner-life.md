@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "Kafka's Inner Life"
 category: arts
 link: "http://www.newrepublic.com/article/112836/saul-friedlanders-franz-kafka-reviewed-billy-giraldi"
