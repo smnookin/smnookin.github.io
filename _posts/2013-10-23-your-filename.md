@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "Active Mind and Inactive Hand: MIT Student Activism"
 category: politics
 author: Noalee Harel
