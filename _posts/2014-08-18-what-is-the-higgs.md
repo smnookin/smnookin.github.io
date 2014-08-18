@@ -6,7 +6,7 @@ category: science
 author: Nigel Holmes
 link: "http://www.nytimes.com/interactive/2013/10/08/science/the-higgs-boson.html?_r=1&#/?g=true"
 displaydate: "October 8, 2013"
-date: "January 4, 2013"
+date: "January 2, 2013"
 tags: 
   - reading
 ---
