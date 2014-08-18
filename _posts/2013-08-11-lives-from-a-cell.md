@@ -2,7 +2,7 @@
 layout: post
 displaydate: "1974-05-31"
 date: "2013-01-02"
-published: true
+published: false
 title: Lives of a Cell
 author: Lewis Thomas
 category: science
