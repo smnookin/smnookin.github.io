@@ -6,7 +6,7 @@ category: science
 author: Matt Might
 link: "http://matt.might.net/articles/my-sons-killer/"
 displaydate: "2012-05-12"
-date: "2012-12-31"
+date: "September 29, 2013"
 tags: 
   - reading
 ---
