@@ -2,7 +2,7 @@
 layout: post
 displaydate: "2011-01-11"
 date: "2013-01-02"
-published: true
+published: false
 title: "Intro to 'The Panic Virus'"
 category: science
 tags: 
