@@ -2,7 +2,7 @@
 layout: post
 displaydate: "2013-03-11"
 date: "2013-08-21"
-published: true
+published: false
 title: Requiem for a Dream
 author: Larissa MacFarquhar
 category: arts
