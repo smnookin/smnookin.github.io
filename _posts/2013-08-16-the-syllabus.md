@@ -30,10 +30,9 @@ A central component of the course is an online portal, created specifically for 
 
 The portal will allow students to experience all aspects of producing a story, from investigation and writing to editing and layout. Students would also be able to “comment” on their classmates’ assignments, mimicking the interactive nature on online news content.
 
-<br>
 
 
-**Course Website**
+**Course Website**<br>
 The course portal can be found at cms350.com. The course’s Stellar site can be found at http://stellar.mit.edu/S/course/21W/fa14/21W.737/. All resources, including an electronic copy of the syllabus, readings, assignments, and notices, will be available in both places. Post all your writing assignments to the Stellar site. This requires an MIT certificate, which can be acquired at http://ist.mit.edu/services/certificates. 
 
 
