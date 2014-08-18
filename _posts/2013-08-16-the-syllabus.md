@@ -21,21 +21,20 @@ The diminishment of these traditional gatekeepers has far-reaching consequences.
   
 “Topics in 21st Century Journalism” will do exactly that. Through in-depth scrutiny of a range of subjects and modes of practice, the course will give students the tools they need to be actively engaged with their media diets. 
 
+
 **Course Description**
 
-“Topics in 21st Century Journalism” is comprised of three modular units, each of which is comprised of four class sessions. Each unit will focus on a broad topic area and a distinct methodology, and each unit will require students to write a different type of modern-day news story. The breakdown is as follows:
-
-						TOPIC AREA					METHODOLOGY					ASSIGNMENT
-						Science 					Long-form					News stories
-						Politics					Gonzo journalism			Blog posts
-						Arts 						Profiles					Feature stories	
-                        
-<br>
-
+In “Topics in 21st Century Journalism,” students will write three types stories: news stories, blog posts, and longform profiles or features.  
 
 A central component of the course is an online portal, created specifically for the course, which will mimic an online-news site. The portal will be populated with students’ assignments from each of the three units, and students will participate in editorial decisions and back-end maintenance related to the site. The site has been designed using Foundation 4 (foundation.zurb.com) and will be maintained using github and prose.io. Students are not expected to have any previous knowledge with these tools – they will be discussed in the course itself. 
 
 The portal will allow students to experience all aspects of producing a story, from investigation and writing to editing and layout. Students would also be able to “comment” on their classmates’ assignments, mimicking the interactive nature on online news content.
+
+<br>
+
+
+**Course Website**
+The course portal can be found at cms350.com. The course’s Stellar site can be found at http://stellar.mit.edu/S/course/21W/fa14/21W.737/. All resources, including an electronic copy of the syllabus, readings, assignments, and notices, will be available in both places. Post all your writing assignments to the Stellar site. This requires an MIT certificate, which can be acquired at http://ist.mit.edu/services/certificates. 
 
 
 **Assignments and grading**
@@ -44,24 +43,22 @@ Class participation will comprise 20 percent of your final grade. Assignments re
 
 <u>Unit 1: Science News Story</u>
 
-- Pitch - 3%
-- Lede - 4%
-- Rough draft - 7%
-- Final draft - 8%
+- Pitch & lede - 6%
+- Rough draft - 6%
+- Final draft - 12%
 
-<u>Unit 2: Political blog posts: 25%</u>
+<u>Unit 2: Blog posts: 25%</u>
 
 - Pitch – 3%
-- Blog post 1 – 7%
-- Blog post 2 – 7%
-- Blog post 3 – 8%	
+- Blog post 1 – 11%
+- Blog post 2 – 11%	
 
-<u>Unit 3: Art feature story: 30%</u>
+<u>Unit 3: Profile/feature: 30%</u>
 
 - Pitch – 2%
-- Outline - 3%
-- Rough draft – 7%
-- Final draft – 18%
+- Outline - 5%
+- Rough draft – 10%
+- Final draft – 15%
 
 Grades will be assigned according to the following scale:
 
@@ -78,7 +75,7 @@ Grades will be assigned according to the following scale:
 Graduate students who want to receive graduate-level credit must contact the instructor to arrange for additional assignments to be completed during the semester.
 
 <u>Attendance/lateness</u>:
-Attendance is mandatory. Two unexcused absences will result in a reduction of a letter grade for the semester, three unexcused absences will result in the reduction of two letter grades for the semester, and four unexcused absences will result in your being withdrawn from the course. Being more than ten minutes late to class will be considered the equivalent of one-fourth of an unexcused absence.
+Attendance is mandatory. Three unexcused absences will result in a reduction of a letter grade for the semester, five unexcused absences will result in the reduction of two letter grades for the semester, and six unexcused absences will result in your being withdrawn from the course. Being more than ten minutes late to class will be considered the equivalent of one-fourth of an unexcused absence.
 
 <u>Use of laptops and tablets in class</u>:
 A significant portion of the class will take place on the course’s website; because of this, laptop use is not only permitted but encouraged. I will not police your computer use during class but I fully expect that anything you are doing during class time relates to the class itself. “Topics and Methods in 21st Century Journalism” is a collaborative effort. Each of you will aid and benefit from the engaged participation of your colleagues. Use of your computer for non-class work is damaging to both the spirit and practical functioning of this course.
