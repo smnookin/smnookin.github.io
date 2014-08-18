@@ -33,6 +33,7 @@ The portal will allow students to experience all aspects of producing a story, f
 
 
 **Course Website**<br>
+
 The course portal can be found at cms350.com. The course’s Stellar site can be found at http://stellar.mit.edu/S/course/21W/fa14/21W.737/. All resources, including an electronic copy of the syllabus, readings, assignments, and notices, will be available in both places. Post all your writing assignments to the Stellar site. This requires an MIT certificate, which can be acquired at http://ist.mit.edu/services/certificates. 
 
 
