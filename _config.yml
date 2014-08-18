@@ -41,9 +41,9 @@ prose:
           options:
             - name: "Science"
               value: "science"
-            - name: "Politics"
+            - name: "News"
               value: "politics"
-            - name: "Arts & Profiles"
+            - name: "Features & Profiles"
               value: "arts"
             - name: "Course info"
               value: "course"
