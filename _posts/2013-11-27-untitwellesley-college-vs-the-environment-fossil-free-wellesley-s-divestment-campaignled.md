@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Wellesley College vs. The Environment: Fossil Free Wellesley’s divestment campaignled"
 category: politics
 author: Mia Guild
