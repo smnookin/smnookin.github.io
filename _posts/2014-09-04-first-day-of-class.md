@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: First Day of Class
 category: course
 author: Seth Mnookin
