@@ -4,9 +4,10 @@ published: true
 title: "Keeping An Arm's Length: The Neglected Problem Of College Dating Violence"
 category: politics
 author: Veronica Thomas
-displaydate: 9/28/2014
+displaydate: "September 28, 2014"
 tags: 
   - student
+date: "September 28, 2014"
 ---
 
 ![](http://i59.tinypic.com/2rf60qr.jpg)_(Kristin with her family during graduation, May 14, 2005, courtesy of Bill Mitchell)_ 							When Bill Mitchell first received the call about his daughter’s death, he was shocked. Unconvinced the person on the other end was even a real detective, he asked to meet in the parking lot of a nearby supermarket. That’s where he heard what happened: his twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of four months. “You have no idea on earth that this could possibly happen to you,” he says. 
