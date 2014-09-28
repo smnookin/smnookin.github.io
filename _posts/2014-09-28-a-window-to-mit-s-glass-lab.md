@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "A Window to MIT's Glass Lab"
 category: politics
 author: Scout Carpenter
