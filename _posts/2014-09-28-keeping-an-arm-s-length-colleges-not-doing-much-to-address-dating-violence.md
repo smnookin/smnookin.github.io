@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "Keeping An Arm's Length: Colleges Not Doing Much To Address Dating Violence"
+title: "Keeping An Arm's Length: Colleges Neglecting Issue Of Dating Violence"
 category: politics
 author: Veronica Thomas
 displaydate: 9/28/2014
@@ -19,7 +19,7 @@ It wasn’t until the drive home that reality began to sink in. “I was saying 
 
 Since Kristin’s death more than nine years ago, Mitchell and his wife have been running an [organization in her name](http://www.kristinskrusade.org/) aimed at increasing awareness about dating violence at colleges. “I think it really has the appearance of being put at arm’s length,” Mitchell tells me over the phone, while sitting in his daughter’s bedroom. He says that if a college provides any education about dating violence, it’s over and done with pretty quickly—like Take Back the Night, an awareness week every April.
 
-When the video of NFL player [Ray Rice punching and dragging his then-fiancée](http://www.nytimes.com/2014/09/09/sports/football/ray-rice-video-shows-punch-and-raises-new-questions-for-nfl.html?module=Search&mabReward=relbias%3Ar) from a hotel elevator surfaced online, the issue of intimate partner violence hit the national radar. Typically, domestic violence is suffered invisibly by the victim or reported as a tragic death on the local evening news, Mitchell says.
+When the video of NFL player [Ray Rice punching and dragging his then-fiancée](http://www.nytimes.com/2014/09/09/sports/football/ray-rice-video-shows-punch-and-raises-new-questions-for-nfl.html?module=Search&mabReward=relbias%3Ar) from a hotel elevator surfaced online, the issue of intimate partner violence hit the national radar. Typically, intimate partner violence is suffered invisibly by the victim or reported as a tragic death on the local evening news, Mitchell says.
 
 “It happens, people see it, they think it’s awful, then they get up tomorrow and go on with their lives,” Mitchell says. Most people, including himself-ten-years-ago, think that dating violence could never affect their lives. But here’s the thing: intimate partner violence is [happening all around](http://www.cdc.gov/violenceprevention/intimatepartnerviolence/), and it’s certainly not unique to high-profile athletes and [celebrities](http://www.washingtonpost.com/news/morning-mix/wp/2014/09/25/modern-family-star-sarah-hyland-gets-restraining-order-against-ex-boyfriend/). In fact, teens and young adults experience it more than any other group.
 
