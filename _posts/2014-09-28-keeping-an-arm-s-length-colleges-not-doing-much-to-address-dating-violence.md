@@ -2,7 +2,11 @@
 layout: post
 published: false
 title: "Keeping An Arm's Length: Colleges Not Doing Much To Address Dating Violence"
-category: science
+category: politics
+author: Veronica Thomas
+displaydate: 9/28/2014
+tags: 
+  - student
 ---
 
 When Bill Mitchell first received the call about his daughter’s death, he was shocked. Unconvinced the person on the other end was even a real detective, he asked to meet in the parking lot of a nearby supermarket. That’s where he heard what happened: his twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of about four months. “You have no idea on earth that this could possibly happen to you,” he says.
