@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Keeping An Arm's Length: The Neglected Problem Of College Dating Violence"
 category: politics
 author: Veronica Thomas
