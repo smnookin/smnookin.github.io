@@ -12,6 +12,7 @@ tags:
 
 ![](http://schantzgalleries.files.wordpress.com/2013/11/dsc_9279.jpg)Tucked away in the depths of MIT’s underground tunnel system, just below MIT’s innovative Laboratory for Advanced Materials and new mit.Nano building, you can find a workshop with students working over molten glass of temperatures higher than 1,600°F. Every year, down in this basement laboratory, several lucky MIT students get to learn the ancient art of glassblowing surrounded by furnaces that can reach temperatures of up to 2,000°F and which often stay hot for days in order to allow the glass to "cool" properly. 
 
+
 This hidden gem is [MIT’s Glass lab](http://video.mit.edu/watch/mit-glass-lab-where-art-meets-science-24645/ "MIT Glass Lab Video"), where students can take classes on glass-blowing and glass-working, and there will soon be even more opportunities for students to test their artisan skills. 
 
 A $2.2 million renovation of MIT’s Glass Lab and metal foundry began last June and should finish in time for its very popular January classes.  This program is unique among university glass programs, and its very existence is surprising when you consider that MIT is known for its reputation for innovation and focus on engineering programs.
