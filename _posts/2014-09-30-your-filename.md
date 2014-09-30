@@ -10,6 +10,7 @@ tags:
 date: ""
 ---
 
+Test edit 
 Three in the morning and the buildings of MIT are, for once, pretty much silent. Walking up the steps and into an empty Lobby 7, you can just barely hear the _tweet-tweet-drum_ behind you from the walk signal on Mass Ave, and the faint hum of floor-cleaners at work polishing the hallways to a dull, dirt-free sheen. An extra noise is audible: there's a distinct patter emanating in front of you from the Infinite Corridor, which is the main artery for foot-traffic among academic buildings. Halfway down, the Infinite opens into Lobby 10, and to your left is an antechamber with elevators, along with the source of the noise. 
 
 Standing there is a man with a ponytail and goatee. He wears black pants and a blue button-down, and keeps an e-cigarrette on hand. His head is bowed in concentration at the floor in front of him, where his hands are directing seven red balls to patter against the floor in a quick-paced rhythm. He is juggling.
