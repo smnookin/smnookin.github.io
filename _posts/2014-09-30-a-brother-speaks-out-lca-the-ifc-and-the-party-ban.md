@@ -2,7 +2,11 @@
 layout: post
 published: false
 title: "A Brother Speaks Out: LCA, the IFC, and the Party Ban"
-category: science
+category: politics
+author: Meryl Gibbs
+displaydate: September 30
+tags: 
+  - student
 ---
 
 “This was a freak accident and could have happened to anybody in any building,” said Jonah Hessels (’16), the Lambda Chi Alpha Alumni Relations chair. Hessels is the first brother willing to make a statement concerning the evening of August 30th. Until now, all brothers have declined to comment to The Tech, The Boston Globe, and any other online or print publication.
