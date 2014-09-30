@@ -10,7 +10,9 @@ tags:
 date: "September 28, 2014"
 ---
 
-![](http://i59.tinypic.com/2rf60qr.jpg)When Bill Mitchell first received the call about his daughter’s death, he was shocked. Unconvinced the person on the other end was even a real detective, he asked to meet in the parking lot of a nearby supermarket. That’s where he heard what happened: his twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of four months. “You have no idea on earth that this could possibly happen to you,” he says. 
+![](http://i59.tinypic.com/2rf60qr.jpg)When Bill Mitchell received the call about his daughter’s death, he was shocked. Unconvinced the person on the other end was a real detective, he asked to meet in the parking lot of a supermarket. That’s where he heard what happened: his twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of four months. 
+
+“You have no idea on earth that this could possibly happen to you,” he says. 
 
 It wasn’t until the drive home that reality began to sink in. “I was saying out loud in the car, ‘no Christmas, no birthdays, no weddings, no grandchildren,’” Mitchell says. “I was just reciting all these things that I realized weren’t going to happen.”
 
