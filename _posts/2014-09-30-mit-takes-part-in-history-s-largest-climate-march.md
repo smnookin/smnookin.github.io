@@ -11,7 +11,7 @@ tags:
 
 ![](/_posts/1491671_956029881080076_1969027885107661291_n.jpg)
 Students from across the country, including 70 from MIT, jammed downtown New York on Sunday, September 21st. Along with them were social justice organizations and labor unions, scientists and faith groups, monks and farmers, vegans, pagans, and marching bands. A church group’s ark-shaped float blasted “Respect” by Aretha Franklin. A man on all fours in a business suit dripped sweat as he dragged a smoking pan of dry ice through the streets. The crowd flowed down Central Park West and crushed itself between the billboards of Times Square. 
-    
+
 ![10711133_956029931080071_1505566343118686235_n.jpg](/_posts/10711133_956029931080071_1505566343118686235_n.jpg)
 
 
