@@ -4,7 +4,7 @@ published: false
 title: "The Late-Night Juggler"
 category: politics
 author: "Danny Ben-David"
-displaydate: 9/30/14
+displaydate: September 30 2014
 tags: 
   - student
 date: ""
