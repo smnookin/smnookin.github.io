@@ -7,6 +7,7 @@ author: Anisha Gururaj
 displaydate: "9-30-2014"
 ---
 
+![A well-worn copy of The Riverside Chaucer in MIT medieval literature professor, Arthur Bahr's, office. ](/https://ifeverythinghadaword.files.wordpress.com/2014/09/dsc_0341.jpg)
 When Noam Chomsky created the first philosophy class at MIT in the 1950s, he knew there would be questions. But he was not expecting to have a young engineer walk into his office and ask him if taking this class would help him talk to girls from Radcliffe, like the Harvard boys who could casually spout Kant at their leisure.
 
 MIT humanities classes have certainly evolved since then, growing from a few classes to an entire world renowned School of Humanities, Arts and Social Sciences (SHASS). Deborah Fitzgerald, the school’s dean, recently wrote an op-ed for the Boston Globe, claiming that “at MIT — a bastion of STEM education — we view the humanities, arts, and social sciences as essential, both for educating great engineers and scientists, and for sustaining our capacity for innovation.” MIT even requires a significant proportion of its undergraduate curriculum to be in SHASS—eight classes in four years. 
