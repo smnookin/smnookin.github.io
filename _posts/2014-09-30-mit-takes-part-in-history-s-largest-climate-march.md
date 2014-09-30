@@ -12,14 +12,15 @@ tags:
 ![](/_posts/1491671_956029881080076_1969027885107661291_n.jpg)
 Students from across the country, including 70 from MIT, jammed downtown New York on Sunday, September 21st. Along with them were social justice organizations and labor unions, scientists and faith groups, monks and farmers, vegans, pagans, and marching bands. A church group’s ark-shaped float blasted “Respect” by Aretha Franklin. A man on all fours in a business suit dripped sweat as he dragged a smoking pan of dry ice through the streets. The crowd flowed down Central Park West and crushed itself between the billboards of Times Square. 
 
-![10711133_956029931080071_1505566343118686235_n.jpg](/_posts/10711133_956029931080071_1505566343118686235_n.jpg)
-
-
 MIT students from [Fossil Free MIT](http://www.fossilfreemit.org/) carried signs reading “Youth Choose Climate Justice” and “MIT Stands With Science”.
 
 At 12:58 PM, a hush descended. Arms raised as [400,000](http://time.com/3415162/peoples-climate-march-new-york-manhattan-demonstration/) marchers observed a moment of silence for those already directly affected by climate change. Near the front of the march were the victims of the massive damage caused by hurricane Sandy, which hit the Caribbean and the Northeastern United States in 2012 and became the [largest Atlantic hurricane](http://www.erh.noaa.gov/mhx/EventReviews/20121029/20121029.php) ever recorded.
 
 At 1:00 PM, a wave of noise propagated through the thronged streets. 400,000 howled together in a moment of alarm, to symbolize the urgent need for action.
+
+
+![10711133_956029931080071_1505566343118686235_n.jpg](/_posts/10711133_956029931080071_1505566343118686235_n.jpg)
+
 
 Patrick Brown didn’t expect such a turnout at the People’s Climate March, from the MIT community or in general. The MIT vans filled up, and Brown had to scramble to find transportation for last-minute marchers. “It’s a good problem to have,” he said.
 
