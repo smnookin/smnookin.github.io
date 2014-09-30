@@ -10,6 +10,7 @@ tags:
 ---
 
 ![](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png)
+
 A floor below the barking dog, fighting kids, and blaring TV, Professor Anant Agarwal sits in the basement of his home in Weston, Massachusetts. After recording screen-cast lectures for his class on Circuits and Electronics, he posts the videos along with some homework and exam questions on www.mitx.mit.edu - a website he initially coded himself. He hoped that this time, the material would reach a few more students than what can usually fit in the lecture hall at the Ray and Maria Stata Center on MIT’s campus. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
 
 Upon seeing the success of Agarwal’s first class, Harvard partnered with MIT in May of 2012 to create edX, a Massive Open Online Course (MOOC) platform open to any individual with Internet access. These platforms have lecture videos, homework problems, exam questions, discussion forums, and online TAs. Other MOOCs such as Coursera and Udacity had already launched similar models and formed partnerships with Stanford, Princeton, University of Michigan, AT&T, Google and Microsoft.
