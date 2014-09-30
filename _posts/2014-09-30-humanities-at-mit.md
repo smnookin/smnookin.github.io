@@ -31,4 +31,4 @@ Despite the institutional challenges, the professors argue strongly that MIT’s
 
 Sonenberg echoes this sentiment: “There’s a genuine understanding of the practice of art, like theater, as laboratory work, and this is something my engineering colleagues understand. Artists and engineers? We get each other.”
 
-Or, as many of the faculty suggest, they _should_ get each other. For MIT to live up to its rankings as a world-class institution, it will have to take a much harder look at whether the "MIT Humanities Experience" is all it really should be. 
+Or, as many of the faculty suggest, they _should_ get each other. For MIT to live up to its rankings as a world-class institution, it will have to take a much harder look at whether the "MIT Humanities Experience" is all it really should be.
