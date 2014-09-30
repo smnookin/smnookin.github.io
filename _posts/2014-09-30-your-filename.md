@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "The Late-Night Juggler"
 category: politics
 author: "Danny Ben-David"
