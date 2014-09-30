@@ -8,6 +8,7 @@ displaydate: "2014-09-28"
 date: "2014-09-28"
 tags: 
   - student
+  - slider
 ---
 
 ![](http://schantzgalleries.files.wordpress.com/2013/11/dsc_9279.jpg)Tucked away in the depths of MIT’s underground tunnel system, just below MIT’s innovative Laboratory for Advanced Materials and new mit.Nano building, you can find a workshop with students working over molten glass of temperatures higher than 1,600°F. Every year, down in this basement laboratory, several lucky MIT students get to learn the ancient art of glassblowing surrounded by furnaces that can reach temperatures of up to 2,000°F and which often stay hot for days in order to allow the glass to "cool" properly. 
