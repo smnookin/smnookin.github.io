@@ -11,9 +11,9 @@ tags:
 date: "September 28, 2014"
 ---
 
-![](http://i59.tinypic.com/2rf60qr.jpg)When Bill Mitchell first received the call about his daughter’s death, he was shocked. Unconvinced the person on the other end was even a real detective, he asked to meet in the parking lot of a nearby supermarket. That’s where he heard what happened: his twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of four months. “You have no idea on earth that this could possibly happen to you,” he says. 
+![](http://i59.tinypic.com/2rf60qr.jpg)When Bill Mitchell first received a call from someone who identified herself as a local detective, he wasn't sure whether to believe her. It wasn't until they met in the parking lot of a nearby supermarket that he learned the reason for the call: His twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of four months. “You have no idea on earth that this could possibly happen to you,” he says. 
 
-It wasn’t until the drive home that reality began to sink in. “I was saying out loud in the car, ‘no Christmas, no birthdays, no weddings, no grandchildren,’” Mitchell says. “I was just reciting all these things that I realized weren’t going to happen.”
+The reality of the situation didn't sink in until the ride home. “I was saying out loud in the car, ‘no Christmas, no birthdays, no weddings, no grandchildren,’” Mitchell says. “I was just reciting all these things that I realized weren’t going to happen.”
 
 Since Kristin’s death more than nine years ago, Mitchell and his wife have been running an [organization in her name](http://www.kristinskrusade.org/) aimed at increasing awareness about dating violence at colleges. “I think it really has the appearance of being put at arm’s length,” Mitchell tells me over the phone, while sitting in his daughter’s bedroom. He says that if a college provides any education about dating violence, it’s over and done with pretty quickly—like Take Back the Night, an awareness week every April.
 
