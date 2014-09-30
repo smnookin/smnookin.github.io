@@ -46,4 +46,4 @@ This conversation is part of what Fossil Free has been pushing for. The goal of 
 
 At the end of the march, people clogged 11th Avenue. Some sat on the sidewalk, after five hours of marching. Others danced.
 
-As the Fossil Free contingent posed for a group picture, a man passing by said to his companion: “Look at that. If MIT’s with us, who can be against us?”!
+As the Fossil Free contingent posed for a group picture, a man passing by said to his companion: “Look at that. If MIT’s with us, who can be against us?”
