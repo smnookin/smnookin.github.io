@@ -1,8 +1,10 @@
 ---
 layout: post
 published: false
-title: Humanities at MIT
+title: "Humanities at MIT: More than a Requirement? "
 category: science
+author: Anisha Gururaj
+displaydate: "9-30-2014"
 ---
 
 When Noam Chomsky created the first philosophy class at MIT in the 1950s, he knew there would be questions. But he was not expecting to have a young engineer walk into his office and ask him if taking this class would help him talk to girls from Radcliffe, like the Harvard boys who could casually spout Kant at their leisure.
@@ -27,5 +29,4 @@ Despite the institutional challenges, the professors argue strongly that MIT’s
 
 Sonenberg echoes this sentiment: “There’s a genuine understanding of the practice of art, like theater, as laboratory work, and this is something my engineering colleagues understand. Artists and engineers? We get each other.”
 
-Still, for MIT to take pride in its rankings as a world-class institution it will have to take a much harder look at how to truly integrate a world-class humanities into education at the institute.
-
+Or at least, as many of the faculty suggest, they _should_ get each other. For MIT to live up to its rankings as a world-class institution, it will have to take a much harder look at whether the "MIT Humanities Experience" is all it really can be. 
