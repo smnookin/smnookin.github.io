@@ -7,7 +7,7 @@ author: "Danny Ben-David"
 displaydate: September 30 2014
 tags: 
   - student
-date: ""
+date: "September 30, 2014"
 ---
 
 Test edit 
