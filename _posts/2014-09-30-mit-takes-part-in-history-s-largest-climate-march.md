@@ -15,17 +15,17 @@ tags:
     ![10711133_956029931080071_1505566343118686235_n.jpg](/_posts/10711133_956029931080071_1505566343118686235_n.jpg)
 
 
-	MIT students from Fossil Free MIT carried signs reading “Youth Choose Climate Justice” and “MIT Stands With Science”.
+	MIT students from [Fossil Free MIT](http://www.fossilfreemit.org/) carried signs reading “Youth Choose Climate Justice” and “MIT Stands With Science”.
 
-	At 12:58 PM, a hush descended. Arms raised as 400,000 marchers observed a moment of silence for those already directly affected by climate change. Near the front of the march were the victims of the massive damage caused by hurricane Sandy, which hit the Caribbean and the Northeastern United States in 2012 and remains the largest Atlantic hurricane on record.
+	At 12:58 PM, a hush descended. Arms raised as [400,000](http://time.com/3415162/peoples-climate-march-new-york-manhattan-demonstration/) marchers observed a moment of silence for those already directly affected by climate change. Near the front of the march were the victims of the massive damage caused by hurricane Sandy, which hit the Caribbean and the Northeastern United States in 2012 and became the [largest Atlantic hurricane](http://www.erh.noaa.gov/mhx/EventReviews/20121029/20121029.php) ever recorded.
 
 	At 1:00 PM, a wave of noise propagated through the thronged streets. 400,000 howled together in a moment of alarm, to symbolize the urgent need for action.
 
 	Patrick Brown didn’t expect such a turnout at the People’s Climate March, from the MIT community or in general. The MIT vans filled up, and Brown had to scramble to find transportation for last-minute marchers. “It’s a good problem to have,” he said.
 
-	Brown heads Fossil Free MIT, a campus environmental activism group. Since 2012, Fossil Free has been urging the MIT administration to stop investing the school’s endowment in fossil fuel companies. The divestment petition now has over 2700 signatures. The club also helps MIT students get involved in environmental activism.
+	Brown heads Fossil Free MIT, a campus environmental activism group. Since 2012, Fossil Free has been urging the MIT administration to stop investing the school’s endowment in fossil fuel companies. The divestment petition now has over 2700 signatures. The club also helps MIT students get involved in environmental activism through events like the march.
 
-	The People’s Climate March was the largest climate demonstration in history. The crowd assembled just as world leaders met in New York in advance of the 2015 climate conference in Paris. The march was meant to push for a binding international agreement to curb carbon emissions.
+	The People’s Climate March was the largest climate demonstration in history. It happened just as world leaders met in New York in advance of the 2015 climate conference in Paris. The march was meant to push for a binding international agreement to curb carbon emissions.
     
     ![10628105_956029774413420_2601407869024525412_n.jpg](/_posts/10628105_956029774413420_2601407869024525412_n.jpg)
 
