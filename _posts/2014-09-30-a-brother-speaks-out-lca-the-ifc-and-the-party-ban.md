@@ -9,6 +9,8 @@ tags:
   - student
 ---
 
+![] (http://d1wvharlsiyzfl.cloudfront.net/wp-content/uploads/2014/09/5777ddcab3da704f8638e61dff539732.png)
+
 “This was a freak accident and could have happened to anybody in any building,” said Jonah Hessels (’16), the Lambda Chi Alpha Alumni Relations chair. Hessels is the first brother willing to make a statement concerning the evening of August 30th. Until now, all brothers have declined to comment to The Tech, The Boston Globe, and any other online or print publication.
 
 A female Northeastern student was dancing to the thumping beat near a window as lasers pulsed and lights flickered at a Rush event filled with freshmen eager to taste the college party scene. Moments later, she tumbled from that third story window, landing on a one story garage. She was then rushed to Beth Israel Deaconess Medical Center where it was discovered that she suffered minor injuries, according to The Boston Globe.
