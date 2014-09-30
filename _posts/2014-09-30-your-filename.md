@@ -9,15 +9,15 @@ tags:
   - student
 ---
 
-Three in the morning and the buildings of MIT are, for once, pretty much silent. Walking up the steps and into an empty Lobby 7, you can just barely hear the _tweet-tweet-drum_ from the walk signal Mass Ave, and the faint hum of floor-cleaners at work polishing the hallways to a dull, dirt-free sheen. An extra noise is audible: there's a distinct patter emanating from the Infinite Corridor, which is the main artery for foot-traffic among academic buildings. Halfway down, the Infinite opens into Lobby 10, and to your left is an antechamber with elevators, along with the source of the noise. 
+Three in the morning and the buildings of MIT are, for once, pretty much silent. Walking up the steps and into an empty Lobby 7, you can just barely hear the _tweet-tweet-drum_ behind you from the walk signal on Mass Ave, and the faint hum of floor-cleaners at work polishing the hallways to a dull, dirt-free sheen. An extra noise is audible: there's a distinct patter emanating in front of you from the Infinite Corridor, which is the main artery for foot-traffic among academic buildings. Halfway down, the Infinite opens into Lobby 10, and to your left is an antechamber with elevators, along with the source of the noise. 
 
-Standing there is a man with a ponytail and goatee. He wears black pants and a blue button-down, and keeps an e-cigarrette on hand. His head is bowed in concentration, at the floor in front of him, where his hands are directing seven red balls to patter against the floor in a quick-paced rhythm. He is juggling.
+Standing there is a man with a ponytail and goatee. He wears black pants and a blue button-down, and keeps an e-cigarrette on hand. His head is bowed in concentration at the floor in front of him, where his hands are directing seven red balls to patter against the floor in a quick-paced rhythm. He is juggling.
 
 "You know juggling is really good for your brain. Studies have shown that it's good for your brain."
 
 ![Nicholas Ferri (Smyly the Juggler) juggling seven red balls](http://i.imgur.com/owrrj34.png)
 
-The first thing you realize when you go talk to Nicholas Ferri is that he really likes juggling. Every sentence out of his mouth ends with a tidbit about why juggling is important for the body, mind and soul. His dedication goes far enough that he prefers to go by his stage name, Smyly the Juggler. And you wouldn't know it looking at him, but he has been practicing late-night juggling, every week, at MIT for the last twenty-four years, since 1990.
+The first thing you realize when you go talk to Nicholas Ferri is that he really likes juggling. Nearly every sentence out of his mouth ends with a tidbit about why juggling is important for the body, mind and soul. His dedication goes far enough that he prefers to go by his stage name, Smyly the Juggler. And you wouldn't know it looking at him, but he has been practicing late-night juggling, every week, at MIT for the last twenty-four years, since 1990.
 
 At twelve years old, Smyly worked near Quincy Market in downtown Boston as a shoe-shine boy. Shoe shining wasn't a particularly popular profession, so a young Smyly began to learn tricks and skills from the other local vendors, including the art of juggling. In short order, he then found the MIT Juggling Club, which met regularly at the Institute, and he's been practicing his craft in Lobby 10 ever since.
 
