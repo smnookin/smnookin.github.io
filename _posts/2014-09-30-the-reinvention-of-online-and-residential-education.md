@@ -4,7 +4,7 @@ published: false
 title: The Reinvention of Online and Residential Education
 category: politics
 author: Keerti Shukla
-displaydate: "September 30th, 2014"
+displaydate: 09/30/2014
 tags: 
   - student
 ---
