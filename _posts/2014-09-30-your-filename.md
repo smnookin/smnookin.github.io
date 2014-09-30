@@ -23,8 +23,6 @@ At twelve years old, Smyly worked near Quincy Market in downtown Boston as a sho
 
 In the interim years, Smyly's nocturnal presence has made him a regular in the Infinite, as well as a friend to the janitorial staff and the campus police alike. He has come to serve as the de facto guardian of Lobby 10, which itself acts as a World War I memorial. If people try to disrespect the environment, Smyly handles them. "Doing something—bouncing something off the wall? You don’t do that, it’s a memorial. Writing something on the wall? You don’t do that," said Smyly. When a little over a year ago there was a threat of a potential gunman on campus, the police let Smyly know, who informed them that he stood ready to throw a juggler's club if necessary.
 
-Over the years, Smyly's routine has settled, and he doesn't have to actively protect Lobby 10 on a regular basis. "I was here juggling last night until probably 4:30, didn't get to bed until six in the morning. [...] I go home, I watch the Cleveland Show, I go to bed, you know? *chuckles* Cleveland Show, that's my show."
-
 What's particularly amazing about Smyly's status in the Infinite is how he holds no connection to MIT itself. He has never been a student; he's never been a TA for a class; he's not in the MIT directory. He comes back each week to meetings of the MIT Juggling Club, which does not possess any current student members. The Juggling Club was founded back in the 70s by then-MIT-student Arthur Lewbell, and the club has remained within MIT's halls ever since. Smyly himself is only affiliated through this non-student club: how, then, can he be allowed on campus so late at night?
 
 ![Nicholas Ferri (Smyly the Juggler) posing with his clubs](http://i.imgur.com/6N8gO3a.png)
