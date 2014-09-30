@@ -2,7 +2,11 @@
 layout: post
 published: false
 title: MIT Takes Part in History’s Largest Climate March
-category: science
+category: politics
+author: Zoe Sheinkopf
+displaydate: "September 30, 2014"
+tags: 
+  - student
 ---
 
 	Students from across the country, including 70 from MIT, jammed downtown New York on Sunday, September 21st. Along with them were social justice organizations and labor unions, scientists and faith groups, monks and farmers, vegans, pagans, and marching bands. A church group’s ark-shaped float blasted “Respect” by Aretha Franklin. A man on all fours in a business suit dripped sweat as he dragged a smoking pan of dry ice through the streets. The crowd flowed down Central Park West and crushed itself between the billboards of Times Square. 
