@@ -11,9 +11,7 @@ tags:
 date: "September 28, 2014"
 ---
 
-![](http://i59.tinypic.com/2rf60qr.jpg)Kristin Mitchell, who was killed by her boyfriend not long after this picture was taken, with her family after her graduation from college on May 14, 2005. Photo courtesy of Bill Mitchell.
-
-When Bill Mitchell first received the call about his daughter’s death, he was shocked. Unconvinced the person on the other end was even a real detective, he asked to meet in the parking lot of a nearby supermarket. That’s where he heard what happened: his twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of four months. “You have no idea on earth that this could possibly happen to you,” he says. 
+![](http://i59.tinypic.com/2rf60qr.jpg)When Bill Mitchell first received the call about his daughter’s death, he was shocked. Unconvinced the person on the other end was even a real detective, he asked to meet in the parking lot of a nearby supermarket. That’s where he heard what happened: his twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend of four months. “You have no idea on earth that this could possibly happen to you,” he says. 
 
 It wasn’t until the drive home that reality began to sink in. “I was saying out loud in the car, ‘no Christmas, no birthdays, no weddings, no grandchildren,’” Mitchell says. “I was just reciting all these things that I realized weren’t going to happen.”
 
@@ -44,3 +42,5 @@ Sexual assault programs have been around longer and have more sustainable fundin
 Edwards agrees that colleges need to shift the current attitudes toward dating violence. In her research, she’s found that young people often recognize the severe forms of abuse, like stalking and beatings. But most of the time, the behaviors are more moderate, like controlling a partner’s time spent with family or friends. Colleges should make it clear that all forms of abuse are unacceptable and empower students to speak up, Edwards says. The [bystander intervention](http://www.nytimes.com/2014/02/09/education/edlife/stepping-up-to-stop-sexual-assault.html) aims to do just that. Adapted by a number of colleges, a bystander intervention equips students with the agency and skills to prevent and respond to violence. Instead of trying to change the personality of the individual perpetrator or victim, it tackles dating violence from the community level. 
 
 The NFL has brought dating violenc to the forefront. “One way or another, you can’t get away from it,” Mitchell says. But he thinks it'll take a public outcry from the students to really get the ball rolling on prevention. “Nothing is going to turn it around faster than the student population getting together and going to the administration and saying, we demand this training,” he says.
+
+_(Photo of Kristin Mitchell with her family after her graduation from college on May 14, 2005 courtesy of Bill Mitchell.)_
