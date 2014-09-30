@@ -2,7 +2,11 @@
 layout: post
 published: false
 title: The Reinvention of Online and Residential Education
-category: science
+category: politics
+author: Keerti Shukla
+displaydate: "September 30th, 2014"
+tags: 
+  - student
 ---
 
 A floor below the barking dog, fighting kids, and blaring TV, Professor Anant Agarwal sits in the basement of his home in Weston, Massachusetts. After recording screen-cast lectures for his class on Circuits and Electronics, he posts the videos along with some homework and exam questions on www.mitx.mit.edu - a website he initially coded himself. He hoped that this time, the material would reach a few more students than what can usually fit in the lecture hall at the Ray and Maria Stata Center on MIT’s campus. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
