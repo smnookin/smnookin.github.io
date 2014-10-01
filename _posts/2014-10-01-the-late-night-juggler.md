@@ -11,7 +11,8 @@ tags:
 date: "October 1, 2014"
 ---
 
-![Nicholas Ferri (Smyly the Juggler) juggling seven red balls](http://i.imgur.com/owrrj34.png)Three in the morning and the main hallway that cuts through MIT's campus is, for once, pretty much silent. From the grand chamber that originally served as MIT's front entrance, you can hear the faint hum of industrial floor buffers at work. There's also a distinct patter coming from in front of the elevators.  
+![Nicholas Ferri (Smyly the Juggler) juggling seven red balls](http://i.imgur.com/owrrj34.png)    
+Three in the morning and the main hallway that cuts through MIT's campus is, for once, pretty much silent. From the grand chamber that originally served as MIT's front entrance, you can hear the faint hum of industrial floor buffers at work. There's also a distinct patter coming from in front of the elevators.  
 
 Standing there is a man with a ponytail and goatee. He wears black pants and a blue button-down, and keeps an e-cigarrette on hand. His head is bowed in concentration at the floor in front of him, where his hands are directing seven red balls to patter against the floor in a quick-paced rhythm. He is juggling.
 
