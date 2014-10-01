@@ -5,8 +5,7 @@ title: "Rebranding the Charles: Not-So-Dirty Water"
 category: science
 ---
 
-![photo credit: Emma Frank, December 2011](http://imgur.com/7X2jvJ9)
-
+![](/http://imgur.com/7X2jvJ9)
 When the Charles River Conservancy (CRC) first started their [“Swimmable Charles” initiative](http://www.thecharles.org/projects-and-programs/swimmable-charles/), some people thought that their slogan was a joke. Just ten years ago, in 2004, when the stewardship group launched the initiative, most of Boston doubted the Charles River would ever be clean enough to swim in.  After all, Boston’s Charles River has been considered “Dirty Water” since The Standells sung about it in the 1960s. Even before then, fears of toxic debris lurking beneath the surface and legends of precautionary post-swimming tetanus shots were more closely associated with the Charles than any idyllic swimming memories. But the CRC was determined to change the Charles’s reputation.
 
 Since the 1985 court-mandated cleanup of the river, teams of public and private groups have been working to regulate the sewage and wastewater flowing directly into the Charles. But what the average Bostonian thinks of the Charles is still up for debate – whether people are aware of the current cleanliness of the water or if they still take stock in the storied toxicity of the 1950s-era Charles. 
