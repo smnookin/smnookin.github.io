@@ -12,7 +12,23 @@ date: "October 1, 2014"
 
 ![](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png)
 
-A floor below the barking dog, fighting kids, and blaring TV, Professor Anant Agarwal sits in the basement of his home in Weston, Massachusetts. After recording screen-cast lectures for his class on _Circuits and Electronics_, he posts the videos along with some homework and exam questions on www.mitx.mit.edu - a website he initially coded himself. He hoped that this time, the material would reach a few more students than what can usually fit in the lecture hall at the Ray and Maria Stata Center on MIT’s campus. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
+
+Anant Agarwal created what ended up being one 
+
+educational innovations in decades in the basement of his house in Weston, . Working a floor below his barking dog, fighting kids, and blaring TV, he recorded screen-cast lectures for his class, _Circuits and Electronics_. He then posted the videos along with homework and exam questions on www.mitx.mit.edu, a website he coded himself. 
+
+He hoped that this time, the material would reach a few more students than what can usually fit in the lecture hall at the Ray and Maria Stata Center on MIT’s campus. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
+
+
+In early 2012, MIT professor Anant Agarwal sat in his basement. His dog barked. His kids fought. The TV was loud. 
+
+It was in Weston, Massachusetts. 
+
+He wanted to teach a class. 
+
+
+
+A floor below the barking dog, fighting kids, and blaring TV,  sat in the basement of his home in Weston, Massachusetts. After recording screen-cast lectures for his class on _Circuits and Electronics_, he posts the videos along with some homework and exam questions on www.mitx.mit.edu - a website he initially coded himself. He hoped that this time, the material would reach a few more students than what can usually fit in the lecture hall at the Ray and Maria Stata Center on MIT’s campus. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
 
 Upon seeing the success of Agarwal’s first class, Harvard partnered with MIT in May of 2012 to create edX, a Massive Open Online Course (MOOC) platform open to any individual with Internet access. These platforms have lecture videos, homework problems, exam questions, discussion forums, and online TAs. Other MOOCs such as Coursera and Udacity had already launched similar models and formed partnerships with Stanford, Princeton, University of Michigan, AT&T, Google and Microsoft.
 
