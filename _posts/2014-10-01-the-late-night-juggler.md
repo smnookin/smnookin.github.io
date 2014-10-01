@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: "The Late-Night Juggler"
 category: politics
 author: "Danny Ben-David"
-displaydate: 10/01/2014
+displaydate: October 1 2014
 tags: 
   - student
+date: "October 1, 2014"
 ---
 
 ![Nicholas Ferri (Smyly the Juggler) juggling seven red balls](http://i.imgur.com/owrrj34.png)Three in the morning and the buildings of MIT are, for once, pretty much silent. Walking up the steps and into an empty Lobby 7, you can just barely hear the _tweet-tweet-drum_ behind you from the walk signal on Mass Ave, and the faint hum of floor-cleaners at work polishing the hallways to a dull, dirt-free sheen. An extra noise is audible: there's a distinct patter emanating in front of you from the Infinite Corridor, which is the main artery for foot traffic among academic buildings. Halfway down, the Infinite opens into Lobby 10, and to your left is an antechamber with elevators, along with the source of the noise. 
