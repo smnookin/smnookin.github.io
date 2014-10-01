@@ -20,19 +20,11 @@ educational innovations in decades in the basement of his house in Weston, . Wor
 He hoped that this time, the material would reach a few more students than what can usually fit in the lecture hall at the Ray and Maria Stata Center on MIT’s campus. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
 
 
-In early 2012, MIT professor Anant Agarwal sat in his basement. His dog barked. His kids fought. The TV was loud. 
-
-It was in Weston, Massachusetts. 
-
-He wanted to teach a class. 
-
-
-
-A floor below the barking dog, fighting kids, and blaring TV,  sat in the basement of his home in Weston, Massachusetts. After recording screen-cast lectures for his class on _Circuits and Electronics_, he posts the videos along with some homework and exam questions on www.mitx.mit.edu - a website he initially coded himself. He hoped that this time, the material would reach a few more students than what can usually fit in the lecture hall at the Ray and Maria Stata Center on MIT’s campus. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
+In early 2012, MIT professor Anant Agarwal sat in his basement, below his barking dog, fighting kids, and blaring TV. After recording screen-cast lectures for his class on _Circuits and Electronics_, he posted the videos, along with some homework and exam questions on www.mitx.mit.edu, a website he had coded himself. He wondered if this effort would reach more students than the several hundred in his usual lecture hall. Little did he know, that the enrollment of this class would reach 155,000 students from 162 different countries.
 
 Upon seeing the success of Agarwal’s first class, Harvard partnered with MIT in May of 2012 to create edX, a Massive Open Online Course (MOOC) platform open to any individual with Internet access. These platforms have lecture videos, homework problems, exam questions, discussion forums, and online TAs. Other MOOCs such as Coursera and Udacity had already launched similar models and formed partnerships with Stanford, Princeton, University of Michigan, AT&T, Google and Microsoft.
 
-Though edX started [later](-	http://topics.nytimes.com/top/reference/timestopics/subjects/e/elearning/index.html), it was the first non-profit educational technology company. They have since reached 2.5 million students around the world and partnered with 50 schools and organizations domestically and globally including UC Berkeley, Columbia University, Australian National University, and the Indian Institute of Technology, Bombay. 
+Though edX started [later](http://topics.nytimes.com/top/reference/timestopics/subjects/e/elearning/index.html), it was the first university-based non-profit educational technology company. They have since reached 2.5 million students around the world and partnered with 50 schools and organizations domestically and globally including UC Berkeley, Columbia University, Australian National University, and the Indian Institute of Technology, Bombay. 
 
 EdX students actually _take_ a class as they would at a university. Lecture videos and notes are released weekly throughout an entire semester in addition to homework problem sets and exams. While allowing millions of people around the world to have access to education, those on the campuses are left wondering how this will affect the exclusivity and quality of an education from a top university. Many students at MIT, though excited by the idea universal education, are skeptical of the effects on campus education. 
 
