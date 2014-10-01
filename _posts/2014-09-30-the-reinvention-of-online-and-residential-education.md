@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: "edX: The Reinvention of Online and Residential Education"
 category: politics
 author: Keerti Shukla
-displaydate: 09/30/2014
+displaydate: September 30 2014
 tags: 
   - student
+date: "October 1, 2014"
 ---
 
 ![](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png)
