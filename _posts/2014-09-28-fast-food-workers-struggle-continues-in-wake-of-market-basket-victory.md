@@ -10,7 +10,7 @@ tags:
 date: "September 29, 2014"
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mcd-times_square.JPG/320px-Mcd-times_square.JPG)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mcd-times_square.JPG/320px-Mcd-times_square.JPG)    
 Welcome, may I take your order? Across the United States, fast food employees are switching the script and making some demands of their own. These workers, including many in the Boston area, have staged strikes and other acts of civil disobedience in the effort to improve their working conditions, including a raise their wages to $15 an hour. These efforts mark a recent trend in local labor struggles: labor organizing without a union.
 
 Such was the case of employees of Market Basket, a supermarket chain in the Northeastern United States, earlier this year. Market Basket workers, not affiliated with any union, wages a campaign to return Arthur T. Demoulas, the company's former president, to his position, following his dismissal by the store's board of directors. The employees and their supporters feared that, without Demoulas- known by employees as Artie T.-  as the head of the company, they would lose their decent wages and good benefits. As a response, the Market Basket workers, along with those in management positions, staged a month-long walk-out. Some supportive customers boycotted the store until Artie T. was reinstated (he was).
