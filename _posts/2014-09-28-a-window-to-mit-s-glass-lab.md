@@ -11,8 +11,7 @@ tags:
   - slider
 ---
 
-![](http://schantzgalleries.files.wordpress.com/2013/11/dsc_9279.jpg)
-Tucked away in the depths of MIT’s underground tunnel system, just below MIT’s innovative Laboratory for Advanced Materials, you can find a workshop with students working on molten glass in furnaces where temperatures can reach 2,000°F. 
+![](http://schantzgalleries.files.wordpress.com/2013/11/dsc_9279.jpg)Tucked away in the depths of MIT’s underground tunnel system, just below MIT’s innovative Laboratory for Advanced Materials, you can find a workshop with students working on molten glass in furnaces where temperatures can reach 2,000°F. 
 
 Every year, down in this basement laboratory, a handful of lucky MIT students get to learn the ancient art of glassblowing. This hidden gem is [the MIT Glass Lab](http://video.mit.edu/watch/mit-glass-lab-where-art-meets-science-24645/ "MIT Glass Lab Video"); its slogan is "where art meets science". Come January, there will be even more opportunities for students to test their artisan skills: A $2.2 million renovation of the lab and MIT's metal foundry is scheduled to finish in time for the the Glass Lab's extremely popular January classes on glass-blowing and glass working. 
 
