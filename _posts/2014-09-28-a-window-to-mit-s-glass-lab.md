@@ -5,7 +5,7 @@ title: "A Window to MIT's Glass Lab"
 category: politics
 author: Scout Carpenter
 displaydate: "2014-09-28"
-date: "2014-09-28"
+date: "2014-11-28"
 tags: 
   - student
   - slider
