@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "The Late-Night Juggler"
-category: politics
+category: science
 author: "Danny Ben-David"
 displaydate: October 1 2014
 tags: 
