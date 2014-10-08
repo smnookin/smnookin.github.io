@@ -11,16 +11,11 @@ tags:
   - slider
 ---
 
-![](http://schantzgalleries.files.wordpress.com/2013/11/dsc_9279.jpg)Tucked away in the depths of MIT’s underground tunnel system, just below MIT’s innovative Laboratory for Advanced Materials and new mit.Nano building, you can find a workshop with students working over molten glass of temperatures higher than 1,600°F. 
+![](http://schantzgalleries.files.wordpress.com/2013/11/dsc_9279.jpg)Tucked away in the depths of MIT’s underground tunnel system, just below MIT’s innovative Laboratory for Advanced Materials, you can find a workshop with students working on molten glass in furnaces where temperatures can reach 2,000°F. 
 
-Every year, down in this basement laboratory, several lucky MIT students get to learn the ancient art of glassblowing surrounded by furnaces that can reach temperatures of up to 2,000°F and which often stay hot for days in order to allow the glass to "cool" properly. 
+Every year, down in this basement laboratory, a handful of lucky MIT students get to learn the ancient art of glassblowing. This hidden gem is [the MIT Glass Lab](http://video.mit.edu/watch/mit-glass-lab-where-art-meets-science-24645/ "MIT Glass Lab Video"); its slogan is "where art meets science". Come January, there will be even more opportunities for students to test their artisan skills: A $2.2 million renovation of the lab and MIT's metal foundry is scheduled to finish in time for the the Glass Lab's extremely popular January classes on glass-blowing and glass working. 
 
-
-This hidden gem is [MIT’s Glass lab](http://video.mit.edu/watch/mit-glass-lab-where-art-meets-science-24645/ "MIT Glass Lab Video"), where students can take classes on glass-blowing and glass-working, and there will soon be even more opportunities for students to test their artisan skills. 
-
-A $2.2 million renovation of MIT’s Glass Lab and metal foundry began last June and should finish in time for its very popular January classes.  This program is unique among university glass programs, and its very existence is surprising when you consider that MIT is known for its reputation for innovation and focus on engineering programs.
-
-The director of the lab, Peter Houk, said the main goal of the glass lab is to reinforce the MIT experience through teamwork, improvisation, cross-disciplinary thinking and a strong sense of community. While other university glass programs focus on producing professional artists, MIT’s program is geared more toward allowing students from many disciplines to “get their hands dirty.” Starting in 1986 the lab started offering classes and seminars to introduce them to the art. Rising in popularity since the nineties, the Introductory Glass Blowing Class won the title of most over-subscribed class at MIT in the early 2000's, and those students lucky enough to take this class aren't only undergrads.
+The person in charge of all of this is Glass Lab director Peter Houk, who said his main goal is to reinforce the MIT experience through teamwork, improvisation, cross-disciplinary thinking and a strong sense of community. While other university glass programs focus on producing professional artists, MIT’s program is geared more toward allowing students from many disciplines to “get their hands dirty.” Starting in 1986 the lab started offering classes and seminars to introduce them to the art. Rising in popularity since the nineties, the Introductory Glass Blowing Class won the title of most over-subscribed class at MIT in the early 2000's -- a title it's kept ever since.
 
 ![More than 2 hundred hopeful students attend the lottery for a space in January's Beginer Glass-Blowing Class. Photograph by Nate Sharpe.](http://glasslab.scripts.mit.edu/wp-content/uploads/2013/08/lottery.jpg)
 
