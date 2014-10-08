@@ -8,6 +8,7 @@ displaydate: October 7 2014
 date: "October 7, 2014"
 tags: 
   - student
+  - slider
 ---
 
 ![A well-worn copy of _The Riverside Chaucer_ in the office of MIT, Arthur Bahr, the only medieval literature scholar at the institute.](https://ifeverythinghadaword.files.wordpress.com/2014/09/dsc_0341.jpg)
