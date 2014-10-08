@@ -1,10 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: "Humanities at MIT: More than a Graduation Requirement? "
-category: science
+category: politics
 author: Anisha Gururaj
-displaydate: "9-30-2014"
+displaydate: October 7 2014
+date: "October 7, 2014"
+tags: 
+  - student
 ---
 
 ![A well-worn copy of _The Riverside Chaucer_ in the office of MIT, Arthur Bahr, the only medieval literature scholar at the institute.](https://ifeverythinghadaword.files.wordpress.com/2014/09/dsc_0341.jpg)
