@@ -12,7 +12,7 @@ tags:
 ---
 
 ![A well-worn copy of _The Riverside Chaucer_ in the office of MIT, Arthur Bahr, the only medieval literature scholar at the institute.](https://ifeverythinghadaword.files.wordpress.com/2014/09/dsc_0341.jpg)
-When Noam Chomsky created the first philosophy course at MIT in the 1950s, he knew there would be questions. But he was still surprised when a young engineer asked if the class would help him impress the Radcliffe coeds who swooned when Harvard boys dropped casual references to Kant into conversation.
+When Noam Chomsky created the first philosophy course at MIT in the 1950s, he knew there would be questions. But he was still surprised when a young engineer asked if the class would help him impress the Radcliffe coeds who swooned when Harvard boys dropped references to Kant into conversation.
 
 MIT humanities classes have certainly evolved since then, growing from a few classes to an today's School of Humanities, Arts and Social Sciences (SHASS), which plays an integral role in the Institute's academic life. In [a recent _Boston Globe_ editorial](http://www.bostonglobe.com/opinion/2014/04/30/mit-humanities-are-just-important-stem/ZOArg1PgEFy2wm4ptue56I/story.html), SHASS dean Deborah Fitzgerald argued that MIT views "the humanities, arts, and social sciences as essential, both for educating great engineers and scientists, and for sustaining our capacity for innovation.” And it's true: MIT requires many of its undergraduate students to take a quarter of their classes in the humanities. 
 
