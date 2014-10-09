@@ -11,12 +11,9 @@ tags:
 
 ![](/_posts/1491671_956029881080076_1969027885107661291_n.jpg)
 
-On Sunday, September 21, 400,000 people from across the country gathered in midtown Manhattan to push for global action on climate change. 
+On Sunday, September 21, 400,000 people gathered in midtown Manhattan to push for global action on climate change. 
 
-
-
-
-Students from across the country, including 70 from MIT, jammed downtown New York on Sunday, September 21st. Along with them were social justice organizations and labor unions, scientists and faith groups, monks and farmers, vegans, pagans, and marching bands. A church group’s ark-shaped float blasted “Respect” by Aretha Franklin. A man on all fours in a business suit dripped sweat as he dragged a smoking pan of dry ice through the streets. The crowd flowed down Central Park West and crushed itself between the billboards of Times Square. 
+Students from across the country, including 70 from MIT, marched from Central Park, through Times Square to 11th Avenue. Along with with them walked social justice organizations and labor unions, scientists and faith groups, monks and farmers, vegans, pagans, and marching bands. A church group’s ark-shaped float blasted “Respect” by Aretha Franklin. A man on all fours in a business suit dripped sweat as he dragged a smoking pan of dry ice through the streets. The crowd flowed down Central Park West and crushed itself between the billboards of Times Square. 
 
 MIT students from [Fossil Free MIT](http://www.fossilfreemit.org/) carried signs reading “Youth Choose Climate Justice” and “MIT Stands With Science”.
 
