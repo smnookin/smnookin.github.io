@@ -5,6 +5,7 @@ title: "Rebranding the Charles: Not-So-Dirty Water"
 category: politics
 tags: 
   - student
+author: Emily LaVerriere
 ---
 
 ![](http://i.imgur.com/7X2jvJ9.jpg)
