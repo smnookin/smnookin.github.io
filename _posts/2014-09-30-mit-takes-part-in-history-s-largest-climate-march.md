@@ -11,20 +11,20 @@ tags:
 
 ![](/_posts/1491671_956029881080076_1969027885107661291_n.jpg)
 
-On Sunday, September 21, a hundreds of thousands of people gathered in midtown Manhattan. There were monks and farmers; vegans, pagans, and marching bands; social justice organizations and labor unions; scientists and faith groups. The Aretha Franklin anthem "Respect" was blaring from an ark-shaped float; nearby, a man in a business suit dripped sweart as he crawled down the street dragging a smoking pan of dry ice.
+On Sunday, September 21, a hundreds of thousands of people gathered in midtown Manhattan. There were monks and farmers; vegans, pagans, and marching bands; social justice organizations and labor unions; scientists and faith groups. The Aretha Franklin anthem "Respect" blared from an ark-shaped float; nearby, a man in a business suit dripped sweart as he crawled down the street dragging a smoking pan of dry ice.
 
-Thousands of students also joined this motley crowd, which was gathered for the [People's Climate March](http://peoplesclimate.org/wrap-up/), an effort to spur global action on climate change. Seventy members of [Fossil Free MIT](http://www.fossilfreemit.org/) had traveled down by bus that morning; they carried signs reading “Youth Choose Climate Justice” and “MIT Stands With Science."
+Thousands of students also joined this motley crowd, which was gathered for the [People's Climate March](http://peoplesclimate.org/wrap-up/), an effort to spur global action on climate change. Seventy members of [Fossil Free MIT](http://www.fossilfreemit.org/) had traveled from Boston that weekend; they carried signs reading “Youth Choose Climate Justice” and “MIT Stands With Science."
 
-The gathering, which was scheduled to coincide with a United Nations summit on climate change, certainly got the world's attention. At 12:58 PM, the 400,000 protesters raised their arms and [observed a moment of silence](http://time.com/3415162/peoples-climate-march-new-york-manhattan-demonstration/) for those already directly affected by climate change. Near the front of the march were the victims of the massive damage caused by hurricane Sandy, which hit the Caribbean and the Northeastern United States in 2012 and became the [largest Atlantic hurricane](http://www.erh.noaa.gov/mhx/EventReviews/20121029/20121029.php) ever recorded.
+The march, which was scheduled to coincide with a visit from international leaders, aimed to draw attention to global inaction on climate policy. At 12:58 PM, the 400,000 protesters raised their arms and [observed a moment of silence](http://time.com/3415162/peoples-climate-march-new-york-manhattan-demonstration/) for those already directly affected by climate change. Near the front of the march were the victims of the massive damage caused by hurricane Sandy, which hit the Caribbean and the Northeastern United States in 2012 and became the [largest Atlantic hurricane](http://www.erh.noaa.gov/mhx/EventReviews/20121029/20121029.php) ever recorded.
 
-Two minutes later, the silence was broken by an eruption of howls, as the crowd shouted in unison in an effort to give voice to thethe urgent need for action.
+Two minutes later, the silence was broken by an eruption of howls, as the crowd shouted in unison, giving voice to the urgent need for action.
 
 
 ![10711133_956029931080071_1505566343118686235_n.jpg](/_posts/10711133_956029931080071_1505566343118686235_n.jpg)
 _Performance art: a man in a suit pulls a smoking pan of dry ice through the streets of New York to symbolize corporate responsibility for climate change._
 
 
-Patrick Brown, the head of Fossil Free MIT, didn’t expect such a turnout at the People’s Climate March, from the MIT community or in general. When MIT vans filled up, and Brown had to scramble to find transportation for last-minute marchers. “It’s a good problem to have,” he said.
+Patrick Brown, the head of Fossil Free MIT, didn’t expect such a turnout at the People’s Climate March, from the MIT community or in general. When the MIT vans filled up, Brown had to scramble to find transportation for last-minute marchers. “It’s a good problem to have,” he said.
 
 Since 2012, Fossil Free has been urging the MIT administration to stop investing the school’s endowment in fossil fuel companies. The divestment petition now has over 2700 signatures. The club also helps MIT students get involved in environmental activism through events like the march.
 
