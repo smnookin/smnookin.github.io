@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: MIT Takes Part in History’s Largest Climate March
 category: politics
 author: Zoe Sheinkopf
 displaydate: "September 30, 2014"
 tags: 
   - student
+date: "October 10, 2014"
 ---
 
 ![](/_posts/1491671_956029881080076_1969027885107661291_n.jpg)
