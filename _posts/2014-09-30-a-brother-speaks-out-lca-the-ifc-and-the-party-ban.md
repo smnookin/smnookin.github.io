@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: "A Brother Speaks Out: LCA, the IFC, and the Party Ban"
 category: politics
 author: Meryl Gibbs
-displaydate: September 30
+displaydate: "September 30, 2014"
 tags: 
   - student
+date: "October 11, 2014"
 ---
 
 ![](http://d1wvharlsiyzfl.cloudfront.net/wp-content/uploads/2014/09/5777ddcab3da704f8638e61dff539732.png)
