@@ -7,7 +7,6 @@ author: "Danny Ben-David"
 displaydate: October 1 2014
 tags: 
   - student
-  - slider
 date: "October 1, 2014"
 ---
 
