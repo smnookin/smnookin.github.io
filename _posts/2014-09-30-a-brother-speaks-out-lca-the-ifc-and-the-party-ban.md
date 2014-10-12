@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "A Brother Speaks Out: LCA, the IFC, and the Party Ban"
+title: A Brother Speaks Out About the Latest MIT Fraternity Scandal
 category: politics
 author: Meryl Gibbs
 displaydate: "September 30, 2014"
