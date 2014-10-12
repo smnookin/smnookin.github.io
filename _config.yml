@@ -39,6 +39,8 @@ prose:
           element: "select"
           label: "Genre"
           options:
+            - name: "MIT"
+              value: "MIT"
             - name: "Science"
               value: "science"
             - name: "News"
