@@ -7,6 +7,7 @@ author: Meryl Gibbs
 displaydate: "September 30, 2014"
 tags: 
   - student
+  - slider
 date: "October 11, 2014"
 ---
 
