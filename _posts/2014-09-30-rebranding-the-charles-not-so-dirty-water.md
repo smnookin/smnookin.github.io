@@ -1,15 +1,16 @@
 ---
 layout: post
-published: false
+published: true
 title: "Rebranding the Charles: Not-So-Dirty Water"
-category: politics
+category: science
 tags: 
   - student
 author: Emily LaVerriere
+displaydate: October 12 2014
+date: October 12 2014
 ---
 
 ![](http://i.imgur.com/7X2jvJ9.jpg)
-
 When the [Charles River Conservancy (CRC)](http://www.thecharles.org/) first started their [“Swimmable Charles” initiative](http://www.thecharles.org/projects-and-programs/swimmable-charles/) in 2004, some people thought that their slogan was a joke. After all, the 80-mile river, which drains into the Atlantic Ocean from Boston Harbor, served as the inspiration for the Standells 1966 hit "Dirty Water." 
 
 But the CRC was determined to change the Charles’s reputation: If the organization was successful, people would no longer wonder if toxic debris was lurking beneath the surface or if a quick dip would necessitate a tetanus shot. It had already been almost two decades since a 1985 court-mandated cleanup of the Charles, and teams of public and private groups had been working on the issue for years. Today, ten years into the CRC's campaign, the river is remarkably clean and safe -- but it's unclear if the public is fully aware of this.
