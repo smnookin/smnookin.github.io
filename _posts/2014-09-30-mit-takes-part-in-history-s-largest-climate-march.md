@@ -20,7 +20,7 @@ The march, which was scheduled to coincide with [the UN Climate Summit 2014](htt
 Two minutes later, the silence was broken by an eruption of howls, as the crowd shouted in unison, giving voice to the urgent need for action.
 
 
-![10711133_956029931080071_1505566343118686235_n.jpg](/_posts/10711133_956029931080071_1505566343118686235_n.jpg)
+![10711133_956029931080071_1505566343118686235_n.jpg](https://raw.githubusercontent.com/smnookin/smnookin.github.io/master/_posts/10711133_956029931080071_1505566343118686235_n.jpg?token=4895560__eyJzY29wZSI6IlJhd0Jsb2I6c21ub29raW4vc21ub29raW4uZ2l0aHViLmlvL21hc3Rlci9fcG9zdHMvMTA3MTExMzNfOTU2MDI5OTMxMDgwMDcxXzE1MDU1NjYzNDMxMTg2ODYyMzVfbi5qcGciLCJleHBpcmVzIjoxNDEzNzM1NTI1fQ%3D%3D--9da97e18e0705d6c3f78d790d3e4511b2853db9d)
 _Performance art: a man in a suit pulls a smoking pan of dry ice through the streets of New York to symbolize corporate responsibility for climate change._
 
 
@@ -33,7 +33,7 @@ The People’s Climate March was the largest climate demonstration in history. I
 “I’ve done all the little things, like turning off the lights,” said Alexa Strobel, who came to the march with Fossil Free MIT, “I wanted to do something significant. The march is significant because people are going to notice.”
 
     
-![10628105_956029774413420_2601407869024525412_n.jpg](/_posts/10628105_956029774413420_2601407869024525412_n.jpg)
+![10628105_956029774413420_2601407869024525412_n.jpg](https://raw.githubusercontent.com/smnookin/smnookin.github.io/master/_posts/10628105_956029774413420_2601407869024525412_n.jpg?token=4895560__eyJzY29wZSI6IlJhd0Jsb2I6c21ub29raW4vc21ub29raW4uZ2l0aHViLmlvL21hc3Rlci9fcG9zdHMvMTA2MjgxMDVfOTU2MDI5Nzc0NDEzNDIwXzI2MDE0MDc4NjkwMjQ1MjU0MTJfbi5qcGciLCJleHBpcmVzIjoxNDEzNzM1NTQ5fQ%3D%3D--0f98d335f0463f6f207e6dd5792a1350a6ff31d9)
 _The Peoples' Climate March fills Times Square._
 
 At MIT, Fossil Free’s environmental message is taking hold. On September 19, Maria Zuber, MIT’s Vice President for Research, emailed all of MIT about the beginning of a campus-wide climate conversation. A new committee will “seek broad input from the Institute community on how the US and the world can most effectively address global climate change. The Conversation should explore pathways to effective climate mitigation, including how the MIT community – through education, research and campus engagement – can constructively move the global and national agendas forward,” she wrote.
