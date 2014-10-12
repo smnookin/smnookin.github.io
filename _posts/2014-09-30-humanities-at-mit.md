@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "Humanities at MIT: More than a Graduation Requirement? "
-category: politics
+category: MIT
 author: Anisha Gururaj
 displaydate: October 7 2014
 date: "October 7, 2014"
