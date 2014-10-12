@@ -7,6 +7,7 @@ title: Home
  <li>
     {% if post.category == 'course' %}
 	<h4 class="subheader topic">Course info</h4>
+	{% endif %}
     {% if post.category == 'Politics' %}
 	<h4 class="subheader topic">News</h4>
     {% else %}
@@ -21,4 +22,5 @@ title: Home
 		</h4>
 	</div>
  </li>
+ {% endfor %}
 </ul>
