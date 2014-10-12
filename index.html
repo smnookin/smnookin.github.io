@@ -8,6 +8,9 @@ title: Home
     {% if post.category == 'course' %}
 	<h4 class="subheader topic">Course info</h4>
 	{% endif %}
+	 {% if post.category == 'mit' %}
+	<h4 class="subheader topic">MIT</h4>
+	{% endif %}
     {% if post.category == 'politics' %}
 	<h4 class="subheader topic">News</h4>
     {% else %}
