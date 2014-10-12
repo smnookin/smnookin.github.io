@@ -8,7 +8,6 @@ displaydate: "2014-09-28"
 date: "2014-09-29"
 tags: 
   - student
-  - slider
 ---
 
 ![](http://sethmnookin.com/wp-content/uploads/2014/10/scout-glass-lab-1.png)Tucked away in the depths of MIT’s underground tunnel system, just below MIT’s innovative Laboratory for Advanced Materials, you can find a workshop with students working on molten glass in furnaces where temperatures can reach 2,000°F. Every year, down in this basement laboratory, a handful of lucky MIT students get to learn the ancient art of glassblowing. 
