@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: A Brother Speaks Out About the Latest MIT Fraternity Scandal
-category: politics
+category: MIT
 author: Meryl Gibbs
 displaydate: "September 30, 2014"
 tags: 
