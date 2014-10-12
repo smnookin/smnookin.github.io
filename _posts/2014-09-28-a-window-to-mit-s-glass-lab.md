@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "A Window to MIT's Glass Lab"
-category: politics
+category: MIT
 author: Scout Carpenter
 displaydate: "2014-09-28"
 date: "2014-09-29"
