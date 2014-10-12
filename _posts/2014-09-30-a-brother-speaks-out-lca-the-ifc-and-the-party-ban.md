@@ -12,9 +12,9 @@ date: "October 11, 2014"
 ---
 
 ![](http://d1wvharlsiyzfl.cloudfront.net/wp-content/uploads/2014/09/5777ddcab3da704f8638e61dff539732.png)  
-On August 31, the the MIT chapter of [Lambda Chi Alpha](http://web.mit.edu/lca/) was hosting one of the first parties of the school year in its historic home on Bay State Road in Boston. As lasers pulsed and lights flickered, a thumping beat filled a room on the house's third floor. Freshmen eager to taste the college party scene were in abundance, as were students from other schools in the area. 
+On August 31, the the MIT chapter of [Lambda Chi Alpha](http://web.mit.edu/lca/) was hosting one of the first parties of the year. As lasers pulsed and lights flickered, a thumping beat filled a room on the house's third floor. Freshmen eager to taste the college party scene were in abundance, as were students from other schools in the area. 
 
-Then, in an instant, a woman from Northeastern University tumbled out of a window and onto the ground below. She was [rushed to Beth Israel Deaconess Medical Center](http://www.bostonglobe.com/metro/2014/09/01/student-falls-from-mit-fraternity-window/BBj1YiwViY44GqiCuE6muI/story.html) with what police later described as "non-life threatening injuries." 
+Then, in an instant, a woman from Northeastern University tumbled out of a window of the fraternity's historic home on Bay State Road in Boston and onto the ground below. She was [rushed to Beth Israel Deaconess Medical Center](http://www.bostonglobe.com/metro/2014/09/01/student-falls-from-mit-fraternity-window/BBj1YiwViY44GqiCuE6muI/story.html) with what police later described as "non-life threatening injuries." 
 
 For the MIT Greek community, this was yet another in a series of high-profile mishaps that put local fraternities in a harsh light. (Almost exactly a year earlier, [a freshman fell four stories through a skylight](http://www.boston.com/news/local/massachusetts/2013/09/11/teen-falls-four-stories-through-skylight-mit-frat-house/IDwApg9xpBEbSwHp3yRjUM/story.html) from the roof of [Phi Sigma Kappa](http://phisig.mit.edu/), another MIT frat located in Boston.)
 After this summer's accident, Lambda Chi Alpha brothers refused to talk to local and national media, including _The Tech_ and _The Boston Globe_. Now, for this first time, a member of the fraternity is speaking about the incident on the record.
