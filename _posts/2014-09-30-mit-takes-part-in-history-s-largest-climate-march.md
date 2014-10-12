@@ -10,7 +10,7 @@ tags:
 date: "October 10, 2014"
 ---
 
-![](/_posts/1491671_956029881080076_1969027885107661291_n.jpg)
+![](https://raw.githubusercontent.com/smnookin/smnookin.github.io/master/_posts/1491671_956029881080076_1969027885107661291_n.jpg?token=4895560__eyJzY29wZSI6IlJhd0Jsb2I6c21ub29raW4vc21ub29raW4uZ2l0aHViLmlvL21hc3Rlci9fcG9zdHMvMTQ5MTY3MV85NTYwMjk4ODEwODAwNzZfMTk2OTAyNzg4NTEwNzY2MTI5MV9uLmpwZyIsImV4cGlyZXMiOjE0MTM3MzQ5ODB9--1ab9cfbbe340bc15832a1876987d8fc97c704195)
 On Sunday, September 21, hundreds of thousands of people gathered in midtown Manhattan. There were monks and farmers; vegans, pagans, and marching bands; social justice organizations and labor unions; scientists and faith groups. The Aretha Franklin anthem "Respect" blared from an ark-shaped float; nearby, a man in a business suit dripped sweat as he crawled down the street dragging a smoking pan of dry ice.
 
 Thousands of students also joined this motley crowd, which was gathered for the [People's Climate March](http://peoplesclimate.org/wrap-up/), an effort to spur global action on climate change. Seventy members of [Fossil Free MIT](http://www.fossilfreemit.org/) had traveled from Boston that weekend; they carried signs reading “Youth Choose Climate Justice” and “MIT Stands With Science."
