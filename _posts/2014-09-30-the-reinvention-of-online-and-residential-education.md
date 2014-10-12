@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: "edX: The Reinvention of Online and Residential Education"
-category: science
+category: MIT
 author: Keerti Shukla
 displaydate: September 30 2014
 tags: 
