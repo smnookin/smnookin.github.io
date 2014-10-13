@@ -6,6 +6,8 @@ category: MIT
 author: Emily LaVerriere
 tags: 
   - student
+displaydate: October 13 2014
+date: October 13 2014
 ---
 
 ![photo from: List Visual Arts Center, MIT](https://listart.mit.edu/sites/default/files/styles/slideshow/public/MIT-3%2A%20copy.jpg?itok=3TN4n15D)Wandering around art galleries with paper and pencil in hand may not be the archetypal MIT student’s afternoon activity. But over 1000 MIT students did exactly that at the [List Visual Arts Center’s Student Loan Art Program](https://listart.mit.edu/events-programs/student-loan-art-program-artwork-pickup) in September. Nearly 600 of them got lucky in the lottery and were able to take home a piece of art for the academic year. 
