@@ -1,12 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: Humanities and the Trap of Utility
 category: MIT
 author: Anisha Gururaj
 displaydate: October 13 2014
 tags: 
   - student
+date: October 13 2014
 ---
 
 ![](http://phdcomics.com/comics/archive/phd011808s.gif)
@@ -34,4 +35,3 @@ Having taken classes in over 80% of the departments at MIT, I can speak endlessl
 [In his novel, _Chinaman_,](http://www.independent.co.uk/arts-entertainment/books/reviews/chinaman-by-shehan-karunatilaka-2276043.html) Shehan Karunatilaka portrays an individual obsessed with cricket, who forces us to come to grips with this very question in sports: "I have been told by members of my own family that there is no use or value in sports... Left-arm [spin-bowling] cannot teach your children or cure your disease. But once in a while, the very best of them will bowl a ball that will bring an entire nation to its feet. And while there may be no practical use in that, there is most certainly value.”
 
 Humanities and other subjects do not need to claim any usefulness to have value. They are explorations of the greater truths that make us human, and that should be good enough.
-
