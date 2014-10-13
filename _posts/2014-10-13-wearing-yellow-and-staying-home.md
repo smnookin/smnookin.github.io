@@ -3,6 +3,9 @@ layout: post
 published: false
 title: Wearing Yellow and Staying Home
 category: MIT
+author: Zoe Sheinkopf
+tags: 
+  - student
 ---
 
 Yellow ribbons adorn sweatshirts and doors in my dorm. They stand for solidarity with students in Hong Kong, who are protesting in the streets for universal suffrage and demanding that candidates for chief executive not be nominated by Beijing.
