@@ -15,7 +15,7 @@ These lucky 600 are able to live with art for a year, but those who didn’t win
 
 Maybe lack of awareness isn’t the biggest limiting factor in people’s interactions with art at MIT. After all, some pieces are pretty hard to miss. The Sol LeWitt piece “Bars of Color Within Squares (MIT)” is literally walked on or past by much of the MIT community each day – the bright colors cover the floor around building 6C (right near MIT’s major hallway). 
 
-![photo credit: List Visual Arts Center](/https://listart.mit.edu/sites/default/files/styles/slideshow/public/Kapoor-01.jpg?itok=5U3ZEoVL)
+![photo credit: List Visual Arts Center](https://listart.mit.edu/sites/default/files/styles/slideshow/public/Kapoor-01.jpg?itok=5U3ZEoVL)
 
 But some pieces may be less obvious to a passerby; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with in a space full of colors, odd angles, and weird sources of light from the pointy glass entrances to the space. But most people just walk past the piece. Do they think of it as part of the architecture? Is there a distinction between architecture and art?
 
@@ -25,7 +25,7 @@ Living with art and living within art are very different things. Presumably no o
 
 Or, she may choose to do her exploration at night. MIT’s underground (both literally and figuratively) hacking community may know the campus better than anyone. By exploring, understanding, and creatively adding to their environment, hackers at MIT over its history have contributed more pieces of public interest than any commissioned artist. 
 
-![photo credit: MIT Hacks Gallery](/http://hacks.mit.edu/Hacks/by_year/1992/cathedral_7/windows1.gif)
+![photo credit: MIT Hacks Gallery](http://hacks.mit.edu/Hacks/by_year/1992/cathedral_7/windows1.gif)
 
 Classifying hacks as art may seem like a stretch. Does turning the tallest building on campus into a giant game of Tetris count? Public interaction with the piece was high, but its reflection of culture may be low. But what about turning MIT’s main entrance, Lobby 7, into a cathedral and hosting a wedding there? The Cathedral of Our Lady of the All-Night Tool, as it was called, might be more reflective of many students’ beliefs than any single religiously-affiliated building. Hacking at MIT showcases the creativity and curiosity of MIT students in ways they may not explore in any class or lab. 
 
