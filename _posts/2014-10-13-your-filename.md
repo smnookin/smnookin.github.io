@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: "Next House: Where the sidewalk ends"
 category: MIT
 ---
 
