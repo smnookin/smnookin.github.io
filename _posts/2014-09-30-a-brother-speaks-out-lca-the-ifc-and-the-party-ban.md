@@ -11,7 +11,7 @@ tags:
 date: "October 11, 2014"
 ---
 
-![](http://d1wvharlsiyzfl.cloudfront.net/wp-content/uploads/2014/09/5777ddcab3da704f8638e61dff539732.png)On August 31, the the MIT chapter of [Lambda Chi Alpha](http://web.mit.edu/lca/) was hosting one of the first parties of the year. As lasers pulsed and lights flickered, a thumping beat filled a room on the house's third floor. Freshmen eager to taste the college party scene were in abundance, as were students from other schools in the area. 
+![](http://d1wvharlsiyzfl.cloudfront.net/wp-content/uploads/2014/09/5777ddcab3da704f8638e61dff539732.png)On August 31, the the MIT chapter of [Lambda Chi Alpha](http://web.mit.edu/lca/) was hosting one of the first parties of the year. As lasers pulsed and lights flickered, a thumping beat filled a room on the house's third floor. Students eager to take part in the college party scene were in abundance. 
 
 Then, in an instant, a woman from Northeastern University tumbled out of a window of the fraternity's historic home on Bay State Road in Boston and onto the ground below. She was [rushed to Beth Israel Deaconess Medical Center](http://www.bostonglobe.com/metro/2014/09/01/student-falls-from-mit-fraternity-window/BBj1YiwViY44GqiCuE6muI/story.html) with what police later described as "non-life threatening injuries." 
 
