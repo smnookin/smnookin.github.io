@@ -2,7 +2,12 @@
 layout: post
 published: false
 title: Stop Letting Women Off The Hook For Domestic Violence
-category: MIT
+category: politics
+author: Veronica Thomas
+displaydate: "October 13, 2014"
+date: October 13 2014
+tags: 
+  - student
 ---
 
 ![](http://i57.tinypic.com/14m4a3n.jpg)
@@ -39,5 +44,3 @@ While their perpetration rates are nearly the same, [significantly more women] (
 Our perceptions of violence are gendered and so the consequences of that violence are too. Until men feel comfortable coming forward about their victimization, female perpetrators of domestic violence will be forgiven and forgotten. The feminist movement empowered women to speak out about domestic violence (though still grossly underreported), but inadvertently deepened the chasm of inequality for male victims. Now it’s time for a new feminism that treats violence as violence, without caveats or excuses based on the absence of a Y chromosome.
 
 As actress and new Women Goodwill Ambassador, [Emma Watson](http://www.eonline.com/news/581276/emma-watson-gives-emotional-powerful-speech-at-u-n-about-gender-inequality-check-out-a-transcript-and-a-video) said in her recent speech to the UN, “Men don't have the benefits of equality, either."
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
