@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Stop Letting Women Off The Hook For Domestic Violence
+title: We Need To Stop Letting Women Off The Hook For Domestic Violence
 category: politics
 author: Veronica Thomas
 displaydate: "October 13, 2014"
