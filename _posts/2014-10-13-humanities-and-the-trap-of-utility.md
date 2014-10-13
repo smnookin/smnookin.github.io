@@ -13,7 +13,7 @@ tags:
 
 Before I even stepped foot on my college campus, I had already picked out one of my classes: Making Public Policy. I loved everything about that class—the readings, the professor, and most importantly, the discussions about the ways humans defy rational models.
 
-It wasn’t until later that I realized not everyone felt the same way; after all, I go to MIT, a technical institution. Unlike Harvard down the street or Boston University across the river, almost no one comes here to major in anything other than STEM. Still MIT, in an attempt to diversify its students’ backgrounds requires on average one class per semester in the humanities, arts and social sciences (HASS).
+It wasn’t until later that I realized not everyone felt the same way. After all, I go to MIT, a technical institution. Unlike Harvard down the street or Boston University across the river, almost no one comes here to major in anything other than STEM. Still MIT, in an attempt to diversify its students’ backgrounds requires on average one class per semester in the humanities, arts and social sciences (HASS).
 
 I love this requirement, but I wondered how faculty felt about humanities at MIT. So a few weeks ago, I trekked over to the office of Arthur Bahr, an MIT professor in medieval literature. He told me about [an op-ed that the Dean of MIT’s School of HASS had written](http://www.bostonglobe.com/opinion/2014/04/30/mit-humanities-are-just-important-stem/ZOArg1PgEFy2wm4ptue56I/story.html) earlier this year supporting the importance of humanities at MIT. Arthur said the article made him feel like MIT was stepping up to the plate and defending the humanities. It was trying to point out, he said, that beauty matters.
 
