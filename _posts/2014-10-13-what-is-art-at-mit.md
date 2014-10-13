@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "What is art at MIT?"
 category: MIT
 author: Emily LaVerriere
