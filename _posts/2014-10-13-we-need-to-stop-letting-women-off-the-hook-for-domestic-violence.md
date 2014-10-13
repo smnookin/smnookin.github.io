@@ -5,6 +5,7 @@ title: We Need To Stop Letting Women Off The Hook For Domestic Violence
 category: MIT
 ---
 
+http://i57.tinypic.com/14m4a3n.jpg
 
 Elevators have been making the news a lot this year. First, a video showed Beyonce’s sister Solange Knowles attacking her brother-in-law, Jay-Z, in New York City’s Standard Hotel elevator. Then a video revealed Superbowl-winning running back Ray Rice beating and dragging his now-wife, Janay, from an Atlantic City casino elevator. Though the swanky elevators and the domestic violence they contained are strikingly similar, the world’s reactions to the two incidents couldn’t be more different. 
 
