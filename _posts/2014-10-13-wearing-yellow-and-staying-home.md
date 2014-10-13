@@ -6,6 +6,8 @@ category: MIT
 author: Zoe Sheinkopf
 tags: 
   - student
+displaydate: "October 13, 2014"
+date: "October 13, 2014"
 ---
 
 Yellow ribbons adorn sweatshirts and doors in my dorm. They stand for solidarity with students in Hong Kong, who are protesting in the streets for universal suffrage and demanding that candidates for chief executive be nominated by voters, not by Beijing.
@@ -31,4 +33,3 @@ And we also have police in riot gear and protesters in the streets: Ferguson, Mi
 But maybe this shows a lack of idealism on my part. I’m young; I’m supposed to embody idealism. I'm supposed to set out to change the world. But the realist in me says it wouldn’t even be wise for the US to take aggressive economic action against the Hong Kong or Chinese governments. Cutting down trade wouldn't be a targeted attack. It would have economic and social ramifications in China and around the world that I'm certainly not knowledgeable enough to predict. And with Cold War memories not entirely faded, US sanctions would seem meddlesome: the old superpower defending the wannabe democracy against the big bad Communists.
 
 It's easy to frame inaction as apathy, but in this case our hestiance is bourn more out of awareness of the complexity of the situation than lack of interest in it. We’re not convinced that we’re strong enough, or right enough, to do much more than wear yellow ribbons.
-
