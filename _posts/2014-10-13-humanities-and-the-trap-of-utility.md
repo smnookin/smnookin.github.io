@@ -3,6 +3,10 @@ layout: post
 published: false
 title: Humanities and the Trap of Utility
 category: MIT
+author: Anisha Gururaj
+displaydate: October 13 2014
+tags: 
+  - student
 ---
 
 Before I even stepped foot on my college campus, I had already picked out one of my classes: Making Public Policy. I loved everything about that class—the readings, the professor, and most importantly, the discussions about the ways humans defy rational models. 
