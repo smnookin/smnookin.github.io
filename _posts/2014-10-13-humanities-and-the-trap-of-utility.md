@@ -11,7 +11,6 @@ date: October 13 2014
 ---
 
 ![](http://phdcomics.com/comics/archive/phd011808s.gif)
-
 Before I even stepped foot on my college campus, I had already picked out one of my classes: Making Public Policy. I loved everything about that class—the readings, the professor, and most importantly, the discussions about the ways humans defy rational models.
 
 It wasn’t until later that I realized not everyone felt the same way. After all, I go to MIT, a technical institution. Unlike Harvard down the street or Boston University across the river, almost no one comes here to major in anything other than STEM. Still MIT, in an attempt to diversify its students’ backgrounds requires on average one class per semester in the humanities, arts and social sciences (HASS).
