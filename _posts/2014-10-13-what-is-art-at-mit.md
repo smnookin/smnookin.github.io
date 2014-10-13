@@ -8,8 +8,7 @@ tags:
   - student
 ---
 
-![photo from: List Visual Arts Center, MIT](https://listart.mit.edu/sites/default/files/styles/slideshow/public/MIT-3%2A%20copy.jpg?itok=3TN4n15D)
-Wandering around art galleries with paper and pencil in hand may not be the archetypal MIT student’s afternoon activity. But over 1000 MIT students did exactly that at the [List Visual Arts Center’s Student Loan Art Program](https://listart.mit.edu/events-programs/student-loan-art-program-artwork-pickup) in September. Nearly 600 of them got lucky in the lottery and were able to take home a piece of art for the academic year. 
+![photo from: List Visual Arts Center, MIT](https://listart.mit.edu/sites/default/files/styles/slideshow/public/MIT-3%2A%20copy.jpg?itok=3TN4n15D)Wandering around art galleries with paper and pencil in hand may not be the archetypal MIT student’s afternoon activity. But over 1000 MIT students did exactly that at the [List Visual Arts Center’s Student Loan Art Program](https://listart.mit.edu/events-programs/student-loan-art-program-artwork-pickup) in September. Nearly 600 of them got lucky in the lottery and were able to take home a piece of art for the academic year. 
 
 These lucky 600 are able to live with art for a year, but those who didn’t win the lottery don’t have to resign themselves to art-less existences. MIT’s campus is full of public art, in and out of buildings, but many people aren’t aware of the extent of the collection. 
 
