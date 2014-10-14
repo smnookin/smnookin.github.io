@@ -3,9 +3,11 @@ layout: post
 published: false
 title: Mental Health at MIT
 category: MIT
+displaydate: October 14 2014
+date: October 14 2014
 ---
 
-![](/http://media.nbcwashington.com/images/1200*675/student-college-depressed.jpg)
+![](http://media.nbcwashington.com/images/1200*675/student-college-depressed.jpg)
 At MIT, we like to do things the hard way. We work hard. We play hard. Everything is hard.This also applies to how we deal with mental health. We do it the hard way because, as a student body, we don’t do it at all.
 
 MIT has one of the most extensive Mental Health care facilities on a university campus, yet, no one seems willing to take advantage of it. If they do, most people certainly do not talk about it. After the most recent suicide, I have read angry letters about what MIT as an administration could have done better, but to be honest, I don’t think the main problem lies there. It lies in the mentality of the student body.
