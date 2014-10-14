@@ -3,6 +3,9 @@ layout: post
 published: false
 title: Unexpected Advantages of Online Education
 category: MIT
+author: Keerti Shukla
+tags: 
+  - student
 ---
 
 ![Screen Shot 2014-10-13 at 8.52.36 PM.png](/_posts/Screen Shot 2014-10-13 at 8.52.36 PM.png)
