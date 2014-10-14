@@ -8,7 +8,7 @@ date: October 14 2014
 ---
 
 ![](http://media.nbcwashington.com/images/1200*675/student-college-depressed.jpg)
-At MIT, we like to do things the hard way. We work hard. We play hard. Everything is hard.This also applies to how we deal with mental health. We do it the hard way because, as a student body, we don’t do it at all.
+At MIT, we like to do things the hard way. We work hard. We play hard. Everything is hard. This also applies to how we deal with mental health. We do it the hard way because, as a student body, we often don't deal with our mental health at all.
 
 MIT has one of the most extensive Mental Health care facilities on a university campus, yet, no one seems willing to take advantage of it. If they do, most people certainly do not talk about it. After the most recent suicide, I have read angry letters about what MIT as an administration could have done better, but to be honest, I don’t think the main problem lies there. It lies in the mentality of the student body.
 
@@ -20,7 +20,7 @@ Why is no one else climbing the stairs of MIT Medical to the third floor, passin
 
 My theory is that people in general, but especially MIT students, just can’t admit that kind of vulnerability. We at MIT are more than comfortable slogging down the infinite declaring “I’m so ‘hosed’, I slept 2 hours the past three days.” You won’t hear a peep, not even a whisper, of, “and I can’t do it on my own anymore. I need help.” 
 
-Not in the infinite. 
+Not in the Infinite. 
 Not in the libraries. 
 Not in the dorms.
 
@@ -45,7 +45,7 @@ I have been extremely open about going to Mental Health with my friends and clas
 
 I think if we can be more open with each other about seeking treatment, those who also need the help won’t be afraid to step forward and take it. I don’t know if Phoebe Wang ever sought treatment at Mental Health, and I don’t know if the three other suicides that have occurred since school started in September did either, but I will speculate that if they had, President Reif would not have had so write as many emails that opened with “It breaks my heart to tell you.”
 
-I do think the main problem is the student body’s attitude towards mental health, but there are certainly more things the administration can do as well. Though we are widely considered the best University in the world, and probably the hardest as well, other schools of comparable quality have lower suicide rates. The national average at Universities is 7.2 suicides per every 10,000 students. At MIT, the number is 10.2. At Harvard, it is 6.18.
+I do think the main problem is the student body’s attitude towards mental health, but there are certainly more things the administration can do as well. Though we are widely considered the best University in the world, and probably the hardest as well, other schools of comparable quality have lower suicide rates. [The national average at Universities is 7.2 suicides per every 10,000 students. At MIT, the number is 10.2. At Harvard, it is 6.18](http://www.bostonglobe.com/metro/2014/09/25/mitdeath/ScTVxNN3IVJDLpPzMDRLWM/story.html).
 
 I am not necessarily saying that we need to be more like Harvard academically. I am glad that we don’t suffer from massive grade inflation and coddling. I think we can keep the MIT rigor in tact while also giving ourselves a little break from the insanity occasionally. At my high school, for example, we would have a “no homework weekend”. It is pretty self explanatory, but essentially we would get a weekend where no homework could be assigned the Friday before, and no assignments could be due the next two days after. I don’t think professors would necessarily be keen on this idea, but it would certainly give us a weekend to actually get back into the world! Perhaps students would even, (GASP) get off campus and into Boston! Or New York City! OR LITERALLY ANYWHERE THAT IS NOT CAMBRIDGE. It would give us a chance to actually have a weekend to sleep in and enjoy the company of our friends without a massive PSet looming over our heads.
 
