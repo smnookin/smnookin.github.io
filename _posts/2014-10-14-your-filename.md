@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: Mental Health at MIT
 category: MIT
 ---
 
