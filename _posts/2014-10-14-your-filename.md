@@ -5,7 +5,6 @@ title: Mental Health at MIT
 category: MIT
 ---
 
-## A New Post
 ![](/http://media.nbcwashington.com/images/1200*675/student-college-depressed.jpg)
 At MIT, we like to do things the hard way. We work hard. We play hard. Everything is hard.This also applies to how we deal with mental health. We do it the hard way because, as a student body, we don’t do it at all.
 
