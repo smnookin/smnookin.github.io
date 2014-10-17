@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "What is art at MIT?"
+title: Finding Art at MIT
 category: MIT
 author: Emily LaVerriere
 tags: 
@@ -10,19 +10,19 @@ displaydate: October 13 2014
 date: October 13 2014
 ---
 
-![photo from: List Visual Arts Center, MIT](https://listart.mit.edu/sites/default/files/styles/slideshow/public/MIT-3%2A%20copy.jpg?itok=3TN4n15D)Wandering around art galleries with paper and pencil in hand may not be the archetypal MIT student’s afternoon activity. But over 1000 MIT students did exactly that at the [List Visual Arts Center’s Student Loan Art Program](https://listart.mit.edu/events-programs/student-loan-art-program-artwork-pickup) in September. Nearly 600 of them got lucky in the lottery and were able to take home a piece of art for the academic year. 
+<img src="http://i.imgur.com/8l0O7X8.jpg" width="300px" height="1000px" />     Wandering around art galleries with paper and pencil in hand may not be the archetypal MIT student’s afternoon activity. But over 1000 MIT students did exactly that at the [List Visual Arts Center’s Student Loan Art Program](https://listart.mit.edu/events-programs/student-loan-art-program-artwork-pickup) in September. Nearly 600 of them got lucky in the lottery and were able to take home a piece of art for the academic year. 
 
 These lucky 600 are able to live with art for a year, but those who didn’t win the lottery don’t have to resign themselves to art-less existences. MIT’s campus is full of public art, in and out of buildings, but many people aren’t aware of the extent of the collection. 
 
-Maybe lack of awareness isn’t the biggest limiting factor in people’s interactions with art at MIT. After all, some pieces are pretty hard to miss. The Sol LeWitt piece “Bars of Color Within Squares (MIT)” is literally walked on or past by much of the MIT community each day – the bright colors cover the floor around building 6C (right near MIT’s major hallway). 
+Some pieces are pretty hard to miss - the Sol LeWitt piece “Bars of Color Within Squares (MIT)” is literally walked on or past by much of the MIT community each day. Similar in color to many of Sol LeWitt's wall drawings (1), the piece covers the floor around building 6C (right near MIT’s major hallway). The brightly colored geometric shapes within each square contrast with the glass and brick exteriors of the nearby buildings. The piece is unexpected in its space; glimpses of its color can be seen from several floors above, brightening up an otherwise empty space. 
 
-![photo credit: List Visual Arts Center](https://listart.mit.edu/sites/default/files/styles/slideshow/public/Kapoor-01.jpg?itok=5U3ZEoVL)
+Almost empty spaces are generally good places to look for art at MIT. Wandering through corridors, many interesting things can be found. Some are products of classes, like the 
 
-But some pieces may be less obvious to a passerby; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with in a space full of colors, odd angles, and weird sources of light from the pointy glass entrances to the space. But most people just walk past the piece. Do they think of it as part of the architecture? Is there a distinction between architecture and art?
+<img src="http://i.imgur.com/RyYCxdU.jpg" width="300px" height="1000px" />
 
-MIT may be the perfect place to consider the overlap between architecture and art. To put it diplomatically, MIT doesn’t have a traditional college campus feel of idyllic, identical brick buildings. The architecture here is a bit...different. From Gehry’s Dr. Seuss-like Stata Center to Steven Holl’s futuristic sponge of a dormitory, Simmons Hall, MIT’s buildings attract as much attention from tourists as the academics of the school, if not more (1). But are they considered art by MIT's inhabitants?
+But some pieces may be less obvious to a passerby; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with in a space full of white-on-white donor lists, bursts of colors, odd angles, and weird sources of light from the pointy glass entrances to the space. No ordinary painting could have been placed in the Stata Center. The curved simplicity of Non-Object (Plane) contrasts the chaotic design of the Stata Center while distorting the chaos - literally, as the mirror shifts one's perception of the open room. 
 
-Living with art and living within art are very different things. Presumably no one who lives in Simmons or works in the Stata Center wakes up every day excited about the art in which they live or work. Excitement wears off. We become jaded. Our environments become background to us, filtered out as we process other, more relevant information. MIT is a busy place; the average undergrad stressing about psets and tests and research may not have enough time to wander around and enjoy the art around her.
+MIT may be the perfect place to consider the overlap between architecture and art. To put it diplomatically, MIT doesn’t have a traditional college campus feel of idyllic, identical brick buildings. The architecture here is a bit...different. From Gehry’s Dr. Seuss-like Stata Center to Steven Holl’s futuristic sponge of a dormitory, Simmons Hall, MIT’s buildings attract as much attention from tourists as the academics of the school, if not more (2). But living with art and living within art are very different things. The average MIT undergrad may become accustomed to her space and want to add her own twist to her environment. 
 
 Or, she may choose to do her exploration at night. MIT’s underground (both literally and figuratively) hacking community may know the campus better than anyone. By exploring, understanding, and creatively adding to their environment, hackers at MIT over its history have contributed more pieces of public interest than any commissioned artist. 
 
@@ -32,4 +32,5 @@ Classifying hacks as art may seem like a stretch. Does turning the tallest build
 
 Not every MIT undergrad may pay much attention to the official public art around them or the famous architecture they live and work in, but that doesn’t mean that they don’t interact with their environment. Like any other discussion of MIT students, exploration of art is different for each individual. Whether living with a painting on loan from the List, exploring or enjoying public art all around campus, or adding to the unexpectedness of campus structures via hacks, many MIT students find ways to interact with art in their environment.
 
-(1): speaking as a former MIT tour guide.
+(1): one of which you can "win" in the List's lottery and paint on your wall yourself!
+(2): speaking as a former MIT tour guide.
