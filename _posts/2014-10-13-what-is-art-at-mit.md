@@ -20,7 +20,7 @@ Some pieces are pretty hard to miss - the Sol LeWitt piece “Bars of Color With
 
 Almost empty spaces are generally good places to look for art at MIT. Wandering through corridors, many interesting things can be found. Some are official sculptures or pieces of art, sitting in the grass outside a glass wall. Others are products of classes, like the Materials in Human Experience (3.094) display, tucked away on the fifth floor of building 16. Knotted strings hang floor-to-ceiling, an imitation of khipu - an early Andean method of book-keeping, possibly even used as a system of writing. But to a passerby who is less enthusiastic about reading descriptive signs, these are just pieces of rope someone forgot to take down.
 
-<img src="http://i.imgur.com/RyYCxdU.jpg" width="100px" height="300px" />
+<img src="http://i.imgur.com/RyYCxdU.jpg" width="300px" height="100px" />
 
 Some pieces may just be difficult to distinguish from their environments; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with in a space full of white-on-white donor lists, bursts of colors, odd angles, and weird sources of light from the pointy glass entrances to the space. No ordinary painting could have been placed in the Stata Center. The curved simplicity of Non-Object (Plane) contrasts the chaotic design of the Stata Center while distorting the chaos - literally, as the mirror shifts one's perception of the open room. 
 
