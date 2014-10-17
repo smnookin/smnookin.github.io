@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: We Need To Stop Letting Women Off The Hook For Domestic Violence
+title: Women Are Being Let Off The Hook For Domestic Violence
 category: politics
 author: Veronica Thomas
 displaydate: "October 13, 2014"
@@ -13,7 +13,7 @@ tags:
 ![](http://i57.tinypic.com/14m4a3n.jpg)
 _Hope Solo (in center) with young soccer players at a Boston Breakers game. (JenniferEvans via Flickr/Compfight)_
 
-Elevators have been making the news a lot this year. [In TK], a video showed Beyonce’s sister Solange Knowles attacking her brother-in-law, Jay-Z, in New York City’s Standard Hotel elevator. Then, [in TK], a video revealed Superbowl-winning running back Ray Rice beating dragging his now-wife, Janay, unconscious and then dragging her from an Atlantic City casino elevator. Though the swanky elevators and the domestic violence they contained are strikingly similar, the world’s reactions to the two incidents couldn’t be more different. 
+Elevators have been making the news a lot this year. In May, a video showed Beyonce’s sister Solange Knowles attacking her brother-in-law, Jay-Z, in New York City’s Standard Hotel elevator. Then, in September, a video revealed Superbowl-winning running back Ray Rice beating his now-wife, Janay, unconscious and then dragging her from an Atlantic City casino elevator in February. Though the swanky elevators and the domestic violence they contained are strikingly similar, the world’s reactions to the two incidents couldn’t be more different. 
 
 While Solange became the newest punch line for comedians, Rice became the face of domestic violence and a sore spot for the NFL’s image. [Saturday Night Live](http://variety.com/2014/tv/news/watch-saturday-night-love-jay-z-solange-knowles-spoof-1201185453/) opened their season finale with a skit unveiling the video’s “missing” audio of Solange and Jay-Z. It turns out Solange was just trying to kill a spider on Jay-Z! She’s a woman, after all. There’s no way she could’ve hurt the famous rapper, popular media seem to say, so let’s just have fun with it. 
 
