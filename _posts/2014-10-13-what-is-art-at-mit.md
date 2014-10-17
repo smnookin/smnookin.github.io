@@ -20,7 +20,7 @@ Some pieces are pretty hard to miss - the Sol LeWitt piece “Bars of Color With
 
 Almost empty spaces are generally good places to look for art at MIT. Wandering through corridors, many interesting things can be found. Some are official sculptures or pieces of art, sitting in the grass outside a glass wall. Others are products of classes, like the Materials in Human Experience (3.094) display, tucked away on the fifth floor of building 16. Knotted strings hang floor-to-ceiling, an imitation of khipu - an early Andean method of book-keeping, possibly even used as a system of writing. But to a passerby who is less enthusiastic about reading descriptive signs, these are just pieces of rope someone forgot to take down.
 
-<img src="http://i.imgur.com/RyYCxdU.jpg" width="300px" height="1000px" />
+<img src="http://i.imgur.com/RyYCxdU.jpg" width="300px" height="300px" />
 
 Some pieces may just be difficult to distinguish from their environments; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with in a space full of white-on-white donor lists, bursts of colors, odd angles, and weird sources of light from the pointy glass entrances to the space. No ordinary painting could have been placed in the Stata Center. The curved simplicity of Non-Object (Plane) contrasts the chaotic design of the Stata Center while distorting the chaos - literally, as the mirror shifts one's perception of the open room. 
 
@@ -28,11 +28,14 @@ MIT may be the perfect place to consider the overlap between architecture and ar
 
 MIT’s underground (both literally and figuratively) hacking community may know the campus better than anyone. By exploring, understanding, and creatively adding to their environment, hackers at MIT over its history have contributed more pieces of public interest than any commissioned artist. 
 
+<!---
+I haven't gotten a response yet from the photographer, so I don't feel comfortable posting this with the picture displayed yet. Hopefully will hear back soon!
 ![photo credit: MIT Hacks Gallery](http://hacks.mit.edu/Hacks/by_year/1992/cathedral_7/windows1.gif)
+-->
 
-Classifying hacks as art may seem like a stretch. Does turning the tallest building on campus into a giant game of Tetris count? Public interaction with the piece was high, but its reflection of culture may be low. But what about turning MIT’s main entrance, Lobby 7, into a cathedral and hosting a wedding there? The Cathedral of Our Lady of the All-Night Tool, as it was called, might be more reflective of many students’ beliefs than any single religiously-affiliated building. Hacking at MIT showcases the creativity and curiosity of MIT students in ways they may not explore in any class or lab. 
+Turning the tallest building on campus into a giant game of Tetris count was long considered the holy grail of hacking at MIT. When hackers finally achieved this in the spring of 2012, Green Building Tetris was certainly the tallest piece of art on campus. Public interaction with the piece was high - though putting a block in the wrong place when most of Boston could see it could be embarassing - but its reflection of culture may have been low. But what about turning MIT’s main entrance, Lobby 7, into a cathedral and hosting a wedding there? The Cathedral of Our Lady of the All-Night Tool, as it was called, might be more reflective of many students’ beliefs than any single religiously-affiliated building on campus. Anyone who wandered through Cathedral 7 that night in the early hours of the morning would have been witness to a piece of art in the making. 
 
-Not every MIT undergrad may pay much attention to the official public art around them or the famous architecture they live and work in, but that doesn’t mean that they don’t interact with their environment. Like any other discussion of MIT students, exploration of art is different for each individual. Whether living with a painting on loan from the List, exploring or enjoying public art all around campus, or adding to the unexpectedness of campus structures via hacks, many MIT students find ways to interact with art in their environment.
+Not everyone at MIT may pay much attention to the official public art around them or the famous architecture they live and work in, but that doesn’t mean that it isn't there. Whether looking for statues, buildings, or hacks, art can be found pretty much wherever you look at MIT. 
 
 
 (1): one of which you can "win" in the List's lottery and paint on your wall yourself!
