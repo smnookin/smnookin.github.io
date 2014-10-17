@@ -24,12 +24,17 @@ Almost empty spaces are generally good places to look for art at MIT. Wandering 
 
 Some pieces may just be difficult to distinguish from their environments; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with in a space full of white-on-white donor lists, bursts of colors, odd angles, and weird sources of light from the pointy glass entrances to the space. No ordinary painting could have been placed in the Stata Center. The curved simplicity of Non-Object (Plane) contrasts the chaotic design of the Stata Center while distorting the chaos - literally, as the mirror shifts one's perception of the open room. 
 
+<!---
+if I don't get permission to use the hack picture, I'll take a picture of the stata center or simmons to put here.
+-->
+
 MIT may be the perfect place to consider the overlap between architecture and art. To put it diplomatically, MIT doesn’t have a traditional college campus feel of idyllic, identical brick buildings. The architecture here is a bit...different. From Gehry’s Dr. Seuss-like Stata Center to Steven Holl’s futuristic sponge of a dormitory, Simmons Hall, MIT’s buildings attract as much attention from tourists as the academics of the school, if not more (2). But living with art and living within art are very different things. The average MIT undergrad may become accustomed to her space and want to add her own twist to her environment. 
 
 MIT’s underground (both literally and figuratively) hacking community may know the campus better than anyone. By exploring, understanding, and creatively adding to their environment, hackers at MIT over its history have contributed more pieces of public interest than any commissioned artist. 
 
 <!---
 I haven't gotten a response yet from the photographer, so I don't feel comfortable posting this with the picture displayed yet. Hopefully will hear back soon!
+or I will dig up some of my old photos to see if any of the ones I took of tetris are usable.
 ![photo credit: MIT Hacks Gallery](http://hacks.mit.edu/Hacks/by_year/1992/cathedral_7/windows1.gif)
 -->
 
