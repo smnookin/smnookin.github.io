@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "Domestic Violence Is Not Just Men's Problem"
+title: "Domestic Violence Is Not Just A Man's Problem"
 category: politics
 author: Veronica Thomas
 displaydate: "October 13, 2014"
