@@ -2,7 +2,11 @@
 layout: post
 published: false
 title: Adjunct Professors and the Future of Scholarship
-category: MIT
+category: politics
+author: Val Healy
+displaydate: 10/17/2014
+tags: 
+  - student
 ---
 
 
