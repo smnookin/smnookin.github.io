@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: The Naked Dome
 category: MIT
 author: "Danny Ben-David"
