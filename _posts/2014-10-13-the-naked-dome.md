@@ -13,17 +13,17 @@ tags:
 ![_View from the top of MIT's Great Dome. Courtesy of the MIT News Office._](http://i.imgur.com/CHMwIGR.jpg "View from the top of MIT's Great Dome. Courtesy of the MIT News Office.")    
 It's always exciting when a new hack appears at MIT. As people begin to notice the hack's arrival some morning, news will travel backwards into the dormitories and living groups, and soon people will trek well beyond their normal commute to get a good view.
 
-Outside of the Institvte, hacking has come to be associated with malicious computer access. However, MIT's IHTFP Hack Gallery helpfully provides that:
+Outside of the Institvte, hacking has come to be associated with malicious computer access. However, MIT's [IHTFP Hack Gallery](http://hacks.mit.edu) helpfully provides that:
 
 > The word hack at MIT usually refers to a clever, benign, and "ethical" prank or practical joke, which is both challenging for the perpetrators and amusing to the MIT community (and sometimes even the rest of the world!)
 
-Or, to put it another way, we turn to the script of MIT's own home-spun musical, *Hack, Punt, Tool*. From the mouth of the narrator, the Story Jack:
+Or, to put it another way, we turn to the script of MIT's own home-spun musical, [*Hack, Punt, Tool*](http://hackpunttool.com/). From the mouth of the narrator, the Story Jack:
 
 > Hackers are anonymous technological pranksters, engineers inspired to intervene with the everyday monotony. In order to perform bold feats, hackers often traverse MIT’s more untraveled passageways, carefully avoiding the diligent eye of the law, and often unearthing locations hidden from the average passer-by!
 
-If you know anything about culture or student life at MIT, you're likely at least faintly aware of hacking culture and the fruits of hacker labor through the years: in May of 1994, a campus police car replica appeared, sirens and lights active, atop MIT's Great Dome. Over twenty years later, these acts are still cherished by the community as examples of MIT students' ingenuity.
+If you know anything about culture or student life at MIT, you're likely at least faintly aware of hacking culture and the fruits of hacker labor through the years: in May of 1994, a campus police car replica appeared, sirens and lights active, [atop MIT's Great Dome](http://hacks.mit.edu/Hacks/by_year/1994/cp_car/). Decades later, this and other acts are still cherished by the community as examples of MIT students' ingenuity.
 
-They're also, then and now, illegal. Stories of exactly _how_ the campus police car appeared on the Dome only reached the public ear many years later, well after the statute of limitations had run out. MIT is certainly not about to revoke any diplomas or press charges against people involved in that hack, but that doesn't mean that hackers are immune from legal troubles.
+They're also, then and now, illegal. Stories of exactly _how_ the campus police car appeared on the Dome [only reached the public ear many years later](http://www.technologyreview.com/article/404726/a-hackers-reunion/page/2/), well after the statute of limitations had run out. MIT is certainly not about to revoke any diplomas or press charges against people involved in that hack, but that doesn't mean that hackers are immune from legal troubles.
 
 Quite the opposite, actually: there's a reason why the Great-Dome has been hack-free for a couple of years now. As MIT has grown increasingly weary of the legal and public-relations ramifications of something going wrong when there are students on a roof, campus itself has been bolted down tighter in the name of security and safety. "Security and safety" are difficult to argue against ("You're against the safety of students?"), and so it's been easier for MIT to shift towards higher scrutiny on hacking culture.
 
