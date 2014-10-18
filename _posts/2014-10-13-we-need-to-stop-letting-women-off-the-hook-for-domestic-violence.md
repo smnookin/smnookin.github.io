@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: Women Are Being Let Off The Hook For Domestic Violence
+title: "Domestic Violence Is Not Just Men's Problem"
 category: politics
 author: Veronica Thomas
 displaydate: "October 13, 2014"
