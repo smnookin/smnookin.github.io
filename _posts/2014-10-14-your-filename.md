@@ -53,6 +53,6 @@ I have been extremely open about going to Mental Health with my friends and clas
 
 I think if we can be more open with each other about seeking treatment, those who also need the help won’t be afraid to step forward and take it. I don’t know if [Phoebe Wang ever sought treatment at Mental Health, and I don’t know if the three other suicides](http://www.bostonglobe.com/metro/2014/09/25/mitdeath/ScTVxNN3IVJDLpPzMDRLWM/story.html) that have occurred since school started in September did either, but I will speculate that if they had, President Reif would not have had so write as many emails that opened with “It breaks my heart to tell you.”
 
-There is a lot that we can do to improve how we approach mental health at MIT. It will probably take a lot of time and a lot of effort both on an individual and interpersonal as well as institutional level. But it will be worth it, even if it only saves one life out of 10,000.
+There is a lot that we can do to improve how we approach mental health at MIT. It will probably take a lot of time and a lot of effort both on an individual, interpersonal and institutional level. It will be worth it, even if it only saves one life out of 10,000.
 
 http://www.bostonglobe.com/metro/2014/09/25/mitdeath/ScTVxNN3IVJDLpPzMDRLWM/story.html
