@@ -18,7 +18,7 @@ However, universities are increasingly relying on adjunct professors. In the fal
 
 In addition to not receiving the same benefits-- such as health insurance or offices-- as full-time faculty members, adjunct staff earn inordinately less than their counterparts. One study found that the median income for adjunct faculty was $22,041 per year, while the median for full-time faculty was [more than double](http://democrats.edworkforce.house.gov/sites/democrats.edworkforce.house.gov/files/documents/1.24.14-AdjunctEforumReport.pdf) that, at $47,500.
 
-At this level of income, many adjunct professors who work solely as adjuncts must rely on public assistance, such as food stamps, or their partners or family to take care of their basic necessities.
+At this level of income, many adjunct professors who work solely as adjuncts must rely on public assistance, [such as food stamps](http://www.huffingtonpost.com/kate-quick/professor-working-poor_b_4645217.html), or their partners or family to take care of their basic necessities.
 
 As someone who is seriously considering pursuing a career teaching at the college level after graduation, the statistics terrify me. 
 Luckily, there are people working to improve the working conditions of adjunct professors. To confront these hardships, the Service Employees International Union (SEIU) has been helping adjunct faculty members across the country to unionize. In a union, members have collective bargaining rights, which can help them achieve higher salaries, and possibly other benefits such as health insurance.
