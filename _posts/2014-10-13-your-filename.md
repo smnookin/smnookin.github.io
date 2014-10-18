@@ -9,8 +9,6 @@ tags:
   - student
 ---
 
-## IHTFP by Me
-
 ![](/http://upload.wikimedia.org/wikipedia/en/2/2c/MIT_Next_House.jpg)
 
 Life as an undergrad at the Massachusetts Institute of Technology is stressful, but  it is also the best life I can imagine. The thing that makes MIT so great for me is my dorm, Next House. Most people who are familiar with MIT know the student body's motto, IHTFP. A lot of students embrace the first version of the motto (_I Hate This F...ing Place_), but living in Next House has shaped my life at school, making me adopt the second version, _**I Have Truly Found Paradise**_.
