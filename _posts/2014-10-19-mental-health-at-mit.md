@@ -5,7 +5,7 @@ title: Mental Health at MIT
 category: MIT
 ---
 
-![image.jpg](/assets/image.jpg)Empty chairs waiting to be filled by students seeking proactive mental health care.
+![photo.JPG](/assets/photo.JPG)Empty chairs waiting to be filled by students seeking proactive mental health care.
 
 At MIT, we like to do things the hard way. We work hard. We play hard. We brag about how hard our lives. The only thing we don't seem to be able to do is admit we might need help. We do it the hard way because, as a student body, we often don't deal with our mental health at all.
 
