@@ -1,12 +1,16 @@
 ---
 layout: post
-published: false
+published: true
 title: Mental Health at MIT
 category: MIT
+author: Meryl Gibbs
+displaydate: October 18 2014
+date: October 18 2014
+tags: 
+  - student
 ---
 
-![photo.JPG](/assets/photo.JPG)Empty chairs waiting to be filled by students seeking proactive mental health care.
-
+![photo.JPG](/assets/photo.JPG)
 At MIT, we like to do things the hard way. We work hard. We play hard. We brag about how hard our lives. The only thing we don't seem to be able to do is admit we might need help. We do it the hard way because, as a student body, we often don't deal with our mental health at all.
 
 This is not to say that students' psychological well-being isn't noticed by the administration: The Institute was sued in 2001 sued by the family of young female victim of suicide -- and it's hard to ignore the fact that, while the national average of suicides amongst college students is 7.2 deaths per every 10,000 students, at MIT, the number is 10.6 for the entire institution and 20.2 for just undergraduates.
