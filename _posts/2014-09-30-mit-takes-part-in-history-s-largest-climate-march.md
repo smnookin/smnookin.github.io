@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: MIT Takes Part in History’s Largest Climate March
 category: MIT
 author: Zoe Sheinkopf
