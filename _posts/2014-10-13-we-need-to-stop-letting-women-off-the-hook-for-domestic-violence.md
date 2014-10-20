@@ -39,5 +39,4 @@ Hess does get one thing right though: her headline “No, Women’s Soccer Does 
 
 But because our perceptions of violence are gendered, the consequences of that violence are too. Until men feel comfortable coming forward about their abuse, female perpetrators will be forgiven and forgotten. [Second-wave feminism](http://www.theguardian.com/commentisfree/2011/jun/07/feminism-domestic-violence-men) in the 70s empowered women to speak out about domestic violence, but inadvertently deepened the chasm of inequality for male victims. 
 
-As actress and new UN Women Goodwill Ambassador, Emma Watson said in her [recent speech,](http://www.eonline.com/news/581276/emma-watson-gives-emotional-powerful-speech-at-u-n-about-gender-inequality-check-out-a-transcript-and-a-video) “Men don't have the benefits of equality, either." It's time for a new feminism that treats violence as violence, without caveats or excuses based on sex.
-
+As actress and new UN Women Goodwill Ambassador Emma Watson said in her [recent speech,](http://www.eonline.com/news/581276/emma-watson-gives-emotional-powerful-speech-at-u-n-about-gender-inequality-check-out-a-transcript-and-a-video) “Men don't have the benefits of equality, either." It's time for a new feminism that treats violence as violence, without caveats or excuses based on sex.
