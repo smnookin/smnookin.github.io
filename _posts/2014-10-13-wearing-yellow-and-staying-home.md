@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Wearing Yellow and Staying Home
 category: MIT
 author: Zoe Sheinkopf
