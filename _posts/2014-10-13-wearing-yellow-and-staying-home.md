@@ -10,7 +10,8 @@ displaydate: October 13 2014
 date: October 13 2014
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/bc/29.9.14_Hong_Kong_protest_near_Tamar.jpg) Yellow ribbons adorn sweatshirts and doors in my dorm. They stand for solidarity with students in Hong Kong, who are protesting in the streets for universal suffrage and demanding that candidates for chief executive be nominated by voters, not by Beijing.
+![](https://upload.wikimedia.org/wikipedia/commons/b/bc/29.9.14_Hong_Kong_protest_near_Tamar.jpg) 
+Yellow ribbons adorn sweatshirts and doors in my dorm. They stand for solidarity with students in Hong Kong, who are protesting in the streets for universal suffrage and demanding that candidates for chief executive be nominated by voters, not by Beijing.
 
 [Tens of thousands of protesters](http://www.usnews.com/news/world/articles/2014/09/28/hong-kong-police-use-tear-gas-to-clear-protesters), largely students, have been demonstrating and blocking the streets of Hong Kong since late September. They have stilled the center of the city, which is usually known for congestion and abysmal air quality. The protests have been largely peaceful, though police have used tear gas and pepper spray on the crowds.
 
