@@ -29,6 +29,6 @@ _Next House, best dining on Campus!!_
 When I’m at dinner with all of my friends, we sit there laughing and talking and stealing each other’s food, then head down to play ping-pong after dinner. Dinner’s my favorite time of day, and last night when I was sitting there thinking about our upcoming ping-pong game, surrounded by awesome people, I realized that it’s the little things at MIT that make it worthwhile. It’s the daily ping pong game, the joking around with the desk worker, and the episode of Parks and Rec watched with friends that are the best parts of my day.  
 
 ![nextboat.jpg](/_posts/nextboat.jpg)
-_A bunch of Nexties winning the Tech Dinghy Challenge! More awesome Next House_ [_Pictures_](http://mitnexthouse.tumblr.com/)!
+    _A bunch of Nexties winning the Tech Dinghy Challenge! More awesome Next House Pictures_ [_Here_](http://mitnexthouse.tumblr.com/)!
 
 Someone once said, “Enjoy the little things in life because one day you will realize they were the big things.” Even my decision to live in Next House was a little thing, just a different click on the computer and I may not have had a remotely similar experience. I realized that all of those little things have a huge importance in my life, and that transformed _I hate this f...ing place_ into **_I Have Truly Found Paradise_**.
