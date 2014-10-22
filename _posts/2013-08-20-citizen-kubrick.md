@@ -2,7 +2,7 @@
 layout: post
 displaydate: "2004-03-26"
 date: "2013-08-14"
-published: true
+published: false
 title: Citizen Kubrick
 category: arts
 tags: 

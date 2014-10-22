@@ -1,0 +1,29 @@
+---
+layout: post
+published: true
+title: Humanities and the Trap of Utility
+category: MIT
+author: Anisha Gururaj
+displaydate: October 13 2014
+tags: 
+  - student
+date: October 13 2014
+---
+
+![](http://phdcomics.com/comics/archive/phd011808s.gif)    
+In April, Deborah Fitzgerald, the Dean of the MIT School of Humanities, Arts and Social Sciences (SHASS), [wrote an op-ed](http://www.bostonglobe.com/opinion/2014/04/30/mit-humanities-are-just-important-stem/ZOArg1PgEFy2wm4ptue56I/story.html) in the Boston Globe supporting the importance of humanities. In the article, Dean Fitzgerald certainly lays out a compelling argument about why MIT, a “bastion for STEM education” cares about the humanities, to the extent that all undergraduates are required to take one class per semester in SHASS subjects. But in doing so, she describes the utility of the humanities to those who typically graduate from MIT—scientists, engineers, doctors, or entrepreneurs. And unfortunately, this echoes the most common response you will ever hear about the importance of humanities: it’s “usefulness.”
+
+It’s not that I disagree. I just couldn’t help but feel a little sad. There was not a single statement about beauty in the entire article. 
+
+The discussion revolved around the skills that technical people gained by studying the humanities, with examples of MIT alums like a doctor who learned how to interpret her patients’ stories from her study of narratives in literature, and an engineering entrepreneur who found her economics and history classes useful to understand how ideas flow. It touched on the standard importance of communication, echoing the common train of thought, “Oh of course. Engineers need to know how to write.” And it makes sense why the Dean of SHASS at a technical institution at MIT would be most successful with these arguments. 
+
+The problem is that this explanation turns the humanities into service disciplines. For me, an engineering major at MIT, studying the humanities has been more about developing a mode of engagement with the world that transforms into an integrated perspective. In one sense, this has to do with the way almost anyone approaches their lives, from a piece of music, to a poem, to a social justice question or a chemical data set. There’s a common mode of inquiry and re-inquiry, testing an argument, refining it based on counterarguments, or motivating others to believe the argument that is applicable to all of these situations. The bigger the variety of difficult problems you dissect and analyze, the better you are able to approach the world with a truly integrated, human perspective.  This is certainly not something people generally talk about as much. 
+But there’s still something fundamentally wrong with this. At the end of the day, it’s an argument about the utility of critical thinking. But what about creative writing, performance, or visual art? What we really need is a third explanation: beauty matters for its own sake. We must uphold both creating and analyzing beauty for no other reason than beauty is valuable.  Not “useful.” Valuable. 
+
+Learning how to create and appreciate beauty needs no justification. The poem or song that resonates within us or makes us burst into tears, the paintings that stop us dead in our tracks and defy our rationality—sure, we can attempt to analyze why those things are beautiful or change our lives, and that’s interesting. But that doesn’t somehow validate the beauty in the first place. Beauty can transform, it can create change, it can be “useful,” but in the same way we might study biology because of exciting phenomena or history because of the intriguing evolution of society, humanities are valuable because they let us experience what is interestingly beautiful. 
+
+We are far from being able to appreciate art, history, writing, and literature in this way, and this is not limited to the MIT experience. In a world with limited resources, we have fallen into the trap of resorting to usefulness as a way to distinguish disciplines. Nor is this exclusively done to humanities—[Cambridge University literature professor Stefan Collini says](http://news.harvard.edu/gazette/story/2013/05/oh-the-humanities/) that this shift in valuing the humanities is representative of the larger shift in universities, where “creating knowledge for the sake of knowledge” has lost inherent value. How can it have value when research funding hinges on proving the work’s usefulness in the world? The justification for studying a field is rarely, _this is so cool_. Still, someone who studies theoretical physics or math, which is more similar to art than engineering, with this justification will not be questioned like someone who decides to study humanities for the same reason. Where is the useful application? What pressing problems are you solving? And where is the money?
+
+[In his novel, _Chinaman_,](http://www.independent.co.uk/arts-entertainment/books/reviews/chinaman-by-shehan-karunatilaka-2276043.html) Shehan Karunatilaka portrays an individual obsessed with cricket, who forces us to come to grips with this very question in sports: "I have been told by members of my own family that there is no use or value in sports... Left-arm [spin-bowling] cannot teach your children or cure your disease. But once in a while, the very best of them will bowl a ball that will bring an entire nation to its feet. And while there may be no practical use in that, there is most certainly value.”
+
+We can sit here and try to justify the humanities based on some definition of “practical use” to the world, and we wouldn’t necessarily be wrong. But disregarding the inherent value of humanities by shoving beauty behind the facade of a utility argument is a fundamental disservice to these fields. Humanities are explorations of the greater truths that make us human, and that is more than good enough.

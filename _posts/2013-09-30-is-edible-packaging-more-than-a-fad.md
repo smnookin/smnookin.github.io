@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: "Is Edible Packaging More Than a Fad?"
 category: science
 author: Evelyn Ting
@@ -23,4 +23,3 @@ Despite the edible skin, the café/shop still relies on conventional, biodegrada
 Public perception is also a problem. Even though WikiFoods complies with food hygiene standards, their products are so different from traditional foods that consumers might be skeptical of their safety. (Note that WikiFoods’ initial prototypes focus on dairy products and drinks, a food type consumers would be more open to eating in different shapes and colors than, say, fish or meat.)
 
 Going through a pile of apples with other grocery-shoppers at the supermarket, each trying to pick out the juiciest or sweetest ones is relatively normal and within the bounds of supermarket etiquette; we may be less-inclined to sift through chocolates or nuts with our bare hands. Vilaseca said she’s optimistic about edible packaging, describing the company’s vision of a future where all foods can be bought and prepared like fruit, ready to eat with a quick rinse under the faucet, but acknowledges that this process will inevitably involve educating the consumer on new ways of eating and that it’ll take a long time to replace traditional packaged foods.
-

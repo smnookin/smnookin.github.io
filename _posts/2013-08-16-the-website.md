@@ -7,7 +7,6 @@ title: The website
 category: course
 author: Seth Mnookin
 tags: 
-  - slider
   - resources
 ---
 

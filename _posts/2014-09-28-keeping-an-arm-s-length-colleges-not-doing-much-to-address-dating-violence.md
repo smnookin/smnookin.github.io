@@ -1,0 +1,47 @@
+---
+layout: post
+published: true
+title: The Neglected Problem Of College Dating Violence
+category: politics
+author: Veronica Thomas
+displaydate: September 28 2014
+tags: 
+  - student
+  - slider
+date: "September 28, 2014"
+---
+
+![](http://i58.tinypic.com/2q2lgep.jpg)    
+When Bill Mitchell first received a call from someone who identified herself as a local police detective, he wasn't sure whether to believe her. It wasn't until they met outside the automatic doors of a nearby supermarket that he learned the reason for the call: His twenty-one-year-old daughter, Kristin, had been stabbed to death by her boyfriend. 
+
+The reality of the situation didn't sink in until he drove home. “I was saying out loud in the car, ‘no Christmas, no birthdays, no weddings, no grandchildren,’” Mitchell says. “I was just reciting all these things that I realized weren’t going to happen.”
+
+Since Kristin’s death more than nine years ago, Mitchell and his wife have been running an [organization in her name](http://www.kristinskrusade.org/) aimed at increasing awareness about dating violence at colleges. “I think this issue really has the appearance of being put at arm’s length,” Mitchell tells me over the phone, while sitting in his daughter’s bedroom. He says that if a college provides any education about dating violence, it’s over and done with pretty quickly—like Take Back the Night, an awareness week every April.
+
+When the video of NFL player [Ray Rice punching and dragging his then-fiancée](http://www.nytimes.com/2014/09/09/sports/football/ray-rice-video-shows-punch-and-raises-new-questions-for-nfl.html?module=Search&mabReward=relbias%3Ar) from a hotel elevator surfaced online, the issue of intimate partner violence hit the national radar. More typically, intimate partner or domestic violence is suffered invisibly by the victim or reported as a tragic death on the local evening news, Mitchell says.
+
+“It happens, people see it, they think it’s awful, then they get up tomorrow and go on with their lives,” Mitchell says. But intimate partner violence is not as rare as it might seem given the attention paid to cases involving high-profile athletes and [celebrities](http://www.washingtonpost.com/news/morning-mix/wp/2014/09/25/modern-family-star-sarah-hyland-gets-restraining-order-against-ex-boyfriend/). It's a [fact of life for millions of Americans](http://www.cdc.gov/violenceprevention/intimatepartnerviolence/). In fact, teens and young adults experience it more than any other group.
+
+One issue is that even with the increased attention of the last several decades, the problems remains difficult to define and measure, says Katie Edwards, an assistant professor of psychology at the University of New Hampshire, who researches teen dating violence. Depending on how you qualify “abuse,” the [portion of affected college students](http://www.breakthecycle.org/dating-violence-research/college-dating-violence-and-abuse-poll) varies dramatically: 22 percent suffer physical violence, while 43 percent experience emotional, verbal and ["digital abuse,"](http://www.loveisrespect.org/is-this-abuse/types-of-abuse/what-is-digital-abuse) like stalking a partner through Facebook. 
+
+![](http://i60.tinypic.com/s60hu9.jpg) 
+
+_(Family Violence Prevention Project/Flickr via Compfight)_
+
+And dating violence is often confused with sexual assault. While certain factors -- like substance abuse and a history of violence -- are linked to both sexual assault and dating violence, Edwards says it's crucial to remember that the two issues are similar but distinct. While [dating violence](http://www.cdc.gov/violenceprevention/intimatepartnerviolence/teen_dating_violence.html) can take the form of sexual assault, it also includes any physical, emotional, and financial abuse in a couple that dates now or dated in the past. Sexual assault, on the other hand, involves only sexual acts performed against the victim’s will and can be perpetrated by anyone. While sexual assault is usually a one-time event, dating violence is often a chronic issue in a relationship. In both cases, men aren't the only perpetrators; [one survey](http://www.nij.gov/topics/crime/intimate-partner-violence/Pages/measuring.aspx) found nearly equal rates of assault by men and women.
+
+And as the case of Kristin Mitchell demonstrates, dating violence can happen to anyone. Bill Mitchell describes his daughter as the type of person who'd do anything for a friend and even took on the responsibility of mending her troubled boyfriend. “I don’t think that she ever believed that somebody she liked or was dating would ever do something like this," he says. “She was very trusting.”  
+
+[Studies](http://www.sciencedirect.com/science/article/pii/S0272735899000422) and experts indicate that students in abusive relationships are often too embarrassed to go to their parents or college administrators, but will sometimes confide in their friends. According to Mitchell, Kristin’s friends thought something was "off" with her boyfriend, but he hadn’t really abused her—not physically anyways. That’s why Mitchell thinks colleges should require mandatory training on the [warning signs](http://www.theredflagcampaign.org/index.php/dating-violence/red-flags-for-abusive-relationships/) of dating violence—like witnessing a friend's extreme mood swings, or knowing someone is scouring another person's email without permission. Edwards says that young people with friends that support and believe them are typically more resilient and suffer less long-term effects from dating violence, like depression. “Your friends have a better chance of saving you than you do,” Mitchell says. “Love is blind. You’re going to discount those things that under different circumstances might bother you.” 
+
+But if an educational session on the red flags of dating violence were optional, like it is at most schools, Mitchell suspects Kristin and her friends probably would think it doesn’t apply to them and skip it. And that’s if the school has a program to begin with. Colleges are even further behind in addressing dating violence than sexual assault, Edwards says. According her research, only 34 percent of New England colleges conduct dating violence sessions during freshman orientation, compared to half of the colleges with sessions on sexual assault. Given this year’s media microscope on colleges for the handling of rape lawsuits and a new [White House Task Force](http://www.whitehouse.gov/the-press-office/2014/01/22/memorandum-establishing-white-house-task-force-protect-students-sexual-a) on sexual assault, that percentage is likely to rise.
+
+It appears that many colleges just tuck dating violence away in a corner of their revamped sexual assault websites, or conflate the two problems as one and the same. “It’s important to talk about them together rather than in a vacuum, but also recognizing that there are some differences,” Edwards says. When I contacted Harvard about their efforts to deal with dating violence, I received four news articles about the high-profile experts they hired to tackle the sexual assault controversy that placed them under [federal investigation](http://www.nytimes.com/2014/05/02/us/politics/us-lists-colleges-under-inquiry-over-sex-assault-cases.html). “That’s great,” I responded. “But what about _dating violence_?” I still haven’t heard back.
+
+Sexual assault programs have been around longer and have more sustainable funding than dating violence programs. Mitchell thinks this is because people don’t really know what dating violence is or believe it happens all that much. When he joined a group that solicited Congress members for funding a couple years ago, they asked, "‘Wait a minute, what is this now? Why would some guy dating a girl beat her up?’ It’s like they don’t have a clue,” he says. “If you’re dealing with that level of lack of education and information, then imagine trying to ask someone to fund it or take it seriously.”
+
+Edwards agrees that colleges need to shift the current attitudes toward dating violence. In her research, she’s found that young people often recognize the severe forms of abuse, like stalking and beatings. But most of the time, the behaviors are more moderate, like controlling a partner’s time spent with family or friends. Colleges should make it clear that all forms of abuse are unacceptable and empower students to speak up, Edwards says. The [bystander intervention](http://www.nytimes.com/2014/02/09/education/edlife/stepping-up-to-stop-sexual-assault.html) aims to do just that. Adapted by a number of colleges, a bystander intervention equips students with the agency and skills to prevent and respond to violence. Instead of trying to change the personality of the individual perpetrator or victim, it tackles dating violence from the community level. 
+
+The NFL has brought dating violence to the forefront. “One way or another, you can’t get away from it,” Mitchell says. But he thinks it'll take a public outcry from the students to really get the ball rolling on prevention. “Nothing is going to turn it around on campus faster than the student population getting together and going to the administration and saying, we demand this training,” he says.
+
+_Photo: Kristin Mitchell with her family after her graduation from college on May 14, 2005. Photo courtesy of Bill Mitchell._

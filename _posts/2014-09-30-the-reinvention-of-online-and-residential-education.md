@@ -1,0 +1,38 @@
+---
+layout: post
+published: false
+title: "edX: The Reinvention of Online and Residential Education"
+category: MIT
+author: Keerti Shukla
+displaydate: September 30 2014
+tags: 
+  - student
+date: "October 1, 2014"
+---
+
+![](https://www.edx.org/sites/default/files/mediakit/image/thumb/edx_logo_200x200.png)    
+In early 2012, MIT professor Anant Agarwal sat in his basement, below his barking dog, fighting kids, and blaring TV. After recording screen-cast lectures for his class Circuits and Electronics, he posted the videos, along with some homework and exam questions on www.mitx.mit.edu, a website he had coded himself. 
+
+At the time, he wondered if this effort would reach more students than the several hundred that attended his typical lectures. Little did he know that the enrollment of this class would eventually reach 155,000 students from 162 different countries.
+
+The success of Agarwal’s online course was one of the reasons Harvard partnered with MIT in May of 2012 to create edX, a Massive Open Online Course (MOOC) platform open to any individual with Internet access. These platforms have lecture videos, homework problems, exam questions, discussion forums, and online TAs. Other MOOC platforms such as Coursera and Udacity had already launched similar models and formed partnerships with Stanford, Princeton, University of Michigan, AT&T, Google and Microsoft.
+
+Though edX started [later](http://topics.nytimes.com/top/reference/timestopics/subjects/e/elearning/index.html), it was the first university-based non-profit educational technology company. It has since reached 2.5 million students around the world and partnered with 50 schools and organizations domestically and globally including UC Berkeley, Columbia University, Australian National University, and the Indian Institute of Technology, Bombay. 
+
+EdX students actually _take_ class, just as they would if they were attending a university in person. Lecture videos and notes are released weekly throughout an entire semester in addition to homework problem sets and exams. While allowing millions of people around the world to have access to education, those on the campuses are left wondering how this will affect the exclusivity and quality of an education from a top university. Many students at MIT, though excited by the idea of universal education, are skeptical of the effects on campus education. 
+
+MIT senior Christina Lalani recalls her introductory biology course. Because the class material was available online, she says, only around half of the class attended the lectures and recitations.  “A big part of why I came to MIT was to take advantage of so many intelligent students in one place," she says. With edX now providing the full class experience, she fears the amount of in-person interaction between the students and professors will decrease even further -- and that would mean "less collaboration and learning from one another.”
+
+Lalani values the time she has with professors, TAs, and classmates to ask questions and learn how concepts taught in lecture relate to real-world research. But according to Lalani, “if course materials are available online that means that many students only show-up to exams.” Lalani hopes that with this shift towards online education “MIT finds a way to maintain attendance for courses on-campus.”
+
+MIT Professor Lorna Gibson understands the sentiments of students like Lalani but disagrees with Lalani’s conclusions. Gibson recently launched her Mechanical Behavior of Materials class on edX. This is the same class that she teaches in the Fall. From what she has seen this semester, the trends have not been significantly affected. “On-campus students who are not interested in attending class will usually not show-up anyway, whether or not the course notes are available online,” says Gibson. She believes, like Lalani, that there are still advantages to the physical interaction and on-campus education. For instance, MIT students participate in research activities in faculty labs, entrepreneurship and design competitions, and international and US-based internships. “The social interaction cannot be emulated online but there will always be some students that take advantage of it and some that do not. That is a choice students are free to make,” says Gibson. 
+
+Agarwal, the current CEO of edX, agrees that online platforms will not replace residential college life. In fact, according to Agarwal, that was never the goal for edX. “MIT is one of the best universities in the world," he says. "Our goal is to reinvent education to dramatically improve the quality, efficiency, and scale of learning worldwide _and_ on campuses. Then we can reach out to those that do not have the means to attend a MIT or Harvard and tap into all the brain power this world has.” He gave the example of Battushig Myanganbayar, a 16 year-old Mongolian boy who aced his Circuits and Electronics course. “Without MOOCs, we would have never known someone as smart as Battushig even existed.”
+
+The benefits of MOOCs can be seen on-campus as well. “Currently residential students coming to class to listen to a professor lecture for one hour and then go home to work on problems and projects alone," Agrawal says. "With platforms like edX, students could watch the lecture videos at home and then come to class to ask the professor and TA questions or work on more hands-on practical labs and projects.” MOOC platforms allow professors to record a lecture and create classes once and then spend the remaining time actually interacting with students in more office hours, lab sessions, and discussion sessions. Agarwal understands students’ concerns but he believes that “given time students will realize how MOOCs, along with this reverse model for education, improve on-campus and online education.”
+
+William Tierney, a higher education expert from the University of Southern California, agrees. "Relieving professors of their lecturing duties transforms the work of professors by freeing up more time for research and discussion with students,” he says. Molly Corbett Broad, the president of the American Council on Education says, “[MOOCs] hold the potential for serving many, many thousands of students, even on-campus. Students can prepare outside of the lecture hall and attend class to learn practical skills instead of attending lecture for the distribution of information."
+
+Recently MIT allowed on-campus students to enroll in edX classes. These courses were MIT’s first attempt to a flipped classroom: Lectures were available online as videos and students had a two-hour, in-person discussion section each week. MIT senior Elizabeth Murphy took one such class. Despite thoroughly enjoying the course content, Murphy found that the discussion sessions were not always effective. “There were great conversations for many classes," she says But the professors were not completely adapted to this backwards classroom which made some classes more like a lecture with little interaction.”
+
+MIT Faculty and edX officials both acknowledge that MOOCs are not yet properly integrated into the on-campus life but believe improvements will be made. According to Gibson, “Many students are frustrated now. But if they work with us and help us improve we can all be a part of this reinvention of our education system.” Agarwal says, “[EdX] knows that students on campus are concerned and confused. It will take time to iron out all the wrinkles when dealing with one of the largest educational changes. But rest assured, the light at the end of the tunnel is quickly approaching.”

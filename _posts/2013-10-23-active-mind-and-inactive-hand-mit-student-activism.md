@@ -23,5 +23,4 @@ From the survey responses, as well as my satisfaction at this point in my MIT ca
 
 
 Link to survey results: 
-https://docs.google.com/spreadsheet/ccc?key=0AoB2ixkE3gS0dDdUaVVqc20zS1REQ3ZKS2p3dWpwU1E&usp=sharing 
-
+https://docs.google.com/spreadsheet/ccc?key=0AoB2ixkE3gS0dDdUaVVqc20zS1REQ3ZKS2p3dWpwU1E&usp=sharing

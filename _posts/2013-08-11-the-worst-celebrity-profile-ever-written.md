@@ -2,7 +2,7 @@
 layout: post
 displaydate: "2007-06-19"
 date: "2013-08-16"
-published: true
+published: false
 title: "The Worst Celebrity Profile Ever?"
 category: arts
 tags: 

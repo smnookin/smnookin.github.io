@@ -1,14 +1,13 @@
 ---
 layout: post
-published: true
-title: "Making jail look luxurious: Hong Kong's \"cage homes\""
+published: false
+title: "Making jail look luxurious: Hong Kong's "
 category: politics
 author: Evelyn Ting
 displaydate: "2013-10-26"
 date: "2013-10-26"
 tags: 
   - student
-  - slider
 ---
 
 ![](http://i.imgur.com/0uniBTSl.png)Cage homes in Hong Kong have been featured in newspapers and protested against for years. They are exactly what they sound like, metal mesh cages measuring roughly 6 ft x 2.5 ft, with up to twelve crammed and stacked into a single, standard apartment. Not only are these “homes” so small they bar occupants from being able to sit fully upright, they are plagued with a variety of problems from hygiene to lack of privacy and psychological distress.

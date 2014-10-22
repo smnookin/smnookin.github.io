@@ -7,6 +7,9 @@ title: Home
  <li>
     {% if post.category == 'course' %}
 	<h4 class="subheader topic">Course info</h4>
+	{% endif %}
+    {% if post.category == 'politics' %}
+	<h4 class="subheader topic">News</h4>
     {% else %}
 	<h4 class="subheader topic">{{ post.category | capitalize }}</h4>
     {% endif %}
@@ -19,5 +22,5 @@ title: Home
 		</h4>
 	</div>
  </li>
-{% endfor %}
+ {% endfor %}
 </ul>

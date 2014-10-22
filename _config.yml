@@ -1,5 +1,5 @@
 name: Topics and Methods in 21st Century Journalism
-description: 'Instructor: <a href="http://sethmnookin.com" target="_blank">Seth Mnookin</a>. Mon 2pm-5pm, <a href="http://whereis.mit.edu/?go=26">26-142</a>'
+description: 'Instructor: <a href="http://sethmnookin.com" target="_blank">Seth Mnookin</a>. TR 12:30pm-2pm, <a href="http://whereis.mit.edu/?go=4">4-253</a>'
 markdown: redcarpet
 pygments: true
 permalink: none
@@ -39,11 +39,13 @@ prose:
           element: "select"
           label: "Genre"
           options:
+            - name: "MIT"
+              value: "MIT"
             - name: "Science"
               value: "science"
-            - name: "Politics"
+            - name: "News"
               value: "politics"
-            - name: "Arts"
+            - name: "Features & Profiles"
               value: "arts"
             - name: "Course info"
               value: "course"
