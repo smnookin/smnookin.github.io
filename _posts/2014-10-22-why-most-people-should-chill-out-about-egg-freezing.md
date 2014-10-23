@@ -10,4 +10,4 @@ tags:
   - student
 ---
 
-![3515148370_2946e1d145_o.jpg](/_posts/3515148370_2946e1d145_o.jpg)
+![](http://i61.tinypic.com/xf3pdd.jpg)
