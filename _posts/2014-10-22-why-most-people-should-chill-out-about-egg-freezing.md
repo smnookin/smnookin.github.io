@@ -10,5 +10,5 @@ tags:
   - student
 ---
 
-![](http://i61.tinypic.com/xf3pdd.jpg)
+![](http://i61.tinypic.com/xf3pdd.jpg)    
 _(rmolnar7 via Flickr/Compfight)_
