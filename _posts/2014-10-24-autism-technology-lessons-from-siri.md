@@ -3,6 +3,11 @@ layout: post
 published: false
 title: "Autism Technology: Lessons from Siri"
 category: MIT
+author: Anisha Gururaj
+displaydate: "October 24, 2014"
+date: "October 24, 2014"
+tags: 
+  - student
 ---
 
 ![](http://9to5mac.files.wordpress.com/2011/10/siri-answers-will-you-marry-me.jpg)
@@ -23,6 +28,7 @@ A new MIT-Harvard-based start-up called [Brain Power](http://brain-power.com) mi
 
 Newman also takes the time to describe newer interactive technologies for autistic kids in her article. And this in and of itself is exciting—we don’t really know where all of this might lead. But by learning from anecdotes about people like Gus, we might just be able to come closer to technology that revolutionizes the nature of human interaction, changing _all_ of our lives.
 
+Image from http://9to5mac.wordpress.com
 
 
 
