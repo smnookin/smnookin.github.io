@@ -10,6 +10,8 @@ tags:
   - student
 ---
 
+![SeaLink cable route map.jpg](/_posts/SeaLink cable route map.jpg)
+
 In the past decade, [Massachusetts](http://www.cityofboston.gov/eeos/) along with the rest of the nation has gone on a Green Energy splurge. Individuals and corporations feel more of a responsibility to do their part in saving the environment. With energy independence as their goal, some [companies](http://www.boston.com/business/gallery/massgreencompanies/) try to discover “game-changing” technologies that will disrupt the market instead of incrementally improving existing technologies. The entrepreneurs that lead these companies look for novel, sustainable, and reliable forms of energy that have less of an impact on the plant. They have invested time and money in research to develop more efficient laptop batteries, wind turbines, solar cells, etc.
 
 Take [A123 Systems](http://www.a123systems.com/), for example. In 2005, this company spun-off from a research group at MIT. They hoped to bring a higher-power and faster-recharging lithium ion battery to the market place. Batteries with this new material had not yet proved to be as reliable as the current lithium ion battery. A123 spent the next 7 years enhancing their doped nanophosphate-based battery technology trying to make it as reliable and powerful. Though the company had to file for bankruptcy before reaching their ultimate goal their research and development influenced the future of [electric and hybrid cars](http://wheels.blogs.nytimes.com/2011/10/12/chevrolet-to-sell-purely-electric-spark-hatchback-in-u-s/?ref=automobiles) and energy storage systems using batteries. 
