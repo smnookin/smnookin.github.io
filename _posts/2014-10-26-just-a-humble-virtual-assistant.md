@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
-title: Just a humble virtual assistant
-category: MIT
+published: true
+title: "Siri-ndipity: Talking to Your Phone and Liking It"
+category: science
 author: "Danny Ben-David"
 displaydate: October 26 2014
 date: October 26 2014
@@ -35,4 +35,4 @@ And personally, it's _fun_ to test Siri's conversational side. Sometimes she (do
 > "Good night? But it's 6:03AM!"    
 > "…Thank you for that. I really, _really_ needed to be reminded of that."
 
-But it's still amusing to probe whatever conversational side Siri may have. 
+But it's still amusing to probe whatever conversational side Siri may have.
