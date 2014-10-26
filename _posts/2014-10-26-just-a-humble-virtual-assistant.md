@@ -35,4 +35,4 @@ And personally, it's _fun_ to test Siri's conversational side. Sometimes she (do
 > "Good night? But it's 6:03AM!"    
 > "…Thank you for that. I really, _really_ needed to be reminded of that."
 
-But overall, it's amusing to probe whatever conversational side Siri may have. 
+But it's still amusing to probe whatever conversational side Siri may have. 
