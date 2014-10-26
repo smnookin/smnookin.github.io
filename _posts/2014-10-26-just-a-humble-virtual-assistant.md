@@ -13,8 +13,8 @@ tags:
 ![](http://i.imgur.com/z2OFKCq.png)    
 I'm amused by trying to imagine the meetings that went into designing the personality of Siri, Apple's personal voice-based assistant for your mobile iDevices. Siri's full of conversational bits and easter eggs, almost like a filtered [CleverBot](http://www.cleverbot.com/), so I get a kick out of picturing the policy and design groups debating how exactly Siri should respond to a myriad of prompts.
 
-> "If someone keeps asking how Siri is doing? How many different responses should we provide?"
-> "Well, we don't want to limit Siri to just '_I feel good!_' and '_Very well, thank you!_'—we should also add one which uses the user's name. How about '_I am well, Bill._'?"
+> "If someone keeps asking how Siri is doing? How many different responses should we provide?"    
+> "Well, we don't want to limit Siri to just '_I feel good!_' and '_Very well, thank you!_'—we should also add one which uses the user's name. How about '_I am well, Bill._'?"    
 > "That's _genius_, Jim! We'll get our linguistic grammar team on it right away." 
 
 It sounds ridiculous, no? But it clearly matters to someone on the Siri team, and apparently to the Newman family as well. Judith Newman's [story of her son's friendship with Siri](http://nyti.ms/1yLmB6i "New York Times: To Siri, With Love") felt all too real to me: she describes how her thirteen-year-old son Gus, who falls on the autism spectrum, has found unlikely companionship in Siri, who can patiently provide information and tips to Gus' heart's delight. 
@@ -31,8 +31,8 @@ The story of Gus Newman, though, seems to counter Schalkwyk. Siri's methodical r
 
 And personally, it's _fun_ to test Siri's conversational side. Sometimes she (does Siri get gendered pronouns?) irritates me, volunteering extra unwanted information:
 
-> "Good night, Siri."
-> "Good night? But it's 6:03AM!"
+> "Good night, Siri."    
+> "Good night? But it's 6:03AM!"    
 > "…Thank you for that. I really, _really_ needed to be reminded of that."
 
 But overall, it's amusing to probe whatever conversational side Siri may have. 
