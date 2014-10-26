@@ -7,6 +7,7 @@ author: Emily LaVerriere
 displaydate: October 23 2014
 ---
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/8/84/CIMS_Lecture_Hall.jpg" width="500px" height="300px" />    
 The term 'MOOCs' sounds like it should refer to some hoard of sci-fi creatures. Though not alien creatures, these Massive Open Online Courses are pretty space age. Thousands of people around the world all watch the same lecture clips and click through the same homework assignments. Right now, many MOOCs are associated with [edX](https://www.edx.org/), a nonprofit started by MIT and Harvard.
 
 edX, and most MOOCs, are versions of college classes, like those taught at MIT or Harvard. This is cool, in theory, but also problematic - at least, for those who suggest that the future of MOOCs is in completely replacing the residential college experience. As an about-to-graduate MIT senior, some of my best "learning experiences" were in the lab or at my dorm. No online portal can replace that.
@@ -25,4 +26,4 @@ Or even on a more academic level, MOOCs could experiment with different formats 
 
 In a time of expanding educational horizons, class offerings shouldn’t be limited by trying to imitate college offerings. This isn’t to say that college courses shouldn’t be accessible to more people; I’m very much in favor of increased education. But why stop there?
 
-The world we live in is a complicated place with complicated problems. Trying to understand climate change, respond to disease outbreak, or deal with other international issues requires as much education and communication between people and nations as possible. If MOOCs can expand their focus to educate people of all ages about all kinds of topics and languages – not just college students about college class material – maybe they can change the world. 
+The world we live in is a complicated place with complicated problems. Trying to understand climate change, respond to disease outbreak, or deal with other international issues requires as much education and communication between people and nations as possible. If MOOCs can expand their focus to educate people of all ages about all kinds of topics and languages – not just college students about college class material – maybe they can change the world.
