@@ -8,6 +8,7 @@ date: "October 24, 2014"
 author: Zoe Sheinkopf
 ---
 
+![clip_image006.jpg](/_posts/clip_image006.jpg)
 
 
 It’s not science fiction; it’s the ultimate family planning tool. Facebook and Apple announced that they’ll be providing female employees with egg freezing services-- a procedure that costs $10,000 out of pocket. Though some worry about new expectations on working women, this is a step toward removing some of the impediments that keep more women from rising in the tech industry.
