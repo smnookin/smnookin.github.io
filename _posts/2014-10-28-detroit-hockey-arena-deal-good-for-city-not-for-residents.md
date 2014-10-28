@@ -9,7 +9,9 @@ tags:
   - student
 ---
 
+
 ![joe.jpg](/_posts/joe.jpg)
+
 
 “Hey, hey, Hockeytown!” This phrase alone is enough to catapult me back to my childhood in the late nineties. In the year 1998, in particular, I was six years old and living in the suburbs of Detroit, Michigan-- the so-called, “Hockeytown”. I was just old enough to understand that the Red Wings, Detroit’s hockey team, had just won the National Hockey League’s Stanley Cup-- the second time in a row, catapulting the city into national spotlight and giving fans a reason to [throw octopi](http://redwings.nhl.com/club/page.htm?id=43781 ) on the ice of the arena. 
 
