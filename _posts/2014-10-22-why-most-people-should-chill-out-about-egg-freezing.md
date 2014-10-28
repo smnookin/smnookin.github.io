@@ -11,7 +11,6 @@ tags:
 ---
 
 ![](http://i61.tinypic.com/xf3pdd.jpg)    
-_(rmolnar7 via Flickr/Compfight)_
 
 First things first: I am not a mother, nor do I plan on being one anytime soon. I’m a 25-year-old graduate student preoccupied with finding a job that advances my career, provides good benefits, and is located in the same city as my boyfriend. I can’t assume to know any other person’s motivations for choosing certain jobs, having kids at a certain age, or not having kids at all. And neither should anyone else. 
 
@@ -34,3 +33,5 @@ Instead, the U.S. is the only industrialized company that doesn’t guarantee pa
 In addition to paid leave, other powerhouse countries often have paid leave for fathers and extended unpaid leave with guaranteed job projection. For instance, [the French](http://www.pewresearch.org/fact-tank/2013/12/12/among-38-nations-u-s-is-the-holdout-when-it-comes-to-offering-paid-parental-leave/) offer up to 12 weeks of paid maternity leave and up to 6 years of protected leave—meaning mothers can’t be fired for taking a year off to spend time with her high school kids. Even among the [“100 Best Companies”](http://www.nytimes.com/2013/02/23/your-money/us-trails-much-of-the-world-in-providing-paid-family-leave.html?pagewanted=all) for families in the U.S., ranked by [Working Mother](http://www.workingmother.com/), the average paid maternity leave was only seven weeks in 2012.
 
 Facebook and Apple’s new egg freezing benefit has certainly sparked a heated debate about the expectations of female employees and the "appropriate" time to have kids. (Just look at the readers' comments on any given article.) But a debate relying so heavily on people’s individual experiences and opinions won’t get us anywhere. What I wish this new perk _would_ do is actually start a dialogue on work-family balance in the neoclassical halls of the Capitol—not just the sleek offices of Silicon Valley. While female employees at Facebook and Apple have the luxury of choosing between four weeks of paid maternity leave and freezing their eggs for a later attempt at kids, most Americans don’t have any choice at all.
+
+_(Image: rmolnar7 via Flickr/Compfight)_
