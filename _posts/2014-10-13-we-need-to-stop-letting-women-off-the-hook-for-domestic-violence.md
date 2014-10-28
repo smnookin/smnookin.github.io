@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: "Domestic Violence Is Not Just A Man's Problem"
+title: "Domestic Violence: Not Just A Man's Problem"
 category: politics
 author: Veronica Thomas
 displaydate: "October 13, 2014"
@@ -11,7 +11,6 @@ tags:
 ---
 
 ![](http://i57.tinypic.com/14m4a3n.jpg)
-_Hope Solo (in black jersey) with young soccer players at a Boston Breakers game. (JenniferEvans via Flickr/Compfight)_
 
 Elevators have been making the news a lot this year. In May, a video showed Solange Knowles attacking her brother-in-law, Jay-Z, in the elevator of a New York City hotel. Then, in September, a video revealed Superbowl-winning running back Ray Rice beating his now-wife, Janay, unconscious in an Atlantic City casino elevator. Though the two swanky elevators both contained domestic violence, the world’s reactions to the two incidents couldn’t be more different. 
 
@@ -40,3 +39,5 @@ Hess does get one thing right though: her headline “No, Women’s Soccer Does 
 But because our perceptions of violence are gendered, the consequences of that violence are too. Until men feel comfortable coming forward about their abuse, female perpetrators will be forgiven and forgotten. [Second-wave feminism](http://www.theguardian.com/commentisfree/2011/jun/07/feminism-domestic-violence-men) in the 70s empowered women to speak out about domestic violence, but inadvertently deepened the chasm of inequality for male victims. 
 
 As actress and new UN Women Goodwill Ambassador Emma Watson said in her [recent speech,](http://www.eonline.com/news/581276/emma-watson-gives-emotional-powerful-speech-at-u-n-about-gender-inequality-check-out-a-transcript-and-a-video) “Men don't have the benefits of equality, either." It's time for a new feminism that treats violence as violence, without caveats or excuses based on sex.
+
+_Photo credit: Hope Solo (in black jersey) with young soccer players at a Boston Breakers game. (JenniferEvans via Flickr/Compfight)_
