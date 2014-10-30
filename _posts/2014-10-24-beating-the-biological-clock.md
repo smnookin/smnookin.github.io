@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: Beating the Biological Clock
-category: MIT
+category: science
 displaydate: "October 24, 2014"
 date: "October 24, 2014"
 author: Zoe Sheinkopf
