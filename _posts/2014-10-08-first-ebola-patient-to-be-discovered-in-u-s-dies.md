@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: First Ebola Patient to Be Discovered in U.S. Dies
 category: science
 author: Manny Fernandez
