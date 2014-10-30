@@ -11,7 +11,6 @@ tags:
 ---
 
 ![](http://i57.tinypic.com/14m4a3n.jpg)
-
 Elevators have been making the news a lot this year. In May, a video showed Solange Knowles attacking her brother-in-law, Jay-Z, in the elevator of a New York City hotel. Then, in September, a video revealed Superbowl-winning running back Ray Rice beating his now-wife, Janay, unconscious in an Atlantic City casino elevator. Though the two swanky elevators both contained domestic violence, the world’s reactions to the two incidents couldn’t be more different. 
 
 While a deafening public outcry led to the NFL’s indefinite suspension of Rice and the rippling penalization of other players, Solange became the newest punch line for comedians. [Saturday Night Live](http://variety.com/2014/tv/news/watch-saturday-night-love-jay-z-solange-knowles-spoof-1201185453/) opened their season finale with a skit unveiling the video’s “missing” audio. It turns out Solange was just trying to kill a spider crawling on Jay-Z! Whew, what a relief.
