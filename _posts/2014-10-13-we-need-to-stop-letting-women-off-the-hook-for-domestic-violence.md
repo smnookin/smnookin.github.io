@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Domestic Violence: Not Just A Man's Problem"
 category: politics
 author: Veronica Thomas
