@@ -4,10 +4,10 @@ published: true
 title: The True Meaning of IHTFP
 category: MIT
 author: Scout Carpenter
-displaydate: 10/17/2014
+displaydate: October 17 2014
 tags: 
   - student
-date: 10/17/2014
+date: October 17 2014
 ---
 
 ![tumblr_n50wj8OuEq1tajobwo1_1280.jpg](/_posts/tumblr_n50wj8OuEq1tajobwo1_1280.jpg)
