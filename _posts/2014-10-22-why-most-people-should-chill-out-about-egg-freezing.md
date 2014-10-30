@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: "Let's Chill Out About Egg Freezing And Start Talking Balance"
-category: MIT
+category: science
 author: Veronica Thomas
 displaydate: October 24 2014
 date: October 24 2014
