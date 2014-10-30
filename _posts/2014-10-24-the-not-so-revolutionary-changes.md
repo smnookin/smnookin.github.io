@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 title: The Not So Revolutionary Changes
-category: MIT
+category: science
 author: Keerti Shukla
 displaydate: October 24 2014
 date: October 24 2014
