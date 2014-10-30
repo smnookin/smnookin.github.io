@@ -5,7 +5,7 @@ title: "MOOCs: Not Just for College Students Anymore"
 category: politics
 author: Emily LaVerriere
 displaydate: October 23 2014
-date: "October 23, 2014"
+date: October 23 2014
 ---
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/8/84/CIMS_Lecture_Hall.jpg" width="500px" height="300px" />    
