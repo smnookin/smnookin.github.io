@@ -1,14 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: "Detroit Hockey Arena Deal: Good for City, Not for Residents"
 category: politics
 author: Val Healy
-displaydate: 10/28/2014
+displaydate: October 28 2014
 tags: 
   - student
+date: October 28 2014
 ---
-
 
 ![joe.jpg](/_posts/joe.jpg)
 
@@ -27,4 +27,4 @@ This is what worries me about the planned demolition and rebuilding of Detroit�
 
 This trend of heavier policing and higher-end economic development to revitalize the city will not help current residents; in fact, it will most likely hurt them, pushing them out of their homes as housing prices rise. Don’t get me wrong-- I am not arguing that the Joe Louis Arena, despite my sentimental attachments, should be saved from demolition, or that doing so will help current residents of Detroit. Putting the settlement into a larger context, however, it is clear that the move will contribute to a wider phenomenon-- gentrification-- that will harm the city’s poorer residents. 
 
-Photo credit: https://www.flickr.com/photos/femaletrumpet02/ 
+Photo credit: https://www.flickr.com/photos/femaletrumpet02/
