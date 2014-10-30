@@ -10,7 +10,7 @@ tags:
 date: October 17 2014
 ---
 
-![](40.media.tumblr.com/74451076839c31ab53f98cccc4c248df/tumblr_n50wj8OuEq1tajobwo1_1280.jpg)
+![](http://40.media.tumblr.com/74451076839c31ab53f98cccc4c248df/tumblr_n50wj8OuEq1tajobwo1_1280.jpg)
 Life as an undergrad at the Massachusetts Institute of Technology is stressful, but  it is also the best life I can imagine. The thing that makes MIT so great for me is my dorm, Next House. Most people who are familiar with MIT know the student body's motto, IHTFP. A lot of students embrace the first version of the motto (_I Hate This F...ing Place_), but living in Next House has shaped my life at school, making me adopt the second version, _**I Have Truly Found Paradise**_.
 
 ![](http://mitadmissions.org/images/mit-blogs/IHTFP.png)
