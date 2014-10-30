@@ -1,10 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: "Student Athletes: Students First, Athletes Second"
 category: MIT
 author: Meryl Gibbs
 displaydate: "October 25, 2014"
+date: "October 25, 2014"
+tags: 
+  - student
 ---
 
 ![IMG_3167-2.JPG](/assets/IMG_3167-2.JPG)
