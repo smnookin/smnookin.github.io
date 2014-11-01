@@ -10,7 +10,9 @@ tags:
   - student
 ---
 
-![SeaLink cable route map.jpg](/_posts/SeaLink cable route map.jpg) In the past decade, [Massachusetts](http://www.cityofboston.gov/eeos/), along with the rest of the nation, has gone on a Green Energy splurge. With energy independence as their goal, some [companies](http://www.boston.com/business/gallery/massgreencompanies/) are searching for “game-changing” technologies that will disrupt the market, while others are trying to incrementally improving existing technologies. The entrepreneurs that lead these companies look for novel, sustainable, and reliable forms of energy that have less of an impact on the planet. They have invested time and money in research to develop more efficient laptop batteries, wind turbines, solar cells, etc.
+![SeaLink cable route map.jpg](/_posts/SeaLink cable route map.jpg) In the past decade, [Massachusetts](http://www.cityofboston.gov/eeos/), along with the rest of the nation, has gone on a Green Energy splurge. With energy independence as their goal, some [companies](http://www.boston.com/business/gallery/massgreencompanies/) are searching for “game-changing” technologies that will disrupt the market, while others are trying to incrementally improving existing technologies. 
+
+The entrepreneurs that lead these companies look for novel, sustainable, and reliable forms of energy that have less of an impact on the planet. They have invested time and money in research to develop more efficient laptop batteries, wind turbines, solar cells, etc.
 
 Take [A123 Systems](http://www.a123systems.com/), which spun off from a research group at MIT in 2005. A123 hoped to bring a higher-power and faster-recharging lithium ion battery to the marketplace, but batteries with this new material have not yet proved to be as reliable as the current lithium ion battery. While the company had to file for bankruptcy before reaching their ultimate goal, its research and development influenced the future of [electric and hybrid cars](http://wheels.blogs.nytimes.com/2011/10/12/chevrolet-to-sell-purely-electric-spark-hatchback-in-u-s/?ref=automobiles) and energy storage systems using batteries. 
 
