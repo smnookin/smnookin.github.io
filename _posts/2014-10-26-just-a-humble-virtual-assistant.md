@@ -10,8 +10,7 @@ tags:
   - student
 ---
 
-![](http://i.imgur.com/z2OFKCq.png)    
-I'm amused by trying to imagine the meetings that went into designing the personality of Siri, Apple's personal voice-based assistant for your mobile iDevices. Siri's full of conversational bits and Easter eggs, almost like a filtered [CleverBot](http://www.cleverbot.com/), so I get a kick out of picturing the policy and design groups debating how exactly Siri should respond to a myriad of prompts.
+![](http://i.imgur.com/z2OFKCq.png) I'm amused by trying to imagine the meetings that went into designing the personality of Siri, Apple's personal voice-based assistant for your mobile iDevices. Siri's full of conversational bits and Easter eggs, almost like a filtered [CleverBot](http://www.cleverbot.com/), so I get a kick out of picturing the policy and design groups debating how exactly Siri should respond to a myriad of prompts.
 
 > "If someone keeps asking how Siri is doing? How many different responses should we provide?"    
 > "Well, we don't want to limit Siri to just '_I feel good!_' and '_Very well, thank you!_'—we should also add one which uses the user's name. How about '_I am well, Bill._'?"    
