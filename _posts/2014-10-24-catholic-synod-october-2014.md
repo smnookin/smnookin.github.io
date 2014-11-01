@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "The appeal of Pope Francis's accepting spirit"
+title: "The Appeal of Pope Francis's Accepting Spirit"
 category: politics
 author: Scout Carpenter
 displaydate: October 24 2014
