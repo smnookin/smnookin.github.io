@@ -10,10 +10,7 @@ tags:
 date: October 28 2014
 ---
 
-![joe.jpg](/_posts/joe.jpg)
-
-
-“Hey, hey, Hockeytown!” This phrase alone is enough to catapult me back to my childhood in the late nineties. In the year 1998, in particular, I was six years old and living in the suburbs of Detroit, Michigan-- the so-called “Hockeytown”. I was just old enough to understand that the Red Wings, Detroit’s hockey team, had just won the National Hockey League’s Stanley Cup for the second time in a row, catapulting the city into the national spotlight and giving fans a reason to [throw octopi](http://redwings.nhl.com/club/page.htm?id=43781 ) on the ice of the arena. 
+![joe.jpg](/_posts/joe.jpg) “Hey, hey, Hockeytown!” This phrase alone is enough to catapult me back to my childhood in the late nineties. In the year 1998, in particular, I was six years old and living in the suburbs of Detroit, Michigan-- the so-called “Hockeytown”. I was just old enough to understand that the Red Wings, Detroit’s hockey team, had just won the National Hockey League’s Stanley Cup for the second time in a row, catapulting the city into the national spotlight and giving fans a reason to [throw octopi](http://redwings.nhl.com/club/page.htm?id=43781 ) on the ice of the arena. 
 
 This Friday, the New York Times published a [piece](http://www.nytimes.com/2014/10/17/business/detroit­reaches­settlement­with­re maining­big­creditor.html ) detailing the plans for the demolition of Joe Louis Arena-- “The Joe”, as the locals call it--, home of the Detroit Red Wings. The City of Detroit reached a settlement with one of its creditors, The Financial Guaranty Insurance Company, that plans to construct an amalgam of hotel rooms, retail developments, and condominiums in place of the arena. 
 
