@@ -13,7 +13,7 @@ tags:
 ![_View from the top of MIT's Great Dome. Courtesy of the MIT News Office._](http://i.imgur.com/CHMwIGR.jpg "View from the top of MIT's Great Dome. Courtesy of the MIT News Office.")    
 It's always exciting when a new hack appears at MIT. As people begin to notice the hack's arrival some morning, news will travel backwards into the dormitories and living groups, and soon people will trek well beyond their normal commute to get a good view.
 
-Outside of the Institvte, hacking has come to be associated with malicious computer access. However, MIT's [IHTFP Hack Gallery](http://hacks.mit.edu) helpfully provides that:
+Outside of the Institute, hacking has come to be associated with malicious computer access. However, MIT's [IHTFP Hack Gallery](http://hacks.mit.edu) helpfully provides that:
 
 > The word hack at MIT usually refers to a clever, benign, and "ethical" prank or practical joke, which is both challenging for the perpetrators and amusing to the MIT community (and sometimes even the rest of the world!)
 
@@ -31,7 +31,7 @@ It wasn't always like this. MIT's Cambridge campus was completed in 1916, with a
 
 Such a setup allowed for the formation of a mutual sense of trust between the administration and hackers: the former would turn a blind eye to the latter's activities, as long as the latter didn't do anything too stupid. For a surprisingly long time, this worked well: hacking became increasingly popular in the 70s, 80s and 90s, MIT received good local press praising their students' ingenuity, and students had a unique extra-cirricular activity.
 
-By the arrival of the 2000s, however, MIT had a tangentially related problem. The Institvte had had a pressure-cooker mentality for a long time: an old motto, "Tech is Hell", dates to at least the 1920s, and in 1993 the domed roof on Building 7 had been hacked to actually look like a pressure cooker. But the high-stress environment began to draw questions, particularly after a string of highly publicized student deaths on campus in the late 1990s. MIT began to receive unwanted attention about its suicide rate, which appeared to be higher than at peer institutions, and the administration began to view the student body less as a creative asset and more as a liability. 
+By the arrival of the 2000s, however, MIT had a tangentially related problem. The Institute had had a pressure-cooker mentality for a long time: an old motto, "Tech is Hell", dates to at least the 1920s, and in 1993 the domed roof on Building 7 had been hacked to actually look like a pressure cooker. But the high-stress environment began to draw questions, particularly after a string of highly publicized student deaths on campus in the late 1990s. MIT began to receive unwanted attention about its suicide rate, which appeared to be higher than at peer institutions, and the administration began to view the student body less as a creative asset and more as a liability. 
 
 The lawsuits related to those student deaths were finally settled by 2006, but the entire process had left the MIT administration with a few thoughts. First, it is deeply embarrassing for MIT to be tangled up in any legal issues: local press covered the issue, and MIT had a hard time shaking its suicide stigma. Second, MIT is far less likely to be judged for watching _too_ closely than for not watching closely _enough_. Thus, excess risks, including students in dangerous and off-limits areas, should be curtailed.
 
