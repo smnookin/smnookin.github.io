@@ -10,11 +10,11 @@ displaydate: October 13 2014
 date: October 13 2014
 ---
 
-<img src="http://i.imgur.com/8l0O7X8.jpg" width="300px" height="1000px" />     Wandering around art galleries with paper and pencil in hand may not be the archetypal MIT student’s afternoon activity. But over 1000 MIT students did exactly that at the [List Visual Arts Center’s Student Loan Art Program](https://listart.mit.edu/events-programs/student-loan-art-program-artwork-pickup) in September. Nearly 600 of them got lucky in the lottery and were able to take home a piece of art for the academic year. 
+<img src="http://i.imgur.com/8l0O7X8.jpg" width="300px" height="1000px" />     Wandering around art galleries with paper and pencil in hand may not be the archetypal MIT student’s afternoon activity. But over 1,000 MIT students did exactly that at the [List Visual Arts Center’s Student Loan Art Program](https://listart.mit.edu/events-programs/student-loan-art-program-artwork-pickup) in September. Nearly 600 of them got lucky in the lottery and were able to take home a piece of art for the academic year. 
 
 These lucky 600 are able to live with art for a year, but those who didn’t win the lottery don’t have to resign themselves to art-less existences. MIT’s campus is full of public art, in and out of buildings, but many people aren’t aware of the extent of the collection. 
 
-Some pieces are pretty hard to miss - the Sol LeWitt piece “Bars of Color Within Squares (MIT)” is literally walked on or past by much of the MIT community each day. Similar in color to many of Sol LeWitt's wall drawings (1), the piece covers the floor around building 6C (right near MIT’s major hallway). The brightly colored geometric shapes within each square contrast with the glass and brick exteriors of the nearby buildings. The piece is unexpected in its space; glimpses of its color can be seen from several floors above, brightening up an otherwise empty space. 
+Some pieces are pretty hard to miss - the Sol LeWitt piece “Bars of Color Within Squares (MIT),” located in an atrium off of Building 4, is literally walked on or past by much of the MIT community each day. Similar in color to many of Sol LeWitt's wall drawings (1), the piece, shown above, covers the floor of the atrium with brightly colored geometric shapes, which contrast with the glass and brick exteriors of the nearby buildings. The piece is unexpected in its space; glimpses of its color can be seen from several floors above, brightening up an otherwise empty space. 
 
 <img src="http://i.imgur.com/CKS0LGr.jpg" width="300px" height="100px" />
 
@@ -22,7 +22,7 @@ Almost empty spaces are generally good places to look for art at MIT. Wandering 
 
 <img src="http://i.imgur.com/RyYCxdU.jpg" width="300px" height="100px" />
 
-Some pieces may just be difficult to distinguish from their environments; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with in a space full of white-on-white donor lists, bursts of colors, odd angles, and weird sources of light from the pointy glass entrances to the space. No ordinary painting could have been placed in the Stata Center. The curved simplicity of Non-Object (Plane) contrasts the chaotic design of the Stata Center while distorting the chaos - literally, as the mirror shifts one's perception of the open room. 
+Then there are pieces that can be difficult to distinguish from their environments; Anish Kapoor’s curved steel “Non-Object (Plane)” in the Stata Center may be mistaken for another quirky feature of the oddly designed Frank Gehry building. The funhouse-mirror-like piece was designed to interact with a space full of white-on-white donor lists, bursts of colors, odd angles, and unlikely sources of light. The curved simplicity of Non-Object (Plane) contrasts the chaotic design of the Stata Center while distorting the chaos - literally, as the mirror shifts one's perception of the open room. 
 
 <!---
 if I don't get permission to use the hack picture, I'll take a picture of the stata center or simmons to put here.
@@ -30,7 +30,7 @@ if I don't get permission to use the hack picture, I'll take a picture of the st
 
 MIT may be the perfect place to consider the overlap between architecture and art. To put it diplomatically, MIT doesn’t have a traditional college campus feel of idyllic, identical brick buildings. The architecture here is a bit...different. From Gehry’s Dr. Seuss-like Stata Center to Steven Holl’s futuristic sponge of a dormitory, Simmons Hall, MIT’s buildings attract as much attention from tourists as the academics of the school, if not more (2). But living with art and living within art are very different things. The average MIT undergrad may become accustomed to her space and want to add her own twist to her environment. 
 
-MIT’s underground (both literally and figuratively) hacking community may know the campus better than anyone. By exploring, understanding, and creatively adding to their environment, hackers at MIT over its history have contributed more pieces of public interest than any commissioned artist. 
+MIT’s underground hacking community may know the campus better than anyone. By exploring, understanding, and creatively adding to their environment, hackers at MIT over its history have contributed more pieces of public interest than any commissioned artist. 
 
 <!---
 I haven't gotten a response yet from the photographer, so I don't feel comfortable posting this with the picture displayed yet. Hopefully will hear back soon!
