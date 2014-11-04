@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: The Not So Revolutionary Changes
+title: Smaller Efforts Might Pay Off
 category: science
 author: Keerti Shukla
 displaydate: October 24 2014
@@ -10,7 +10,9 @@ tags:
   - student
 ---
 
-![SeaLink cable route map.jpg](https://raw.githubusercontent.com/smnookin/smnookin.github.io/master/_posts/SeaLink%20cable%20route%20map.jpg?token=AIq33n-XDUVu_LwzJdEorZlmoKKcHEewks5UXlX-wA%3D%3D) In the past decade, [Massachusetts](http://www.cityofboston.gov/eeos/), along with the rest of the nation, has gone on a Green Energy splurge. With energy independence as their goal, some [companies](http://www.boston.com/business/gallery/massgreencompanies/) are searching for “game-changing” technologies that will disrupt the market, while others are trying to incrementally improving existing technologies. 
+![](/http://www.sealinkcable.com/images/SeaLink%20cable%20route%20map.jpg)
+
+In the past decade, [Massachusetts](http://www.cityofboston.gov/eeos/), along with the rest of the nation, has gone on a Green Energy splurge. With energy independence as their goal, some [companies](http://www.boston.com/business/gallery/massgreencompanies/) are searching for “game-changing” technologies that will disrupt the market, while others are trying to incrementally improving existing technologies. 
 
 The entrepreneurs that lead these companies look for novel, sustainable, and reliable forms of energy that have less of an impact on the planet. They have invested time and money in research to develop more efficient laptop batteries, wind turbines, solar cells, etc.
 
