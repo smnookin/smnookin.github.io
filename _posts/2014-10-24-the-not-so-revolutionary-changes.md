@@ -11,9 +11,7 @@ tags:
 ---
 
 
-In the past decade, [Massachusetts](http://www.cityofboston.gov/eeos/), along with the rest of the nation, has gone on a Green Energy splurge. With energy independence as their goal, many [companies](http://www.boston.com/business/gallery/massgreencompanies/) are searching for “game-changing” technologies that will disrupt the market. 
-
-The entrepreneurial leaders of these companies look for novel, sustainable, and reliable forms of energy that have less of an impact on the planet. They invest time and money in research to develop more efficient laptop batteries, wind turbines, solar cells, etc.
+In the past decade, [Massachusetts](http://www.cityofboston.gov/eeos/), along with the rest of the nation, has gone on a Green Energy splurge. With energy independence as their goal, many [companies](http://www.boston.com/business/gallery/massgreencompanies/) are searching for “game-changing” technologies that will disrupt the market. The entrepreneurial leaders of these companies look for novel, sustainable, and reliable forms of energy that have less of an impact on the planet. They invest time and money in research to develop more efficient laptop batteries, wind turbines, solar cells, etc.
 
 Take [A123 Systems](http://www.a123systems.com/), which spun off from a research group at MIT in 2005. A123 hoped to develop a higher-power and faster-recharging lithium ion battery using doped [nanophosphates](http://www.understandingnano.com/batteries.html). Though A123 was not able to prove that the new material was more efficient and as reliable as the current lithium ion battery, its research and development influenced the future of [electric and hybrid cars](http://wheels.blogs.nytimes.com/2011/10/12/chevrolet-to-sell-purely-electric-spark-hatchback-in-u-s/?ref=automobiles) and battery-based energy storage systems.
 
