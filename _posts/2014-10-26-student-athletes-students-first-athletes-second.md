@@ -11,7 +11,6 @@ tags:
 ---
 
 ![IMG_3167-2.JPG](/assets/IMG_3167-2.JPG)
-
 You are a football player at the prestigious University of North Carolina. At 6’3 and 250 pounds, you are a powerhouse. You spend about [40 hours a week on football](http://diverseeducation.com/article/13021/).  You wake up at 6 am to strength train. You have breakfast by 8:30 am. You have practice from 4pm to 7pm. You have class written in on your schedule for 9pm, but you’ve never been. The class doesn’t really exist.
  
 If there are athletes at a Division I university renowned for its academics that aren't attending classes, should they really call themselves _student_-athletes? And if this is occurring, is the university failing its civic duty? These are questions now facing the University of North Carolina (UNC) at Chapel Hill, one of the best public universities in the country renowned for its national championship-winning basketball and football programs, in the aftermath of a scandal.
