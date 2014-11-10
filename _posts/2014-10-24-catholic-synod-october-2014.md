@@ -10,7 +10,7 @@ tags:
 date: October 24 2014
 ---
 
-![Francis_crowd_Mass.jpg](https://raw.githubusercontent.com/smnookin/smnookin.github.io/master/_posts/Francis_crowd_Mass.jpg)   Things have changed in the Catholic Church since 2013, when Jorge Mario Bergoglio was elected as the Catholic Church’s new leader, Pope Francis. Recently, the Pope convened a meeting of a group of Catholic Bishops, called a synod, to focus on the church’s stance and doctrine on the [future of the family]( http://www.nytimes.com/2014/10/18/opinion/what-is-a-catholic-family.html), most notably the issue of same sex couples. 
+![Francis_crowd_Mass.jpg](http://cdn.timesofisrael.com/uploads/2014/04/000_DV1708616.jpg)   Things have changed in the Catholic Church since 2013, when Jorge Mario Bergoglio was elected as the Catholic Church’s new leader, Pope Francis. Recently, the Pope convened a meeting of a group of Catholic Bishops, called a synod, to focus on the church’s stance and doctrine on the [future of the family]( http://www.nytimes.com/2014/10/18/opinion/what-is-a-catholic-family.html), most notably the issue of same sex couples. 
 	
 The church's previous leader, Benedict XVI, who resigned as Pope in 2013, was well known for being a conservative enforcer of long-standing Catholic doctrine. The transition from his tenure to that of to Pope Francis has been shocking to some conservatives, but very refreshing to many other Catholics. 
 	
