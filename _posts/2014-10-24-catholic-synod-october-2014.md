@@ -10,8 +10,8 @@ tags:
 date: October 24 2014
 ---
 
-![Francis_crowd_Mass.jpg](http://cdn.timesofisrael.com/uploads/2014/04/000_DV1708616.jpg)   Things have changed in the Catholic Church since 2013, when Jorge Mario Bergoglio was elected as the Catholic Church’s new leader, Pope Francis. Recently, the Pope convened a meeting of a group of Catholic Bishops, called a synod, to focus on the church’s stance and doctrine on the [future of the family]( http://www.nytimes.com/2014/10/18/opinion/what-is-a-catholic-family.html), most notably the issue of same sex couples. 
-	
+![Francis_crowd_Mass.jpg](http://cdn.timesofisrael.com/uploads/2014/04/000_DV1708616.jpg)   Things have changed in the Catholic Church since 2013, when Jorge Mario Bergoglio was elected as the Catholic Church’s new leader, Pope Francis. Recently, the Pope convened a meeting of a group of Catholic Bishops, called a synod, to focus on the church’s stance and doctrine on the [future of the family]( http://www.nytimes.com/2014/10/18/opinion/what-is-a-catholic-family.html), most notably the issue of same sex couples.
+
 The church's previous leader, Benedict XVI, who resigned as Pope in 2013, was well known for being a conservative enforcer of long-standing Catholic doctrine. The transition from his tenure to that of to Pope Francis has been shocking to some conservatives, but very refreshing to many other Catholics. 
 	
 With the world changing as quickly as it is, many people, some Catholics included, had come to believe that the Church was falling out of step with the rest of the world. Pope Francis, with his unprecedented willingness to discuss tough current issues, has worked to change that view. The October synod was a perfect example of the change the new Pope is causing in the slow-to-transition Catholic Church. Adding to the impact of these changes is the fact that they're taking place in public, with open discussions, published briefings, and an unprecedented overtness. 
