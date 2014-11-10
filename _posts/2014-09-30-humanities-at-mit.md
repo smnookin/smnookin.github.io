@@ -8,7 +8,6 @@ displaydate: October 7 2014
 date: "October 7, 2014"
 tags: 
   - student
-  - slider
 ---
 
 ![A well-worn copy of _The Riverside Chaucer_ in the office of MIT, Arthur Bahr, the only medieval literature scholar at the institute.](https://ifeverythinghadaword.files.wordpress.com/2014/09/dsc_0341.jpg)When Noam Chomsky created the first philosophy course at MIT in the 1950s, he knew there would be questions. But he was still surprised when a young engineer asked if the class would help him impress the Radcliffe coeds who swooned when Harvard boys dropped references to Kant into conversation.
