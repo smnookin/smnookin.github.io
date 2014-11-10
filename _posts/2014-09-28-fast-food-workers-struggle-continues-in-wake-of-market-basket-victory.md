@@ -7,6 +7,7 @@ author: Val Healy
 displaydate: September 29 2014
 tags: 
   - student
+  - slider
 date: "September 29, 2014"
 ---
 
