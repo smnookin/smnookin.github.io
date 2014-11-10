@@ -7,7 +7,6 @@ author: Veronica Thomas
 displaydate: September 28 2014
 tags: 
   - student
-  - slider
 date: "September 28, 2014"
 ---
 
