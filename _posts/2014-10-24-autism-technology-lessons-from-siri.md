@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Autism Technology: Lessons from Siri"
 category: MIT
 author: Anisha Gururaj
