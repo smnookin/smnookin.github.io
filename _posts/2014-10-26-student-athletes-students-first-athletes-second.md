@@ -12,7 +12,7 @@ tags:
 
 ![IMG_3167-2.JPG](/assets/IMG_3167-2.JPG)
 You are a football player at the prestigious University of North Carolina. At 6’3 and 250 pounds, you are a powerhouse. You spend about [40 hours a week on football](http://diverseeducation.com/article/13021/).  You wake up at 6 am to strength train. You have breakfast by 8:30 am. You have practice from 4pm to 7pm. You have class written in on your schedule for 9pm, but you’ve never been. The class doesn’t really exist.
- 
+
 If there are athletes at a Division I university renowned for its academics that aren't attending classes, should they really call themselves _student_-athletes? And if this is occurring, is the university failing its civic duty? These are questions now facing the University of North Carolina (UNC) at Chapel Hill, one of the best public universities in the country renowned for its national championship-winning basketball and football programs, in the aftermath of a scandal.
  
 Among the facts that came to light was a series of ‘ghost classes’: courses in the African American studies department that never actually met and only required one paper, which was often graded as an A regardless of the content. [47% of the students enrolled in these classes were athletes, and 51% of those athletes were football players]( http://www.bostonglobe.com/news/nation/2014/10/22/unc-academic-fraud-case-includes-more-than-students/dntcv3mb3VeAzyAqi00WQM/story.html ). It had previously been disclosed by a former academic counselor from UNC that many of the athletes, especially the football players, [were reading at a 3rd or 4th grade level](http://www.cnn.com/2014/01/07/us/ncaa-athletes-reading-scores/).
