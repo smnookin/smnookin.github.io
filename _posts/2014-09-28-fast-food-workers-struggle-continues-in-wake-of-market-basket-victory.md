@@ -8,7 +8,7 @@ displaydate: September 29 2014
 tags: 
   - student
   - slider
-date: "September 29, 2014"
+date: "October 12, 2014"
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mcd-times_square.JPG/320px-Mcd-times_square.JPG)    Welcome, may I take your order? Across the United States, fast food employees are switching the script and making some demands of their own. These workers, including many in the Boston area, have staged strikes and other acts of civil disobedience in an attempt to improve their working conditions and secure raises to $15 an hour. 
