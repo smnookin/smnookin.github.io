@@ -6,6 +6,7 @@ category: MIT
 author: Emily LaVerriere
 tags: 
   - student
+  - slider
 displaydate: October 13 2014
 date: October 13 2014
 ---
