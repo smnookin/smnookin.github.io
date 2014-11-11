@@ -8,7 +8,6 @@ displaydate: October 26 2014
 date: October 26 2014
 tags: 
   - student
-  - slider
 ---
 
 ![](http://i.imgur.com/z2OFKCq.png) I'm amused by trying to imagine the meetings that went into designing the personality of Siri, Apple's personal voice-based assistant for your mobile iDevices. Siri's full of conversational bits and Easter eggs, almost like a filtered [CleverBot](http://www.cleverbot.com/), so I get a kick out of picturing the policy and design groups debating how exactly Siri should respond to a myriad of prompts.
