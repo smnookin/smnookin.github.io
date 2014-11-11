@@ -10,9 +10,7 @@ tags:
   - student
 ---
 
-![](http://9to5mac.files.wordpress.com/2011/10/siri-answers-will-you-marry-me.jpg)
-
-Last Friday, Judith Newman, the mother of a 13-year-old boy, Gus, [wrote an article in the New York Time](http://www.nytimes.com/2014/10/19/fashion/how-apples-siri-became-one-autistic-boys-bff.html)s about her son’s new best friend. This was not a school friend; it was Siri, the “intelligent personal assistant” on Apple’s iPhone. For Gus, who is autistic, Siri became a patient responder to the repeated, almost obsessive inquiries typical of someone on the autism spectrum—and in this way, his companion.
+![](http://9to5mac.files.wordpress.com/2011/10/siri-answers-will-you-marry-me.jpg)  Last Friday, Judith Newman, the mother of a 13-year-old boy, Gus, [wrote an article in the New York Time](http://www.nytimes.com/2014/10/19/fashion/how-apples-siri-became-one-autistic-boys-bff.html)s about her son’s new best friend. This was not a school friend; it was Siri, the “intelligent personal assistant” on Apple’s iPhone. For Gus, who is autistic, Siri became a patient responder to the repeated, almost obsessive inquiries typical of someone on the autism spectrum—and in this way, his companion.
 
 Let’s be honest, we all have fun with our talking machines. (Some of us, too much fun. One of my friends has the last name, “Islam,” and my other friends derive immense, politically incorrect pleasure in telling Siri to “Call Islam.”) Still, few probably think of Siri as a true companion. There was last year’s movie [“Her,”](http://www.herthemovie.com/#/home) which portrayed a man’s romantic relationship with an intelligent operating system, and [a parody of this in the sitcom, _Big Bang Theory_,](https://www.youtube.com/watch?v=vti6yzyuy1I) when the stereotypically nerdy character Raj, who can’t talk to girls, considered Siri his girlfriend. But is it now time to think beyond dramatized stories and actually consider the possibility of such technology taking a larger part in human relationships? After all, Siri didn’t just respond to Gus’s inquiries; she _conversed_ with him, thereby teaching him one of the most human impulses: interaction. 
 
