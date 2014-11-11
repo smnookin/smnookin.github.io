@@ -5,7 +5,7 @@ title: "Siri-ndipity: Talking to Your Phone and Liking It"
 category: science
 author: "Danny Ben-David"
 displaydate: October 26 2014
-date: October 26 2014
+date: October 10 2014
 tags: 
   - student
   - slider
