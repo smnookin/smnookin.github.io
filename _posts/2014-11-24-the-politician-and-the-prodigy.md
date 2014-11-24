@@ -5,10 +5,6 @@ title: The Politician And The Prodigy
 category: MIT
 ---
 
-## A New Post
-
-The Politician And The Prodigy
-
 Buddies Nadeem Mazen and Ali Mohammad were hungry. Like, really hungry. The two MIT graduate students were fasting for Ramadan and passing the afternoon in Ali’s office talking about food—specifically, dancing toasts. 
 
 “It’s just all you think about at a certain part of the day,” says Ali. “You get to this Zen-like meditation state of mind.” They mused about the famous Virgin Mary grilled cheese that sold for $28,000 on eBay and the transcendent toaster kit that conjures the image of Jesus with every slice. They thought, what if we did that with thousands of images? It’d be like a flipbook, but instead of paper they’d use crispy bread, one image per slice.     
