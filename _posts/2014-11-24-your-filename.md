@@ -4,6 +4,7 @@ published: false
 title: ""
 category: MIT
 author: Zoe Sheinkopf
+date: "November 24, 2014"
 ---
 
 Suzanne Corkin has the bright corner office you’d expect of a distinguished senior faculty member at an elite university. It’s on the fifth floor of the Brain and Cognitive Sciences building on MIT’s campus, and the walls are mostly window. I step over a rubber chew toy, strewn by the other inhabitant of the office: Trooper, Corkin’s docile dog. On the bookshelf is a framed collage of pictures of Henry Molaison, whose brain Corkin has studied for the past five decades. I notice a pink hat painted to look like a  brain hanging on a coat rack. “Nice thinking cap,” I say.
