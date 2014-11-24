@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ""
+title: Life Lessons from a Living Legend
 category: MIT
 author: Zoe Sheinkopf
 date: "November 24, 2014"
