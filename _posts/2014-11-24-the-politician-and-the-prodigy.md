@@ -7,6 +7,7 @@ displaydate: November 24 2014
 date: November 24 2014
 tags: 
   - student
+author: Veronica Thomas
 ---
 
 Buddies Nadeem Mazen and Ali Mohammad were hungry. Like, really hungry. The two MIT graduate students were fasting for Ramadan and passing the afternoon in Ali’s office talking about food—specifically, dancing toasts. 
