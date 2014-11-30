@@ -11,11 +11,9 @@ tags:
 date: "October 12, 2014"
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mcd-times_square.JPG/320px-Mcd-times_square.JPG)    Welcome, may I take your order? Across the United States, fast food employees are switching the script and making some demands of their own. 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mcd-times_square.JPG/320px-Mcd-times_square.JPG)    Welcome, may I take your order? Across the United States, fast food employees are switching the script and making some demands of their own. These workers, including many in the Boston area, have staged strikes and other acts of civil disobedience. 
 
-These workers, including many in the Boston area, have staged strikes and other acts of civil disobedience in an attempt to improve their working conditions and secure raises to $15 an hour. 
-
-But unlike traditional labor efforts, fast food workers are organizing without the help of a union. 
+Their goal is to improve their working conditions and secure raises to $15 an hour. But unlike traditional labor efforts, fast food workers are organizing without the help of a union. 
 
 That was also the situation with a high-profile case this summer, when the non-unionized employees of the supermarket chain Market Basket staged a month-long walk-out to reinstate the company's former president, Arthur T. Demoulas, after he was dismissed by the store's board of directors. Their campaign was successful -- although there's no guarantee their competitive wages and generous benefits will remain in place if Demoulas retires. Though the Market Basket case was thought by some to be an inspiring landmark moment in labor history, it is unclear if the case could be replicated elsewhere.
 
