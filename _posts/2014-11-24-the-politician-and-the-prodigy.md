@@ -12,7 +12,7 @@ author: Veronica Thomas
 
 ![](http://i61.tinypic.com/qy703s.png)
 
-## Getting People to Make Stuff
+Getting People to Make Stuff
 
 Nadeem Mazen zips around snapping photos and greeting guests, while his buddy Ali Mohammad carefully prepares the coffee. The two guys look like brothers with their thick beards, dark eyes, and black curly hair, which Nadeem wears in in a slick ponytail and Ali sports in an untamed ‘fro, small black-framed glasses buried in the depths. While Nadeem wears a sleek blazer and skinny tie, Ali sports a white T-shirt and khakis.
 
