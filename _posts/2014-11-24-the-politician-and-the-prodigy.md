@@ -61,7 +61,8 @@ Because Nadeem and Ali were MIT grad students, they had access to the university
 Their stealth paid off. The band loved the short prototypes and secured a sponsorship to cover the cost of the three $30,000 laser cutters needed to produce the video. Ali and Nadeem helped pick the song “Last Leaf,” not for any poetic reasons, but because it was the shortest song on the album, requiring the least amount of bread. 
 
 After nearly a year of collaborative design with OK Go and multiple animators, Ali and Nadeem were left with only one week to actually make the video—a task they’d initially allotted a few months. Luckily, they were able to secure hundreds of loaves of bread from the nearby Pepperidge Farm surplus store, which sells near-expiration products in bulk. They also picked up bags of cheap Milano cookies to fuel their eighteen-hour workdays.
-![Toast.JPG](/_posts/DSCN1469.JPG)
+
+![toast small.png](/_posts/toast small.png)
 
 Eight sleep-deprived days, 2,430 slices of bread, and countless cookies later, the [video](https://www.youtube.com/watch?v=IkYfB1C0Zgc) was posted on YouTube. It immediately went viral. A couple years later, Ali and Nadeem opened danger!awesome—a career move neither had anticipated when they first met at MIT.
 
