@@ -165,10 +165,9 @@ With their bright minds and prestigious degrees, Ali and Nadeem are clearly elig
 A few danger!awesome customers have been a bit more creative with the laser cutters. One man had technicians cut an enormous biohazard sign into his toilet seat. A female member cuts latex into dresses for Katy Perry and Pink, while a guy cuts it into gurneys used in organ transplants. The only materials the lasers can’t cut through are metal and stone; they can only etch the surfaces. 
 
 And while people often ask for laser-cut tattoos, that’s one service danger!awesome doesn’t  provide—though they technically could. Lasers create a scar tissue tattoo, like a burn or brand. After seeing a laser accidentally catch fire and singe a piece of neon-pink plastic during a demo, I can see why. 
+![sign at front danger awesome.png](/_posts/sign at front danger awesome.png)
 
-![designer using cutter.JPG](/_posts/DSCN1478.JPG)
-
-In addition to the membership program, danger!awesome also hosts community workshops where people can learn to make specific products and walk out of the door with a tangible product in their hands, like leather masks or wooden rings. Since Ali always thought he’d become a professor one day, the workshops are his favorite part of the job.
+In addition to the membership program, danger!awesome also hosts community workshops where people can learn to make specific products and walk out of the door with a tangible product in their hands, like leather masks or plastic rings. Since Ali always thought he’d become a professor one day, the workshops are his favorite part of the job.
 
 Moving forward, Nadeem says danger!awesome could go in a couple different directions. Large makerspace chains, like TechShop, require millions of investment dollars for each new location and focus on elite makers, Nadeem says. 
 
