@@ -84,7 +84,7 @@ I visited the new space two nights before the grand opening, and instead of clea
 
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with laser cutter, “d!a” logo included. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
 
-![DSCN1476.JPG](/_posts/DSCN1476.JPG)
+![Ali litebrite.JPG](/_posts/DSCN1477.JPG)
 
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
