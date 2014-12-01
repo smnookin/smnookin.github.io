@@ -12,7 +12,7 @@ author: Veronica Thomas
 
 ![](http://i61.tinypic.com/qy703s.png)
 
-Getting People to Make Stuff
+## Getting People to Make Stuff
 
 Nadeem Mazen zips around snapping photos and greeting guests, while his buddy Ali Mohammad carefully prepares the coffee. The two guys look like brothers with their thick beards, dark eyes, and black curly hair, which Nadeem wears in in a slick ponytail and Ali sports in an untamed ‘fro, small black-framed glasses buried in the depths. While Nadeem wears a sleek blazer and skinny tie, Ali sports a white T-shirt and khakis.
 
@@ -79,6 +79,8 @@ I visited the new space two nights before the grand opening, and instead of clea
 “Nah,” says Ethan, a barista who’s studied coffee making for seven years.  
 
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with laser cutter, “d!a” logo included. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
+
+![Ali with steamer.jpg](/_posts/Ali with steamer.jpg)
 
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
