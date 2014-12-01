@@ -30,6 +30,8 @@ After completing the $125 one-time training session, the membership fees are fai
 
 Ali and Nadeem’s efforts to engage the community with high-tech tools seem to be working so far, at least to some extent. I swung by the main shop on a weeknight, and kids ranging from eight to sixteen were coming in for a laser-cutting class. And when I stopped in for some demos on a Saturday night, one member was quietly perfecting his designs on the computer, free of charge. To make the process even more affordable, he and other members bring their own materials to cut and etch with the lasers, like wood, leather and acrylic. 
 
+![community members.JPG](/_posts/DSCN1466.JPG)
+
 Danger!awesome and its small team actually have so many supporters that they had to host two opening nights for the new space, which was funded with a $42,727 donation from 727 backers on [Kickstarter](https://www.kickstarter.com/projects/nadeemtron/dangerawesome-a-high-tech-hands-on-community-maker). And to think, it was the vision of dancing toasts that started it all. 
 
 ## Dancing Toasts
@@ -79,8 +81,6 @@ I visited the new space two nights before the grand opening, and instead of clea
 “Nah,” says Ethan, a barista who’s studied coffee making for seven years.  
 
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with laser cutter, “d!a” logo included. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
-
-![Ali with steamer.jpg](/_posts/Ali with steamer.jpg)
 
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
