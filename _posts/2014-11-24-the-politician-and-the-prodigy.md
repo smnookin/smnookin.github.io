@@ -29,8 +29,8 @@ And that’s why, in addition to having technicians fulfill orders like laser-et
 After completing the $125 one-time training session, the membership fees are fairly cheap. Unlike other member-based workshops, like [TechShop](http://techshop.ws/), or universities like MIT, danger!awesome charges only three dollars per minute spent using the laser cutter itself, not the design software that’s synced up to the machine. Though the fee may sound steep to some, the savings add up. Creating and formatting the image on the computer can take hours, but once it’s sent to the machine, the blazing blue laser cuts in mere seconds or minutes. 
 
 Ali and Nadeem’s efforts to engage the community with high-tech tools seem to be working so far, at least to some extent. I swung by the main shop on a weeknight, and kids ranging from eight to sixteen were coming in for a laser-cutting class. And when I stopped in for some demos on a Saturday night, one member was quietly perfecting his designs on the computer, free of charge. To make the process even more affordable, he and other members bring their own materials to cut and etch with the lasers, like wood, leather and acrylic. 
+![community members small.png](/_posts/community members small.png)
 
-![community members.JPG](/_posts/DSCN1466.JPG)
 
 Danger!awesome and its small team actually have so many supporters that they had to host two opening nights for the new space, which was funded with a $42,727 donation from 727 backers on [Kickstarter](https://www.kickstarter.com/projects/nadeemtron/dangerawesome-a-high-tech-hands-on-community-maker). And to think, it was the vision of dancing toasts that started it all. 
 
@@ -61,7 +61,6 @@ Because Nadeem and Ali were MIT grad students, they had access to the university
 Their stealth paid off. The band loved the short prototypes and secured a sponsorship to cover the cost of the three $30,000 laser cutters needed to produce the video. Ali and Nadeem helped pick the song “Last Leaf,” not for any poetic reasons, but because it was the shortest song on the album, requiring the least amount of bread. 
 
 After nearly a year of collaborative design with OK Go and multiple animators, Ali and Nadeem were left with only one week to actually make the video—a task they’d initially allotted a few months. Luckily, they were able to secure hundreds of loaves of bread from the nearby Pepperidge Farm surplus store, which sells near-expiration products in bulk. They also picked up bags of cheap Milano cookies to fuel their eighteen-hour workdays.
-
 ![Toast.JPG](/_posts/DSCN1469.JPG)
 
 Eight sleep-deprived days, 2,430 slices of bread, and countless cookies later, the [video](https://www.youtube.com/watch?v=IkYfB1C0Zgc) was posted on YouTube. It immediately went viral. A couple years later, Ali and Nadeem opened danger!awesome—a career move neither had anticipated when they first met at MIT.
@@ -83,7 +82,6 @@ I visited the new space two nights before the grand opening, and instead of clea
 “Nah,” says Ethan, a barista who’s studied coffee making for seven years.  
 
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with laser cutter, “d!a” logo included. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
-
 ![ali coffee edited.png](/_posts/ali coffee edited.png)
 
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
@@ -122,6 +120,7 @@ In fact, Nadeem had taken so many advanced math and science courses that he coul
 “I was a little bit under-guided and aimless in my undergrad career,” Nadeem says. “It ended up for the better, because I was able to ignore classes and just focus on community, society, policy, and development questions that were, to me, much more interesting.” He’d always felt there was a disconnect between his family’s emphasis on academic performance and a deep-seeded understanding that classwork doesn’t impact real exploration—though he hopes that’s changing with more hands-on learning in the classroom.
 
 While Nadeem’s father paints and his mother sketches, he’s never really had the same free-hand skill. Instead, he started playing around with Flash animation and coding in his teens—a hobby that got him a job promoting Nintendo’s GameBoy Advanced when he was only eighteen. 
+![nadeem camera small.png](/_posts/nadeem camera small.png)
 
 After college graduation, he and three buddies decided to join the Mongolia Charity Rally, a drive from England to China to raise money for charity. Nadeem earned the $15,000 they needed for the trip through an animation job that only took him two days. 
 
@@ -132,8 +131,7 @@ After a year away from dreaded classrooms, Nadeem returned to MIT for a graduate
 Nadeem actually started danger!awesome with Ali when he should’ve been writing his master’s thesis and continuing on to the doctoral program. But he firmly decided not to turn in his thesis or stay in biological engineering. “I was told by people around me, just submit anything and we'll approve it,” he says. “That was uncomfortable.”
 
 He felt a similar discomfort when he started attending city meetings a few years ago for some of his own service projects. At one particularly disheartening City Council meeting, the councilors were antagonizing each other and ignoring two hours of public comments on the issue at hand. “The legislators didn’t hear it, didn’t reflect on it, didn’t talk about it, didn’t refer back to it,” Nadeem says.
-
-![nadeem activism.jpg](/_posts/nadeem activism.jpg)
+![nadeem activism small.png](/_posts/nadeem activism small.png)
 
 Nadeem gets why many people think there’s something a little off about government. “But it’s really just a need for new, efficient problem solving, creativity, innovation, openness, transparency in government,” he says. 
 
