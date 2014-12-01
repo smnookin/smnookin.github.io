@@ -10,6 +10,8 @@ tags:
 author: Veronica Thomas
 ---
 
+![](http://i61.tinypic.com/qy703s.png)
+
 ## Getting People to Make Stuff
 
 Nadeem Mazen zips around snapping photos and greeting guests, while his buddy Ali Mohammad carefully prepares the coffee. The two guys look like brothers with their thick beards, dark eyes, and black curly hair, which Nadeem wears in in a slick ponytail and Ali sports in an untamed ‘fro, small black-framed glasses buried in the depths. While Nadeem wears a sleek blazer and skinny tie, Ali sports a white T-shirt and khakis.
@@ -165,4 +167,4 @@ Moving forward, Nadeem says danger!awesome could go in a couple different direct
 Danger!awesome is much smaller, and Nadeem and Ali want to keep it that way. But they also want it to be everywhere. 
 “We want to do for 3-D printing, design, and hands-on learning what Kinko’s did for simple access to printers,” says Nadeem. “What you really need is a place that brings it to the everyman, the everywoman. I want this to work for consumers. I want it to work for people who think they can't afford to design and low-socioeconomic-status communities who feel like their kids are being left out of the innovation economy.”
 
-And when exactly do Ali and Nadeem sleep while trying to democratize design and fabrication? “On Sundays,” Ali says. 
+And when exactly do Ali and Nadeem sleep while trying to democratize design and fabrication? “On Sundays,” Ali says.
