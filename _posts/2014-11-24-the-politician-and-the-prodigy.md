@@ -84,9 +84,7 @@ I visited the new space two nights before the grand opening, and instead of clea
 
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with laser cutter, “d!a” logo included. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
 
-> ![ali coffee edited.png](/_posts/ali coffee edited.png)
-
-![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
+![ali coffee edited.png](/_posts/ali coffee edited.png)
 
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
@@ -101,6 +99,7 @@ Nadia first spoke with Ali in September 2011 when she interviewed him and Nadeem
 Nadia has dark, straight hair and a makeup-free, olive complexion that would make any woman envious. A tiny silver stud adorns her nose. Generally soft-spoken, she explains that she’s always been anxious about meeting people and had reached a point in life where she was a bit cynical about relationships. “Then you meet somebody who's really all the things you were looking for but didn't know, and you just kind of feel at peace,” she says.
 
 Nadia and Ali finally met in person in October 2012 and got married seven months later. “Muslims who are practicing look at someone they're dating as a prospective spouse,” explains Nadia, briefly interrupted by Ali asking if we’d like any food from Chipotle. Not surprisingly, Ali designed and made their intricate wedding invitations with one of the danger!awesome’s laser cutters. 
+![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
 
 The couple was hanging out in the new workshop late one night, and Nadia called out to Ali in a hopeful voice. “I thought, okay, she’s going to tell me it’s time to go home,” Ali says. Instead, she asked to test out the laser cutter with neoprene, the synthetic rubber used in wetsuits that’s beginning to appear in high fashion, Nadia explains.
 
