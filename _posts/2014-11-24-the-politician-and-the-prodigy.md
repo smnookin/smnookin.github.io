@@ -14,7 +14,7 @@ author: Veronica Thomas
 
 Nadeem Mazen zips around snapping photos and greeting guests, while his buddy Ali Mohammad carefully prepares the coffee. The two guys look like brothers with their thick beards, dark eyes, and black curly hair, which Nadeem wears in in a slick ponytail and Ali sports in an untamed ‘fro, small black-framed glasses buried in the depths. While Nadeem wears a sleek blazer and skinny tie, Ali sports a white T-shirt and khakis.
 
-The two friends, now in their early thirties, became business partners back in the spring of 2012 when they opened danger!awesome, an open-access workshop in Cambridge that provides laser-cutting and 3-D printing services. Now they’re christening a second, much larger, underground space just around the corner in Central Square. 
+The two friends, now in their early thirties, became business partners back in the spring of 2012 when they opened [danger!awesome](http://dangerawesome.co/), an open-access workshop in Cambridge that provides laser-cutting and 3-D printing services. Now they’re christening a second, much larger, underground space just around the corner in Central Square. 
 
 The inaugural shop is stocked with three laser-cutters and two small 3-D printers, while the new shop houses a massive, four-by-eight foot CNC router—a computer-controlled machine that can cut doors and other large slabs of wood with a laser. It took seven men and a crane to move it off the truck and downstairs.
  
@@ -24,23 +24,23 @@ Danger!awesome offers a little bit of everything—community workshops, built-to
 
 And that’s why, in addition to having technicians fulfill orders like laser-etched pint glasses, the shop also offers a membership program to customers who want to use the laser-cutters themselves.
 
-After completing the $125 one-time training session, the membership fees are fairly cheap. Unlike other member-based workshops, like TechShop, or universities like MIT, danger!awesome charges only three dollars per minute spent using the laser cutter itself, not the design software that’s synced up to the machine. Though the fee may sound steep to some, the savings add up. Creating and formatting the image on the computer can take hours, but once it’s sent to the machine, the blazing blue laser cuts in mere seconds or minutes. 
+After completing the $125 one-time training session, the membership fees are fairly cheap. Unlike other member-based workshops, like [TechShop](http://techshop.ws/), or universities like MIT, danger!awesome charges only three dollars per minute spent using the laser cutter itself, not the design software that’s synced up to the machine. Though the fee may sound steep to some, the savings add up. Creating and formatting the image on the computer can take hours, but once it’s sent to the machine, the blazing blue laser cuts in mere seconds or minutes. 
 
 Ali and Nadeem’s efforts to engage the community with high-tech tools seem to be working so far, at least to some extent. I swung by the main shop on a weeknight, and kids ranging from eight to sixteen were coming in for a laser-cutting class. And when I stopped in for some demos on a Saturday night, one member was quietly perfecting his designs on the computer, free of charge. To make the process even more affordable, he and other members bring their own materials to cut and etch with the lasers, like wood, leather and acrylic. 
 
-Danger!awesome and its small team actually have so many supporters that they had to host two opening nights for the new space, which was funded with a $42,727 donation from 727 backers on Kickstarter. And to think, it was the vision of dancing toasts that started it all. 
+Danger!awesome and its small team actually have so many supporters that they had to host two opening nights for the new space, which was funded with a $42,727 donation from 727 backers on [Kickstarter](https://www.kickstarter.com/projects/nadeemtron/dangerawesome-a-high-tech-hands-on-community-maker). And to think, it was the vision of dancing toasts that started it all. 
 
 ## Dancing Toasts
 
 Nadeem and Ali were hungry. Like, really hungry. They were fasting for Ramadan and passing the afternoon in Ali’s office talking about food—specifically, dancing toasts. 
 
-“It’s just all you think about at a certain part of the day,” says Ali, who was pursuing a graduate degree in computational linguistics at the time. They mused about the famous Virgin Mary grilled cheese that sold for $28,000 on eBay and the transcendent toaster kit that conjures the image of Jesus with every slice. They thought, what if we did that with thousands of images? It’d be like a flipbook, but instead of paper they’d use stop-motion video and crispy bread, one image per slice.     
+“It’s just all you think about at a certain part of the day,” says Ali, who was pursuing a graduate degree in computational linguistics at the time. They mused about the famous [Virgin Mary grilled cheese](http://www.slate.com/articles/news_and_politics/explainer/2004/11/the_28k_sandwich_that_grew_no_mold.html) that sold for $28,000 on eBay and the [transcendent toaster kit](https://www.youtube.com/watch?v=KC-SdzjxzUE) that conjures the image of Jesus with every slice. They thought, what if we did that with thousands of images? It’d be like a flipbook, but instead of paper they’d use stop-motion video and crispy bread, one image per slice.     
 
 That food-deprived conversation was on a Thursday back in 2009. The following Tuesday, Nadeem came back to Ali’s office in MIT’s Suess-like Stata Center and said, “Hey man, do you have time for a conference call?” 
 
 “Sure. Who are we talking to?” Ali asked.
 
-“OK Go,” Nadeem said, referring to the alt-rock band known for dancing on treadmills in their video “Here It Goes Again.”
+“OK Go,” Nadeem said, referring to the alt-rock band known for dancing on treadmills in their video [“Here It Goes Again.”](%E2%80%9CHere It Goes Again.%E2%80%9D)
 
 And just like that they were talking on the phone with Damian Kalush, lead singer of the Grammy-award-winning band. Nadeem, who was in a MIT biological engineering graduate program, had emailed him the idea through a friend of a friend. “That’s the kind of guy he is—pretty aggressive,” says Ali, sitting in the new workshop where three seven-foot-tall LiteBrites serve as the backdrop.
 
@@ -58,7 +58,7 @@ Their stealth paid off. The band loved the short prototypes and secured a sponso
 
 After nearly a year of collaborative design with OK Go and multiple animators, Ali and Nadeem were left with only one week to actually make the video—a task they’d initially allotted a few months. Luckily, they were able to secure hundreds of loaves of bread from the nearby Pepperidge Farm surplus store, which sells near-expiration products in bulk. They also picked up bags of cheap Milano cookies to fuel their eighteen-hour workdays.
 
-Eight sleep-deprived days, 2,430 slices of bread, and countless cookies later, the video was posted on YouTube. It immediately went viral. A couple years later, Ali and Nadeem opened danger!awesome—a career move neither had anticipated when they first met at MIT.
+Eight sleep-deprived days, 2,430 slices of bread, and countless cookies later, the [video](https://www.youtube.com/watch?v=IkYfB1C0Zgc) was posted on YouTube. It immediately went viral. A couple years later, Ali and Nadeem opened danger!awesome—a career move neither had anticipated when they first met at MIT.
 
 ## The Prodigy
 
@@ -86,7 +86,7 @@ Ali was finishing up his doctoral thesis and teaching at MIT when he and Nadeem 
 
 Moving forward, Nadeem hopes they can leverage Ali’s technical expertise even more to give danger!awesome a competitive edge. “He could be a seven-figure programmer if he wanted to be,” Nadeem says. “So just giving him the space to step back from the day-to-day to design systems, programs and drivers.” According to Nadia, Ali’s been offered corporate gigs, but hasn’t taken the bait. “He wants to test things out and spread his wings,” she says.
 
-Nadia first spoke with Ali in September 2011 when she interviewed him and Nadeem by phone for a freelance article about the OK Go video. Nadia, who’s completed law school and is currently studying peace and conflict at UMass Lowell, also works as an editor for altmuslimah, a website featuring stories and commentary on gender in Islam. Because of their similar Muslim backgrounds and outlooks on life, she and Ali kept in touch through Facebook after the interview. Growing up in mostly Christian communities, it was uncommon for either of them to find that type of connection. 
+Nadia first spoke with Ali in September 2011 when she interviewed him and Nadeem by phone for a freelance article about the OK Go video. Nadia, who’s completed law school and is currently studying peace and conflict at UMass Lowell, also works as an editor for [altmuslimah](http://www.altmuslimah.com/), a website featuring stories and commentary on gender in Islam. Because of their similar Muslim backgrounds and outlooks on life, she and Ali kept in touch through Facebook after the interview. Growing up in mostly Christian communities, it was uncommon for either of them to find that type of connection. 
 
 Nadia has dark, straight hair and a makeup-free, olive complexion that would make any woman envious. A tiny silver stud adorns her nose. Generally soft-spoken, she explains that she’s always been anxious about meeting people and had reached a point in life where she was a bit cynical about relationships. “Then you meet somebody who's really all the things you were looking for but didn't know, and you just kind of feel at peace,” she says.
 
@@ -100,7 +100,7 @@ Though Ali can be more reserved when around Nadeem, he’s an extrovert nonethel
 
 ## The Politician
 
-“Nadeem is more the politician,” Nadia explains. “He’s good about getting people fired about things, and Ali is good about continuing that momentum.” The dynamic makes sense, given that Nadeem actually is a politician. He was elected to Cambridge City Council last November. He also co-founded and runs Nimblebot, an animation software startup that helps non-profits, the education sector, and new journalism make video advocacy more exciting and affordable. 
+“Nadeem is more the politician,” Nadia explains. “He’s good about getting people fired about things, and Ali is good about continuing that momentum.” The dynamic makes sense, given that Nadeem actually is a politician. He was elected to Cambridge City Council last November. He also co-founded and runs [Nimblebot](http://www.nimblebot.com/), an animation software startup that helps non-profits, the education sector, and new journalism make video advocacy more exciting and affordable. 
 
 “From danger!awesome to Nimblebot across the street, up to city hall, it's like Nadeem-land,” Dariush says. “He's always flying around here.” Described as frenetic and high-energy by his employees, Nadeem is certainly hard to pin down on earth. I only talked with him in person for a couple minutes at the workshop opening. The rest of our sporadic conversations took place by phone.
 
