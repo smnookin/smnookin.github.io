@@ -83,7 +83,10 @@ I visited the new space two nights before the grand opening, and instead of clea
 “Nah,” says Ethan, a barista who’s studied coffee making for seven years.  
 
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with laser cutter, “d!a” logo included. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
-![ali coffee edited.png](/_posts/ali coffee edited.png)![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
+
+> ![ali coffee edited.png](/_posts/ali coffee edited.png)
+
+![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
 
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
