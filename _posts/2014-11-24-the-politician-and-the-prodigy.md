@@ -62,6 +62,8 @@ Their stealth paid off. The band loved the short prototypes and secured a sponso
 
 After nearly a year of collaborative design with OK Go and multiple animators, Ali and Nadeem were left with only one week to actually make the video—a task they’d initially allotted a few months. Luckily, they were able to secure hundreds of loaves of bread from the nearby Pepperidge Farm surplus store, which sells near-expiration products in bulk. They also picked up bags of cheap Milano cookies to fuel their eighteen-hour workdays.
 
+![Toast.JPG](/_posts/DSCN1469.JPG)
+
 Eight sleep-deprived days, 2,430 slices of bread, and countless cookies later, the [video](https://www.youtube.com/watch?v=IkYfB1C0Zgc) was posted on YouTube. It immediately went viral. A couple years later, Ali and Nadeem opened danger!awesome—a career move neither had anticipated when they first met at MIT.
 
 ## The Prodigy
@@ -81,6 +83,8 @@ I visited the new space two nights before the grand opening, and instead of clea
 “Nah,” says Ethan, a barista who’s studied coffee making for seven years.  
 
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with laser cutter, “d!a” logo included. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
+
+![DSCN1476.JPG](/_posts/DSCN1476.JPG)
 
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
@@ -120,6 +124,8 @@ While Nadeem’s father paints and his mother sketches, he’s never really had 
 
 After college graduation, he and three buddies decided to join the Mongolia Charity Rally, a drive from England to China to raise money for charity. Nadeem earned the $15,000 they needed for the trip through an animation job that only took him two days. 
 
+![nadeem mazen with camera.jpg](/_posts/nadeem mazen with camera.jpg)
+
 “I haven't always been creative, but I've always been doing a lot of different things and some of those things became skills that I internalized,” he says.
 
 After a year away from dreaded classrooms, Nadeem returned to MIT for a graduate program in biological engineering. He put in hundreds of hours on the Media Lab’s laser cutters quietly making and selling art, in addition to the animal pain research for his master’s. In fact, he created a mousetrap for medical research that’s nearly a hundredth of the cost of current enclosures. “If I wanted to go make a fortune right now, I could go help people test on animals cheaply,” says Nadeem (a most-of-the-time vegetarian who only eats meat if ethically raised or halal). “But I obviously would never want to do that.”
@@ -129,6 +135,8 @@ Nadeem actually started danger!awesome with Ali when he should’ve been writing
 He felt a similar discomfort when he started attending city meetings a few years ago for some of his own service projects. At one particularly disheartening City Council meeting, the councilors were antagonizing each other and ignoring two hours of public comments on the issue at hand. “The legislators didn’t hear it, didn’t reflect on it, didn’t talk about it, didn’t refer back to it,” Nadeem says.
 
 Nadeem gets why many people think there’s something a little off about government. “But it’s really just a need for new, efficient problem solving, creativity, innovation, openness, transparency in government,” he says. 
+
+![nadeem activism.jpg](/_posts/nadeem activism.jpg)
 
 Nadeem never did get into robotics. Instead, he realized that, regardless of his job title, he’s meant to make things and solve problems. He’s tackled the problem of under-advocated issues at Nimblebot, community engagement with high-tech learning at danger!awesome, and community issues through City Council. 
 
@@ -163,6 +171,8 @@ A few danger!awesome customers have been a bit more creative with the laser cutt
 And while people often ask for laser-cut tattoos, that’s one service danger!awesome doesn’t  provide—though they technically could. Lasers create a scar tissue tattoo, like a burn or brand. After seeing a laser accidentally catch fire and singe a piece of neon-pink plastic during a demo, I can see why. 
 
 In addition to the membership program, danger!awesome also hosts community workshops where people can learn to make specific products and walk out of the door with a tangible product in their hands, like leather masks or wooden rings. Since Ali always thought he’d become a professor one day, the workshops are his favorite part of the job.
+
+![DSCN1473.jpg](/_posts/DSCN1473.jpg)
 
 Moving forward, Nadeem says danger!awesome could go in a couple different directions. Large makerspace chains, like TechShop, require millions of investment dollars for each new location and focus on elite makers, Nadeem says. 
 
