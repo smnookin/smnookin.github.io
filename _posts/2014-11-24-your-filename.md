@@ -16,7 +16,7 @@ Corkin is a Professor Emerita in Behavioral Neuroscience at MIT. She’s done fi
 
 “Everybody wants to make some sort of contribution to the world; I don’t feel like I’ve made such a gigantic one...there are really very ordinary people who change the world, and I think compared to them I am nothing...I wish I could do something in my own little way that would help hundreds of people.”
 
-## 'Prepare, prepare, prepare'
+### 'Prepare, prepare, prepare'
 
 Corkin was born in Hartford, Connecticut, and studied clinical psychology as an undergraduate at Smith College. She was originally premed. “I wanted to help people, corny as that sounds.” But she hated her first chemistry class and decided not to go into medicine. Her study of neuroscience, and especially her work with HM, started quite accidentally. As a graduate student at McGill University in Montreal, she read a paper by the father of a childhood friend. It was about an experimental procedure on a severe epileptic: a bilateral temporal lobectomy.
 
@@ -28,7 +28,7 @@ When I ask Corkin about how she met HM, she passes me a signed copy of her book,
 
 Corkin first met HM in 1962, when she was researching for her PhD thesis on the effect of surgical epilepsy treatment on somatosensory (touch) memory. She tested many epilepsy patients, but was especially excited to work with HM and two other amnesic cases-- though she didn’t foresee that working with the young man with no memory would define the rest of her career. “Basically, he fell in my lap…I knew he wasn’t a run-of-the-mill epilepsy patient. But I never had any idea how extremely famous he would become, or that I would study him for the next forty-six years.” 
 
-##'Don't write off women'
+###'Don't write off women'
 
 Corkin would join the faculty at MIT in 1964 and continue studying HM until his death in 2008 (she’s still studying his postmortem brain). When she arrived, she was the only woman faculty member in the Brain and Cognitive Sciences Department. “The first time I started thinking about women’s issues was not when I set foot on MIT’s campus. I was gender-blind. When I came here in 1964, guess how many women were on the faculty, the entire MIT faculty.” She waits for me to guess.
 
@@ -55,7 +55,7 @@ When the committee published its report in 1999, it made the front page of the N
 
 The “MIT9”, nine of the nation’s top universities, has met at MIT annually since 2001, focusing first on improving equality for women faculty, and then expanding to address issues faced by underrepresented minorities.
 
-##'Don't take no for an answer'
+###'Don't take no for an answer'
 
 Even today, as a woman at the top of her field, Corkin says it’s sometimes hard to feel like a part of the “old boys club.” She says people shy away from being the token woman on a panel, or the token woman speaker at a symposium. She tells them: “any time you get invited to give a talk, you say YES, and you make sure that you give a better talk than any of the men in the symposium. And never say no...There’s nothing wrong with being the token woman…You just see it as an opportunity, and you go for it, and you try to bring other women aboard, too. Spoken as a token woman.”
 
