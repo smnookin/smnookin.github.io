@@ -5,6 +5,7 @@ title: Life Lessons from a Living Legend
 category: MIT
 author: Zoe Sheinkopf
 date: "November 24, 2014"
+displaydate: "December 2, 2014"
 ---
 
 Suzanne Corkin has the bright corner office you’d expect of a distinguished senior faculty member at an elite university. It’s on the fifth floor of the Brain and Cognitive Sciences building on MIT’s campus, and the walls are mostly window. I step over a rubber chew toy, strewn by the other inhabitant of the office: Trooper, Corkin’s docile dog. On the bookshelf is a framed collage of pictures of Henry Molaison (known until his death in 2008 as HM), whose brain Corkin has studied for the past five decades. I notice a pink hat painted to look like a  brain hanging on a coat rack. “Nice thinking cap,” I say.
@@ -15,7 +16,11 @@ Corkin is a Professor Emerita in Behavioral Neuroscience at MIT. She’s done fi
 
 “Everybody wants to make some sort of contribution to the world; I don’t feel like I’ve made such a gigantic one...there are really very ordinary people who change the world, and I think compared to them I am nothing...I wish I could do something in my own little way that would help hundreds of people.”
 
-Corkin was born in Hartford, Connecticut, and studied clinical psychology as an undergraduate at Smith College. She was originally premed. “I wanted to help people, corny as that sounds.” But she hated her first chemistry class and decided not to go into medicine. Her study of neuroscience, and especially her work with HM, started quite accidentally. As a graduate student at McGill University in Montreal, she read a paper by the father of a childhood friend. It was about an experimental procedure on a severe epileptic: a bilateral temporal lobectomy.1
+## 'Prepare, prepare, prepare'
+
+Corkin was born in Hartford, Connecticut, and studied clinical psychology as an undergraduate at Smith College. She was originally premed. “I wanted to help people, corny as that sounds.” But she hated her first chemistry class and decided not to go into medicine. Her study of neuroscience, and especially her work with HM, started quite accidentally. As a graduate student at McGill University in Montreal, she read a paper by the father of a childhood friend. It was about an experimental procedure on a severe epileptic: a bilateral temporal lobectomy.
+
+At the time, treatment for epilepsy often included cutting away parts of the brain implicated in seizures. However, the roles of the various parts of the brain were not really known, so much was learned from the deficits sustained by people who had had parts of their brains surgically removed. In the case of HM, the neurosurgeon, William Scoville, tried something that had never been done before: he completely cut away both sides of HM’s hippocampus, a seahorse-shaped structure deep in the left and right temporal lobes.
 
 The patient was HM. Though his seizures abated, the side effects devastated his personal life and independence. HM lost the ability to form new memories after the surgery. He still had his childhood memories, and his working memory was unchanged, but his brain could no longer encode information retained for a few seconds into longer-term memories.
 
@@ -23,6 +28,7 @@ When I ask Corkin about how she met HM, she passes me a signed copy of her book,
 
 Corkin first met HM in 1962, when she was researching for her PhD thesis on the effect of surgical epilepsy treatment on somatosensory (touch) memory. She tested many epilepsy patients, but was especially excited to work with HM and two other amnesic cases-- though she didn’t foresee that working with the young man with no memory would define the rest of her career. “Basically, he fell in my lap…I knew he wasn’t a run-of-the-mill epilepsy patient. But I never had any idea how extremely famous he would become, or that I would study him for the next forty-six years.” 
 
+##'Don't write off women'
 
 Corkin would join the faculty at MIT in 1964 and continue studying HM until his death in 2008 (she’s still studying his postmortem brain). When she arrived, she was the only woman faculty member in the Brain and Cognitive Sciences Department. “The first time I started thinking about women’s issues was not when I set foot on MIT’s campus. I was gender-blind. When I came here in 1964, guess how many women were on the faculty, the entire MIT faculty.” She waits for me to guess.
 
@@ -49,12 +55,14 @@ When the committee published its report in 1999, it made the front page of the N
 
 The “MIT9”, nine of the nation’s top universities, has met at MIT annually since 2001, focusing first on improving equality for women faculty, and then expanding to address issues faced by underrepresented minorities.
 
+##'Don't take no for an answer'
+
 Even today, as a woman at the top of her field, Corkin says it’s sometimes hard to feel like a part of the “old boys club.” She says people shy away from being the token woman on a panel, or the token woman speaker at a symposium. She tells them: “any time you get invited to give a talk, you say YES, and you make sure that you give a better talk than any of the men in the symposium. And never say no...There’s nothing wrong with being the token woman…You just see it as an opportunity, and you go for it, and you try to bring other women aboard, too. Spoken as a token woman.”
 
 I give in to the impulse to submit my own experience. “It can be a lot of pressure, though. It can feel like you have you prove yourself in order to be taken seriously the same amount as everybody else.”
 
 “Absolutely. You do. There is pressure, and you just do it. You have to be tough.”
 
-This lesson is part of what Corkin has taught her students, along with “‘don’t take no for an answer’, ‘prepare, prepare, prepare’, and ‘don’t write off women and minorities’”.  Even with all she’s done and all she continues to do for the field of memory research, it’s by teaching that she feels she performs her greatest service to the world. Like the undergraduate Corkin who thought she’d be a doctor, what the Professor Emerita Corkin wants most is to help people.
+This lesson is part of what Corkin has taught her students, along with three others she lists for me: "'prepare, prepare, prepare', 'don't take no for an answer', and 'don't write off women and minorities'." Even with all she’s done and all she continues to do for the field of memory research, it’s by teaching that she feels she performs her greatest service to the world. Like the undergraduate Corkin who thought she’d be a doctor, what the Professor Emerita Corkin wants most is to help people.
 
 “The biggest impact that any of us have is in teaching. People don’t always put teaching on the front burner, they put their research on the front burner, and I certainly did that too, but our biggest impact is not in the little crumbs we contribute to science, it’s what we pass along to our students.” 
