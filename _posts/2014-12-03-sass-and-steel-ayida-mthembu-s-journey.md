@@ -6,7 +6,11 @@ category: MIT
 author: Val Healy
 ---
 
-“If I had to sum up Dean Mthembu in three words, it would be: sass and steel,” says Adam Rodriguez, MIT Class of 2016. Ayida Mthembu is an Associate Dean at Student Support Services at the Massachusetts Institute of Technology. At Student Support Services, she helps students navigate course loads, social and personal issues, and the leaving and readmission process. True to her description, she has grown strong like steel through her many life experiences and often uses humor to connect with her students. Rodriguez characterizes the experience of working with her as: “No matter how nutty the situation you find yourself in may be, she finds ways to take the fear out of it using humor, without trivializing your experiences.” I recently had the chance to sit down with Dean Mthembu to discuss her life, MIT, and the struggle for justice.
+![mthembu.jpg](/_posts/mthembu.jpg)
+
+“If I had to sum up Dean Mthembu in two words, it would be: sass and steel,” says Adam Rodriguez, MIT Class of 2016. 
+
+Ayida Mthembu is an Associate Dean at Student Support Services at the Massachusetts Institute of Technology. There, she helps students navigate course loads, social and personal issues, and the leaving and readmission process. True to her description, she has grown strong like steel through her many life experiences and often uses humor to connect with her students. Rodriguez characterizes the experience of working with her as: “No matter how nutty the situation you find yourself in may be, she finds ways to take the fear out of it using humor, without trivializing your experiences.” I recently had the chance to sit down with Dean Mthembu to discuss her life, MIT, and the struggle for justice.
 
 As I wait for our appointment to begin, I stash a granola bar from the candy and snack bowl on the table next to me (as opposed to the table across the room, which has pamphlets about mental health… fewer calories, but not super tasty). She calls me into her office, which is rather bare, save for a few photos and books. Mthembu, an African American woman approaching her 69th year, closes the door and sits across from me. “What can I help you with?”
 
