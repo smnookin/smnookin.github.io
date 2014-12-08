@@ -89,13 +89,13 @@ Ali and Nadia first encountered each other in 2011 when she interviewed him over
 
 She’s completed law school and is currently studying peace and conflict at UMass Lowell, while also working as an editor for [altmuslimah](http://www.altmuslimah.com/), a website featuring stories and commentary on gender in Islam. Because of their similar Muslim backgrounds and outlooks on life, she and Ali kept in touch through Facebook after the interview. 
 
+![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
+
 Nadia and Ali finally met in person in October 2012. They were married seven months later. Generally soft-spoken, Nadia explains that she’s always been anxious about meeting people and had reached a point in life where she was a bit cynical about relationships. “Then you meet somebody who's really all the things you were looking for but didn't know, and you just kind of feel at peace,” she says.
 
 The couple was hanging out in the new workshop late one night, and Nadia called out to Ali in a hopeful voice. Ali thought she was just going to say it was time to head home. Instead, she asked to try laser-cutting neoprene, the synthetic rubber used in wetsuits that’s beginning to appear in high fashion. 
 
 “I was so excited,” says Ali, beaming at her. 
-
-![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
 
 ## The Politician
 
@@ -114,6 +114,7 @@ Nadeem says he was a bit under-guided in his undergrad career. “It ended up fo
 While Nadeem’s father paints and his mother sketches, he’s never really had the same free-hand skill. Instead, he started playing around with Flash animation in his teens. After college, Nadeem and three buddies decided to join the Mongolia Charity Rally, a fundraising drive from England to China. Nadeem earned the $15,000 they needed for the trip through an animation job that only took him two days. 
 
 ![nadeem camera small.png](/_posts/nadeem camera small.png)
+_(Photo courtesty of Nadeem Mazen.)_
 
 “I haven't always been creative, but I've always been doing a lot of different things and some of those things became skills that I internalized,” he says.
 
@@ -122,6 +123,7 @@ After a year off from dreaded classrooms, Nadeem returned to MIT for a graduate 
 Nadeem started danger!awesome with Ali when he should’ve been writing his master’s thesis and continuing on to the doctoral program. But he decided not to turn in his thesis or stay in biological engineering. “I was told by people around me, just submit anything and we'll approve it,” he says. “That was uncomfortable.”
 
 ![nadeem activism small.png](/_posts/nadeem activism small.png)
+_(Photo courtesy of Nadeem Mazen.)_
 
 He felt a similar discomfort when he started attending city meetings a few years ago for some of his own service projects. At one particularly disheartening City Council meeting, the councilors were antagonizing each other and ignoring two hours of public comments on the issue at hand. “The legislators didn’t hear it, didn’t reflect on it, didn’t talk about it, didn’t refer back to it,” Nadeem says.
 
@@ -162,3 +164,5 @@ Moving forward, Nadeem says danger!awesome could go in a couple different direct
 “We want to do for 3-D printing, design, and hands-on learning what Kinko’s did for simple access to printers,” says Nadeem. “What you really need is a place that brings it to the everyman, the everywoman.”
 
 And when exactly do Ali and Nadeem sleep while trying to democratize design and fabrication? “On Sundays,” Ali says.
+
+_(First Photo: Ali Mohammad and Nadeem Mazen at danger!awesome's new workshop opening on November 20, 2014. Photo courtesy of danger!awesome.)_
