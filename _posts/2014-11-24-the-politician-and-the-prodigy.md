@@ -2,8 +2,8 @@
 layout: post
 published: false
 title: "The Politician And The Prodigy: The Masterminds Behind Makerspace Danger!awesome"
-category: MIT
-displaydate: November 24 2014
+category: arts
+displaydate: December 8 2014
 date: November 24 2014
 tags: 
   - student
