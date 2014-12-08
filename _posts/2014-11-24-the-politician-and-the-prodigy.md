@@ -113,7 +113,8 @@ Nadeem says he was a bit under-guided in his undergrad career. “It ended up fo
 
 While Nadeem’s father paints and his mother sketches, he’s never really had the same free-hand skill. Instead, he started playing around with Flash animation in his teens. After college, Nadeem and three buddies decided to join the Mongolia Charity Rally, a fundraising drive from England to China. Nadeem earned the $15,000 they needed for the trip through an animation job that only took him two days. 
 
-![nadeem camera small.png](/_posts/nadeem camera small.png)    _(Photo courtesty of Nadeem Mazen.)_
+![nadeem camera small.png](/_posts/nadeem camera small.png)    
+_(Photo courtesty of Nadeem Mazen.)_
 
 “I haven't always been creative, but I've always been doing a lot of different things and some of those things became skills that I internalized,” he says.
 
@@ -156,7 +157,7 @@ With their bright minds and elite degrees, Ali and Nadeem are clearly eligible f
 
 A few danger!awesome customers have been a bit more creative with the laser cutters. One man had technicians cut an enormous biohazard sign into his toilet seat. A female member cuts latex into dresses for Katy Perry and Pink, while a guy cuts it into gurneys used for organ transplants. In addition to the membership program, danger!awesome also hosts community workshops where people can make specific products, like leather masks or plastic rings. 
 
-![sign at front danger awesome.png](/_posts/sign at front danger awesome.png)
+![dangerawesome space small.png](/_posts/dangerawesome space small.png)
 
 Moving forward, Nadeem says danger!awesome could go in a couple different directions. Large makerspace chains, like TechShop, require millions of dollars for each new location and focus on elite makers, Nadeem says. Danger!awesome is much smaller, and Nadeem and Ali want to keep it that way. But they also want it to be ubiquitous. 
 
