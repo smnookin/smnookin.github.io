@@ -15,13 +15,13 @@ author: Veronica Thomas
 
 ## Getting People to Make Stuff
 
-Buddies Ali Mohammad and Nadeem Mazen became business partners in May 2011 when they opened danger!awesome, a workshop in Cambridge where trained technicians and customers alike can cut and engrave anything from pint glasses to toilet seats with blazing lasers. The makerspace all started with a music video Ali and Nadeem made for the alt-rock band OK Go featuring laser-etched animations on toast. Now, they’re christening a second, much larger, underground space just around the corner in Central Square. 
+Buddies Ali Mohammad and Nadeem Mazen became business partners in May 2011, when they opened danger!awesome, a workshop in Cambridge. There, trained technicians and customers alike can cut and engrave anything from pint glasses to toilet seats using blazing lasers. The makerspace all started with a music video Ali and Nadeem made for the alt-rock band OK Go, featuring laser-etched animations on toast. Now, they’re christening a second, much larger, underground space just around the corner in Central Square. 
 
-Nadeem zips around snapping photos and greeting guests, while Ali carefully prepares coffee. The two men, in their early thirties, look like brothers, with thick beards, dark eyes, and black curly hair, which Nadeem wears in a ponytail perched on the top of his head and Ali in an untamed afro. While Nadeem wears a sleek blazer and skinny tie, Ali sports a white T-shirt and khakis.
+Nadeem zips around snapping photos and greeting guests, while Ali carefully prepares coffee. The two men, in their early thirties, look like brothers, with thick beards, dark eyes, and curly black hair, which Nadeem wears in a ponytail perched on the top of his head and Ali in an untamed afro. While Nadeem wears a sleek blazer and skinny tie, Ali sports a white T-shirt and khakis.
 
-Danger!awesome’s 500-square-foot, inaugural shop is stocked with three laser-cutters and two small 3-D printers. At four times that size, the new space houses a massive, four-by-eight foot CNC router—a computer-controlled machine that can cut large slabs of wood.
+Danger!awesome’s 500-square-foot inaugural shop was stocked with three laser-cutters and two small 3-D printers. At four times that size, the new space houses a massive, four-by-eight foot CNC router—a computer-controlled machine that can cut large slabs of wood.
 
-Danger!awesome offers a little bit of everything—community workshops, built-to-order fabrication services, and a retail store—which makes it difficult to pinpoint. Even Ali and Nadeem have trouble encapsulating their vision in just one sentence. When pressed, Ali sums up their raison d’etre as, “Get people to make stuff.” More specifically, they hope danger!awesome will get everyone to make stuff, not just professional engineers and designers. 
+Danger!awesome offers a little bit of everything—community workshops, built-to-order fabrication services, and a retail store. This makes it difficult to pinpoint the shop's genre. Even Ali and Nadeem have trouble encapsulating their vision in just one sentence. When pressed, Ali sums up their raison d’etre as, “Get people to make stuff.” More specifically, they hope danger!awesome will get everyone to make stuff, not just professional engineers and designers. 
 
 “I have this idea that tool building is something that we do instinctively. It’s like music, language and dance,” Ali says. Yet while everyone has experience with music and language, it’s much rarer that people build things. “That’s why we’re here,” Ali says. “To give people that fulfillment.”
 
@@ -37,13 +37,13 @@ It was during Ramadan in 2009 when Nadeem and Ali had the conversation that woul
 
 “It’s just all you think about at a certain part of the day,” says Ali, who was pursuing a graduate degree in computational linguistics at the time. They talked about the famous [Virgin Mary grilled cheese](http://www.slate.com/articles/news_and_politics/explainer/2004/11/the_28k_sandwich_that_grew_no_mold.html) that had sold for $28,000 on eBay and about the [transcendent toaster kit](https://www.youtube.com/watch?v=KC-SdzjxzUE) that conjures the image of Jesus with every slice. They thought, what if we did that with thousands of images? It’d be like a flipbook, but instead of paper they’d use stop motion animation and crispy bread, one image per slice.     
 
-Within five days of that initial conversation, Nadeem came to Ali’s office in MIT’s Suess-like Stata Center and said, “Hey man, do you have time for a conference call?” 
+Within five days of that initial conversation, Nadeem came to Ali’s office in MIT’s Seuss-like Stata Center and said, “Hey man, do you have time for a conference call?” 
 
 “Sure. Who are we talking to?” Ali asked.
 
 “OK Go,” Nadeem said, referring to the Grammy-award-winning band known for dancing on treadmills in their video [“Here It Goes Again.”](%E2%80%9CHere It Goes Again.%E2%80%9D)
 
-And just like that they were talking on the phone with Damian Kalush, the band’s lead singer. Nadeem, who was in a MIT biological engineering graduate program, had contacted him through a friend of a friend. “That’s the kind of guy he is—pretty aggressive,” says Ali, sitting in front of three seven-foot-tall LiteBrites in the new workshop.
+And just like that, they were talking on the phone with Damian Kalush, the band’s lead singer. Nadeem, who was in a MIT biological engineering graduate program, had contacted him through a friend of a friend. “That’s the kind of guy he is—pretty aggressive,” says Ali, sitting in front of three seven-foot-tall LiteBrites in the new workshop.
 
 “We didn’t really have an idea of how it would look or even how you would do it. It was just an idea,” Ali says. “I really have to give Nadeem credit, because he took it and he ran with it.”
 
@@ -65,19 +65,19 @@ Eight sleep-deprived days, 2,430 slices of bread, and countless cookies later, t
 
 ## The Prodigy
 
-Nadeem and Ali met through MIT’s Muslim Student Association (MSA) back in 2002. Nadeem had just started undergrad and Ali was starting his doctoral program. It may seem odd for a twenty-something doc student to be hanging around with a freshman, but here’s the thing: they were both eighteen. Though you won’t hear it from him, Ali’s sort of a prodigy. His wife Nadia explains that he graduated high school at the age of 14 then quadruple-majored in physics, math, computer science and computer engineering at Kansas State. 
+Nadeem and Ali met through MIT’s Muslim Student Association (MSA) back in 2002. Nadeem had just started undergrad and Ali was starting his doctoral program. It may seem odd for a twenty-something doctoral student to be hanging around with a freshman, but here’s the thing: They were both eighteen. Though you won’t hear it from him, Ali’s sort of a prodigy. His wife Nadia explains that he graduated high school at the age of 14, then quadruple-majored in physics, math, computer science and computer engineering at Kansas State. 
 
-Ali was born in Baltimore but grew up in Colorado before heading off to college in Kansas. He was always making random things with hammers and saws or taking things apart. 
+Ali was born in Baltimore, but grew up in Colorado before heading off to college in Kansas. He was always making random things with hammers and saws or taking things apart. 
 
 “I remember I took apart a laptop, and every square inch of this pretty big room was parts—just little pieces everywhere,” Ali says.
  
 Looking around danger!awesome’s new workshop, it doesn’t appear that he’s grown out of the habit. Old doors, broken pots, and disassembled electronics cover the massive basement. It feels like a mad scientist’s lab, but stocked with wood and wires instead of potions and petri dishes. 
 
-I visited the new space two nights before the grand opening, and instead of cleaning up, Ali and his friend, Ethan Miller, were hard at work building a steamer for cappuccinos and lattes. "This is bullshit,” Ali says pointing to a deconstructed espresso machine on the table. “This shouldn't be $1,800. It has a good boiler but it only has one, and its job is to both produce steam and water for the espresso machine. And I don't think it does a good job."
+I visited the new space two nights before the grand opening, and instead of cleaning up, Ali and his friend, Ethan Miller, were hard at work building a steamer for cappuccinos and lattes. "This is bullshit,” Ali said, pointing to a deconstructed espresso machine on the table. “This shouldn't be $1,800. It has a good boiler, but it only has one, and its job is to both produce steam and water for the espresso machine. And I don't think it does a good job."
 
-“Nah,” says Miller, a barista who’s studied coffee making for seven years.  
+“Nah,” said Miller, a barista who’s studied coffee making for seven years.  
 
-They inserted a better steam wand from a different espresso machine into a wooden case that they carved with a laser cutter. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer would just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
+They inserted a better steam wand from a different espresso machine into a wooden case that they carved with a laser cutter. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer will just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
 ![ali coffee edited.png](/_posts/ali coffee edited.png)
@@ -86,9 +86,9 @@ Ali was finishing up his doctoral thesis and teaching at MIT when he and Nadeem 
 
 Moving forward, Nadeem hopes they can leverage Ali’s technical expertise even more to give danger!awesome a competitive edge. “He could be a seven-figure programmer if he wanted to be,” Nadeem says. “So just giving him the space to step back from the day-to-day to design systems, programs and drivers.” (According to Nadia, Ali’s been offered corporate gigs, but hasn’t taken the bait.) 
 
-Ali and Nadia first encountered each other in 2011 when she interviewed him over the phone for an article about danger!awesome she’d never ended up publishing. Nadia has dark, straight hair and a makeup-free, olive complexion that would make any woman envious. A tiny silver stud adorns her nose. 
+Ali and Nadia first encountered each other in 2011 when she interviewed him over the phone for an article about danger!awesome she never ended up publishing. Nadia has dark, straight hair and a makeup-free, olive complexion that would make any woman envious. A tiny silver stud adorns her nose. 
 
-She’s completed law school and is currently studying peace and conflict at UMass Lowell, while also working as an editor for [altmuslimah](http://www.altmuslimah.com/), a website featuring stories and commentary on gender in Islam. Because of their similar Muslim backgrounds and outlooks on life, she and Ali kept in touch through Facebook after the interview. 
+She has completed law school and is currently studying peace and conflict at UMass Lowell, while also working as an editor for [altMuslimah](http://www.altmuslimah.com/), a website featuring stories and commentary on gender in Islam. Because of their similar Muslim backgrounds and outlooks on life, she and Ali kept in touch through Facebook after the interview. 
 
 ![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
 
@@ -100,17 +100,17 @@ The couple was hanging out in the new workshop late one night, and Nadia called 
 
 ## The Politician
 
-Since their wedding, Nadia’s spent lots of time with her husband and his business partner. “Nadeem is more the politician,” she explains. “He’s good about getting people fired about things, and Ali is good about continuing that momentum.” The dynamic makes sense, given that Nadeem actually is a politician. He was elected to Cambridge City Council last November. He also co-founded [Nimblebot](http://www.nimblebot.com/), an animation software startup that helps non-profits and the education sector make advocacy more exciting and affordable. 
+Since their wedding, Nadia has spent lots of time with her husband and his business partner. “Nadeem is more the politician,” she explains. “He’s good about getting people fired about things, and Ali is good about continuing that momentum.” The dynamic makes sense, given that Nadeem actually is a politician. He was elected to the Cambridge City Council last November. He also co-founded [Nimblebot](http://www.nimblebot.com/), an animation software startup that helps non-profits and the education sector make advocacy more exciting and affordable. 
 
-“From danger!awesome to Nimblebot across the street, up to city hall, it's like Nadeem-land,” Nejad says. “He's always flying around here.” Described as frenetic and high-energy by his employees, Nadeem is certainly hard to pin down. I only talked with him in person for a couple minutes at the workshop opening. The rest of our sporadic conversations took place by phone.
+“From danger!awesome to Nimblebot across the street, up to City Hall, it's like Nadeem-land,” Nejad says. “He's always flying around here.” Described as frenetic and high-energy by his employees, Nadeem is certainly hard to pin down. I only talked with him in person for a couple minutes at the workshop opening. The rest of our sporadic conversations took place by phone.
 
 Nadeem grew up in Andover, Massachusetts, and never really planned on being a politician or an entrepreneur. Instead, he thought he’d create robots.
 
-As a public school student, he applied to the boarding school Phillips Academy on a whim and received a scholarship to attend. Early on, he had a unique experience with a teacher who pushed him to take harder and harder classes. 
+As a public school student, he applied to the boarding high school Phillips Academy on a whim and received a scholarship to attend. Early on, he had a unique experience with a teacher who pushed him to take harder and harder classes. 
 
-In fact, Nadeem had taken so many advanced math and science courses that he could waive a year of credits at MIT, where he majored in biological and mechanical engineering. Instead of spending his senior year taking electives, he travelled to Cairo for his international affairs concentration, wrote a senior thesis, and created a video project. 
+In fact, Nadeem had taken so many advanced math and science courses that he could waive a year of credits at MIT, where he majored in biological and mechanical engineering. Instead of spending his senior year taking electives, he traveled to Cairo for his international affairs concentration, wrote a senior thesis, and created a video project. 
 
-Nadeem says he was a bit under-guided in his undergrad career. “It ended up for the better, because I was able to ignore classes and just focus on community, society, policy, and development questions that were, to me, much more interesting,” he says. He’d always felt there was a disconnect between his family’s emphasis on academic performance and a deep-seeded understanding that classwork doesn’t impact real exploration—though he hopes that’s changing with more hands-on learning.
+Nadeem says he was a bit under-guided in his undergraduate career. “It ended up for the better, because I was able to ignore classes and just focus on community, society, policy, and development questions that were, to me, much more interesting,” he says. He’d always felt there was a disconnect between his family’s emphasis on academic performance and a deep-seeded understanding that classwork doesn’t impact real exploration—though he hopes that’s changing with more hands-on learning.
 
 While Nadeem’s father paints and his mother sketches, he’s never really had the same free-hand skill. Instead, he started playing around with Flash animation in his teens. After college, Nadeem and three buddies decided to join the Mongolia Charity Rally, a fundraising drive from England to China. Nadeem earned the $15,000 they needed for the trip through an animation job that only took him two days. 
 
@@ -121,7 +121,7 @@ _(Photo courtesty of Nadeem Mazen.)_
 
 After a year off from dreaded classrooms, Nadeem returned to MIT for a graduate program in biological engineering. He put in hundreds of hours on the Media Lab’s laser cutters trying to create more humane and cost-efficient mousetraps for lab research. In fact, he created a trap that’s nearly a hundredth of the cost of current enclosures. “If I wanted to go make a fortune right now, I could go help people test on animals cheaply,” says Nadeem, who only eats meat if it meets the Muslim standard of halal. “But I obviously would never want to do that.”
 
-Nadeem started danger!awesome with Ali when he should’ve been writing his master’s thesis and continuing on to the doctoral program. But he decided not to turn in his thesis or stay in biological engineering. “I was told by people around me, just submit anything and we'll approve it,” he says. “That was uncomfortable.”
+Nadeem started danger!awesome with Ali when he should’ve been writing his Master’s thesis and continuing on to the doctoral program. But he decided not to turn in his thesis or stay in biological engineering. “I was told by people around me, 'Just submit anything and we'll approve it,'” he says. “That was uncomfortable.”
 
 ![nadeem activism small.png](/_posts/nadeem activism small.png)    
 _(Photo courtesy of Nadeem Mazen.)_
@@ -136,7 +136,7 @@ Nadeem never did get into robotics. He realized that, regardless of his job titl
 
 ## The Dynamic Duo
 
-Despite being all over the map—of Cambridge, at least—Nadeem is thoughtful in how he approaches projects, Nejad says. And when it comes to danger!awesome ventures, Nadeem’s got a solid partner in Ali. “They know their strengths and weaknesses, and they can counter-balance each other out,” Nejad says.
+Despite being all over the map—of Cambridge, at least—Nadeem is thoughtful in how he approaches projects, Nejad says. And when it comes to danger!awesome ventures, Nadeem’s got a solid partner in Ali. “They know their strengths and weaknesses, and they can counterbalance each other out,” Nejad says.
 
 “I’m kind of trying to steer the ship and make it a bigger ship,” Nadeem says. “There’s a lot of time when Ali is on the ground, running around filling gaps.”
 
@@ -156,7 +156,7 @@ With their bright minds and elite degrees, Ali and Nadeem are clearly eligible f
 
 “The nice thing about laser cutters is that they’re really easy to use,” says Ali. One of the first things you learn in woodshop is that you can’t cut a straight line or right angles with a saw, so making a box is pretty complicated, he explains. “With the laser cutter, you just say cut a box, and it cuts a box.”
 
-A few danger!awesome customers have been a bit more creative with the laser cutters. One man had technicians cut an enormous biohazard sign into his toilet seat. A female member cuts latex into dresses for Katy Perry and Pink, while a guy cuts it into gurneys used for organ transplants. In addition to the membership program, danger!awesome also hosts community workshops where people can make specific products, like leather masks or plastic rings. 
+A few danger!awesome customers have been a bit more creative with the laser cutters. One man had technicians cut an enormous biohazard sign into his toilet seat. Another customer cuts latex into dresses for Katy Perry and Pink, while a third cuts it into gurneys used for organ transplants. In addition to the membership program, danger!awesome also hosts community workshops where people can make specific products, like leather masks or plastic rings. 
 
 ![dangerawesome space small.png](/_posts/dangerawesome space small.png)
 
