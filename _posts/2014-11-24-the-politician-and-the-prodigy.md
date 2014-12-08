@@ -113,8 +113,7 @@ Nadeem says he was a bit under-guided in his undergrad career. “It ended up fo
 
 While Nadeem’s father paints and his mother sketches, he’s never really had the same free-hand skill. Instead, he started playing around with Flash animation in his teens. After college, Nadeem and three buddies decided to join the Mongolia Charity Rally, a fundraising drive from England to China. Nadeem earned the $15,000 they needed for the trip through an animation job that only took him two days. 
 
-![nadeem camera small.png](/_posts/nadeem camera small.png)
-_(Photo courtesty of Nadeem Mazen.)_
+![nadeem camera small.png](/_posts/nadeem camera small.png)    _(Photo courtesty of Nadeem Mazen.)_
 
 “I haven't always been creative, but I've always been doing a lot of different things and some of those things became skills that I internalized,” he says.
 
@@ -122,7 +121,7 @@ After a year off from dreaded classrooms, Nadeem returned to MIT for a graduate 
 
 Nadeem started danger!awesome with Ali when he should’ve been writing his master’s thesis and continuing on to the doctoral program. But he decided not to turn in his thesis or stay in biological engineering. “I was told by people around me, just submit anything and we'll approve it,” he says. “That was uncomfortable.”
 
-![nadeem activism small.png](/_posts/nadeem activism small.png)
+![nadeem activism small.png](/_posts/nadeem activism small.png)    
 _(Photo courtesy of Nadeem Mazen.)_
 
 He felt a similar discomfort when he started attending city meetings a few years ago for some of his own service projects. At one particularly disheartening City Council meeting, the councilors were antagonizing each other and ignoring two hours of public comments on the issue at hand. “The legislators didn’t hear it, didn’t reflect on it, didn’t talk about it, didn’t refer back to it,” Nadeem says.
