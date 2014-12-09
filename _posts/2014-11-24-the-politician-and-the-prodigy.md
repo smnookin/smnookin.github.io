@@ -124,7 +124,7 @@ After a year off from dreaded classrooms, Nadeem returned to MIT for a graduate 
 
 Nadeem started danger!awesome with Ali when he should’ve been writing his Master’s thesis and continuing on to the doctoral program. But he decided not to turn in his thesis or stay in biological engineering. “I was told by people around me, 'Just submit anything and we'll approve it,'” he says. “That was uncomfortable.”
 
-![nadeem activism] (http://i61.tinypic.com/33uykra.png)   
+![nadeem activism](http://i61.tinypic.com/33uykra.png)   
 _(Photo courtesy of Nadeem Mazen.)_
 
 He felt a similar discomfort when he started attending city meetings a few years ago for some of his own service projects. At one particularly disheartening City Council meeting, the councilors were antagonizing each other and ignoring two hours of public comments on the issue at hand. “The legislators didn’t hear it, didn’t reflect on it, didn’t talk about it, didn’t refer back to it,” Nadeem says.
