@@ -11,7 +11,7 @@ tags:
 author: Veronica Thomas
 ---
 
-![](http://i61.tinypic.com/qy703s.png)           Buddies Ali Mohammad and Nadeem Mazen became business partners in May 2011, when they opened danger!awesome, a workshop in Cambridge. There, trained technicians and customers alike can cut and engrave anything from pint glasses to toilet seats using blazing lasers. 
+![](http://i61.tinypic.com/qy703s.png) Buddies Ali Mohammad and Nadeem Mazen became business partners in May 2011, when they opened danger!awesome, a workshop in Cambridge. There, trained technicians and customers alike can cut and engrave anything from pint glasses to toilet seats using blazing lasers. 
 
 ## Getting People to Make Stuff
 
