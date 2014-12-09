@@ -11,11 +11,11 @@ tags:
 author: Veronica Thomas
 ---
 
-![](http://i61.tinypic.com/qy703s.png)
+![](http://i61.tinypic.com/qy703s.png) Buddies Ali Mohammad and Nadeem Mazen became business partners in May 2011, when they opened danger!awesome, a workshop in Cambridge. There, trained technicians and customers alike can cut and engrave anything from pint glasses to toilet seats using blazing lasers. 
 
 ## Getting People to Make Stuff
 
-Buddies Ali Mohammad and Nadeem Mazen became business partners in May 2011, when they opened danger!awesome, a workshop in Cambridge. There, trained technicians and customers alike can cut and engrave anything from pint glasses to toilet seats using blazing lasers. The makerspace all started with a music video Ali and Nadeem made for the alt-rock band OK Go, featuring laser-etched animations on toast. Now, they’re christening a second, much larger, underground space just around the corner in Central Square. 
+The makerspace all started with a music video Ali and Nadeem made for the alt-rock band OK Go, featuring laser-etched animations on toast. Now, they’re christening a second, much larger, underground space just around the corner in Central Square. 
 
 Nadeem zips around snapping photos and greeting guests, while Ali carefully prepares coffee. The two men, in their early thirties, look like brothers, with thick beards, dark eyes, and curly black hair, which Nadeem wears in a ponytail perched on the top of his head and Ali in an untamed afro. While Nadeem wears a sleek blazer and skinny tie, Ali sports a white T-shirt and khakis.
 
