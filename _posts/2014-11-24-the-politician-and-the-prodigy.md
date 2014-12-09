@@ -58,7 +58,7 @@ Because Nadeem and Ali were MIT grad students, they had access to the university
 
 Their stealth paid off. The band loved the prototypes and secured a sponsorship to pay for the three $30,000 laser cutters needed to produce the video. After nearly a year of collaborative design with OK Go and animators, Ali and Nadeem were left with only one week to make the video. 
 
-![](http://i57.tinypic.com/2z3uask.png) 
+![OK Go toasts](http://i57.tinypic.com/2z3uask.png) 
 
 Luckily, they were able to secure hundreds of loaves of bread (along with cheap Milano cookies for snacking) from the nearby Pepperidge Farm surplus store, which sells near-expiration products in bulk. 
 
@@ -81,7 +81,7 @@ I visited the new space two nights before the grand opening, and instead of clea
 They inserted a better steam wand from a different espresso machine into a wooden case that they carved with a laser cutter. Next, they have to put in the wiring, connect the boiler to the steam wand, and bring in water from the outside. This steamer will just be for milk, but the plan is to build an espresso machine too. “I know we can do a better job,” Ali says.
 “Ali’s skills blow my mind,” says Dariush Nejad, danger!awesome’s Director of Operations. "He's always working on something cool, from making a soda rig to making a mini-arcade to perfecting a cappuccino. To say Ali likes coffee is an understatement.”
 
-![ali coffee edited.png](/_posts/ali coffee edited.png)
+![ali coffee](http://i60.tinypic.com/2h3wze1.png)
 
 Ali was finishing up his doctoral thesis and teaching at MIT when he and Nadeem made the toast video. Google recruited him soon after; he worked there up until six months ago when he left to focus on danger!awesome, but he still does some contractual projects.
 
@@ -91,7 +91,7 @@ Ali and Nadia first encountered each other in 2011 when she interviewed him over
 
 She has completed law school and is currently studying peace and conflict at UMass Lowell, while also working as an editor for [altMuslimah](http://www.altmuslimah.com/), a website featuring stories and commentary on gender in Islam. Because of their similar Muslim backgrounds and outlooks on life, she and Ali kept in touch through Facebook after the interview. 
 
-![ali litebrite biggest.png](/_posts/ali litebrite biggest.png)
+![ali litebrite](http://i58.tinypic.com/2d2et6w.png)
 
 Nadia and Ali finally met in person in October 2012. They were married seven months later. Generally soft-spoken, Nadia explains that she’s always been anxious about meeting people and had reached a point in life where she was a bit cynical about relationships. “Then you meet somebody who's really all the things you were looking for but didn't know, and you just kind of feel at peace,” she says.
 
@@ -115,7 +115,7 @@ Nadeem says he was a bit under-guided in his undergraduate career. “It ended u
 
 While Nadeem’s father paints and his mother sketches, he’s never really had the same free-hand skill. Instead, he started playing around with Flash animation in his teens. After college, Nadeem and three buddies decided to join the Mongolia Charity Rally, a fundraising drive from England to China. Nadeem earned the $15,000 they needed for the trip through an animation job that only took him two days. 
 
-![nadeem camera small.png](/_posts/nadeem camera small.png)    
+![nadeem camera](http://i58.tinypic.com/29fyrz9.png)   
 _(Photo courtesty of Nadeem Mazen.)_
 
 “I haven't always been creative, but I've always been doing a lot of different things and some of those things became skills that I internalized,” he says.
@@ -124,7 +124,7 @@ After a year off from dreaded classrooms, Nadeem returned to MIT for a graduate 
 
 Nadeem started danger!awesome with Ali when he should’ve been writing his Master’s thesis and continuing on to the doctoral program. But he decided not to turn in his thesis or stay in biological engineering. “I was told by people around me, 'Just submit anything and we'll approve it,'” he says. “That was uncomfortable.”
 
-![nadeem activism small.png](/_posts/nadeem activism small.png)    
+![nadeem activism] (http://i61.tinypic.com/33uykra.png)   
 _(Photo courtesy of Nadeem Mazen.)_
 
 He felt a similar discomfort when he started attending city meetings a few years ago for some of his own service projects. At one particularly disheartening City Council meeting, the councilors were antagonizing each other and ignoring two hours of public comments on the issue at hand. “The legislators didn’t hear it, didn’t reflect on it, didn’t talk about it, didn’t refer back to it,” Nadeem says.
@@ -159,7 +159,7 @@ With their bright minds and elite degrees, Ali and Nadeem are clearly eligible f
 
 A few danger!awesome customers have been a bit more creative with the laser cutters. One man had technicians cut an enormous biohazard sign into his toilet seat. Another customer cuts latex into dresses for Katy Perry and Pink, while a third cuts it into gurneys used for organ transplants. In addition to the membership program, danger!awesome also hosts community workshops where people can make specific products, like leather masks or plastic rings. 
 
-![dangerawesome space small.png](/_posts/dangerawesome space small.png)
+![dangerawesome first space](http://i61.tinypic.com/24bu51w.png)
 
 Moving forward, Nadeem says danger!awesome could go in a couple different directions. Large makerspace chains, like TechShop, require millions of dollars for each new location and focus on elite makers, Nadeem says. Danger!awesome is much smaller, and Nadeem and Ali want to keep it that way. But they also want it to be ubiquitous. 
 
