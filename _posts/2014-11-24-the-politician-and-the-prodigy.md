@@ -100,7 +100,7 @@ The couple was hanging out in the new workshop late one night, and Nadia called 
 
 ## The Politician
 
-Since their wedding, Nadia has spent lots of time with her husband and his business partner. “Nadeem is more the politician,” she explains. “He’s good about getting people fired about things, and Ali is good about continuing that momentum.” The dynamic makes sense, given that Nadeem actually is a politician. He was elected to the Cambridge City Council last November. He also co-founded [Nimblebot](http://www.nimblebot.com/), an animation software startup that helps non-profits and the education sector make advocacy more exciting and affordable. 
+Since their wedding, Nadia has spent quite a bit of time with her husband and his business partner. “Nadeem is more the politician,” she explains. “He’s good about getting people fired about things, and Ali is good about continuing that momentum.” The dynamic makes sense, given that Nadeem actually is a politician. He was elected to the Cambridge City Council last November. He also co-founded [Nimblebot](http://www.nimblebot.com/), an animation software startup that helps non-profits and the education sector make advocacy more exciting and affordable. 
 
 “From danger!awesome to Nimblebot across the street, up to City Hall, it's like Nadeem-land,” Nejad says. “He's always flying around here.” Described as frenetic and high-energy by his employees, Nadeem is certainly hard to pin down. I only talked with him in person for a couple minutes at the workshop opening. The rest of our sporadic conversations took place by phone.
 
