@@ -57,7 +57,7 @@ Because Nadeem and Ali were MIT grad students, they had access to the university
 
 Their stealth paid off. The band loved the prototypes and secured a sponsorship to pay for the three $30,000 laser cutters needed to produce the video. After nearly a year of collaborative design with OK Go and animators, Ali and Nadeem were left with only one week to make the video. 
 
-![toast small.png](/_posts/toast small.png)
+![http://i57.tinypic.com/2z3uask.png](/_posts/toast small.png)
 
 Luckily, they were able to secure hundreds of loaves of bread (along with cheap Milano cookies for snacking) from the nearby Pepperidge Farm surplus store, which sells near-expiration products in bulk. 
 
