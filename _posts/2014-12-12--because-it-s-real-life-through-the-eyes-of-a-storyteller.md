@@ -9,7 +9,7 @@ tags:
   - student
 ---
 
-![](http://web.mit.edu/shass/soundings/issue_98s/images/pic_newfac_lee.jpg)
+![](http://web.mit.edu/shass/soundings/issue_98s/images/pic_newfac_lee.jpg)    
 MIT’s Building 14 is a beige brick building with the Hayden Library facing the banks of the Charles River in the front; in the back are offices of professors from several humanities departments, including Comparative Media Studies/Writing, Global Studies and Languages, and Literature. On the fourth floor, the frosted-glass door of one of the offices is covered by a collage of African women dressed in tribal clothing and adorned with jewelry; in almost every picture, the women’s eyes stare directly at the camera. Inside the office, a lamp accents a batik painting hanging over the desk, and framed prints of the singers Bessie Smith and Billie Holiday adorn the walls. Behind the desk sits Helen Elaine Lee, a fiction writer and creative writing professor. Lee has frizzy black and gray hair and often wears long earrings, and the corners of her eyes are crinkled in a perpetual smile. 
 
 At 12:50 p.m., Lee packs up and heads to the classroom where she teaches “Writing and Reading Short Stories” twice a week. The small oval table soon overflows, and five of the thirteen students have to sit in the back of the room. For the next hour and a half, Lee leads a discussion of James Baldwin’s short story, “Sonny’s Blues.” That evening, she’ll work on her next book in her dining room/study. In a couple weeks she will head to a Boston prison, where she volunteers in a writing program for several months of the year. This was not the life she envisioned for herself thirty years ago, when she graduated from Harvard Law School. 
