@@ -11,8 +11,7 @@ tags:
 date: December 12 2014
 ---
 
-![](http://web.mit.edu/shass/soundings/issue_98s/images/pic_newfac_lee.jpg)    
-MIT’s Building 14 is a beige brick building with the Hayden Library facing the banks of the Charles River in the front; in the back are offices of professors from several humanities departments, including Comparative Media Studies/Writing, Global Studies and Languages, and Literature. On the fourth floor, the frosted-glass door of one of the offices is covered by a collage of African women dressed in tribal clothing and adorned with jewelry; in almost every picture, the women’s eyes stare directly at the camera. 
+![](http://web.mit.edu/shass/soundings/issue_98s/images/pic_newfac_lee.jpg)    MIT’s Building 14 is a beige brick building with the Hayden Library facing the banks of the Charles River in the front; in the back are offices of professors from several humanities departments, including Comparative Media Studies/Writing, Global Studies and Languages, and Literature. On the fourth floor, the frosted-glass door of one of the offices is covered by a collage of African women dressed in tribal clothing and adorned with jewelry; in almost every picture, the women’s eyes stare directly at the camera. 
 
 Inside the office, a lamp accents a batik painting hanging over the desk, and framed prints of the singers Bessie Smith and Billie Holiday adorn the walls. Behind the desk sits Helen Elaine Lee, a fiction writer and creative writing professor. Lee has frizzy black and gray hair and often wears long earrings, and the corners of her eyes are crinkled in a perpetual smile. 
 
