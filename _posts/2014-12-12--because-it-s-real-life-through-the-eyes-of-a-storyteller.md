@@ -7,7 +7,6 @@ author: Anisha Gururaj
 displaydate: "December 12, 2014"
 tags: 
   - student
-  - slider
 date: December 12 2014
 ---
 
