@@ -1,12 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: "“Because it’s Real”: Life Through the Eyes of a Storyteller"
 category: MIT
 author: Anisha Gururaj
 displaydate: "December 12, 2014"
 tags: 
   - student
+  - slider
+date: December 12 2014
 ---
 
 ![](http://web.mit.edu/shass/soundings/issue_98s/images/pic_newfac_lee.jpg)    
