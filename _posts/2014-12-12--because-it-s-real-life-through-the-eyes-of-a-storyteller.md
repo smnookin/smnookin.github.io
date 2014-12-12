@@ -14,9 +14,9 @@ MIT’s Building 14 is a beige brick building with the Hayden Library facing the
 
 At 12:50 p.m., Lee packs up and heads to the classroom where she teaches “Writing and Reading Short Stories” twice a week. The small oval table soon overflows, and five of the thirteen students have to sit in the back of the room. For the next hour and a half, Lee leads a discussion of James Baldwin’s short story, “Sonny’s Blues.” That evening, she’ll work on her next book in her dining room/study. In a couple weeks she will head to a Boston prison, where she volunteers in a writing program for several months of the year. This was not the life she envisioned for herself thirty years ago, when she graduated from Harvard Law School. 
 
-											***
+														***
 _She points to a paragraph on the page. “What’s really amazing is this next section,” she says. “It’s the whole life journey.” As she reads out a passage, she looks up periodically, making eye contact with her students. Her voice fills the room. “Do you see what Baldwin’s done? He’s put the entire experience of life in one paragraph—messing up, stumbling, thinking you’ve found your way.” _
-											***
+														***
 
 Lee’s parents, George and Dorothy Lee, met in the 1940s at Harvard, where George was attending the Law School and Dorothy would become the first black woman to receive a PhD in comparative literature.  George, who had attended segregated schools in Baltimore and served in the segregated army, would eventually become a criminal defense lawyer. But despite graduating with honors, he was unable to find a job practicing law in Boston. Instead, in 1949 he found work as a waiter in a country club—an experience that, according to Lee, ate away at him for the rest of his life. After that, George and Dorothy moved to Detroit, where Dorothy had grown up, in the hopes of finding work there through her family’s connections. 
 
@@ -28,9 +28,9 @@ George was a different kind of storyteller, a gifted courtroom orator who also l
 
 Lee attended Harvard College and majored in psychology and social relations. By the time she graduated, she had realized clinical psychology was not for her and applied to law school out of default. As important as literature was to her upbringing, she hadn’t found her voice as a writer. And she may never have, if she hadn’t realized after getting into Harvard Law School what a horrible mistake she had made. Finding herself miserable (she almost dropped out at one point), she found a way she could take literature classes and get partial credit at the law school. “I was desperate and hungry,” Lee said; she wrote a major third-year law school paper on the revolutionary nature of three Latin American poets. “I was moving away from law even before I graduated.”
 
-											***
+														***
 _“This part—it speaks to how painful the process of making art is,” she says. She looks up at the students with a wry smile on her face. “You guys probably feel that with writing your own stories.” The students laugh. “Yeah, it’s not easy.”_
-											***
+														***
                                             
 The 1980s were an historic time for black female writers. Alice Walker and Toni Morrison were both at the height of their fame and acclaim, and their books were regularly on the bestseller lists. “It really blew away the presumption at the time, which was that black people didn’t read or write complex literature,” Lee says. “And they certainly didn’t write literature white people read.”
 
@@ -46,9 +46,9 @@ Nine years after moving to D.C., Lee heard about a creative writing lecturer pos
 
 The lecturer position was only for a year, but it turned into a writer-in-residence and then a tenure-track position. Today she has been at MIT for nineteen years. 
 
-											***
+														***
 _She tells them to turn to page 95, and reads a passage about Sonny and the “torment” of creating music with the piano. “You can really say the same thing about writing,” she tells the class. “You take the chaos and the roar and shape it into something—that’s what all writing does. And then it’s shared.”_
-											***
+														***
                                             
 Having her true passion integrated into daily life was a relief to Lee. Plus MIT students were imaginative, creative and deeply analytical. There were also those students whose dedication to writing truly motivated her, like sophomore Vincent Anioke, who is currently taking her class. Anioke not only received personal feedback on his writing, but a personal note from Lee asking about whether he was having any personal struggles at MIT and encouraging him to talk to her at any time. Senior Ishwarya Ananthabhotla, adds that Lee really cares about the “story behind the story” and works to offer her own experiences to help students convey that. 
 
@@ -56,9 +56,9 @@ Still, teaching at MIT, one of the world’s prominent technical institutions, h
 
 Boston itself presented its own challenges. “I used to say I wanted somewhere warmer, cheaper, and blacker,” she said, laughing wryly. “Somewhere with different race politics. Boston is a hard place to make community. Everyone’s really driven and wrapped up in their own things.” There were several times Lee considered leaving MIT and Boston, but she was now a single-mother by choice—she had her son through donor-insemination—and her mother had moved to help her out, so it just didn’t make sense. Plus, she had found a different force drawing her to the area: exploring New England’s prisons. 
 
-											***
+														***
 _Sunlight streams through the window. “Okay, so according to Baldwin, there’s suffering.” She says. “But what do we do about it? What is the light?” The students are silent and start fidgeting, but she continues to push them to think. “It’s the words, isn’t it?” A sense vulnerability hangs on each word in her gravelly voice. “It’s spreading a story. Communication makes a bridge between us—that is the light in the darkness. And that is our hope for redemption.” _
-											***
+														***
 
 From her father’s work in criminal defense, Lee knew that everyone often had a complicated story, and that opportunities and resources are not the same for everyone. “There was also a deep sense of the relationship between legal enforcement and racial consciousness for us,” said Lee. “But I needed to earn the right to tell this story.” So in 2001, she began volunteering her time in a year-long experiment at South Bay, the Suffolk County House of Correction, which provided men who had been in and out of prisons, often with addiction at the root of their problems, with programs like meditation, storytelling and acting to orchestrate healing.  
 
@@ -77,7 +77,7 @@ According to Lee, the doors that had opened in the 1980s for black female writer
 Today, Lee feels strongly about her responsibilities at an institution like MIT to bring opportunities to students of color, speak out on committees, bring writers that are broader-minded, and force a conversation. Now she is thinking about her next book portraying someone like her—a single mother, a big city, academia, being an outsider, and “just assumptions we make about privilege and how little access people have to it.”
 “It’s not a tragedy or a crisis,” she said. “But like W.E.B. DuBois says, it’s the ‘twoness’ we all feel.” 
 
-***
+														***
 _“Why do you think this story is called ‘Sonny’s Blues?’” she asks. She listens to a few of the students’ answers, acknowledging their thoughts, pushing them to elaborate, before offering her own thoughts. “The brothers move from silence to sound,” she says after a pause. “And the blues they play tell us about suffering, but also about triumph. You know, ‘Here I am having survived to tell the tale.’” She stops and thinks. “Hey, maybe we are reading a happy story this semester!” The students laugh, clearly remembering a previous joke._
 
 _“Yeah, maybe it’s as happy as it gets,” she says, her voice softening, “because it’s real.”_
