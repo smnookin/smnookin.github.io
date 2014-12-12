@@ -7,6 +7,7 @@ displaydate: December 8 2014
 date: November 24 2014
 tags: 
   - student
+  - slider
 author: Veronica Thomas
 ---
 
