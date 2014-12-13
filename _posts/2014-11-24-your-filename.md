@@ -42,9 +42,9 @@ She didn’t start asking until almost thirty years later, when she was approach
 
 The conversation sparked a revelation for Corkin. “I was pretty gender-neutral for many years at MIT, and then I sort of woke up. [It was] Nancy’s starting the discussions. One day Molly Potter [a professor of psychology] walked into my office...and she said, ‘Sue, would you like to have a bigger office?’ And I’m looking around the room; I said, ‘sure!’ But it never occurred to me I was in this cramped little space.”
 
-“[Hopkins] invited me and a couple of other people to have lunch, just in somebody’s office. So we brought our little brown bag lunches and we sat around a table and talked about how we were treated in our departments and by MIT in general. And then this group gradually grew until there were sixteen of us,” Corkin says. “After several discussions, somebody drafted a letter...to the Dean of Science, Bob Birgeneau. And there was one woman who didn’t sign it, but all the other senior women faculty in the school of sciences signed it.” 
+“[Hopkins] invited me and a couple of other people to have lunch, just in somebody’s office.” Gradually, the lunch meetings grew to include every woman on the faculty of the school of science: seventeen in total. They shared their stories of discrimination and finally compiled a letter to the Dean of Science, Bob Birgeneau. All but one signed it.  
 
-“We collected data about salaries and data about space and data about perks...as good scientists, we collected data. And they spoke for us,” Corkin said. The Dean took the letter seriously, and a committee formed to investigate the discrimination through interviews and further data collection. The result was “A Study on the Status of Women Faculty in Science at MIT”, a groundbreaking report that showed inequity in “space, amount of 9-month salary paid from individual research grants, teaching assignments, awards and distinctions, inclusion on important committees and assignments within the department” (from [the report itself](http://web.mit.edu/fnl/women/women.html)). 
+They backed up their case with evidence: they documented differences in space allocations, salaries, and perks. “As good scientists, we collected data. And they spoke for us,” Corkin says. The Dean took the letter seriously, and a committee formed to investigate the discrimination through interviews and further data collection. The result was “A Study on the Status of Women Faculty in Science at MIT”, a groundbreaking report that showed inequity in “space, amount of 9-month salary paid from individual research grants, teaching assignments, awards and distinctions, inclusion on important committees and assignments within the department” (from [the report itself](http://web.mit.edu/fnl/women/women.html)). 
 
 When the committee published its report in 1999, it made the front page of the New York Times and the Boston Globe. Never before had a prominent university voluntarily outed itself on gender discrimination. The [Times article](http://www.nytimes.com/1999/03/23/us/mit-admits-discrimination-against-female-professors.html) begins:
 
@@ -57,12 +57,16 @@ The “MIT9”, nine of the nation’s top universities, has met at MIT annually
 
 ###'Don't take no for an answer'
 
-Even today, as a woman at the top of her field, Corkin says it’s sometimes hard to feel like a part of the “old boys club.” She says people shy away from being the token woman on a panel, or the token woman speaker at a symposium. She tells them: “any time you get invited to give a talk, you say YES, and you make sure that you give a better talk than any of the men in the symposium. And never say no...There’s nothing wrong with being the token woman…You just see it as an opportunity, and you go for it, and you try to bring other women aboard, too. Spoken as a token woman.”
+Even today, as a woman at the top of her field, Corkin says it’s sometimes hard to feel like a part of the “old boys club.” She says people shy away from being the token woman on a panel, or the token woman speaker at a symposium. She tells them: “any time you get invited to give a talk, you say YES, and you make sure that you give a better talk than any of the men in the symposium.”
 
-I give in to the impulse to submit my own experience. “It can be a lot of pressure, though. It can feel like you have you prove yourself in order to be taken seriously the same amount as everybody else.”
+I give in to the impulse to submit my own experience. “It can be a lot of pressure, though. It can feel like you have you prove yourself in order to be taken seriously.”
 
-“Absolutely. You do. There is pressure, and you just do it. You have to be tough.”
+“Absolutely. You do. There is pressure. You have to be tough.”
 
-This lesson is part of what Corkin has taught her students, along with three others she lists for me: "'prepare, prepare, prepare', 'don't take no for an answer', and 'don't write off women and minorities'." Even with all she’s done and all she continues to do for the field of memory research, it’s by teaching that she feels she performs her greatest service to the world. Like the undergraduate Corkin who thought she’d be a doctor, what the Professor Emerita Corkin wants most is to help people.
+This lesson is part of what Corkin has taught her students, along with three others she lists for me: "'prepare, prepare, prepare', 'don't take no for an answer', and 'don't write off women and minorities'." 
 
-“The biggest impact that any of us have is in teaching. People don’t always put teaching on the front burner, they put their research on the front burner, and I certainly did that too, but our biggest impact is not in the little crumbs we contribute to science, it’s what we pass along to our students.”
+Her former student, Margaret Keane, who is now a Professor of Psychology at Wellesley College, says Corkin was a patient and supportive, though challenging, mentor. “She provided unlimited resources and whatever of her time you needed,” Keane says.
+
+Even with all she’s done and all she continues to do for the field of memory research, it’s by teaching that she feels she performs her greatest service to the world. Like the undergraduate Corkin who thought she’d be a doctor, what the Professor Emerita Corkin wants most is to help people.
+
+“The biggest impact that any of us have is in teaching. People don’t always put teaching on the front burner, they put their research on the front burner, and I certainly did that too, but our biggest impact is not in the little crumbs we contribute to science, it’s what we pass along to our students.” 
