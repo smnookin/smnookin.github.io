@@ -14,7 +14,7 @@ Suzanne Corkin has the bright corner office you’d expect of a distinguished se
 
 Corkin is a Professor Emerita in Behavioral Neuroscience at MIT. She’s done five decades of groundbreaking research on HM, one of the most famous patients in modern neuroscience. Though she officially retired in 2012, she considers it more important than ever that she continue to teach and promote women in science. 
 
-“Everybody wants to make some sort of contribution to the world,” she says. “I don’t feel like I’ve made such a gigantic one..”
+“Everybody wants to make some sort of contribution to the world,” she says. “I don’t feel like I’ve made such a gigantic one.”
 
 ### 'Prepare, prepare, prepare'
 
