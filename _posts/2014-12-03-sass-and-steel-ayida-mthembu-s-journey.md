@@ -33,7 +33,7 @@ One night, when she was babysitting a preacher’s son, Mthembu fell asleep whil
 
 She woke later, feeling a presence in the room. Lo and behold, Reverend King, then in his mid-twenties, was seated in a chair across from her, just looking at her. Aware that she had woken, he told her that she intrigued him for seemingly being “unimpressed” at the chance of meeting him. By then, though King was still in his mid-twenties, he was an esteemed figure in the Civil Rights Movement. They talked for a bit, getting to know each other. Before he left her to sleep, he said to her, “I hope you keep that attitude, of not just trying to please people.”
 
-Despite continual racism in her high school experience, perpetuated by both students and counselors, who pushed her to register for home ec-style classes, despite her high marks, Mthembu graduated from Los Angeles High School and matriculated at California State University Los Angeles.
+Despite continual racism in her high school experience, perpetuated by both students and counselors, who pushed her to register for home ec-style classes, despite her high marks. Mthembu graduated from Los Angeles High School and matriculated at California State University Los Angeles.
 
 **Undergraduate Growth**
 
