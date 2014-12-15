@@ -7,7 +7,7 @@ author: Scout Carpenter
 displaydate: 12/13/14
 ---
 
-[](/http://www.wired.com/images_blogs/photos/uncategorized/2007/12/20/nick_ciarelli.jpg)
+[](http://www.wired.com/images_blogs/photos/uncategorized/2007/12/20/nick_ciarelli.jpg)
 _The story of Nick Ciarelli, who started a Mac rumor website Think Secret at age 13 then fought for his First Amendment rights against multi-billion dollar company Apple Inc._
 
 **Meet Nick Ciarelli**
@@ -80,4 +80,3 @@ _Josh Schanker and Nick Ciarelli, cofounders of BookBub, at their office in the 
 Since 2012, Ciarelli and Schanker’s business has gained over 3 million subscribers and claims that 1 in every 50 e-books is purchased with help from BookBub. With its success so far, Ciarelli says his experience with BookBub is going very well. “We’re having a lot of fun here, we have a ton of work to do and we’re still growing. It’s coming up on three years that we’ve been around and we still have a long list of things that we want to do.”  Ciarelli is excited for BookBub to continue moving forward and growing as a business.
 
 Ciarelli’s success in the business world started when he was just a teenager, and it hasn’t stopped since. He has achieved this success without any arrogance or flashiness, but with hard work and great ideas.  His old high school teacher and close family friend said this of him, “He was an exceptional kid, with a really good sense of humor, very modest about his abilities, and we’re all very proud of him and what he’s accomplished.” Based on his accomplishments so far, Ciarelli’s family will have even more to be proud of in the future.
-
