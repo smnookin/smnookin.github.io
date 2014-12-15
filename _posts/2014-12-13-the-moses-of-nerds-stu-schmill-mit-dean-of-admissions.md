@@ -7,7 +7,6 @@ author: Meryl Gibbs
 displaydate: "December 13, 2014"
 ---
 
-
 ![Screen Shot 2014-12-03 at 8.47.21 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.21 PM.png)
 ![Screen Shot 2014-12-03 at 8.47.36 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.36 PM.png)
 
@@ -18,7 +17,7 @@ Stu Schmill is a nerd. I say this as the utmost compliment. Frameless rectangula
 Two of Schmill’s favorite admissions jokes go:
 “Admissions officers have told students and parents that we like students who do community service, and so almost all of our applicants have now done community service… so we must speak carefully. We love students who can bake cookies!”
 
-In 2012, MIT’s admissions team decided to play up the Stu-Stephen comparison even more: That was the year they created a response to a Colbert Report segment that mocked MIT by comparing it to a higher end training school.
+In 2012, MIT’s admissions team decided to play up the Stu-Stephen comparison even more: That was the year they created [a response to a Colbert Report segment](https://www.youtube.com/watch?v=VoVSWtpiUXs) that mocked MIT by comparing it to a higher end training school.
 
 Richard Hersh was on the Colbert Report in April of 2012 to talk about the state of education in the US. He mentioned that MIT was an example of universities who were doing higher education correctly. Colbert, in his character’s signature feigned ignorance, said, “MIT? That’s just a tech school. It’s basically the Harvard of DeVrys.”
 
