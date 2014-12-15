@@ -88,4 +88,3 @@ Stu will once again be faced with the other side of admissions. His daughters ar
 As for doing college tours elsewhere, Stu will be going incognito. “I’ll have to hide myself behind some sunglasses so it’s going be a little weird.” I suggest he disguise himself as a certain news comedy show host.
 
 Speaking of Colbert, 2 years later and he still has not responded to the admissions video. I take that to mean he admits defeat to the Moses of Nerds.
-
