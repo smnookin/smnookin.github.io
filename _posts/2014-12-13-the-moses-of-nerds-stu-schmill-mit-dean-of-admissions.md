@@ -7,14 +7,18 @@ author: Meryl Gibbs
 displaydate: "December 13, 2014"
 ---
 
-![Screen Shot 2014-12-03 at 8.47.21 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.21 PM.png)
-![Screen Shot 2014-12-03 at 8.47.36 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.36 PM.png)
+
+
+![Screen Shot 2014-11-24 at 3.30.46 AM.png](/assets/Screen Shot 2014-11-24 at 3.30.46 AM.png)
 
 Stu or Stephen? Stuphen?
 
-Stu Schmill is a nerd. I say this as the utmost compliment. Frameless rectangular glasses perch on his nose beneath dark, thick, active eyebrows that bounce and jump on his forehead like electrons in an excited state. A grey striped suit and blue tie hang on his slight frame. It is his unassuming stature, packed dense with a buzzing energy, the glasses, and his peppered black hair that have caused many to tell Schmill, an MIT alumnus and the current Dean of Admissions, that he reminds them of Stephen Colbert. “I myself never would have made that comparison, but I decided to go with it,” he says. “Now every year at the beginning of admissions season I do one of those ‘The Word’ segments” similar to what’s on The Colbert Report.” 
+Stu Schmill is a nerd. I say this as the utmost compliment. Frameless rectangular glasses perch on his nose beneath dark, thick, active eyebrows that bounce and jump on his forehead like electrons in an excited state. A grey striped suit and blue tie hang on his slight frame. It is his unassuming stature, packed dense with a buzzing energy, the glasses, and his peppered black hair that have caused many to tell Schmill, an MIT alumnus and the current Dean of Admissions, that he reminds them of Stephen Colbert. “I myself never would have made that comparison, but I decided to go with it,” he says. “Now every year at the beginning of admissions season I do one of those ‘The Word’ segments” similar to what’s on The Colbert Report.”
 
-Two of Schmill’s favorite admissions jokes go:
+![Screen Shot 2014-12-03 at 8.47.21 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.21 PM.png)
+![Screen Shot 2014-12-03 at 8.47.36 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.36 PM.png)
+
+ Two of Schmill’s favorite admissions jokes go:
 “Admissions officers have told students and parents that we like students who do community service, and so almost all of our applicants have now done community service… so we must speak carefully. We love students who can bake cookies!”
 
 In 2012, MIT’s admissions team decided to play up the Stu-Stephen comparison even more: That was the year they created [a response to a Colbert Report segment](https://www.youtube.com/watch?v=VoVSWtpiUXs) that mocked MIT by comparing it to a higher end training school.
