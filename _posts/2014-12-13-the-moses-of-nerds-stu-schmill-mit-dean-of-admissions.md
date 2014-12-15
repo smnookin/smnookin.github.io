@@ -7,7 +7,7 @@ author: Meryl Gibbs
 displaydate: "December 13, 2014"
 ---
 
-![Screen Shot 2014-11-24 at 3.30.46 AM.png](/assets/Screen Shot 2014-11-24 at 3.30.46 AM.png)
+
 ![Screen Shot 2014-12-03 at 8.47.21 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.21 PM.png)
 ![Screen Shot 2014-12-03 at 8.47.36 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.36 PM.png)
 
@@ -37,7 +37,7 @@ Schmill, emulates the Colbert cadence and tone with ease, defends MIT’s nerdy 
 
 Chris Peterson, an assistant director in the Admissions Office, is the one who pitched the video as a way to bring attention to MIT’s Admissions Blog. “A lot of admissions deans wouldn’t go for it because it would make them look foolish,” he says – but Schmill was immediately enthusiastic. The video, he says, is just one more way the office can show prospective students that “we care and we have a human.” Schmill is so turned off by pomp and circumstance that, Peterson says, he doesn’t even like it when people address him by his formal title.
 
-Stu Schmill, a History
+**Stu Schmill, a History**
 
 Stu’s path to Dean of admissions looks more like the back of a circuit board, with dead ends and 90 degree turns, than the simple or straight trajectory experienced by most in the admissions world. 
 
@@ -51,7 +51,7 @@ Three years later, Stu was named the director of the MIT boathouse. When his dau
 
 At the time, Marilee Jones was dean of MIT admissions, a position she had held for 10. Then, it was revealed that she fabricated credentials on her résumé28 years earlier and had not corrected her misrepresentation on future job applications. When Jones was forced to resign, Stu was appointed interim dean. “The hardest part was trying to help the admission office go forward when we lost someone we had loved and then was just abruptly taken away,” Schmill said. “It was awkward because I was interim while also applying for the job. I developed a much deeper appreciation for students waiting to get in or not because I was waiting to hear what would ultimately happen.”
 
-‘Stu’dent 
+**‘Stu’dent** 
 
 Stu wasn’t always the bespectacled shepherd of nerds he is today. As a kid, Stu seemed more on the path to being a jock than a science geek, playing stickball and paddleball with the other kids before moving on to golf, tennis, and Little League. Math and science were always among Stu’s strengths, but they didn’t become a passion until a 9th grade trip to the Museum of Natural History opened his eyes to “slimy insects and creatures” and other mysteries of the scientific world.
 
@@ -63,7 +63,7 @@ Stu and his friends probably never would have guessed he would go on to be such 
 
 “IHTFP back then would have been much more skewed to the hate side.”
 
-Dean Stu
+**Dean Stu**
 
 These days, it’s nearly impossible to get Stu to talk about anything other than how much he loves MIT and it’s students. Even when I try to get Stu to talk about himself, he always manages to steer the conversation back to MIT or to admissions. This is probably due to the fact that they are in the peak of application reading season, making critical admissions decisions before early action acceptance letters go out in a few weeks. I half expected him to break into the pitch designed to lure glassy eyed high school student to apply to MIT, even though I am already a student there. The pitch convinced me long ago.
 
@@ -77,11 +77,11 @@ He stays involved with students even after their applications have been through 
 
 According to Peterson, Stu sees his work as highly important profession morally, as opposed to just another job. One thing that he has changed about MIT admissions is reducing the names they buy from the College Board. All universities go to the College Board with ranges of test scores, then buy a certain number of names within that range so that they can send materials to encourage them to apply. Most colleges want to attract the widest range possible to keep their acceptance rates low to appear more selective and desirable. “We have actually pulled back on the amount of names we buy because we don’t want to attract students that we don’t think have a chance of being accepted and doing well here. Stu has essentially said we could easily drive up our applications by 50% and look like great recruiters, but we don’t want to create more misery in the world by rejecting more people just to keep our metrics good,” said Peterson, who later compared Stu to a moral North Star.
 
-The Stu Crew
+**The Stu Crew**
 
 In how he approaches being a boss, Stu relies on his experiences at GM and as a crew coach, doing his best to bring out the best in the people around him. “He does it better than anyone I’ve ever worked with. He’s really respected not only by people in our office, but among deans of admission and peers and counterparts. It’s not uncommon to go to one of these admissions conferences and to hear people say ‘well if I could work for any admission dean I would work for Stu.’ I think he really inspires through a variety of interpersonal characteristics that bring out this kind of loyalty. He really gets the most out of people he works with. I don’t know how he does it,” said Peterson. Stu describes his talents a little differently, saying, “I realize its not what I do that really matters, it’s the people around me and the best that I can do is assemble the good people around me. Things are going to work better when that happens. Maybe I’m not doing nothing but generally my attitude is not to try to do things that others can do better, but to help and motivate them to do the best that they can.”
 
-Looking forward
+**Looking forward**
 
 Stu will once again be faced with the other side of admissions. His daughters are  approaching the college process. On his admissions blog bio, he wrote that they were prospective members of the class of 2022 and 2024. “Now that its getting close enough I’ve got to take that off,” he said when I asked him if that was still in the cards. “When they were little it was funny, but my oldest is in high school. The odds that they will make it into MIT are low just because they are for everyone, you know? I don’t want them to have that kind of pressure. The problem is MIT is the only school they ever hear about.” His voice breaks a little when he says, “I used to tell them growing up all the things that we look for: work hard and this and that. Finally, years ago, my youngest said to me, “Dad stop you’re putting too much pressure on me! I’m just a kid. I hope you’ll still love me even if I’m not perfect. And that took me, so I stopped. Now I don’t talk to them about college at all. I don’t push them on activities or anything.” However, even admissions deans have protective dad instincts that kick in. “Sometimes I worry, because I’m like what are you guys doing? You’re just sitting around playing video games. I think, “oh, you could be doing something! You could read a book!” But I’m sure I wasted a lot of time as a kid too. It is a hard balance because you do want to encourage them and push them a little bit.”
 
