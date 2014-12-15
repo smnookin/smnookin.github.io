@@ -4,6 +4,10 @@ published: false
 title: A Lifetime of Words
 category: MIT
 author: Emily LaVerriere
+displaydate: December 15 2014
+date: December 15 2014
+tags: 
+  - student
 ---
 
 ### Thorburn and Ulysses: it’s complicated 
@@ -85,4 +89,4 @@ Thorburn tells a story about one of his favorite students dedicating a book to h
 
 Thorburn had given him a B- in the class at MIT. Like with many other MIT students, Thorburn was the first to get on the student’s case about his writing. Clearly, it paid off; Thorburn fully approves of the student’s writing chops now.
 
-Two of his other former students went on to join the literature faculty at MIT themselves (Kelley, as well as Howard Eiland, a modernist scholar), and Thorburn is proud of them, too – immensely proud of their teaching and scholarly work. But they way that he speaks about them, while exceedingly positive, is more matter-of-fact. When he talks about the MIT student who dedicated the software manual to him, Thorburn seems almost incredulous. The work he has put in, all of the writing wisdom he is trying to pass on – it’s working. He’s achieved what he wanted the most: his students are competent writers. 
+Two of his other former students went on to join the literature faculty at MIT themselves (Kelley, as well as Howard Eiland, a modernist scholar), and Thorburn is proud of them, too – immensely proud of their teaching and scholarly work. But they way that he speaks about them, while exceedingly positive, is more matter-of-fact. When he talks about the MIT student who dedicated the software manual to him, Thorburn seems almost incredulous. The work he has put in, all of the writing wisdom he is trying to pass on – it’s working. He’s achieved what he wanted the most: his students are competent writers.
