@@ -2,9 +2,12 @@
 layout: post
 published: false
 title: The Teenager That Took on Apple
-category: MIT
+category: arts
 author: Scout Carpenter
-displaydate: 12/13/14
+displaydate: December 13 2014
+tags: 
+  - student
+date: December 13 2014
 ---
 
 ![](http://www.wired.com/images_blogs/photos/uncategorized/2007/12/20/nick_ciarelli.jpg)
