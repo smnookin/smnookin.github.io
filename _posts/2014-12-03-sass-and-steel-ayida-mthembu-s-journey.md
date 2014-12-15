@@ -4,6 +4,10 @@ published: false
 title: "Sass and Steel: Ayida Mthembu’s Journey"
 category: MIT
 author: Val Healy
+tags: 
+  - student
+displaydate: December 15 2014
+date: December 15 2014
 ---
 
 ![mthembu.jpg](/_posts/mthembu.jpg)
