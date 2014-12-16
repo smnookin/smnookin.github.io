@@ -52,7 +52,7 @@ With school and running races, Ciarelli’s absence from Think Secret could some
 
 Once Ciarelli started breaking real stories and the website gained readers and fans, he also started receiving legal notices from Apple. “Initially I wasn’t going to fight them,” he says. “So if Apple complained about an article I would take the article down.” But as the volume of threats became greater, Ciarelli turned to his uncle, an attorney in TK, for advice. “He was able to provide me with some advice and basically get me comfortable with the fact that I wasn’t doing anything wrong, that Apple didn’t really have a leg to stand on,” he says. What’s more, cease and desist letters from Apple were widely acknowledged within tech circles as confirmation of the story in question, so Ciarelli became even more confident that he was correct. 
 
-[](http://assets.macmagazine.com.br/wp-content/uploads/2010/03/30-think_secret-550x552.png)
+![](http://assets.macmagazine.com.br/wp-content/uploads/2010/03/30-think_secret-550x552.png)
 
 _A screenshot of Think Secret, before Ciarelli shut it down in 2008._
 
@@ -78,7 +78,7 @@ When Ciarelli shut down Think Secret in February 2008, he ended a project that h
 
 After graduating from Harvard in 2008 with a bachelor’s degree, Ciarelli accepted a business-side job with the then-new online news site The Daily Beast. “I was also able to contribute a few times to the site and was able to write some stories, so that was a lot of fun,” he says. By 2012, though, Ciarelli and Josh Schanker were ready to start BookBub.
 
-[](https://d2616tuem1neks.cloudfront.net/misc_assets/press/Photography/JoshSchanker_NicholasCiarelli.jpg)
+![](https://d2616tuem1neks.cloudfront.net/misc_assets/press/Photography/JoshSchanker_NicholasCiarelli.jpg)
 
 _Josh Schanker and Nick Ciarelli, cofounders of BookBub, at their office in the Cambridge Innovation Center._
 
