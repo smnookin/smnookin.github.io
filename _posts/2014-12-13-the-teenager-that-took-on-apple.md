@@ -22,7 +22,7 @@ At age 13, Ciarelli started publishing his own website, which eventually led to 
 
 Ciarelli seems very comfortable in the Cambridge Innovation Center, surrounded by hundreds of other young professionals all working tirelessly to bring their businesses to life. Walking around the fourth floor of the CIC, he smiles and nods at passerby as he describes BookBubs' experience at CIC Cambridge. “We’ve been bumped around a couple times. I think we’ve been on three or four floors here already.” Ciarelli then asked if I’d like any drinks or food as he showed me the floor’s kitchen area, with coffee makers, a soda making station, and a food selection, all free with the rental space.  
 
-![](/http://www.boston.com/business/technology/innoeco/c3-4.jpg)
+![](http://www.boston.com/business/technology/innoeco/c3-4.jpg)
 _An office space for rent at the Cambridge Innovation Center._
 
 Sitting down in one of the many meeting rooms, Ciarelli’s looks are not very flashy. He wears a light blue button down and dark blue pants. With short hair but not a buzz cut, tidy but not styled, Ciarelli seems like a pretty normal guy. Growing up in a small town in upstate New York, Ciarelli attended public school in Cazenovia, New York, and then went on to graduate from Harvard University. 
