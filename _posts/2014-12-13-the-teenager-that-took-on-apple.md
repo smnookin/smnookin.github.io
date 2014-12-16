@@ -11,6 +11,7 @@ date: December 13 2014
 ---
 
 ![](http://www.wired.com/images_blogs/photos/uncategorized/2007/12/20/nick_ciarelli.jpg)
+
 _The story of Nick Ciarelli, who started the Mac rumor website Think Secret at age 13, then fought for his First Amendment rights against multi-billion dollar company Apple Inc._
 
 **Meet Nick Ciarelli**
