@@ -23,6 +23,7 @@ At age 13, Ciarelli started publishing his own website, which eventually led to 
 Ciarelli seems very comfortable in the Cambridge Innovation Center, surrounded by hundreds of other young professionals all working tirelessly to bring their businesses to life. Walking around the fourth floor of the CIC, he smiles and nods at passerby as he describes BookBubs' experience at CIC Cambridge. “We’ve been bumped around a couple times. I think we’ve been on three or four floors here already.” Ciarelli then asked if I’d like any drinks or food as he showed me the floor’s kitchen area, with coffee makers, a soda making station, and a food selection, all free with the rental space.  
 
 ![](http://www.boston.com/business/technology/innoeco/c3-4.jpg)
+
 _An office space for rent at the Cambridge Innovation Center._
 
 Sitting down in one of the many meeting rooms, Ciarelli’s looks are not very flashy. He wears a light blue button down and dark blue pants. With short hair but not a buzz cut, tidy but not styled, Ciarelli seems like a pretty normal guy. Growing up in a small town in upstate New York, Ciarelli attended public school in Cazenovia, New York, and then went on to graduate from Harvard University. 
@@ -51,7 +52,8 @@ With school and running races, Ciarelli’s absence from Think Secret could some
 
 Once Ciarelli started breaking real stories and the website gained readers and fans, he also started receiving legal notices from Apple. “Initially I wasn’t going to fight them,” he says. “So if Apple complained about an article I would take the article down.” But as the volume of threats became greater, Ciarelli turned to his uncle, an attorney in TK, for advice. “He was able to provide me with some advice and basically get me comfortable with the fact that I wasn’t doing anything wrong, that Apple didn’t really have a leg to stand on,” he says. What’s more, cease and desist letters from Apple were widely acknowledged within tech circles as confirmation of the story in question, so Ciarelli became even more confident that he was correct. 
 
-[](/http://assets.macmagazine.com.br/wp-content/uploads/2010/03/30-think_secret-550x552.png)
+[](http://assets.macmagazine.com.br/wp-content/uploads/2010/03/30-think_secret-550x552.png)
+
 _A screenshot of Think Secret, before Ciarelli shut it down in 2008._
 
 Eventually Ciarelli started ignoring the orders altogether. Then, in 2005 Ciarelli correctly predicted the release of the Mac mini two weeks before Steve Jobs formally introduced it. With Ciarelli’s identity still unknown, Apple filed a lawsuit against “Nick dePlume,” alleging that he had illegally induced Apple employees to break their confidentiality agreements.
@@ -76,7 +78,8 @@ When Ciarelli shut down Think Secret in February 2008, he ended a project that h
 
 After graduating from Harvard in 2008 with a bachelor’s degree, Ciarelli accepted a business-side job with the then-new online news site The Daily Beast. “I was also able to contribute a few times to the site and was able to write some stories, so that was a lot of fun,” he says. By 2012, though, Ciarelli and Josh Schanker were ready to start BookBub.
 
-[](/https://d2616tuem1neks.cloudfront.net/misc_assets/press/Photography/JoshSchanker_NicholasCiarelli.jpg)
+[](https://d2616tuem1neks.cloudfront.net/misc_assets/press/Photography/JoshSchanker_NicholasCiarelli.jpg)
+
 _Josh Schanker and Nick Ciarelli, cofounders of BookBub, at their office in the Cambridge Innovation Center._
 
 “We had both been really interested in what was going on in e-book publishing and started to get really fascinated by that whole space,” said Ciarelli. “We started out by helping out this friend with some e-books that she was publishing online and trying to get an audience for them. That’s what got us down the road of BookBub.” BookBub connects authors and publishers to readers through their company. Readers join BookBub for free and receive a daily email featuring limited-time discounts on e-books that match their genre preferences. For the authors and publishers, BookBub promotes the e-book and can expand fan bases greatly. The first service of its kind, BookBub was founded when e-books were gaining popularity, and provides a very useful service to both publishers and readers.
