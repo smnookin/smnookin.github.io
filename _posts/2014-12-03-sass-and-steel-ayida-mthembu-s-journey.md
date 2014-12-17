@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Sass and Steel: Ayida Mthembu’s Journey"
 category: MIT
 author: Val Healy
