@@ -10,7 +10,7 @@ displaydate: December 15 2014
 date: December 15 2014
 ---
 
-![mthembu.jpg](/_posts/mthembu.jpg)
+![](https://raw.githubusercontent.com/smnookin/smnookin.github.io/master/_posts/mthembu.jpg?token=AEqzSCGC9TOA52ncl7-IaDMAj33yjqmGks5Umg3uwA%3D%3D)
 _“If I had to sum up Dean Mthembu in three words, it would be: sass and steel.” -Adam Rodriguez, Massachusetts Institute of Technology Class of 2016._    
 Ayida Mthembu is an Associate Dean at Student Support Services at MIT. At Student Support Services, she helps students navigate course loads, social and personal issues, and the leaving and readmission process. True to Rodriguez’s description, Mthembu's character has been tempered like steel by her many life experiences; she often uses bold humor to connect with her students. 
 
