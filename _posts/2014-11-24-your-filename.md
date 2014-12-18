@@ -8,6 +8,8 @@ date: "November 24, 2014"
 displaydate: "December 2, 2014"
 ---
 
+![](/http://commons.wikimedia.org/wiki/File:PSM_V46_D168_Mesial_view_of_the_human_brain.jpg)
+
 Suzanne Corkin has the bright corner office you’d expect of a distinguished senior faculty member at an elite university. It’s on the fifth floor of the Brain and Cognitive Sciences building on MIT’s campus, and the walls are mostly window. There’s a rubber chew toy on the floor, courtesy of the other inhabitant of the office: Trooper, Corkin’s mottled brown dog. On the bookshelf is a framed collage of pictures of Henry Molaison, the famous amnesic, (known until his death in 2008 as HM), whose brain Corkin has studied for the past five decades. There’s also a pink hat painted to look like a brain hanging on a coat rack. “Nice thinking cap,” I say.
 
 “Do you want to keep it?” she answers.
@@ -69,4 +71,4 @@ Her former student, Margaret Keane, who is now a Professor of Psychology at Well
 
 Even with all she’s done and all she continues to do for the field of memory research, it’s by teaching that she feels she performs her greatest service to the world. Like the undergraduate Corkin who thought she’d be a doctor, what the Professor Emerita Corkin wants most is to help people.
 
-“The biggest impact that any of us have is in teaching. People don’t always put teaching on the front burner, they put their research on the front burner, and I certainly did that too, but our biggest impact is not in the little crumbs we contribute to science, it’s what we pass along to our students.” 
+“The biggest impact that any of us have is in teaching. People don’t always put teaching on the front burner, they put their research on the front burner, and I certainly did that too, but our biggest impact is not in the little crumbs we contribute to science, it’s what we pass along to our students.”
