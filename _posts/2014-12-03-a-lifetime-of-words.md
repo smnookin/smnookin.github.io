@@ -10,6 +10,7 @@ tags:
   - student
 ---
 
+![image courtesy of David Thorburn](http://i.imgur.com/S4nCgER.jpg)
 **Thorburn and Ulysses: it’s complicated **
 
 When asked what his favorite book is, David Thorburn, longtime Literature professor at MIT, first cautions that 'love/hate relationship' is a better descriptor than 'favorite' for James Joyce’s massive _Ulysses_. With his characteristic intensity, he immediately starts to outline a passionate defense of his hatred: you can’t just read the book, it’s a lifetime’s project to work through, and its demands on readers are simply too much.
