@@ -1,11 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 title: Life Lessons from a Living Legend
 category: MIT
 author: Zoe Sheinkopf
-date: "November 24, 2014"
-displaydate: "December 2, 2014"
+date: "December 14, 2014"
+displaydate: "December 14, 2014"
+tags: 
+  - student
 ---
 
 ![](http://newsoffice.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2014/20140128105431-0_0.jpg?itok=5w01ATTq)    
