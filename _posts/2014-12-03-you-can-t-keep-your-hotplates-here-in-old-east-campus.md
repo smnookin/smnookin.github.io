@@ -1,11 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: "You Can't Keep Your Hotplates Here in Old East Campus"
 category: MIT
 author: "Danny Ben-David"
-displaydate: Dec 3 2014
-date: Dec 3 2014
+displaydate: December 18 2014
+date: December 18 2014
 tags: 
   - student
 ---
