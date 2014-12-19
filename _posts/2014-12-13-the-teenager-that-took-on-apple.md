@@ -10,8 +10,7 @@ tags:
 date: December 13 2014
 ---
 
-![](http://www.wired.com/images_blogs/photos/uncategorized/2007/12/20/nick_ciarelli.jpg)    
-The Cambridge Innovation Center, located in downtown Kendall Square, is home to more than 700 businesses. Over 500 of those are startups—and it’s a safe bet that each one has hard-working and creative entrepreneurs at their helm. One CIC business that is already having some success is the e-book company BookBub, which was launched in 2012 and now employs over 30 people. It was founded by two Harvard graduates, Josh Schanker and Nick Ciarelli. Although Ciarelli seems like any other start-up founder in the CIC building, he is actually quite unique. 
+![](http://www.wired.com/images_blogs/photos/uncategorized/2007/12/20/nick_ciarelli.jpg)    The Cambridge Innovation Center, located in downtown Kendall Square, is home to more than 700 businesses. Over 500 of those are startups—and it’s a safe bet that each one has hard-working and creative entrepreneurs at their helm. One CIC business that is already having some success is the e-book company BookBub, which was launched in 2012 and now employs over 30 people. It was founded by two Harvard graduates, Josh Schanker and Nick Ciarelli. Although Ciarelli seems like any other start-up founder in the CIC building, he is actually quite unique. 
 
 At age 13, Ciarelli started publishing his own website, which eventually led to a lawsuit from Apple six years later. It’s hard to picture a teenager peeving Apple Inc. to the point where the billion-dollar company would sue a 19-year-old college student, but it’s easy to imagine Ciarelli being excited enough about Apple to start an online Mac rumor website, which he named Think Secret.
 
