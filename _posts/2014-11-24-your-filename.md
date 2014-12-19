@@ -8,8 +8,7 @@ date: "November 24, 2014"
 displaydate: "December 2, 2014"
 ---
 
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/PSM_V46_D168_Mesial_view_of_the_human_brain.jpg/715px-PSM_V46_D168_Mesial_view_of_the_human_brain.jpg)
-
+![](http://newsoffice.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2014/20140128105431-0_0.jpg?itok=5w01ATTq)    
 Suzanne Corkin has the bright corner office you’d expect of a distinguished senior faculty member at an elite university. It’s on the fifth floor of the Brain and Cognitive Sciences building on MIT’s campus, and the walls are mostly window. There’s a rubber chew toy on the floor, courtesy of the other inhabitant of the office: Trooper, Corkin’s mottled brown dog. On the bookshelf is a framed collage of pictures of Henry Molaison, the famous amnesic (known until his death in 2008 as HM), whose brain Corkin has studied for the past five decades. There’s also a pink hat painted to look like a brain, hanging on a coat rack. “Nice thinking cap,” I say.
 
 “Do you want to keep it?” she answers.
