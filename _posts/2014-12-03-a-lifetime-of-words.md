@@ -1,11 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 title: A Lifetime of Words
 category: MIT
 author: Emily LaVerriere
-displaydate: December 15 2014
-date: December 15 2014
+displaydate: December 19 2014
+date: December 19 2014
 tags: 
   - student
 ---
