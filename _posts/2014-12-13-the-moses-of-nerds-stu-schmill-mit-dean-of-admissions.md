@@ -11,9 +11,6 @@ tags:
 ---
 
 ![Screen Shot 2014-11-24 at 3.30.46 AM.png](/assets/Screen Shot 2014-11-24 at 3.30.46 AM.png)
-
-Stu or Stephen? Stuphen?
-
 Stu Schmill is a nerd. I say this as the utmost compliment. Frameless rectangular glasses perch on his nose beneath dark, thick, active eyebrows that bounce and jump on his forehead like electrons in an excited state. A grey striped suit and blue tie hang on his slight frame. It is his unassuming stature, packed dense with a buzzing energy, the glasses, and his peppered black hair that have caused many to tell Schmill, an MIT alumnus and the current Dean of Admissions, that he reminds them of Stephen Colbert. “I myself never would have made that comparison, but I decided to go with it,” he says. “Now every year at the beginning of admissions season I do one of those ‘The Word’ segments, similar to what’s on The Colbert Report.”
 
 ![Screen Shot 2014-12-03 at 8.47.21 PM.png](/assets/Screen Shot 2014-12-03 at 8.47.21 PM.png)
