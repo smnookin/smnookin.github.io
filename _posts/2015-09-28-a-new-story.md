@@ -11,4 +11,4 @@ title: A new story
 ---
 
 
-Blah de blah de blah.
+Blah de blah de blah. I am adding text. 
