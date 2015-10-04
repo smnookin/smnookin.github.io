@@ -10,6 +10,8 @@ tags: null
 title: How not to build a course management system
 ---
 
+![](http://web.mit.edu/belzner/Public/lmod-front.png)
+
 At one of the top engineering schools in the country, doing the homework should be the stressful part – not submitting it. But with the introduction of a new course management system for many classes at the Massachusetts Institute of Technology, many students are having trouble with something as simple as that.
 
 The new Learning Modules system, set to replace the old Stellar course management system that’s been in use since the early 2000s, has been plagued with problems since its full rollout earlier this semester. Students speak of homework submissions outright disappearing from the interface, and faculty complain about everything from the email announcement system to the difficulty of tailoring grading schemes to their classes. MIT’s Information Systems and Technology (IS&T) department has been developing Learning Modules since the summer of 2011, with a redesigned gradebook system first introduced in 2012. But this latest rollout, representing a full replacement of the old functionality, leaves many wondering if they’re releasing the software too soon.
