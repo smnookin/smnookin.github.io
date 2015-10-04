@@ -13,6 +13,7 @@ title: "Autonomous Golf Carts as the future competitor to the MIT Shuttle? "
 
 
 ### The MIT Shuttle monopoly is about to be broken.
+![](http://acl.mit.edu/projects/images/GEM.jpg)
 
 Coming up in the next few years, MIT students will have the option to drive in self-driving carts to class, lab, lunch, you name it.
 
