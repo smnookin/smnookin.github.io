@@ -3,7 +3,7 @@ layout: post
 published: false
 author: Rozanne Mungai
 link: ""
-displaydate: ""
+displaydate: October 4th 2015
 date: ""
 category: politics
 tags: 
@@ -12,7 +12,7 @@ title: "Autonomous Golf Carts as the future competitor to the MIT Shuttle? "
 ---
 
 
-		_The MIT Shuttle monopoly is about to be broken._
+### The MIT Shuttle monopoly is about to be broken.
 
 Coming up in the next few years, MIT students will have the option to drive in self-driving carts to class, lab, lunch, you name it.
 
