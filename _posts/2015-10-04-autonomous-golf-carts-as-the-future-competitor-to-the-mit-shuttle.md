@@ -2,9 +2,9 @@
 layout: post
 published: false
 author: Rozanne Mungai
-link: ""
-displaydate: October 4th 2015
-date: ""
+link: .
+displaydate: "October 4, 2015"
+date: .
 category: politics
 tags: 
   - student
@@ -24,7 +24,8 @@ The carts are part of a controls systems project to collect big data from pedest
 
 Why carts? According to Justin Miller, a graduate student in How’s lab and one of the people most involved with the project, the carts are much more practical for the lab’s on-campus focus due to their small size. They plan to use the same carts that MIT custodians use so that they will be able to get into tight spaces and drive on sidewalks. We will be able to fit where the custodians fit and “people are used to these types of vehicles being on campus,” Miller says.
 
-![Students will be driven around in modified custodial carts.]({{site.baseurl}}/http://acl.mit.edu/projects/images/GEM.jpg)
+![selfdriving carts.jpg]({{site.baseurl}}/assets/selfdriving carts.jpg)
+
 
 The major difference between the lab carts and the more mundane custodial carts will—of course—be in the imbedded sensors that track and collect data about pedestrian movement as well as enabling them to “determine their own locations as well the location of both static and dynamic environmental obstacles.”These sensors are similar to those that major companies like Google and Tesla are using for their automated cars. 
 
