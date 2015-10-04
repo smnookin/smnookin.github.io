@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-author: ""
+author: Megan Belzner
 link: ""
 displaydate: ""
 date: ""
