@@ -10,6 +10,9 @@ tags: null
 title: Visiting an Asteroid
 ---
 
+![](http://blogs.solidworks.com/teacher/wp-content/uploads/sites/3/vibration-testing.jpg)
+Credit: MIT SSL / Dassaut Systemes
+
 Some students spend their summers on internships; others build spacecraft parts for a mission to an asteroid. Not just any asteroid, either - one of the most dangerous ones out there, with a relatively high probability of hitting Earth. It’s also an interesting artifact from the early days of our solar system, and could help us learn more about planetary formation and perhaps even the origins of life. Next year, an instrument designed and built by students at MIT and Harvard will launch into space to help us learn more about where we came from and how we can defend ourselves.
 
 Over the past four years, a team of graduate and undergraduate students advised by faculty and research scientists from MIT, Harvard, NASA, and several other organizations has designed, built, and tested the REgolith X-ray Imaging Spectrometer, or REXIS for short. This summer was a whirlwind of final assembly, testing, tweaking, and re-testing before the instrument was completed and shipped to Lockheed Martin on September 14th. Over the next couple months, REXIS will undergo final testing before joining 5 other instruments on board NASA’s OSIRIS-REx spacecraft and launching to an asteroid in September 2016.
