@@ -1,12 +1,13 @@
 ---
 layout: post
 published: false
-author: ""
+author: "Seraphina Kim "
 link: ""
-displaydate: ""
+displaydate: 10/5/2015
 date: ""
-category: MIT
-tags: null
+category: politics
+tags: 
+  - student
 title: "The challenge of artistic expression in hacking "
 ---
 
