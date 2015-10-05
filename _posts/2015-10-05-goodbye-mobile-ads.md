@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: Kenneth Friedman
 link: ""
 displaydate: "October 5, 2015"
