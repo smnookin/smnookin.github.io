@@ -1,13 +1,13 @@
 ---
 layout: post
-published: true
-author: ""
+published: false
+author: Kenneth Friedman
 link: ""
-displaydate: ""
+displaydate: "October 5, 2015"
 date: ""
 category: MIT
 tags: 
-  - "null"
+  - student
 title: "Goodbye, Mobile Ads"
 ---
 
