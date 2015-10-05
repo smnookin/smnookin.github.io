@@ -14,7 +14,7 @@ title: "Goodbye, Mobile Ads"
 
 This month, a small change in the operating system that runs the iPhone sparked an intense debate in the world of technology and journalism. iOS, Apple's mobile operating system, introduced a new feature that allows ad blocking on iPhones. This has started a three way battle: a battle between users and publishers; a battle between ad blocking software and content companies; and a battle between large companies and free and open web.
 
-http://i.imgur.com/UBXjJ4e.png
+![Common Web Ad]({{site.baseurl}}/http://i.imgur.com/UBXjJ4e.png)
 
 Every article online that you read for free is paid for by advertisements. These advertisements can come in the form of pop-up ads, side images, sponsored links, among others. There are some paid subscription services, such as the Wall Street Journal — but these are rare, because it makes articles harder to share online.
 
