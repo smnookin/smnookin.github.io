@@ -7,7 +7,7 @@ displaydate: ""
 date: ""
 category: MIT
 tags: null
-title: ""
+title: "Mental Health, from one student to another"
 ---
 
 For sophomore Caroline Mak, the suicide of Phoebe Wang, a high school classmate who attended MIT, hit too close to home. Mak looked up to Phoebe as a mentor, someone who had inspired her to apply to MIT. On her blog, she wrote, “Phoebe gave me an anchor...she gave me a picture of reliability and approachability...She demystified, humanized a place that had intimidated me since middle school.”
@@ -36,7 +36,7 @@ For most issues, students can expect a higher level of confidentiality from Peer
 In contrast, for example, MIT’s GRTs, graduate students who live in the undergraduate dorms, are expected to “keep members of the House team, and/or administrators informed about serious or potentially serious/dangerous resident issues,” according to the Division of Student Life’s GRT position description. In addition, they are required to inform the Housemaster and or Area Director of “key incidents in the residence hall that require follow-up, or are medical or mental health in nature.”
 
 [TKTK: Get GRT’s perspective]
-[TKTK: Mental Health Liason’s perspective]
+[TKTK: Mental Health mentors' perspective]
 
 Peer Ears emphasize that in most cases, they will point students to an appropriate resource at MIT and encourage them to follow-up and seek additional help. They may offer to make introductions or go with a student to Mental Health, but the decision to take further action is ultimately left up to the student.
 
@@ -49,7 +49,7 @@ Peer Ears may also discuss cases internally within the group or with their staff
 
 “It’s important for us to have our own support network. In terms of that, we would bring it up if there’s someone we’re worried about. We wouldn’t even say their gender, we’d keep who they are as confidential as possible.”
 
-Confidentiality, however, has its limits. Like MIT Medical’s confidentiality policy [LINK], in cases where a student is in immediate danger of causing harm to themselves or others, more immediate action will be taken.
+Confidentiality, however, has its limits. Like MIT Medical’s confidentiality [policy](https://medical.mit.edu/services/mental-health-counseling/confidentiality), in cases where a student is in immediate danger of causing harm to themselves or others, more immediate action will be taken.
 
 Florentine says, “If it was truly immediate danger, I’d call 911. If it reaches the level of where someone has pills, or has a gun, I would call someone immediately.”
 
@@ -61,6 +61,7 @@ One of the key differences between Peer Ears and employees of MIT Medical is tha
 Because the group’s advisers at MIT Medical fall into this category, navigating issues involving child abuse can be tricky for Peer Ears. Florentine says that by omitting names, she can seek guidance from advisers while preserving a student’s privacy. 
 
 “Because we don’t tell them the name, they don’t have anything to report. We’re the liaison between MIT students and Mental Health, and in order for us to be trusted, we cannot be mandatory reporters, but we’ll try to make sure you get your problems solved.”
+
 At the same time, Florentine would strongly urge students to report the abuse. 
 
-“Something I learned from my experience at the hotline is that if someone tells me there’s abuse in their family, we’d urge them to report it with us. Even if you give someone a name, there’s not much they can do. In order to report, you really do need the person you’re talking with to work with you and do it together. As a Peer Ear, it’s our job to work with people and make sure they feel comfortable with reporting things. 
+“Something I learned from my experience at the hotline is that if someone tells me there’s abuse in their family, we’d urge them to report it with us. Even if you give someone a name, there’s not much they can do. In order to report, you really do need the person you’re talking with to work with you and do it together. As a Peer Ear, it’s our job to work with people and make sure they feel comfortable with reporting things."
