@@ -16,7 +16,8 @@ What exactly is hacking? The hacking culture is so well known at MIT. In 2009, e
 However, it seems that the majority of the MIT community associate hacking with strictly programming. MIT has such a diverse group of community, but it seems that only one aspect of the community continues to get emphasized over and over again. In Career Fairs, most companies look for course 6 students. A lot of students feel that they should declare course 6 for better opportunities in job searching. 
 
 It is true that programming is a wonderful tool to help make the world a better place. But what happened to the diversity that is encouraged by the mission statement of MIT? The mission statement of MIT says 
- 
+
+![](http://libraries.mit.edu/mithistory/wp-content/files/mit-seal_400x400-300x300.gif)
 (Photo Credit: MIT Libraries) 
 
 “The mission of MIT is to advance knowledge and educate students in science, technology, and other areas of scholarship that will best serve the nation and the world in the 21st century.
@@ -25,7 +26,7 @@ The Institute is committed to generating, disseminating, and preserving knowledg
 
 How is MIT taking actions to advance “knowledge and educate students in… technology, and other areas of scholarship that will best serve the nation and the world in the 21st century”? How is MIT helping the students bear on the world’s great challenges? How is MIT helping promote a diverse campus community? How is MIT helping develop the MIT community to work “wisely, creatively, and effectively for the betterment of humankind”? 
 
- 
+![](https://s.evbuc.com/https_proxy?url=http%3A%2F%2Fi59.tinypic.com%2Fnz485.jpg&sig=ADR2i7-QHVriDp8YI-QEqysAHIVs1gBo2A )
 (Photo Credit: Hacking Arts 2015) 
 
 With these questions in mind, I entered the Hacking Arts Conference 2015 held at the Media Lab on September 26th. The Hacking Arts Festival was held in September 26-27th 2015 in the 6th floor of Media Lab. As I entered the 6th floor lounge, I already felt the creative environment bursting with energy. There were around a hundred people in the lounge, interacting and connecting with each other during the lunch break. The environment already felt very different from the environment of the MIT campus. Although I was not even off campus, there seemed to be some different kind of feel to the atmosphere at the MIT Media Lab. 
@@ -34,6 +35,7 @@ During the lunch break, there was a tech expo going on. The expo contained many 
 
 However, the responses I got back were not necessarily helpful in helping me develop this creative side in me. There were no cross registration classes with Berklee College of Music, so some advised that I should transfer to Berklee College of Music. Some people at MIT, when I told them about my passion for arts and the creative field, they thought I was being unrealistic and thought I wanted to do something that was “lesser” than science and math and the technical field. I always wanted to find a place at MIT that I could call home and a place where arts were encouraged instead of a “second” thing to do for fun. 
  
+![] (http://www.brooklynballet.org/sites/default/files/styles/interior_slide_image/public/brooklyn-ballet_by-lucas-chilczuk-470_1.jpg?itok=s8mROPPJ)
 (Photo Credit: Brooklyn Ballet) 
 
 Therefore, the tech expo, which had 13 creative industries, were truly eye opening for me. I realized that it is possible to integrate arts with science and technology. There was a performance by Brooklyn Ballet, a contemporary ballet company in New York, with costumes made by the NYCResistor. NYC Resistor created the motion sensor tutus for the ballerinas to use, which have LED lights that follow the motion of the performer dancers. Also, there was another start up called ArtLifting, which empowers the homeless and disabled individuals through the expression of art to create their own income. 
