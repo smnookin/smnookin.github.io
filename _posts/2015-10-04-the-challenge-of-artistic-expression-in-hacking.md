@@ -35,7 +35,7 @@ During the lunch break, there was a tech expo going on. The expo contained many 
 
 However, the responses I got back were not necessarily helpful in helping me develop this creative side in me. There were no cross registration classes with Berklee College of Music, so some advised that I should transfer to Berklee College of Music. Some people at MIT, when I told them about my passion for arts and the creative field, they thought I was being unrealistic and thought I wanted to do something that was “lesser” than science and math and the technical field. I always wanted to find a place at MIT that I could call home and a place where arts were encouraged instead of a “second” thing to do for fun. 
  
-![] (http://www.brooklynballet.org/sites/default/files/styles/interior_slide_image/public/brooklyn-ballet_by-lucas-chilczuk-470_1.jpg?itok=s8mROPPJ)
+![](http://www.brooklynballet.org/sites/default/files/styles/interior_slide_image/public/brooklyn-ballet_by-lucas-chilczuk-470_1.jpg?itok=s8mROPPJ)
 (Photo Credit: Brooklyn Ballet) 
 
 Therefore, the tech expo, which had 13 creative industries, were truly eye opening for me. I realized that it is possible to integrate arts with science and technology. There was a performance by Brooklyn Ballet, a contemporary ballet company in New York, with costumes made by the NYCResistor. NYC Resistor created the motion sensor tutus for the ballerinas to use, which have LED lights that follow the motion of the performer dancers. Also, there was another start up called ArtLifting, which empowers the homeless and disabled individuals through the expression of art to create their own income. 
