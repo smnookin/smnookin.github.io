@@ -11,10 +11,9 @@ tags:
 title: "Biking Across America: A Geographical and Introspective Adventure"
 ---
 
+##Anika Gupta, October 5 2015
+
 _Three months and 3000 miles more seasoned, Spokes team members reflect on their journey and on adjusting to “normal” life._
-
-Anika Gupta, October 5 2015
-
 ![Screen Shot 2015-10-05 at 8.22.37 PM.png]({{site.baseurl}}/assets/Screen Shot 2015-10-05 at 8.22.37 PM.png)
 
 A crowd of family members and supporters eagerly received a group of beaming bikers on the iconic Golden Gate Bridge on what passersby would have considered a typical, cloudy San Francisco August day. This group, however, had just completed a bike ride spanning the United States’ width.
