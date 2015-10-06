@@ -14,6 +14,8 @@ _Three months and 3000 miles more seasoned, Spokes team members reflect on their
 
 Anika Gupta
 
+![]({{site.baseurl}}/)
+
 A crowd of family members and supporters eagerly received a group of beaming bikers on the iconic Golden Gate Bridge on what passersby would have considered a typical, cloudy San Francisco August day. This group, however, had just completed a bike ride spanning the United States’ width.
 
 This past summer, a team of seven Harvard and MIT students (collectively called Spokes 2015) embarked on a mission to teach science and engineering subjects to kids across the nation. The group implemented a creative curriculum that enabled students to take more ownership of their learning, in an effort to modify the traditional classroom setting and reach students in a variety of communities.
