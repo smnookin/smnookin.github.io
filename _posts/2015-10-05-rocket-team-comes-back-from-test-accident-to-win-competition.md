@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-author: ""
+author: Janelle Mansfield
 link: ""
 displaydate: ""
 date: ""
