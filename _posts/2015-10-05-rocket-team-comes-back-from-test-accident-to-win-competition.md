@@ -10,7 +10,7 @@ tags: null
 title: Rocket Team comes back from test accident to win competition
 ---
 
-## A New Post
+
 Notes:
 I have two interviews scheduled for Monday: one with Matt Vernacchia, one of the aerospike engine designers and people present for the accident, and one with Eric Riehl, who is the current Rocket Team president and who was on the team last year as well. Because of this there are some places where I want to put quotes and info from them, but I don’t have them there yet
 
