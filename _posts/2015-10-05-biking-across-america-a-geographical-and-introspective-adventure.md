@@ -6,7 +6,8 @@ link: ""
 displaydate: ""
 date: ""
 category: MIT
-tags: null
+tags: 
+  - "null"
 title: "Biking Across America: A Geographical and Introspective Adventure"
 ---
 
