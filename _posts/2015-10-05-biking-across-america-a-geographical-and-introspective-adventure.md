@@ -15,7 +15,7 @@ _Three months and 3000 miles more seasoned, Spokes team members reflect on their
 
 Anika Gupta
 
-![]({{site.baseurl}}/)
+![Screen Shot 2015-10-05 at 8.22.37 PM.png]({{site.baseurl}}/assets/Screen Shot 2015-10-05 at 8.22.37 PM.png)
 
 A crowd of family members and supporters eagerly received a group of beaming bikers on the iconic Golden Gate Bridge on what passersby would have considered a typical, cloudy San Francisco August day. This group, however, had just completed a bike ride spanning the United States’ width.
 
