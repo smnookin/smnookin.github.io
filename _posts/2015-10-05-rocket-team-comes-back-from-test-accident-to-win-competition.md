@@ -11,12 +11,18 @@ tags:
 title: Rocket Team comes back from test accident to win competition
 ---
 
+
 ![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)
 
 
 Notes:
 I have two interviews scheduled for Monday: one with Matt Vernacchia, one of the aerospike engine designers and people present for the accident, and one with Eric Riehl, who is the current Rocket Team president and who was on the team last year as well. Because of this there are some places where I want to put quotes and info from them, but I don’t have them there yet
 
+**describe moments leading up to the accident**
+**describe work leading up to accident**
+**don't get too deep into the weeds**
+**ingredient list lede but by time -> lowercase e**
+**aerospike nozzle context**
 
  
 What does it take for a group of college students to bring 10 lbs. of payload to 10,000 feet altitude? In January, the MIT Rocket Team experienced a testing accident that nearly brought the team to an end. After making several hard decisions, including choosing to completely redesign their rocket concept, the team was able to come back and win the Intercollegiate Rocket Engineering Competition in June. Rocket Team leadership says the team is stronger than ever and preparing to compete again next summer.
@@ -43,7 +49,7 @@ The aerospike engine is a rocket engine concept in which the exhaust gases flow 
 
 (Replace some of this info with direct quotes from Matt V)
 
- However, there are currently no aerospike nozzles in commercial production. According to Webb, “they’ve never really had a good flight record because they’re hard to manufacture. Us being MIT, we wanted to do the hardest thing we could think of.” 
+However, there are currently no aerospike nozzles in commercial production. According to Webb, “they’ve never really had a good flight record because they’re hard to manufacture. Us being MIT, we wanted to do the hardest thing we could think of.” 
  
 (Possibly add some information in here from the Matt V interview about how he and James Logan brought rocket team back to life -- in 2012 they were the only two people on it, were both sophomores, and that’s when they decided to pursue aerospike design and also recruit more people to the team)
 
