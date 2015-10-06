@@ -11,6 +11,7 @@ tags:
 title: Rocket Team comes back from test accident to win competition
 ---
 
+![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)
 
 
 Notes:
