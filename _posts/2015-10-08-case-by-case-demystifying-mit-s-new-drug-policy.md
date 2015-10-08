@@ -1,0 +1,26 @@
+---
+layout: post
+published: false
+author: Leo de Castro
+link: ""
+displaydate: ""
+date: ""
+category: MIT
+tags: null
+title: "Case by Case: Demystifying MIT’s New Drug Policy"
+---
+
+
+	Should a student be punished when calling for help? If the emergency is alcohol-related, the MIT administration says no. However, students are not guaranteed the same level of protection for other drugs prohibited by the MIT administration. 
+	For the past several years, the MIT administration has been developing policies to help reduce barriers for students seeking emergency assistance. Starting with alcohol, the administration responded to complaints from the community that the old alcohol policy created barriers for students seeking help in an alcohol-related emergency by guaranteeing that alcohol-related emergencies will be treated as a health and safety matter rather than as a disciplinary matter. This policy, officially named “Practice for Seeking Help During Alcohol Related Medical Emergencies” and dubbed the Good Samaritan Policy, does not make promises for “serious or flagrant violations of MIT policy including, but not limited to, violence, harassment, serious property damage, [or] instances where groups of students require medical attention,” but, since these exceptions are clearly listed as well as reasonable warrants of administrative or disciplinary action, the Good Samaritan Policy has been applauded by for making it much easier for students who need emergency medical attention to get it as easily as possible.
+	The same cannot be said for MIT’s new Good Samaritan Policy for prohibited drugs. Until the most recent release of the Mind and Hand Book, similar issues of discouraging students plagued the drug-related emergency policy, which was accused of being vague and noncommittal about the protection it provided students. This year saw a new Good Samaritan Policy for prohibited substances, one whose wording followed the alcohol Good Samaritan Policy almost exactly except for one crucial line: “Each incident will be reviewed to determine if the situation warrants additional administrative or disciplinary action.” In addition, this new Good Samaritan Policy makes no promises in situations involving “the sale, distribution, enabling the use of (e.g. “spotting”), or sharing of prohibited substances,” which are much more common behaviors of students who choose to use prohibited substances. 
+	Clearly, MIT must comply with state and federal laws that restrict many of the substances prohibited on campus, but many students are still frustrated that the new Good Samaritan Policy seems to undo itself with more vague and noncommittal wording. “I know people who have not called the police specifically because of this policy,” said an MIT senior, referring to the old drug policy. “This new policy doesn’t really help,” said one MIT sophomore, “because a student who is unsure if they will get in trouble won’t call for help.”
+	To clarify where this policy draws the line, I sat down with Don Camelio, director of MIT’s office of Community Development and Substance Abuse, who championed the alcohol Good Samaritan Policy. Mr. Camelio was very clear that the goal of the policy is “to reduce harm.”
+ 	“[The policy] doesn’t read exactly the same way, but the spirit of it is actually the same,” said Camelio. He went on to give an example: “If you’re drinking, and you’re also handing out LSD to people at a party,” MIT would warrant further administrative or disciplinary action. 
+	“Now, if you were drinking and using LSD yourself, and someone called to get you help, that’s not an egregious violation of policy. You’re going to get the support you need if there are any drinking issues or drug issues, and the person who calls on your behalf gets a pat on the back. But, if that person provided you with the LSD, that’s where MIT takes a stand and says, ‘We can’t have that. We don’t want people providing drugs in any way … that’s something that we can’t stand for.’ That is what the wording … is meant to protect against.” 
+	“If you’re in your room … your friends are worried about you and they call and get you help, you’re going to be protected by the policy. You’d come in, talk to the CDSA [the Community Development and Substance Abuse office], talk to me, and that’s it.”
+	“I know that people buy drugs and use drugs together, but that’s different than mass provision to people.”
+	Mr. Camelio went on to describe a case several years ago where a student claimed to be selling LSD, but, after a series of adverse reactions resulting in the hospitalization of several students, the administration conducted and investigation and apprehended the student responsible. 
+ 	“At the end of the day, there is a worry about safety for the community, and we worry about that. We want to take care of that, and we are obligated to do something about that.”
+	“We want to make sure [the policy] works as well as it can possibly work to save people’s lives, and we also want to be able to hold accountable the people who do things that we feel jeopardize the safety of other students.”
+	Hopefully, this will clear up some of the confusion surrounding the new Good Samaritan Policy for prohibited substance, allowing students to be more aware of the response if they call for help.
