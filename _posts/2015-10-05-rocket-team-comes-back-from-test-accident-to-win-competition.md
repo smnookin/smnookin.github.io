@@ -36,29 +36,15 @@ Rocket Team had been using the blast chamber, owned by the Gas Turbine Laborator
 
 The propulsion team ignited the aerospike engine, which began to spray a flammable mixture of exhaust gas (burnt propellant) and unburnt propellant into the ventillation shaft. Approximately ten seconds later, they heard a huge bang from above and saw the blast chamber fill with flame. The propellant and exhaust mixture had been ignited in the ventillation shaft by a spark from the fan motor. 
 
-Rocket Team members immediately shut off the test, called the MIT fire deparment, and performed a safety checklist to vent the blast chamber of any potentially flammable or hazardous chemicals. Later that day, they were contacted by the Aero/Astro department facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a very tense period of time between the Aero/Astro department and Rocket Team, which called all aspects of the team's safety practices and its continued existence into question. 
+Rocket Team members immediately shut off the test, called the MIT fire deparment, and performed a safety checklist to vent the blast chamber of any potentially flammable or hazardous chemicals. Later that day, they were contacted by the Aero/Astro department facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a very tense period of time between the Aero/Astro department and Rocket Team, which called all aspects of the team's safety practices and the department's support of the team into question. 
 
-Prior to the testing incident, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing,” said Webb. 
+Most of the tension between Rocket Team and the Aero/Astro department arose from a miscommunication about who the team was supposed to notify prior to conducting tests. Prior to the testing incident, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing. [Our faculty advisor, Professor Lozano] knew we were continuously doing stuff, but apparently that wasn't clear to the rest of the GTL staff,” said Webb. 
 
+"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're dong a rocket engine test, that's why we're doing this in a blast chamber," said propulsion team lead Matt Vernacchia. 
 
+After the accident, the MIT Aero/Astro deparment leadership required that Rocket Team to write a comprehensive safety plan and have it approved by Engineering Health and Safety (EHS). The new safety plan requires a test plan to be created and approved prior to each propulsion test. According to Webb, “It’s a lot of stuff we were already doing, but formally written down.” 
 
-What does it take for a group of college students to bring 10 lbs. of payload to 10,000 feet altitude? In January, the MIT Rocket Team experienced a testing accident that nearly brought the team to an end. After making several hard decisions, including choosing to completely redesign their rocket concept, the team was able to come back and win the Intercollegiate Rocket Engineering Competition in June. Rocket Team leadership says the team is stronger than ever and preparing to compete again next summer.
-
-In January, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing,” said Webb. 
-
-(Will add quotes/information from Matt V interview on the incident itself)
-
-According to Rocket Team Vice President Ryan Webb (MIT ‘16), the root cause of the pressure loss which caused the accident is still unknown. 
-
-After the accident, the MIT Aero/Astro deparment leadership required that Rocket Team “come up with a comprehensive safety plan that EHS [Engineering Health and Safety] would approve,” said Webb.
-
-The new safety plan, written by Webb, requires a test plan to be created and approved prior to each propulsion test. According to Webb, “It’s a lot of stuff we were already doing, but formally written down.” The test plans are approved by the Rocket Team faculty advisor, Professor Lozano, and Aero/Astro department leadership.
-
-Prior to the testing incident, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing. [Our faculty advisor] knew we were continuously doing stuff, but apparently that wasn’t clear to the rest of the GTL staff,” said Webb. 
-
-Tensions were high on Rocket Team prior to the accident due to the slow development of the aerospike engine design. “We were really far behind. We were trying to get the engine ready, and since it was the basis of the whole design, we couldn’t make any design decisions. So half the team was just kind of stuck without any information, and the engine kept iterating and getting more and more complicated, and fewer people were being involved,” said Webb. 
-
-(Possibly add a quote from Matt V and Eric R here. Matt V was one of the aerospike engine designers)
+Safety procedures are still "an ongoing conversation right now with the department," said current Rocket Team president, Eric Riehl. "The department freaked out a bit when that incident happened... I don't think we've come yet to a point where we're both clear on what the safety protocol should be for our team," he added. 
 
 After the accident, the Rocket Team president, Julia Crowly-Farenga, and Webb realized they would have to make a major change in order to be able to compete in June. They first had to convince the designers of the aerospike nozzle. 
 
