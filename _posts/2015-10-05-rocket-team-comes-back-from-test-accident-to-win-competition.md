@@ -12,11 +12,9 @@ title: Rocket Team comes back from test accident to win competition
 ---
 
 
+
 ![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)
-
-
-Notes:
-I have two interviews scheduled for Monday: one with Matt Vernacchia, one of the aerospike engine designers and people present for the accident, and one with Eric Riehl, who is the current Rocket Team president and who was on the team last year as well. Because of this there are some places where I want to put quotes and info from them, but I don’t have them there yet
+Photo courtesy of MIT Rocket Team
 
 **describe moments leading up to the accident**
 **describe work leading up to accident**
@@ -24,10 +22,29 @@ I have two interviews scheduled for Monday: one with Matt Vernacchia, one of the
 **ingredient list lede but by time -> lowercase e**
 **aerospike nozzle context**
 
- 
+On the afternoon of January BLANK, 2015, four undergraduate members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike nozzle engine. 
+
+The aerospike engine is a rocket engine concept which is capable of operating at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine. However, there are currently no aerospike engines in commercial production, due to both a lack of research into their design and the fact that they are incredibly difficult to manufacture.
+
+For the past two years, Rocket Team had been working fervently to design and build a small scale aerospike engine, which they planned to launch in summer 2015 at the Intercollegiate Rocket Engineering Competition. The aerospike design had proved more challenging than expected, and tensions were high on the team as the project grew further behind schedule. 
+
+“We were really far behind. We were trying to get the engine ready, and since it was the basis of the whole design, we couldn’t make any design decisions. So half the team was stuck without any information, and the engine kept iterating and getting more and more complicated," said Ryan Webb, senior and 2014-2015 Vice President. 
+
+Members of the propulsion team were investigating an ongoing issue with the engine prototype. It was currently unable to sustain a flame inside the engine for longer than a few seconds, and would spray unburnt liquid rocket propellant out of the engine nozzle after the flame went out. In order to successfully launch, the rocket would need to sustain combustion inside the engine for several minutes. The propulsion team had removed the outer cover of the engine, and was trying to determine at what distance from the fuel injector they would observe a sustainable flame. 
+
+Rocket Team had been using the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform all of their propulsion testing. Unbeknownst to Rocket Team, the fan in the ventillation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
+
+The propulsion team ignited the aerospike engine, which began to spray a flammable mixture of exhaust gas (burnt propellant) and unburnt propellant into the ventillation shaft. Approximately ten seconds later, they heard a huge bang from above and saw the blast chamber fill with flame. The propellant and exhaust mixture had been ignited in the ventillation shaft by a spark from the fan motor. 
+
+Rocket Team members immediately shut off the test, called the MIT fire deparment, and performed a safety checklist to vent the blast chamber of any potentially flammable or hazardous chemicals. Later that day, they were contacted by the Aero/Astro department facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a very tense period of time between the Aero/Astro department and Rocket Team, which called all aspects of the team's safety practices and its continued existence into question. 
+
+Prior to the testing incident, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing,” said Webb. 
+
+
+
 What does it take for a group of college students to bring 10 lbs. of payload to 10,000 feet altitude? In January, the MIT Rocket Team experienced a testing accident that nearly brought the team to an end. After making several hard decisions, including choosing to completely redesign their rocket concept, the team was able to come back and win the Intercollegiate Rocket Engineering Competition in June. Rocket Team leadership says the team is stronger than ever and preparing to compete again next summer.
 
-On January (date unknown, will get exact date from Matt V interview), 2015, six members of the propulsion subteam, including subteam lead Matt Vernacchia (MIT ‘15), were conducting a hot fire test of the prototype aerospike engine in the MIT Gas Turbine Laboratory (GTL), located in Building 31. Prior to ignition, one of the engine fuel tanks experienced an undetected loss of pressure, causing ethanol vapor to leak into the blast chamber atmosphere. When the engine ignited, so did the escaped vapor, creating a fiery explosion inside of the chamber. The chamber itself was unharmed, but the fan in the chamber ventilation shaft broke into pieces, and the explosion traveled up the ventilation shaft onto the roof of Building 31, causing the rooftop to catch fire. In response, the Rocket Team members present contacted MIT police and GTL staff. 
+In January, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing,” said Webb. 
 
 (Will add quotes/information from Matt V interview on the incident itself)
 
