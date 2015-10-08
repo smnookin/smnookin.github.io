@@ -56,7 +56,7 @@ As the team grew in size, new members needed to be brought up to speed. At the s
 
 "We were so rushed to get the project to work and working so much at the limits of our understanding that we sometimes chose to do things ourselves rather than teaching people on the project how to do them... A lot of manpower felt bored and wasn't doing anything" said Vernacchia. 
 
-The final decision to change designs made sense to the aerospike designers, even if they were dissappointed to see their design scrapped.
+The final decision to change designs made sense to the aerospike designers.
 
 "I was pretty disappointed," said Vernacchia. "James and I had spent the past semester doing nothing but going to class, occassionally sleeping, and then going to GTL and try to get this engine to work."
 
