@@ -3,9 +3,9 @@ layout: post
 published: false
 author: Janelle Mansfield
 link: ""
-displaydate: ""
+displaydate: 10/8/15
 date: ""
-category: MIT
+category: politics
 tags: 
   - student
 title: Rocket Team comes back from test accident to win competition
