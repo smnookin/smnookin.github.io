@@ -7,14 +7,14 @@ displaydate: ""
 date: ""
 category: MIT
 tags: 
-  - "null"
+  - student
 title: Rocket Team comes back from test accident to win competition
 ---
 
 
 
 ![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)
-Photo courtesy of MIT Rocket Team
+The final rocket design completes a successful test launch. Photo courtesy of MIT Rocket Team. 
 
 **describe moments leading up to the accident**
 **describe work leading up to accident**
@@ -22,7 +22,7 @@ Photo courtesy of MIT Rocket Team
 **ingredient list lede but by time -> lowercase e**
 **aerospike nozzle context**
 
-On the afternoon of January BLANK, 2015, four undergraduate members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike nozzle engine. 
+On a January afternoon in 2015, four undergraduate members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike nozzle engine. 
 
 The aerospike engine is a rocket engine concept which is capable of operating at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine. However, there are currently no aerospike engines in commercial production, due to both a lack of research into their design and the fact that they are incredibly difficult to manufacture.
 
@@ -36,38 +36,45 @@ Rocket Team had been using the blast chamber, owned by the Gas Turbine Laborator
 
 The propulsion team ignited the aerospike engine, which began to spray a flammable mixture of exhaust gas (burnt propellant) and unburnt propellant into the ventillation shaft. Approximately ten seconds later, they heard a huge bang from above and saw the blast chamber fill with flame. The propellant and exhaust mixture had been ignited in the ventillation shaft by a spark from the fan motor. 
 
-Rocket Team members immediately shut off the test, called the MIT fire deparment, and performed a safety checklist to vent the blast chamber of any potentially flammable or hazardous chemicals. Later that day, they were contacted by the Aero/Astro department facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a very tense period of time between the Aero/Astro department and Rocket Team, which called all aspects of the team's safety practices and the department's support of the team into question. 
+Rocket Team members immediately shut off the engine, called the MIT fire department, and performed an accident safety checklist to vent the blast chamber of any potentially flammable or hazardous chemicals. Later that day, they were contacted by the Aero/Astro department facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a very tense period of time between the Aero/Astro department and Rocket Team, which called all aspects of the team's safety practices and the department's support of the team into question. 
 
-Most of the tension between Rocket Team and the Aero/Astro department arose from a miscommunication about who the team was supposed to notify prior to conducting tests. Prior to the testing incident, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing. [Our faculty advisor, Professor Lozano] knew we were continuously doing stuff, but apparently that wasn't clear to the rest of the GTL staff,” said Webb. 
+Most of the tension between Rocket Team and the Aero/Astro department arose from a miscommunication about who the team was supposed to notify prior to conducting tests. Before the testing incident, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing. [Our faculty advisor, Professor Lozano] knew we were continuously doing stuff, but apparently that wasn't clear to the rest of the GTL staff,” said Webb. 
 
-"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're dong a rocket engine test, that's why we're doing this in a blast chamber," said propulsion team lead Matt Vernacchia. 
+"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're dong a rocket engine test, that's why we're doing this in a blast chamber," said propulsion team lead Matt Vernacchia. He added that the GTL technician in charge of the blast chamber, Jimmy Letendre, was aware of the test, and that both Letendre and Lozano, "didn't seem too upset."
 
-After the accident, the MIT Aero/Astro deparment leadership required that Rocket Team to write a comprehensive safety plan and have it approved by Engineering Health and Safety (EHS). The new safety plan requires a test plan to be created and approved prior to each propulsion test. According to Webb, “It’s a lot of stuff we were already doing, but formally written down.” 
+After the accident, the Aero/Astro deparment leadership required that Rocket Team to write a comprehensive safety plan and have it approved by Engineering Health and Safety (EHS). The new safety plan requires a test plan to be created and approved prior to each propulsion test. “It’s a lot of stuff we were already doing, but formally written down," said Webb.  
 
-Safety procedures are still "an ongoing conversation right now with the department," said current Rocket Team president, Eric Riehl. "The department freaked out a bit when that incident happened... I don't think we've come yet to a point where we're both clear on what the safety protocol should be for our team," he added. 
+Safety procedures are still "an ongoing conversation right now," according to current Rocket Team president, Eric Riehl. "The department freaked out a bit when that incident happened... I don't think we've come yet to a point where we're both clear on what the safety protocol should be for our team," he said. 
 
-After the accident, the Rocket Team president, Julia Crowly-Farenga, and Webb realized they would have to make a major change in order to be able to compete in June. They first had to convince the designers of the aerospike nozzle. 
+"Everything became a safety concern all of a sudden. We're not even sure whether or not we can buy power tools right now," Riehl added. 
 
-The aerospike engine is a rocket engine concept in which the exhaust gases flow around a protruding spike, rather than inside a traditional bell nozzle. An aerospike nozzle is capable of operating at its maximum aerodynamic efficiency at a wider range of altitudes than a bell nozzle, because the exhaust exit area is not physically constrained. 
+In the midst of the scrutiny placed on the team's safety practices, Rocket Team leadership also realized they would have to make a major design change in order to be able to compete in June. They first had to convince the designers of the aerospike to drop the design in favor of a traditional solid rocket. 
 
-(Replace some of this info with direct quotes from Matt V)
+“We were going to tell them that their baby was dead, basically, that they’d been working on for two years,” said Webb.
 
-However, there are currently no aerospike nozzles in commercial production. According to Webb, “they’ve never really had a good flight record because they’re hard to manufacture. Us being MIT, we wanted to do the hardest thing we could think of.” 
- 
-(Possibly add some information in here from the Matt V interview about how he and James Logan brought rocket team back to life -- in 2012 they were the only two people on it, were both sophomores, and that’s when they decided to pursue aerospike design and also recruit more people to the team)
+Three seniors on the team, including Vernacchia, had been working on the aerospike concept since the summer after their sophomore year. These three were also responsible for bringing Rocket Team back from the brink of dissolution: at the beginning of the 2013 school year, they were the only three students left on the team. 
 
-“We were going to tell them that their baby was dead, basically, that they’d been working on for two years,” said Webb. “I was really worried, but Matt said it was the most logical way to move forward. I was pretty relieved when he said that.” 
+"We thought that the team could go somewhere cool, and we thought that the idea of building our own engine could be something to get more people involved in the team," said Vernacchia. The three recruited tirelessly that fall and grew the team to over twenty students. 
+
+As the team grew in size, new members needed to be brought up to speed. At the same time, the aerospike engine development was becoming increasingly complicated. These two factors taxed the senior members of Rocket Team. 
+
+"We were so rushed to get the project to work and working so much at the limits of our understanding that we sometimes chose to do things ourselves rather than teaching people on the project how to do them... A lot of manpower felt bored and wasn't doing anything" said Vernacchia. 
+
+The final decision to change designs made sense to the aerospike designers, even if they were dissappointed to see their design scrapped.
+
+"I was pretty disappointed," said Vernacchia. "James and I had spent the past semester doing nothing but going to class, occassionally sleeping, and then going to GTL and try to get this engine to work."
+
+However, Vernacchia continued, "once this forced us to take a step back... we realized we were being too ambitious and it wasn't going to be realistic. We were in this mindset of wanting to make this big contribution, but we should have realized the purpose of the team is educational." 
 
 Rocket Team immediately turned to building a more conventional rocket, using an off-the-shelf solid rocket engine. 
+
 Webb said he noticed a change in the team attitude after the work on the new rocket design started. “Within the team, it was a lot better. Every week we were accomplishing a lot of stuff. I think more people got involved in doing things and learning stuff. Even freshmen were, you know, getting really into packing the parachutes. I think there was just a lot more for people to do,” he said. 
 
-“Before we were trying to focus on something really technically hard,” said Webb, “but I think it’s more valuable to actually build something slightly simpler and make it work well. I think it helped the team get a sense of real engineering, actually building something. I’m pretty proud of how we came out with it.” 
-
-(Add some perspectives from Eric R here, the current president of Rocket Team. He was just a Rocket Team member last year -- not leadership -- so see how it was different for him before/after design change)
+“I think it’s more valuable to actually build something slightly simpler and make it work well. I think it helped the team get a sense of real engineering, actually building something. I’m pretty proud of how we came out with it.” 
 
 In June 2015, the MIT Rocket Team won the basic rocket category at the IREC in Green River, Utah. The basic rocket category requires a 10lb payload be sent to 10,000 ft. Rocket Team reached an altitude of 9,690 ft and were awarded additional points for successful rocket recovery and payload deployment, leading them to win their division. 
 
 Rocket Team plans to compete in the basic category again this summer, but use fewer commercial parts and more of their own hardware. The advanced category requires all rocket parts be manufactured by the team itself, and raises the altitude to 25,000 ft. 
 
 “Instead of jumping right to that, we’re trying to do the basic rocket again and practice with those [building] techniques and get those skills on the team, so if we decided to do the advanced, it’s just scaling those things up,” said Webb. 
-(Add more info from the Eric R interview here on the current status of Rocket Team)
+
