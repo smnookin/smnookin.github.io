@@ -62,15 +62,23 @@ The final decision to change designs made sense to the aerospike designers.
 
 However, Vernacchia continued, "once this forced us to take a step back... we realized we were being too ambitious and it wasn't going to be realistic. We were in this mindset of wanting to make this big contribution, but we should have realized the purpose of the team is educational." 
 
-Rocket Team immediately turned to building a more conventional rocket, using an off-the-shelf solid rocket engine. 
+Rocket Team turned to building a more conventional rocket, using an off-the-shelf solid rocket engine. 
 
 Webb said he noticed a change in the team attitude after the work on the new rocket design started. “I think more people got involved in doing things and learning stuff. Even freshmen were, you know, getting really into packing the parachutes. I think there was just a lot more for people to do,” he said. 
 
+At the same time, changing designs so close to the competition presented new challenges for the team. Riehl, who was payload team lead at the time, describes the spring semester as "all over the place" and "frantic."
 
+"You would think that because we won first that we did really well or whatever. But the reality was that it was pretty unorganized... we basically never integrated the rocket completely before the competition," Riehl said. 
 
-In June 2015, the MIT Rocket Team won the basic rocket category at the IREC in Green River, Utah. The basic rocket category requires a 10lb payload be sent to 10,000 ft. Rocket Team reached an altitude of 9,690 ft and were awarded additional points for successful rocket recovery and payload deployment, leading them to win their division. 
+Prior to their successful launch at the competetition in June, Rocket Team suffered two failures. During a test flight in May, the parachute failed to deploy and the rocket was "obliterated," said Riehl. On the first day of the competition in June, the payload module, which consists of the payload stored inside the nosecone, could not be successfully connected to the rocket. The team had to repair the payload overnight and launch again the next day. 
+
+On the second day of the compeition, Rocket Team launched successfully to win the basic rocket category at the IREC in Green River, Utah. The basic category requires a 10lb payload be sent to 10,000 ft. Rocket Team reached an altitude of 9,690 ft and were awarded additional points for their payload design. 
 
 Rocket Team plans to compete in the basic category again this summer, but use fewer commercial parts and more of their own hardware. The advanced category requires all rocket parts be manufactured by the team itself, and raises the altitude to 25,000 ft. 
 
 “Instead of jumping right to that, we’re trying to do the basic rocket again and practice with those [building] techniques and get those skills on the team, so if we decided to do the advanced, it’s just scaling those things up,” said Webb. 
+
+Riehl wants to see the design process improved within the team and to work out remaining tensions with the department.
+
+"The whole goal for this year is very thorough engineering... We want to make sure we do things the right way. We want to represent the department well," Riehl said.
 
