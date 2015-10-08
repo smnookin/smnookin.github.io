@@ -14,9 +14,9 @@ title: Rocket Team comes back from test accident to win competition
 
 
 ![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)
-The final rocket design completes a successful test launch. Photo courtesy of MIT Rocket Team. 
+The final rocket design during a test launch. Photo courtesy of MIT Rocket Team. 
 
-On a January afternoon in 2015, four undergraduate members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike nozzle engine. 
+On a January afternoon in 2015, undergraduate members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike nozzle engine. 
 
 The aerospike engine is a rocket engine concept that can operate at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine. However, there are no aerospike engines in commercial production, due to both a lack of research into their design and the fact that they are incredibly difficult to manufacture.
 
@@ -26,9 +26,9 @@ For the past two years, Rocket Team had been working fervently to design and bui
 
 Members of the propulsion team were investigating an ongoing issue with the engine prototype. It was currently unable to sustain a flame inside the engine for longer than a few seconds, and would spray unburnt liquid rocket propellant out of the engine nozzle after the flame went out. In order to successfully launch, the rocket would need to sustain combustion inside the engine for several minutes. The propulsion team had removed the outer cover of the engine, and was trying to determine at what distance from the fuel injector they would observe a sustainable flame. 
 
-Rocket Team had been using the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform all of their propulsion testing. Unbeknownst to Rocket Team, the fan in the ventillation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
+Rocket Team had been using the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform all of their propulsion testing. Unbeknownst to Rocket Team, the fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
 
-The propulsion team ignited the aerospike engine, which began to spray a flammable mixture of exhaust gas (burnt propellant) and unburnt propellant into the ventillation shaft. Approximately ten seconds later, they heard a huge bang from above and saw the blast chamber fill with flame. The propellant and exhaust mixture had been ignited in the ventillation shaft by a spark from the fan motor. 
+The propulsion team ignited the aerospike engine, which began to spray a flammable mixture of exhaust gas (burnt propellant) and unburnt propellant into the ventilation shaft. Approximately ten seconds later, they heard a huge bang from above and saw the blast chamber fill with flame. The propellant and exhaust mixture had been ignited in the ventilation shaft by a spark from the fan motor. 
 
 Rocket Team members immediately shut off the engine, called the MIT fire department, and performed an accident safety checklist to vent the blast chamber of any potentially flammable or hazardous chemicals. Later that day, they were contacted by the Aero/Astro department facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a very tense period of time between the Aero/Astro department and Rocket Team, which called the team's safety practices and the department's support of the team into question. 
 
@@ -36,7 +36,7 @@ Most of the tension between Rocket Team and the Aero/Astro department arose from
 
 Before the testing incident, Rocket Team was performing propulsion tests “almost daily. We were trying to speed up engine development… we were given a lot of autonomy over testing. [Our faculty advisor, Professor Lozano] knew we were continuously doing stuff, but apparently that wasn't clear to the rest of the GTL staff,” said Webb. 
 
-"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're dong a rocket engine test, that's why we're doing this in a blast chamber," said propulsion team lead Matt Vernacchia of the department's reaction to the incident.
+"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're doing a rocket engine test, that's why we're doing this in a blast chamber," said propulsion team lead Matt Vernacchia of the department's reaction to the incident.
 
 Aero/Astro deparment leadership required Rocket Team write a comprehensive safety plan and have it approved by Engineering Health and Safety (EHS). The new safety plan mandates a test plan to be created and approved prior to each propulsion test. “It’s a lot of stuff we were already doing, but formally written down," said Webb.  
 
@@ -58,7 +58,7 @@ As the team grew in size, new members needed to be brought up to speed. At the s
 
 The final decision to change designs made sense to the aerospike designers.
 
-"I was pretty disappointed," said Vernacchia. "James and I had spent the past semester doing nothing but going to class, occassionally sleeping, and then going to GTL and try to get this engine to work."
+"I was pretty disappointed," said Vernacchia. "James and I had spent the past semester doing nothing but going to class, occasionally sleeping, and then going to GTL and try to get this engine to work."
 
 However, Vernacchia continued, "once this forced us to take a step back... we realized we were being too ambitious and it wasn't going to be realistic. We were in this mindset of wanting to make this big contribution, but we should have realized the purpose of the team is educational." 
 
@@ -70,9 +70,9 @@ At the same time, changing designs so close to the competition presented new cha
 
 "You would think that because we won first that we did really well or whatever. But the reality was that it was pretty unorganized... we basically never integrated the rocket completely before the competition," Riehl said. 
 
-Prior to their successful launch at the competetition in June, Rocket Team suffered two failures. During a test flight in May, the parachute failed to deploy and the rocket was "obliterated," said Riehl. On the first day of the competition in June, the payload module, which consists of the payload stored inside the nosecone, could not be successfully connected to the rocket. The team had to repair the payload overnight and launch again the next day. 
+Prior to their successful launch at the competition in June, Rocket Team suffered two failures. During a test flight in May, the parachute failed to deploy and the rocket was "obliterated," said Riehl. On the first day of the competition in June, the payload module, which consists of the payload stored inside the nosecone, could not be successfully connected to the rocket. The team had to repair the payload overnight and launch again the next day. 
 
-On the second day of the compeition, Rocket Team launched successfully to win the basic rocket category at the IREC in Green River, Utah. The basic category requires a 10lb payload be sent to 10,000 ft. Rocket Team reached an altitude of 9,690 ft and were awarded additional points for their payload design. 
+On the second day of the competition, Rocket Team launched successfully to win the basic rocket category at the IREC in Green River, Utah. The basic category requires a 10lb payload be sent to 10,000 ft. Rocket Team reached an altitude of 9,690 ft and were awarded additional points for their payload design. 
 
 Rocket Team plans to compete in the basic category again this summer, but use fewer commercial parts and more of their own hardware. The advanced category requires all rocket parts be manufactured by the team itself, and raises the altitude to 25,000 ft. 
 
