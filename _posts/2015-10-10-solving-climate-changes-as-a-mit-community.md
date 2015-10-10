@@ -1,12 +1,13 @@
 ---
 layout: post
 published: false
-author: ""
+author: "Seraphina Kim "
 link: ""
-displaydate: ""
+displaydate: 10/10/2015
 date: ""
-category: MIT
-tags: null
+category: politics
+tags: 
+  - student
 title: Solving Climate Changes as a MIT Community
 ---
 
