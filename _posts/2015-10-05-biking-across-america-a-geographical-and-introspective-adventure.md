@@ -8,7 +8,7 @@ date: ""
 category: MIT
 tags: 
   - "null"
-title: Biking Across America to Transform Education
+title: Harvard + MIT Team Bikes Across America to Transform Education
 ---
 
 
