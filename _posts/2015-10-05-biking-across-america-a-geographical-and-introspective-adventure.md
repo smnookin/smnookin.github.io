@@ -8,7 +8,7 @@ date: ""
 category: MIT
 tags: 
   - "null"
-title: Harvard/MIT Team Bikes Across America to Transform Education
+title: Intercollegiate Team Bikes Across America to Transform Education
 ---
 
 
@@ -31,7 +31,7 @@ Focusing on mechanical engineering, the model rocket workshop aimed to point out
 
 One of MIT sophomore Jorge Tronsoco’s most memorable encounters was with a shy, home schooled student from Farmington, Connecticut. The diligence with which the young boy worked clearly indicated his interest in electronics. However, he did not quite understand the principles behind the robot he had made—Jorge proceeded to draw a circuit diagram, with the boy quietly observing. After copying the diagram, the student proudly showed his dad that evening. Jorge was humbled by the boy’s admiration for him, and by the feeling of being able to serve as a mentor for someone.
 
-Harvard junior Francesca was particularly impacted by the similarities between herself and some of her students over the course of the summer. “One that comes to mind is when a high school junior asked to stay after class to ask us about applying to college. It was fun to talk to her and hear how her fears were so similar to mine,” she said.
+Harvard junior Francesca Childs was particularly impacted by the similarities between herself and some of her students over the course of the summer. “One that comes to mind is when a high school junior asked to stay after class to ask us about applying to college. It was fun to talk to her and hear how her fears were so similar to mine,” she said.
 
 High school senior Aaron Smith was one of the students who participated in Spokes’ learning festivals in Hazard, Kentucky. For Aaron, the prestige of Harvard and MIT students is what attracted him to participate in Spokes. Aaron also appreciated the smaller age gap between himself and the instructors. He said, “I felt more comfortable knowing there wasn't so much of an age difference between me and those I learned from. Knowing that I could possibly be in a position that they were in in just a few years is very cool.”
 
