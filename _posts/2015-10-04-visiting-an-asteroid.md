@@ -8,7 +8,7 @@ date: "2015-10-04"
 category: science
 tags: 
   - "null"
-title: Visiting an Asteroid
+title: Mapping a Cosmic Threat
 ---
 
 Some students spend their summers on internships; others build spacecraft parts for a mission to an asteroid. And not just any asteroid, either - the destination of this mission is Bennu, a big one with an orbit that brings it really close to Earth. So close, in fact, that in the early 22nd century there’s a 1 in 2,500 chance that it will hit us. That’s almost two times higher than the [odds of an average American being killed in a bicycle accident](http://www.nsc.org/learn/safety-knowledge/Pages/injury-facts-chart.aspx). Combine that probability of collision with a diameter over two times larger than the height of the Prudential Center, and you get a one of the most dangerous asteroids that we know of. Next year, a student-built instrument will launch into space to help us learn more about it and how we can defend ourselves.
