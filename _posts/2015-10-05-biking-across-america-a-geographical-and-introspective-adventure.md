@@ -12,7 +12,7 @@ title: Biking Across America to Transform Education
 ---
 
 
-##Anika Gupta, October 5 2015
+##Anika Gupta, October 12 2015
 
 ![Screen Shot 2015-10-05 at 8.22.37 PM.png]({{site.baseurl}}/assets/Screen Shot 2015-10-05 at 8.22.37 PM.png)
 What do a 3,000 mile bike ride and a redefined classroom have in common? For a team of seven Harvard and MIT students, the overlap formed the basis of a journey they dedicated the past three months of their lives to.
