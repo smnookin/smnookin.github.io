@@ -22,7 +22,7 @@ But there never was a gunman on campus at any time on Sunday afternoon. A woman 
 
 Only two days later— on Tuesday afternoon, when the institute sent a letter of apology, did the dust finally settle— somewhat. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community”, it emphasized.   
 
-![shooting_map.png]({{site.baseurl}}/assets/shooting_map.png)
+![shooting_map.png]({{site.baseurl}}/assets/shooting_map.png=250x))
 
 According to the campus Chief of Police, John DiFava, the mistake boiled down to human error— the kind that often happens while filling out forms online. An officer had in fact typed the correct message to be relayed across campus into the alert system, but in sending it, selected the wrong text box, submitting the pre-scripted “active shooter” alert instead. 
 
