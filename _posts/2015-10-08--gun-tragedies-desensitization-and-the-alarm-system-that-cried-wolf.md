@@ -42,19 +42,7 @@ This position does not currently exist, due to lack of resources in the police d
 
 Putting emergency operators on call 24/7 would be “a real waste of personnel because we don’t have that many major league issues here”, said DiFava. He is quick to add, however, that “everything being relative, one is enough and I never want to make a mistake like that again”.
 
- 
-
- 
-
-
-
-
-
-
-
-The shooting on the 13th was not the first time that MIT has struggled with alerting the community in times of emergency. In February of 2013, two months before the Boston Marathon bombing, the campus received a false report of an active shooter. Although the threat was a hoax, concern was raised about the slow response of community alerts, which were not sent until an hour into the search. During the Marathon bombings, many students turned to social media, such as Twitter and Reddit, for fast and deeper news updates.
-
-[pic break]
+The shooting on the 13th was not the first time that MIT has struggled with alerting the community in times of emergency. In February of 2013, two months before the Boston Marathon bombing, the campus received a false report of an active shooter. Although the threat was a hoax, concern was raised about the slow response of community alerts, which were not sent until an hour into the search. During the Marathon bombings, many students turned to social media, such as Twitter and Reddit, for fast and deeper news updates. 
 
 MIT has not been alone in this endeavor. Timely warnings, along with annual security reports, crime logs, and crime statistics, have been required of all universities participating in federal financial aid since the Clery Act was signed in 1990, and many universities have struggled with relaying information. Although the fine was eventually appealed by the university, Virginia Tech was initially charged with "failure to issue a timely warning” by the Department of Education in response to the massacre which left 32 dead in 2007, with complaints that warnings did not send until two hours after the event. It’s a delicate balance to strike, that between timeliness and accuracy. “All of the universities and colleges are really struggling with it because you either send it too early, you send it too late, you don’t send it with enough information, you put too much information— it’s really a struggle”, said DiFava. 
  
