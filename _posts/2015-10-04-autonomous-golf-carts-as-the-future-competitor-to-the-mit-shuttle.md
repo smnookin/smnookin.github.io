@@ -3,7 +3,7 @@ layout: post
 published: false
 author: Rozanne Mungai
 link: .
-displaydate: "October 4, 2015"
+displaydate: "October 12, 2015"
 date: .
 category: politics
 tags: 
