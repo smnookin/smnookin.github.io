@@ -12,30 +12,29 @@ title: "Despite Importance, Emergency Alerts are a Difficult Balance at MIT  "
 ---
 
 
-How do you write a horror story in five words? Try the message that flashed across cell phones at MIT on a rainy Sunday afternoon three weekends ago: “Active Shooter reported on campus”. On September 13th, the university issued a lockdown throughout the afternoon, evoking chilling memories of the last time there was such a threat— and the tragic outcome it resulted in. For two hours, beginning at 4:43 p.m., a number of conflicting and alarming messages were spread, including the alarming suggestion to students that “If confronted by shooter, attack using improvised weapons”.
 
-![]({{site.baseurl}}/https://www.dropbox.com/s/2gfgmhby5jgptqs/textalert1.png?dl=0)
+![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
+
+How do you write a horror story in five words? Try the message that flashed across cell phones at MIT on a rainy Sunday afternoon three weekends ago: “Active Shooter reported on campus”. On September 13th, the university issued a lockdown throughout the afternoon, evoking chilling memories of the last time there was such a threat— and the tragic outcome it resulted in. For two hours, beginning at 4:43 p.m., a number of conflicting and alarming messages were spread, including the alarming suggestion to students that “If confronted by shooter, attack using improvised weapons”.
+ 
 
 But there never was a gunman on campus at any time on Sunday afternoon. A woman who was not an MIT student was shot in the leg at the cross-section of Portland and Main, just out of the reach of campus. The incident occurred two blocks away from the end of the Carnival parade that day, an event that has had an unfortunate correlation with violence in past years.  Although there was a definite need to warn the campus of the potential danger, an active shooter scenario was markedly different from what had actually occurred. These scenarios, which are defined by their speed and scale, often occur in confined and unsuspecting areas to random victims, perpetuating fear and warranting a different approach to safety from other acts of gun violence. 
 
-Only two days later— on Tuesday afternoon, when the institute sent a letter of apology, did the dust finally settle— somewhat. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community”, it emphasized.  
-
-[pic break] 
+Only two days later— on Tuesday afternoon, when the institute sent a letter of apology, did the dust finally settle— somewhat. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community”, it emphasized.   
 
 According to the campus Chief of Police, John DiFava, the mistake boiled down to human error— the kind that often happens while filling out forms online. An officer had in fact typed the correct message to be relayed across campus into the alert system, but in sending it, selected the wrong text box, submitting the pre-scripted “active shooter” alert instead. 
 
-
 The false message was shared instantly across cell phones, inboxes, web pages, and social media. The panic spread beyond Cambridge: a tweet warning of an active shooter quickly gained over a thousand re-shares, prompting responses across the internet, and comments about Sandy Hook, gun rights, and conceal and carry. 
-[tweet pic]
 
-By the time the slip-up was discovered by the MIT Police, and a corrective message was dispatched, ten long minutes had already passed, a significant gap when considering that the average length of an active shooter spree is only two and a half minutes longer.  Furthermore, ambiguities persisted: although the second message clarified that there was no active shooter on campus, it was unclear whether or not there had been an active shooter scenario at all. [second text pic]
+![tweet_alert.png]({{site.baseurl}}/assets/tweet_alert.png)
 
- A third and last follow-up, sent half an hour later, alerted students and staff that the police were continuing to search for the perpetrator, who was not believed to be on campus. Eventually, the state of emergency status was lifted from the MIT emergency information website, although no alerts were sent to signal all-clear. A corrective follow-up tweet was never posted, and the original still remains on the social media feed.
+By the time the slip-up was discovered by the MIT Police, and a corrective message was dispatched, ten long minutes had already passed, a significant gap when considering that the average length of an active shooter spree is only two and a half minutes longer.  Furthermore, ambiguities persisted: although the second message clarified that there was no active shooter on campus, it was unclear whether or not there had been an active shooter scenario at all.  
+  
  
-
 “I found it disconcerting, as the texts kept coming in, that it became clear that information that was told earlier could endanger students”, a researcher at MIT Department of Urban Studies and Planning (DUSP) stated. Her concern was directed towards the first message, which directed students to evacuate if possible, potentially leading them straight into the area of the crime. Moreover, although this had not been the case, the corrective text messages gave off the impression that the police had an unclear assessment of the situation. “It didn’t put a lot of faith in that I should follow directions for future events”, she said.
  
-[pic break?]
+
+![textalert2.png]({{site.baseurl}}/assets/textalert2.png)
 
 When asked about how MIT would avoid this mistake again, MIT Chief of Police John DiFava cited the need for additional personnel on campus with the dedicated task of sending alerts, instead of relying on an officer via conference call who’s at home or elsewhere on the weekend.
 
