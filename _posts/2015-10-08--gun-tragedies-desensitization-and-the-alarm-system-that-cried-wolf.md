@@ -3,7 +3,7 @@ layout: post
 published: false
 author: Sophie Chou
 link: ""
-displaydate: ""
+displaydate: "2015-10-12"
 date: ""
 category: politics
 tags: 
@@ -21,6 +21,8 @@ How do you write a horror story in five words? Try the message that flashed acro
 But there never was a gunman on campus at any time on Sunday afternoon. A woman who was not an MIT student was shot in the leg at the cross-section of Portland and Main, just out of the reach of campus. The incident occurred two blocks away from the end of the Carnival parade that day, an event that has had an unfortunate correlation with violence in past years.  Although there was a definite need to warn the campus of the potential danger, an active shooter scenario was markedly different from what had actually occurred. These scenarios, which are defined by their speed and scale, often occur in confined and unsuspecting areas to random victims, perpetuating fear and warranting a different approach to safety from other acts of gun violence. 
 
 Only two days later— on Tuesday afternoon, when the institute sent a letter of apology, did the dust finally settle— somewhat. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community”, it emphasized.   
+
+![shooting_map.png]({{site.baseurl}}/assets/shooting_map.png)
 
 According to the campus Chief of Police, John DiFava, the mistake boiled down to human error— the kind that often happens while filling out forms online. An officer had in fact typed the correct message to be relayed across campus into the alert system, but in sending it, selected the wrong text box, submitting the pre-scripted “active shooter” alert instead. 
 
