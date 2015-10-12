@@ -5,7 +5,7 @@ author: Sophie Chou
 link: ""
 displaydate: ""
 date: ""
-category: MIT
+category: politics
 tags: 
   - student
 title: "Despite Importance, Emergency Alerts are a Difficult Balance at MIT  "
