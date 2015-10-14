@@ -4,19 +4,16 @@ published: false
 author: Leo de Castro
 link: ""
 displaydate: "10-13-2015"
-date: ""
+date: "10-13-2015"
 category: MIT
-tags: 
-  - "null"
+tags: null
 title: Demystifying MIT’s New Drug Policy
 ---
 
+Should a student be punished when calling for help? If the emergency is alcohol-related, the MIT administration says no. However, students are not guaranteed the same level of protection for other drugs prohibited by the MIT administration.
 
+Take an incident that occurred several years ago. An MIT student was distributing a substance that the student believed was LSD, but was not. The substance caused several adverse reactions, some resulting in hospitalization, and in response to these emergencies the administration conducted an investigation and apprehended the student responsible. 
 
-
-
-	Should a student be punished when calling for help? If the emergency is alcohol-related, the MIT administration says no. However, students are not guaranteed the same level of protection for other drugs prohibited by the MIT administration.
-	Take an incident that occurred several years ago. An MIT student was distributing a substance that the student believed was LSD, but was not. The substance caused several adverse reactions, some resulting in hospitalization, and in response to these emergencies the administration conducted an investigation and apprehended the student responsible. 
 	Clearly, in a case such as this, administrative action is to be expected. But, students should not expect the same level of response to every drug-related emergency. 
 	For the past several years, the MIT administration has been developing policies to help reduce barriers for students seeking emergency assistance. These policies are designed to ensure students who call for help in an emergency that they are protected from disciplinary action. Following on the heels of a successfully reformed alcohol-related emergency response policy, the latest issue of the Mind and Hand book included a similar policy for drug-related emergencies. This new “Good Samaritan Policy” attempts to mirror the wording of the alcohol Good Samaritan Policy, thereby offering the same level of assurance as the successful alcohol policy.
 	There are two main problems. One, the Good Samaritan Policy for drugs does not protect against situations involving “the sale, distribution, enabling the use of (e.g. “spotting”), or sharing of prohibited substances.” Two, there is one crucial line that appears in the drug Good Samaritan Policy that does not appear in the alcohol Good Samaritan Policy: “Each incident will be reviewed to determine if the situation warrants additional administrative or disciplinary action.” This line seems to undermine the entire purpose of the drug Good Samaritan Policy, sewing uncertainty where it should be providing assurances. 
