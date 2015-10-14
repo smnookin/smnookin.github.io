@@ -15,7 +15,7 @@ title: "Uber-like Service Coming to MIT"
 
 ![](http://acl.mit.edu/projects/images/GEM.jpg)
 
-Next time an MIT student is running late to class, they may have the option to push through the crowd in a self-driving cart. 
+Next time an MIT student is running late to class, they may have the option to coast through the crowd in a self-driving cart. 
 
 This idea of allowing students to ride in self-driving carts came from the lab of Professor Jonathan How, a researcher in the Aeronautics Department as well as Editor-in-Chief and Technical Associate Editor of the IEEE Control Systems Magazine. He and his staff are using the carts as part of a controls systems project to collect Big Data from pedestrians and compile it for research. 
 
