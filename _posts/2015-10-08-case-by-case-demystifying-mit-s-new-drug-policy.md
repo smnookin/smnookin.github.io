@@ -3,13 +3,14 @@ layout: post
 published: false
 author: Leo de Castro
 link: ""
-displaydate: ""
+displaydate: "10-13-2015"
 date: ""
 category: MIT
 tags: 
   - "null"
-title: "Case by Case: Demystifying MIT’s New Drug Policy"
+title: Demystifying MIT’s New Drug Policy
 ---
+
 
 
 
@@ -24,4 +25,3 @@ Don Camelio, director of MIT’s office of Community Development and Substance A
 	Mr. Camelio also explained, “There’s a policy group that’s going to be convened again and … should [they] find that the way that this is worded is weak … then they can actually look at it and do it again.” This might be reassuring for students who feel the policy should be updated, but provides no help for students who may remain unsure of where this policy draws the line. 
 	As the policy evolves, many students hope to see these issues addressed and corrected, and, in the meantime, they are encouraged to direct any questions they may have about the policy to Mr. Camelio’s office. 
 	Referring to the old policy drug policy, one MIT senior said, “I know people who have not called the police specifically because of [the] policy,” and both students and administrators agree that this is the last thing the Good Samaritan Policy should do.
-
