@@ -12,23 +12,22 @@ title: "Uber-like Service Coming to MIT"
 ---
 
 
+
 ![](http://acl.mit.edu/projects/images/GEM.jpg)
 
-In the next few years, MIT students will have the option to ride in self-driving carts to class, lab, lunch, you name it. 
+Next time an MIT student is running late to class, they may have the option to push through the crowd in a self-driving cart. 
 
-### The Carts in MIT
+This idea of allowing students to ride in self-driving carts came from the lab of Professor Jonathan How, a researcher in the Aeronautics Department as well as Editor-in-Chief and Technical Associate Editor of the IEEE Control Systems Magazine. He and his staff are using the carts as part of a controls systems project to collect Big Data from pedestrians and compile it for research. 
 
-This idea came from the laboratory of Professor Jonathan How, a researcher in the Department of Aeronautics and Astronautics as well as Editor-in-Chief and Technical Associate Editor of the IEEE Control Systems Magazine. He and his staff are using the carts as part of a controls systems project to collect Big Data from pedestrians and compile it for research. 
-
-According to Justin Miller, a graduate student in How’s lab and one of the people most involved with the project, they are taking a unique look at autonomous vehicle technology. Most labs and companies working on automated vehicles are focused on improving the sensors, so as to better avoid environmental obstacles and drive more smoothly. How’s lab, in contrast,  is using the current sensor technology and focusing instead on collecting information about where people tend to be at a given time so that the vehicles can be used to drive people around—like a taxi service.
+According to Justin Miller, the major graduate student in How’s lab working with this project, the lab is taking a unique look at autonomous vehicle technology. Most other labs and companies working on automated vehicles are focused on improving the sensors, so as to better avoid environmental obstacles and drive more smoothly. How’s lab, in contrast,  is using the current sensor technology and focusing instead on collecting information about where people tend to be at a given time so that the vehicles can be used to drive people around—like a taxi service.
 
 “There’s a lot of data out there and it’s worth looking into to see what you can do with it,” Miller says.  “What this research is doing, is saying look: if you have these sensors in your car, you can collect all this information about how people are walking around you and use that information to figure out where [the vehicle] should go to expect the next ride request.”
 
 He adds that there will be two stages to the project. First, the carts will be human-driven and students will be able to use the carts to get around the East Campus area—the area around Stata, Kendall and the Green building. That stage will begin as early as this semester. Afterwards, he hopes to continue the project with autonomous carts. 
 
-Why the wait?  “The data can be gathered by driving [the carts] ourselves without a lot of the legal hassles …that come with trying to make vehicles autonomous,” Miller says. He is referring to the liability issues now coming up with self-driving vehicles. According to CBS News Washington DC, deciding who is at fault in the case of a car crash becomes complicated since such vehicles are not actually human driven.
+Why the wait?  “The data can be gathered by driving [the carts] ourselves without a lot of the legal hassles …that come with trying to make vehicles autonomous,” Miller says. He is referring to the liability issues tied with self-driving vehicles. According to CBS News Washington DC, deciding who is at fault in the case of a car crash becomes complicated since such vehicles are not actually human driven.
 
-That’s part of the reason why they chose to use carts instead of larger vehicles. First, they are much slower than cars, typically topping at a speed of 15mph, so there is less of a chance that they will be part of a car crash. Second, they are also much smaller which will allow them to get into tight spaces and drive on sidewalks—the better to collect data about where students tend to be at a certain time. 
+That’s part of the reason why they chose to use carts instead of larger vehicles. First of all, they are much slower than cars, typically topping at a speed of 15mph, so there is less of a chance that they will be part of a car crash. Secondly, they are also much smaller which will allow them to get into tight spaces and drive on sidewalks—the better to collect data about where students tend to be at a certain time. 
 
 Specifically, they will be using MIT custodial carts because “people are used to these types of vehicles being on campus,” Miller says.  He also hopes that the project will expand to a city-wide focus in the near future, so that they can use full sized cars rather than the slow carts.
 
@@ -49,7 +48,7 @@ It is widely known that Google and Tesla are heavily involved in the race to bui
 
 With this buzz about self-driving cars, it only makes sense to allow as many consumers as possible to get access to this technology.
 
-Daniela Rus, an MIT professor in EECS and Director of CSAIL, is also involved in attempting to make these out-of-reach vehicles reachable. In an interview with the MIT Technology Review, she said that her lab is focusing on creating a “minimalist solution” to the price problem by using less sensors in the vehicles.
+Daniela Rus, an MIT professor in EECS and Director of CSAIL, is also involved in attempting to make these out-of-reach vehicles reachable. In an interview with the MIT Technology Review, she said that her lab is focusing on creating "a minimalist solution” to the price problem by using less sensors in their vehicles.
 
 As it turns out, Miller’s approach—focusing on using automated vehicles as a taxi-like service—is still quite unique, and as he works on collecting all the data the lab needs, MIT students will be able benefit from the cart rides as another way to get from class to class. 
 
