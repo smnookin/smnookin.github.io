@@ -3,13 +3,13 @@ layout: post
 published: false
 author: Rachel Davis
 link: ""
-displaydate: 10/12/2015
-date: 10/12/2015
+displaydate: "10-12-2015"
+date: "10-12-2015"
 category: MIT
-tags: 
-  - "null"
+tags: null
 title: How Helpful Will Changes to MIT Student Health Services Be In Wake of Recent Graduate Student Suicide
 ---
+
 
 
 
