@@ -13,6 +13,7 @@ title: How Helpful Will Changes to MIT Student Health Services Be In Wake of Rec
 
 
 
+
 ![](http://tech.mit.edu/V135/N23/graphics/thumb-lg-nickolaus.jpg)
 
 MIT gradute student Cara Anne Nickolaus, photo courtesy of the [MIT Tech](http://tech.mit.edu/V135/N23/nickolaus.html)
@@ -45,4 +46,5 @@ However, there is still a stigma regarding getting help for students who are str
 It was stated in the Chancellor’s email “students have expressed concerns about the clarity, transparency, and fairness of existing policies, and about the level of support for students who take time away and transition back to MIT.” This is in response to many students claiming lack of support for students who left MIT voluntarily or involuntarily.
 
 Martin said, “People have had really nightmarish experiences with trying to come back and with the re-entry process which can be really arbitrary.” 
-There is no doubt that MIT is attempting to address the mental health problems on campus from many different angles. Yet, some students are still cynical about how it will work out and what this year will bring. “They are trying to make some changes - I’m not sure that they are better and how much is actual sincere desire to actually make a full effort.” 
+
+There is no doubt that MIT is attempting to address the mental health problems on campus from many different angles. Yet, some students are still cynical about how it will work out and what this year will bring. “They are trying to make some changes - I’m not sure that they are better and how much is actual sincere desire to actually make a full effort.”
