@@ -13,7 +13,8 @@ title: How not to build a course management system
 
 
 
-![](http://web.mit.edu/belzner/Public/lmod-front.png)
+
+![](http://web.mit.edu/belzner/Public/lmod-fail.png)
 
 At one of the top engineering schools in the country, doing the homework should be the stressful part – not submitting it. But with the introduction of a new course management system for many classes at the Massachusetts Institute of Technology, many students are having trouble with something as simple as that.
 
