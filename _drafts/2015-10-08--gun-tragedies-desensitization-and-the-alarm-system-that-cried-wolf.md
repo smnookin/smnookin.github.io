@@ -11,8 +11,6 @@ tags:
 title: The Alert System that Cried Wolf
 ---
 
-The Alert System that Cried Wolf
- 
 
 How do you write a horror story in five words? Try “Active Shooter reported on campus,” the message that flashed across cell phones at MIT on a rainy Sunday afternoon three weekends ago. On September 13th at 4:43pm, the university issued a lockdown, instructing its community to barricade doors and seek shelter. It was a command that evoked chilling memories of the last time there was such a threat, when MIT Officer Sean Collier was tragically killed in the aftermath of the Boston Marathon Bombing two years ago.  For two hours, a number of conflicting and alarming messages were spread, including the alarming suggestion for students to attack the shooter with improvised weapons.
  
