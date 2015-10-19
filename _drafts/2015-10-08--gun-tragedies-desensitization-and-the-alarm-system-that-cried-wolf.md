@@ -18,6 +18,8 @@ But there never was a gunman on campus at any time on Sunday afternoon. A woman 
 
 By the time the institute followed up with a letter of apology, two full work days had already passed, and business had long since returned to usual. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
 
+![shooting_map.png]({{site.baseurl}}/assets/shooting_map.png)
+
 “One thing about me is that I’m extremely honest and very transparent. We made a mistake, we made a mistake,” said John DiFava, campus Chief of Police. In particular, it was a blunder that happens to many people while filling out forms online: selecting the wrong text box. An officer had even typed the correct message into the campus alert system, but in submitting it checked the pre-scripted section, which defaulted to send the “active shooter” alert. 
 
 In this case, that detail was crucial. The false message was shared instantly across cell phones, inboxes, web pages, and social media. The panic spread beyond Cambridge: a tweet warning of an active shooter quickly gained over a thousand re-shares, prompting responses across the internet, and comments about Sandy Hook, gun rights, and conceal and carry. 
