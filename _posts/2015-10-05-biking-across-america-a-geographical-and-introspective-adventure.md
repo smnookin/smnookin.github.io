@@ -11,6 +11,7 @@ tags:
 title: "Rethinking education, one bike ride at a time"
 ---
 
+![Screen Shot 2015-10-05 at 8.22.37 PM.png]({{site.baseurl}}/assets/Screen Shot 2015-10-05 at 8.22.37 PM.png)
 Biking across the country is a strenuous undertaking but not so rare as to merit special attention all on its own. Similarly, there are plenty of groups trying to make the four subjects collectively known as STEM (science, technology, engineering, and math) more enticing for young students. But a cross-country bike trip that teaches an innovative STEM curriculum along the way? Now that’s something new. 
 
 That’s exactly what a team of seven students from Harvard and M.I.T., known as Spokes 2015, did this past summer.
