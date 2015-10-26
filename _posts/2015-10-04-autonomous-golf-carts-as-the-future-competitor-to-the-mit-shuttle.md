@@ -13,43 +13,33 @@ title: "Uber-like Service Coming to MIT"
 
 
 
+
 ![](http://acl.mit.edu/projects/images/GEM.jpg)
 
-Next time an MIT student is running late to class, they may have the option to coast through the crowd in a self-driving cart. 
+Sometime in the next few years, MIT students could have the option of using self-driving custodial carts to travel to class, lab, lunch, or anything else they need to do on campus. This service is the brainchild of Jonathan How, a professor in the Department of Aeronautics and Astronautics. How, who also serves as Editor-in-Chief of IEEE Control Systems magazine, wants to use the carts to collect data about where students congregate at a given time so the vehicles can be deployed more effectively – sort of like the on-demand ride app Uber. 
 
-This idea of allowing students to ride in self-driving carts came from the lab of Professor Jonathan How, a researcher in the Aeronautics Department as well as Editor-in-Chief and Technical Associate Editor of the IEEE Control Systems Magazine. He and his staff are using the carts as part of a controls systems project to collect Big Data from pedestrians and compile it for research. 
+“There’s a lot of data out there and it’s worth looking into to see what you can do with it,” says Justin Miller, the major graduate student in How’s lab working with this project. “What this research is doing, is saying look: if you have these sensors in your car, you can collect all this information about how people are walking around you and use that information to figure out where [the vehicle] should go to expect the next ride request.”
 
-According to Justin Miller, the major graduate student in How’s lab working with this project, the lab is taking a unique look at autonomous vehicle technology. Most other labs and companies working on automated vehicles are focused on improving the sensors, so as to better avoid environmental obstacles and drive more smoothly. How’s lab, in contrast,  is using the current sensor technology and focusing instead on collecting information about where people tend to be at a given time so that the vehicles can be used to drive people around—like a taxi service.
+This idea contrasts with a lot of other research into autonomous vehicles, which tend to focus on improving the sensors so as to better avoid obstacles and provide a smoother ride. According to Miller, there will be two stages to the project. For the first stage, which could begin as early as this semester, the carts will be driven by humans and will only be available on East Campus, around Stata, Kendall and the Green building. Once that part of the trial is complete, How and his team hope to expand the project and use driverless carts. 
 
-“There’s a lot of data out there and it’s worth looking into to see what you can do with it,” Miller says.  “What this research is doing, is saying look: if you have these sensors in your car, you can collect all this information about how people are walking around you and use that information to figure out where [the vehicle] should go to expect the next ride request.”
+Why the wait?  “The data can be gathered by driving [the carts] ourselves without a lot of the legal hassles …that come with trying to make vehicles autonomous,” Miller says. According to a CBS News story, there have already been issues deciding who is at fault when car crashes involve self-driving vehicles.
 
-He adds that there will be two stages to the project. First, the carts will be human-driven and students will be able to use the carts to get around the East Campus area—the area around Stata, Kendall and the Green building. That stage will begin as early as this semester. Afterwards, he hopes to continue the project with autonomous carts. 
+Liability issues are also part of the reason How’s team is using carts instead of larger vehicles. Carts can also access areas cars would be prohibited from, like sidewalks and other parts of campus, and the more places the carts can go, the better to collect data about where students tend to be at a certain time. Finally, Miller says, “people are used to these types of vehicles being on campus.” If the MIT trial goes well, How and his team hope to expand the project to an urban area in the near future.
 
-Why the wait?  “The data can be gathered by driving [the carts] ourselves without a lot of the legal hassles …that come with trying to make vehicles autonomous,” Miller says. He is referring to the liability issues tied with self-driving vehicles. According to CBS News Washington DC, deciding who is at fault in the case of a car crash becomes complicated since such vehicles are not actually human driven.
+Once the carts are deployed, students will be able to call them up on a mobile app, similar to how Uber works. That, Miller says, is “still in the works.” 
 
-That’s part of the reason why they chose to use carts instead of larger vehicles. First of all, they are much slower than cars, typically topping at a speed of 15mph, so there is less of a chance that they will be part of a car crash. Secondly, they are also much smaller which will allow them to get into tight spaces and drive on sidewalks—the better to collect data about where students tend to be at a certain time. 
+Miller sees this project as having the potential to completely transform the way on-demand transportation works—with future consumers requesting rides via a mobile app or a similar method and getting picked up by a self-driving car. 
 
-Specifically, they will be using MIT custodial carts because “people are used to these types of vehicles being on campus,” Miller says.  He also hopes that the project will expand to a city-wide focus in the near future, so that they can use full sized cars rather than the slow carts.
+Sound familiar? Companies such as Uber and Lyft have already been using mobile apps for this purpose. For this reason, “[t]he model of autonomous vehicles being operated as taxis as opposed to personal ownership is a very likely case in the future,” Miller says. People are already familiar with such mobile apps, so replacing drivers with automated vehicles is the next step and rather than having drivers circle around trying to figure out where people are likely to congregate, companies can program automated cars to do just that.
 
-As to how students can actually call up the carts, that answer is “still in the works,” Miller says.  He hopes the team can develop a mobile app for that purpose. They are also working on developing a system to advertise the cart service to students.  
+Miller also adds that on-demand mobility is “a good way that these [autonomous vehicles] will start penetrating the market.” And with the average price of automated cars at $100,000, according to CBS news, they are out-of-reach for the average consumer. Using them as part of an on-demand service, will allow the public access to the vehicles.
 
-### MOD Queuing theory
-The collected data will become part of what Miller calls “MOD queuing theory.” MOD stands for Mobility on Demand and is the idea that future consumers will be able to request rides via a mobile app or a similar method and get picked up by a self-driving car. 
+With all the buzz about self-driving vehicles, it only makes financial sense for companies to make them more accessible. Google and Tesla are well known for their part in the self-driving-car race, and car companies such as Ford and Toyota are also getting involved and implementing automated features in their cars. CBC News has even hailed such cars as the “car of the future” and claimed that automated cars are better drivers than humans. 
 
-Sound familiar? Companies such as Uber and Lyft have already been using mobile apps for this purpose and tend to have their drivers circle around areas with high populations to pick up customers. 
+This huge public interest in self-driving technology is part of the reason why Miller believes on-demand automated services have the potential to radically change the way the public transportation works. However, he also adds that “what the future holds is hard to say.” 
 
-“The model of autonomous vehicles being operated as taxis as opposed to personal ownership is a very likely case in the future,” Miller says. Rather than having drivers circle around trying to figure out where people tend to stay at certain times, companies can have automated cars do that, with all the information they need programmed in the software.
+Daniela Rus, an MIT professor in EECS and Director of CSAIL, is also involved in attempting to make these out-of-reach vehicles reachable. In an interview with the MIT Technology Review, she said that her lab is focusing on creating a “minimalist solution” to the price problem by using fewer sensors in the vehicles.
 
-Miller adds that a taxi-like service is “a good way that these [autonomous vehicles] will start penetrating the market.” 
-
-He may have a point. Automated vehicles can get ridiculously expensive, and according to CBS news Washington DC, can average at more than $100,000. When in the market, the cars would be limited to the ultra-rich, leaving the average consumer out of the loop. Miller believes that MOD Queuing Theory has the potential to radically change the way the world views vehicle automation but that “what the future holds is hard to say.” 
-
-It is widely known that Google and Tesla are heavily involved in the race to build the reliable automated car. Car companies such as Ford, Toyota and Mercedes are also getting involved and implementing automated features in their cars while CBC News has hailed such cars as the “car of the future” and claimed that automated cars are better drivers than humans. 
-
-With this buzz about self-driving cars, it only makes sense to allow as many consumers as possible to get access to this technology.
-
-Daniela Rus, an MIT professor in EECS and Director of CSAIL, is also involved in attempting to make these out-of-reach vehicles reachable. In an interview with the MIT Technology Review, she said that her lab is focusing on creating "a minimalist solution” to the price problem by using less sensors in their vehicles.
-
-As it turns out, Miller’s approach—focusing on using automated vehicles as a taxi-like service—is still quite unique, and as he works on collecting all the data the lab needs, MIT students will be able benefit from the cart rides as another way to get from class to class. 
+As it turns out, Miller’s approach—focusing on using automated vehicles as a taxi-like service—is still quite unique, and as he works on collecting all the data the lab needs, MIT students will be able to benefit from the cart rides as another way to get from class to class. 
 
 “I’m really excited about the carts,” says Roger Hartman, an MIT undergraduate senior in Mechanical Engineering. “Whether or not the carts are self-driving, it’ll be great not having walk around everywhere, plus I hate waiting on the shuttle.”
