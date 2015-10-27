@@ -12,11 +12,12 @@ title: How Helpful Will Changes to MIT Student Health Services Be In Wake of Rec
 ---
 
 
+
 ![](http://tech.mit.edu/V135/N23/graphics/thumb-lg-nickolaus.jpg)
 
 MIT gradute student Cara Anne Nickolaus, photo courtesy of the [MIT Tech](http://tech.mit.edu/V135/N23/nickolaus.html)
 
-MIT is considered one of the leaders in establishing campus-wide efforts to tackle student mental health.  There have been [lawsuits based on negligence](http://tech.mit.edu/V135/N1/lawsuit.html) with regard to mental health prior to suicides, [two settled wrongful death lawsuits](http://tech.mit.edu/V125/N30/shin71405.html), and many [“failure[s] to meet [MIT’s] duty of care”](http://tech.mit.edu/V122/N54/54guy.54n.html) within the past fifteen years.
+MIT has not always been considered a leader in establishing campus-wide efforts to tackle student mental health: Over the past decade and a half, there there have been two [wrongful death lawsuits](http://tech.mit.edu/V125/N30/shin71405.html) filed against the Institute [after student suicides](http://tech.mit.edu/V135/N1/lawsuit.html).
 
 As a result of such cases, as well as recent cases such the confirmed suicide of Cara Anne Nickolaus on September 22nd, the MIT administration and student body are working hard to enhance mental health and wellness on campus. Chancellor Cynthia Barnhardt and MIT Medical Director Dr. William Kettyle wrote an email to the MIT community, stating, “By continuing to tap our passionate community spirit and innovative problem-solving skills, we are confident we can make progress and enhance mental health and well-being at MIT.”
 
