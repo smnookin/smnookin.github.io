@@ -6,10 +6,10 @@ link: ""
 displaydate: "10-25-2015"
 date: "10-25-2015"
 category: MIT
-tags: null
+tags: 
+  - student
 title: How Helpful Will Changes to MIT Student Health Services Be In Wake of Recent Graduate Student Suicide
 ---
-
 
 ![](http://tech.mit.edu/V135/N23/graphics/thumb-lg-nickolaus.jpg)
 
@@ -45,4 +45,4 @@ Martin said, “People have had really nightmarish experiences with trying to co
 
 Schumaker said, “There is a lot of ambiguity in the returning students process, [and] for my parents it was very stressful. They didn’t let me know about my admissions decision until a few weeks until I needed to be back on campus.” He explained that it was extremely stressful for him as well, and that in the end felt like he had to lie to his own mental health clinician to try and guarantee a readmission to MIT. “It was unfortunate that I had to lie and hide some things to show that I was better.”
 
-There is no doubt that MIT is attempting to address the mental health problems on campus from many different angles. Yet, some students are still cynical about how it will work out and what this year will bring. Martin said, “They are trying to make some changes - I’m not sure that they are better and how much is actual sincere desire to actually make a full effort.” 
+There is no doubt that MIT is attempting to address the mental health problems on campus from many different angles. Yet, some students are still cynical about how it will work out and what this year will bring. Martin said, “They are trying to make some changes - I’m not sure that they are better and how much is actual sincere desire to actually make a full effort.”
