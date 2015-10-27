@@ -1,13 +1,13 @@
 ---
 layout: post
-published: false
+published: true
 author: Andrew Owens
 link: ""
 displaydate: "2015-10-25"
 date: "2015-10-25"
 category: science
 tags: 
-  - "null"
+  - student
 title: Mapping a Cosmic Threat
 ---
 
