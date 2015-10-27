@@ -8,7 +8,7 @@ date: October 25 2015
 category: MIT
 tags: 
   - student
-title: How Helpful Will Changes to MIT Student Health Services Be In Wake of Recent Graduate Student Suicide
+title: Changes to MIT Student Health Services Questioned By Some Students
 ---
 
 
