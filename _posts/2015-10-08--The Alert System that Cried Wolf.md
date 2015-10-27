@@ -3,8 +3,8 @@ layout: post
 published: true
 author: Sophie Chou
 link: ""
-displaydate: ""
-date: ""
+displaydate: "2015-10-24"
+date: "2015-10-26"
 category: MIT
 tags: 
   - student
@@ -14,7 +14,7 @@ title: "The alert system that cried wolf. "
 
 ![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
 
-How do you write a horror story in five words? Try “Active Shooter reported on campus,” the message that flashed across cell phones at MIT one rainy Sunday afternoon. On September 13th at 4:43pm, the university issued a lockdown, instructing its community to barricade doors and seek shelter. It was a command that evoked chilling memories of the last time there was such a threat, when MIT Officer Sean Collier was tragically killed in the aftermath of the Boston Marathon Bombing two years ago.  For two hours, a number of conflicting and alarming messages were spread, including the alarming suggestion for students to attack the shooter with improvised weapons.
+Look! I'm editing!  Try “Active Shooter reported on campus,” the message that flashed across cell phones at MIT one rainy Sunday afternoon. On September 13th at 4:43pm, the university issued a lockdown, instructing its community to barricade doors and seek shelter. It was a command that evoked chilling memories of the last time there was such a threat, when MIT Officer Sean Collier was tragically killed in the aftermath of the Boston Marathon Bombing two years ago.  For two hours, a number of conflicting and alarming messages were spread, including the alarming suggestion for students to attack the shooter with improvised weapons.
  
 “We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” In fact, there never was a gunman on campus. A woman who was not affiliated with MIT was shot in the leg at the cross-section of Portland and Main, just out of the reach of campus. Although the police maintained that there was a definite need to warn the campus of the potential danger, an active shooter scenario was markedly different from what had actually occurred. According to Homeland Security, these scenarios are defined by  their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.  
 
