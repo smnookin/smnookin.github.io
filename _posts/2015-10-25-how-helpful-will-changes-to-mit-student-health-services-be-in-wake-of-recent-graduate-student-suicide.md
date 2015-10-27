@@ -13,6 +13,7 @@ title: How Helpful Will Changes to MIT Student Health Services Be In Wake of Rec
 
 
 
+
 ![](http://tech.mit.edu/V135/N23/graphics/thumb-lg-nickolaus.jpg)
 
 MIT gradute student Cara Anne Nickolaus, photo courtesy of the [MIT Tech](http://tech.mit.edu/V135/N23/nickolaus.html)
