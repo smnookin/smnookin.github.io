@@ -31,7 +31,7 @@ The propulsion team had been investigating an ongoing issue with the engine. It 
 
 “We were trying to get the engine ready, and since it was the basis of the whole design, we couldn’t make any design decisions. So half the team was stuck without any information, and the engine kept iterating and getting more and more complicated," said Ryan Webb, 2014-2015 Rocket Team Vice President. 
 
-Shortly after the explosion occured, Rocket Team was contacted by the facilities manager, Anthony Zolenik, who was investigating the accident. He had some information about the cause of the accident. The fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
+Shortly after the explosion occurred, Rocket Team was contacted by the facilities manager, Anthony Zolenik, who was investigating the accident. He had some information about the cause of the accident. The fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
 
 During testing, the engine sprayed flammable gas into the ventilation shaft. A spark from the fan motor ignited the gas inside the shaft, causing an explosion that travelled down into the chamber. 
 
