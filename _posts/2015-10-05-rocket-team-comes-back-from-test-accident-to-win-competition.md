@@ -23,19 +23,21 @@ The aerospike engine is a rocket engine design that operates at maximum aerodyna
 
 For the past two years, Rocket Team had been working fervently to design and build an aerospike engine, which they planned to launch in summer 2015 at the Intercollegiate Rocket Engineering Competition. The aerospike design had proved more challenging than expected, and everyday they fell further behind schedule, the tension increased. 
 
-The students ignited the engine to begin a propulsion test. After about ten seconds of operation, they heard a large bang and the inside of the blast chamber was filled with a fiery explosion. 
+The propulsion team ignited the engine to begin a propulsion test. After about ten seconds of operation, they heard a large bang and the inside of the blast chamber was filled with a fiery explosion. 
 
 Rocket Team members immediately shut off the engine, called the MIT Fire Department, and vented the blast chamber of any hazardous gases. After the Fire Department declared the chamber safe to enter, the students took pictures of the remnants of their engine. They needed to find out if a flaw in their engine design had caused the explosion. 
 
-The propulsion team had been investigating an ongoing issue with the engine prototype. It was currently unable to sustain a flame inside the engine for longer than a few seconds. In order to successfully launch, the rocket would need to sustain combustion for several minutes. 
+The propulsion team had been investigating an ongoing issue with the engine. It was currently unable to sustain a flame inside the engine for longer than a few seconds. In order to successfully launch, the rocket would need to sustain combustion for several minutes. 
 
 “We were trying to get the engine ready, and since it was the basis of the whole design, we couldn’t make any design decisions. So half the team was stuck without any information, and the engine kept iterating and getting more and more complicated," said Ryan Webb, 2014-2015 Rocket Team Vice President. 
 
-Rocket Team had used the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform propulsion testing. Unbeknownst to Rocket Team, the fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
+Shortly after the explosion occured, Rocket Team was contacted by the facilities manager, Anthony Zolenik, who was investigating the accident. He also had some information about the cause of the accident. The fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
 
-When ignited during testing, the engine sprayed flammable gas into the ventilation shaft. A spark from the fan motor ignited the gas inside the ventilation shaft, causing an explosion that travelled down into the chamber. The explosion also destroyed the fan, rendering the blast chamber unusable until it could be replaced. Rocket Team found themselves without a working engine or a place to test. 
+During testing, the engine sprayed flammable gas into the ventilation shaft. A spark from the fan motor ignited the gas inside the ventilation shaft, causing an explosion that travelled down into the chamber. 
 
-Later that day, they were contacted by the facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a tense period of time between the Aero/Astro department and Rocket Team, during which the team's safety practices and the department's support of the team were called into question. 
+The explosion also destroyed the fan, rendering the blast chamber unusable until it could be replaced. Rocket Team had used the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform propulsion testing. Now, they had no working engine, and nowhere to test. 
+
+Although Rocket Team was not responsible for the cause of the accident, the accident caused the Aero/Astro department to question some of the team's safety practices. 
 
 The tension between Rocket Team and the department arose from a miscommunication about who the team was supposed to notify prior to conducting tests. Rocket Team was under the impression they only needed to notify the GTL technician in charge of the blast chamber, but members of the Aero/Astro department felt more oversight was needed. 
 
