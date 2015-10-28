@@ -35,15 +35,15 @@ Shortly after the explosion occured, Rocket Team was contacted by the facilities
 
 During testing, the engine sprayed flammable gas into the ventilation shaft. A spark from the fan motor ignited the gas inside the ventilation shaft, causing an explosion that travelled down into the chamber. 
 
+"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're doing a rocket engine test, that's why we're doing this in a blast chamber," said propulsion lead Matt Vernacchia.
+
 The explosion also destroyed the fan, rendering the blast chamber unusable until it could be replaced. Rocket Team had used the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform propulsion testing. Now, they had no working engine, and nowhere to test. 
 
-Although Rocket Team was not responsible for the cause of the accident, the accident caused the Aero/Astro department to question some of the team's safety practices. 
+Although Rocket Team was not responsible for the cause of the accident, in the aftermath of it the Aero/Astro department began to question some of the team's safety practices. 
 
 The tension between Rocket Team and the department arose from a miscommunication about who the team was supposed to notify prior to conducting tests. Rocket Team was under the impression they only needed to notify the GTL technician in charge of the blast chamber, but members of the Aero/Astro department felt more oversight was needed. 
 
 Before the testing incident, “We were given a lot of autonomy. [Our faculty advisor, Professor Lozano] knew we were continuously doing stuff, but apparently that wasn't clear to the rest of the GTL staff,” said Webb. 
-
-"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're doing a rocket engine test, that's why we're doing this in a blast chamber," said propulsion lead Matt Vernacchia of the reaction to the incident.
 
 Department leadership required Rocket Team write a safety plan and have it approved by Engineering Health and Safety (EHS). “It’s a lot of stuff we were already doing, but formally written down," said Webb.  
 
