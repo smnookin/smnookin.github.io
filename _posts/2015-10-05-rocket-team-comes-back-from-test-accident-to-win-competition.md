@@ -13,6 +13,7 @@ title: Rocket Team comes back from test accident to win competition
 
 
 
+
 ![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)
 The final rocket design during a test launch. Photo courtesy of MIT Rocket Team. 
 
@@ -20,17 +21,21 @@ On a January afternoon in 2015, four members of MIT Rocket Team met in the blast
 
 The aerospike engine is a rocket engine design that operates at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine. However, there are no aerospike engines in commercial production, due to both a lack of research into their design and the fact that they are incredibly difficult to manufacture.
 
-For the past two years, Rocket Team had been working fervently to design and build a small scale aerospike engine, which they planned to launch in summer 2015 at the Intercollegiate Rocket Engineering Competition. The aerospike design had proved more challenging than expected, and tensions were high on the team as the project grew further behind schedule. 
+For the past two years, Rocket Team had been working fervently to design and build an aerospike engine, which they planned to launch in summer 2015 at the Intercollegiate Rocket Engineering Competition. The aerospike design had proved more challenging than expected, and everyday they fell further behind schedule, the tension increased. 
+
+The students ignited the engine to begin a propulsion test. After about ten seconds of operation, they heard a large bang and the inside of the blast chamber was filled with a fiery explosion. 
+
+Rocket Team members immediately shut off the engine, called the MIT Fire Department, and vented the blast chamber of any hazardous gases. After the Fire Department declared the chamber safe to enter, the students took pictures of the remnants of their engine. They needed to find out if a flaw in their engine design had caused the explosion. 
+
+The propulsion team had been investigating an ongoing issue with the engine prototype. It was currently unable to sustain a flame inside the engine for longer than a few seconds. In order to successfully launch, the rocket would need to sustain combustion for several minutes. 
 
 “We were trying to get the engine ready, and since it was the basis of the whole design, we couldn’t make any design decisions. So half the team was stuck without any information, and the engine kept iterating and getting more and more complicated," said Ryan Webb, 2014-2015 Rocket Team Vice President. 
 
-The propulsion team was investigating an ongoing issue with the engine prototype. It was currently unable to sustain a flame inside the engine for longer than a few seconds. In order to successfully launch, the rocket would need to sustain combustion for several minutes. 
+Rocket Team had used the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform propulsion testing. Unbeknownst to Rocket Team, the fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
 
-Rocket Team had been using the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform propulsion testing. Unbeknownst to Rocket Team, the fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
+When ignited during testing, the engine sprayed flammable gas into the ventilation shaft. A spark from the fan motor ignited the gas inside the ventilation shaft, causing an explosion that travelled down into the chamber. The explosion also destroyed the fan, rendering the blast chamber unusable until it could be replaced. Rocket Team found themselves without a working engine or a place to test. 
 
-The propulsion team ignited the aerospike engine, which began to spray a flammable mixture of exhaust gas (burnt propellant) and unburnt propellant into the ventilation shaft. Approximately ten seconds later, they heard a bang from above and saw the blast chamber fill with flame. The exhaust mixture had been ignited in the ventilation shaft by a spark from the fan motor. 
-
-Rocket Team members immediately shut off the engine, called the MIT fire department, and performed an accident safety checklist to vent the blast chamber of any hazardous chemicals. Later that day, they were contacted by the facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a tense period of time between the Aero/Astro department and Rocket Team, during which the team's safety practices and the department's support of the team were called into question. 
+Later that day, they were contacted by the facilities manager, Anthony Zolenik, who was investigating the accident. It was the beginning of a tense period of time between the Aero/Astro department and Rocket Team, during which the team's safety practices and the department's support of the team were called into question. 
 
 The tension between Rocket Team and the department arose from a miscommunication about who the team was supposed to notify prior to conducting tests. Rocket Team was under the impression they only needed to notify the GTL technician in charge of the blast chamber, but members of the Aero/Astro department felt more oversight was needed. 
 
@@ -73,4 +78,3 @@ The team plans to compete in the basic category again next summer, but use fewer
 Riehl wants to see the design process improved within the team and work out remaining tensions with the department.
 
 "The whole goal for this year is very thorough engineering... We want to make sure we do things the right way. We want to represent the department well," Riehl said.
-
