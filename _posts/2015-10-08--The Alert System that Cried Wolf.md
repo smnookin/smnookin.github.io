@@ -12,13 +12,18 @@ title: "The alert system that cried wolf. "
 ---
 
 
+
 ![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
 
-Look! I'm editing!  Try “Active Shooter reported on campus,” the message that flashed across cell phones at MIT one rainy Sunday afternoon. On September 13th at 4:43pm, the university issued a lockdown, instructing its community to barricade doors and seek shelter. It was a command that evoked chilling memories of the last time there was such a threat, when MIT Officer Sean Collier was tragically killed in the aftermath of the Boston Marathon Bombing two years ago.  For two hours, a number of conflicting and alarming messages were spread, including the alarming suggestion for students to attack the shooter with improvised weapons.
- 
-“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” In fact, there never was a gunman on campus. A woman who was not affiliated with MIT was shot in the leg at the cross-section of Portland and Main, just out of the reach of campus. Although the police maintained that there was a definite need to warn the campus of the potential danger, an active shooter scenario was markedly different from what had actually occurred. According to Homeland Security, these scenarios are defined by  their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.  
+On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued [ <-- IS THAT ACCURATE?] as community members sought refuge and watched as conflicting and alarming information flew across [HOW? SOCIAL MEDIA? E-MAIL? TEXT?], including suggestions for students to attack the shooter with improvised weapons. In actuality, there never was a gunman on campus. A woman not affiliated with MIT was shot in the leg at the cross-section of Portland and Main near campus borders, but the shooter never walked onto MIT grounds or threatened students. 
 
-By the time the institute followed up with a letter of apology, two full work days had already passed, and business had long since returned to usual. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
+-----------------------------------------
+
+
+
+According to Homeland Security, these scenarios are defined by their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.  
+
+“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” In fact, By the time the institute followed up with a letter of apology, two full work days had already passed, and business had long since returned to usual. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
 
 “We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” . In particular, it was a blunder that happens to many people while filling out forms online: selecting the wrong text box. An officer had even typed the correct message into the campus alert system, but in submitting it checked the pre-scripted section, which defaulted to send the “active shooter” alert. 
 
