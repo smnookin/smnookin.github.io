@@ -7,7 +7,7 @@ displaydate: "10-19-2015"
 date: "10-19-2015"
 category: MIT
 tags: 
-  - "null"
+  - student
 title: Examining MIT’s New Drug Policy
 ---
 
