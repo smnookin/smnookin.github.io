@@ -5,11 +5,12 @@ author: Kenneth Friedman
 link: ""
 displaydate: "2015-10-05"
 date: "2015-10-05"
-category: MIT
+category: politics
 tags: 
   - student
 title: "Goodbye, Mobile Ads"
 ---
+
 
 
 
