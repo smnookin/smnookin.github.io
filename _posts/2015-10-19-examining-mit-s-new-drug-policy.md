@@ -11,8 +11,7 @@ tags:
 title: Examining MIT’s New Drug Policy
 ---
 
-
-
+![](http://www.collegebound.net/blog/wp-content/uploads/2011/05/shutterstock_71425363.jpg)	
 When an alcohol-fueled night turns into an emergency, MIT policy generally dictates that students calling for help won't be punished for violating campus alcohol rules. But for emergencies involving illegal drugs, students are not guaranteed the same protection, causing some MIT administration to question whether the policy deters students from getting help when they need it most.
 
 In INSERT YEAR, the Institute reviewed a proposed policy that would protect students involved in drug-related emergencies. On INSERT DATE, YEAR OF STUDENT,  STUDENT NAME distributed an unknown substance originally thought to be LSD to a group of STUDENTS? FRIENDS? at LOCATION. The substance caused adverse reactions in NUMBER OF of PEOPLE? PARTY GOERS?, leading to at least NUMBER of hospitalizations. After the incident, MIT's administration launched an investigation, and arrested NAME NUMBER OF days later. (THIS DOESN'T REALLY MAKE SENSE -- WERE THE CAMBRIDGE POLICE THE AGENCY THAT ARRESTED?)
