@@ -8,9 +8,11 @@ displaydate: December 19 2014
 date: December 19 2014
 tags: 
   - student
+link: ""
 ---
 
-![image courtesy of David Thorburn](http://i.imgur.com/S4nCgER.jpg)
+
+![image courtesy of David Thorburn](http://i.imgur.com/S4nCgER.jpg)	
 When asked what his favorite book is, David Thorburn, longtime Literature professor at MIT, first cautions that 'love/hate relationship' is a better descriptor than 'favorite' for James Joyce’s massive _Ulysses_. With his characteristic intensity, Thorburn immediately starts to outline a passionate defense of his hatred: you can’t just read the book, it’s a lifetime’s project to work through, and its demands on readers are simply too much.
 
 Most people who look at _Ulysses_ would agree with Thorburn about its unreadability, but most people lack his impressive credentials: he's a leading modernist scholar, the founder of MIT’s first graduate program in the humanities, and a former Professor of English at Yale. 
