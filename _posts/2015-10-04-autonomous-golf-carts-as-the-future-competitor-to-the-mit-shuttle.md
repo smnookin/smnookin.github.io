@@ -2,10 +2,10 @@
 layout: post
 published: false
 author: Rozanne Mungai
-link: .
+link: ""
 displaydate: "2015-10-26"
 date: "2015-10-26"
-category: politics
+category: MIT
 tags: 
   - student
 title: "Uber-like Service Coming to MIT"
