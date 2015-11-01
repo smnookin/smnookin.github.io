@@ -11,10 +11,7 @@ tags:
 title: "The alert system that cried wolf. "
 ---
 
-
-
 ![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
-
 On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued [ <-- IS THAT ACCURATE?] as community members sought refuge and watched as conflicting and alarming information flew across [HOW? SOCIAL MEDIA? E-MAIL? TEXT?], including suggestions for students to attack the shooter with improvised weapons. In actuality, there never was a gunman on campus. A woman not affiliated with MIT was shot in the leg at the cross-section of Portland and Main near campus borders, but the shooter never walked onto MIT grounds or threatened students. 
 
 -----------------------------------------
