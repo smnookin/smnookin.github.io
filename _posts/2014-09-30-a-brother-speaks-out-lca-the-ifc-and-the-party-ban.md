@@ -7,9 +7,10 @@ author: Meryl Gibbs
 displaydate: "September 30, 2014"
 tags: 
   - student
-  - slider
 date: "October 11, 2014"
+link: ""
 ---
+
 
 ![](http://d1wvharlsiyzfl.cloudfront.net/wp-content/uploads/2014/09/5777ddcab3da704f8638e61dff539732.png)On August 31, the the MIT chapter of [Lambda Chi Alpha](http://web.mit.edu/lca/) was hosting one of the first parties of the year. As lasers pulsed and lights flickered, a thumping beat filled a room on the house's third floor. Students eager to take part in the college party scene were in abundance. 
 
