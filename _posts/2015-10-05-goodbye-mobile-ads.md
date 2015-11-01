@@ -3,8 +3,8 @@ layout: post
 published: true
 author: Kenneth Friedman
 link: ""
-displaydate: "October 5, 2015"
-date: ""
+displaydate: "2015-10-05"
+date: "2015-10-05"
 category: MIT
 tags: 
   - student

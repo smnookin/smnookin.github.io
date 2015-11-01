@@ -3,8 +3,8 @@ layout: post
 published: false
 author: Leo de Castro
 link: ""
-displaydate: "10-19-2015"
-date: "10-19-2015"
+displaydate: "2015-10-19"
+date: "2015-10-19"
 category: MIT
 tags: 
   - student

@@ -3,8 +3,8 @@ layout: post
 published: false
 author: Rachel Davis
 link: ""
-displaydate: ""
-date: ""
+displaydate: "2015-10-26"
+date: "2015-10-26"
 category: MIT
 tags: null
 title: David Warren Randall

@@ -3,8 +3,8 @@ layout: post
 published: false
 author: Rozanne Mungai
 link: .
-displaydate: "October 26, 2015"
-date: .
+displaydate: "2015-10-26"
+date: "2015-10-26"
 category: politics
 tags: 
   - student
