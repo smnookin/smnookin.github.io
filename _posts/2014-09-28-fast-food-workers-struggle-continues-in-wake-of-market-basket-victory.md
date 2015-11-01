@@ -7,9 +7,10 @@ author: Val Healy
 displaydate: September 29 2014
 tags: 
   - student
-  - slider
 date: "October 12, 2014"
+link: ""
 ---
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mcd-times_square.JPG/320px-Mcd-times_square.JPG)    Welcome, may I take your order? Across the United States, fast food employees are switching the script and making some demands of their own. These workers, including many in the Boston area, have staged strikes and other acts of civil disobedience. 
 
