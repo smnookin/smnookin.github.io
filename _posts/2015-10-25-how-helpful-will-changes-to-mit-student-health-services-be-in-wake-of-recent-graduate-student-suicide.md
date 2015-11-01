@@ -8,6 +8,7 @@ date: October 25 2015
 category: MIT
 tags: 
   - student
+  - slider
 title: Changes to MIT Student Health Services Questioned By Some Students
 ---
 
@@ -17,7 +18,7 @@ MIT has not always been considered a leader in establishing campus-wide efforts 
 
 But recently, that has changed, and today other colleges and universities often look to MIT when devising their own strategies for dealing with mental health issues. That does not mean there's not plenty of room for improvement, as a recent spate of tragedies, including the September 22nd suicide of graduate student Cara Anne Nickolaus, demonstrate. As a result, the administration is taking new steps to address mental health and wellness on campus. 
 
-“By continuing to tap our passionate community spirit and innovative problem-solving skills, we are confident we can make progress," Chancellor Cynthia Barnhart and  Medical Director Dr. William Kettyle wrote in an email to the MIT community on **TK DATE**. Some of the changes being made include the addition of two new full-time psychologists at the Institute’s mental health and counseling center and a new staff member at Student Support Services, also known as S3. 
+“By continuing to tap our passionate community spirit and innovative problem-solving skills, we are confident we can make progress," Chancellor Cynthia Barnhart and  Medical Director Dr. William Kettyle wrote [in an email to the MIT community on September 2](http://news.mit.edu/2015/mind-hand-heart-0902). Some of the changes being made include the addition of two new full-time psychologists at the Institute’s mental health and counseling center and a new staff member at Student Support Services, also known as S3. 
 
 The question remains, however, as to whether these changes will actually benefit the student body. Dan Schumaker, a current MIT student who returned from academic leave this past September, knows how tough it can be to reintegrate into the academic community. Prior to his leave, Schumaker was working with an S3 staffer named Laura Kajan who no longer works at MIT. 
 
