@@ -11,18 +11,18 @@ tags:
 title: "The alert system that cried wolf. "
 ---
 
+
 ![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
-On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued [ <-- IS THAT ACCURATE?] as community members sought refuge and watched as conflicting and alarming information flew across [HOW? SOCIAL MEDIA? E-MAIL? TEXT?], including suggestions for students to attack the shooter with improvised weapons. In actuality, there never was a gunman on campus. A woman not affiliated with MIT was shot in the leg at the cross-section of Portland and Main near campus borders, but the shooter never walked onto MIT grounds or threatened students. 
+On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued as community members sought refuge and watched as conflicting and alarming information flew across poured in, including one message from the Institute that instructed students to attack the shooter with improvised weapons. 
 
------------------------------------------
+But in reality, there never was a gunman. A woman not affiliated with MIT was shot in the leg at Portland and Main Streets, about a block away from campus, but that had occurred earlier in the day and the shooter had never been MIT grounds or made threats to the MIT community. 
+
+“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” That acknowledgement didn't come right away: MIT didn't release a letter of explanation for two full days, long after business had returned to usual. DiFava says the blunder occurred because someone selected the wrong text box on MIT's campus alert system.
 
 
+“At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
 
-According to Homeland Security, these scenarios are defined by their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.  
-
-“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” In fact, By the time the institute followed up with a letter of apology, two full work days had already passed, and business had long since returned to usual. “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
-
-“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” . In particular, it was a blunder that happens to many people while filling out forms online: selecting the wrong text box. An officer had even typed the correct message into the campus alert system, but in submitting it checked the pre-scripted section, which defaulted to send the “active shooter” alert. 
+In particular, it was a blunder that happens to many people while filling out forms online: selecting the wrong text box. An officer had even typed the correct message into the campus alert system, but in submitting it checked the pre-scripted section, which defaulted to send the “active shooter” alert. 
 
 In this case, that detail was crucial. The false message was shared instantly across cell phones, inboxes, web pages, and social media. The panic spread beyond Cambridge: a tweet warning of an active shooter quickly gained over a thousand re-shares, prompting responses across the internet, and comments about Sandy Hook, gun rights, and conceal and carry. 
 
@@ -43,3 +43,12 @@ Still, MIT has not been alone in this challenge. Timely warnings, along with ann
 There is also, of course, the added challenge of MIT’s location in a diverse urban environment. The incident on the 13th occurred two blocks away from the end of the Carnival parade that day, an event that has had an unfortunate correlation with violence in past years. Exactly one month before the most recent shooting, there was another case of gun violence which was initially reported, although later corrected, as occurring in Kendall Square, where MIT is located. In cities, where crime counts are expectedly higher, it can be a challenge to be as thorough as possible in warning the community, without making alerts seem commonplace and dismissible.
 
 Soroush Vosoughi, a postdoctoral researcher who was working in the Media Lab building in the afternoon of the active shooter alert, recalls being calm during the lockdown, despite his proximity to the reported scene of crime. Even in a building whose walls are made entirely of glass on three sides, and in a see-through glass office, he was unfazed when the directions came to barricade doors and hide. After living through numerous alerts, during both the Boston Marathon Bombing and the shooting in August, he feels numb to react. “I would say [I’m] sadly more calm. I say sadly because it doesn’t surprise me anymore,” he said.
+
+
+
+-----------------------------------------
+
+
+
+According to Homeland Security, these scenarios are defined by their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.  
+
