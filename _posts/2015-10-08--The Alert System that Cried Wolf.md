@@ -13,12 +13,11 @@ title: "The alert system that cried wolf. "
 
 
 ![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
-On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued as community members sought refuge and watched as conflicting and alarming information flew across poured in, including one message from the Institute that instructed students to attack the shooter with improvised weapons. 
+On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued as community members sought refuge and watched as conflicting and alarming information poured in, including an MITAlert email with the instructions, "If confronted by shooter, attack using improvised weapons." 
 
-But in reality, there never was a gunman. A woman not affiliated with MIT was shot in the leg at Portland and Main Streets, about a block away from campus, but that had occurred earlier in the day and the shooter had never been MIT grounds or made threats to the MIT community. 
+But not only were those instructions recklessly dangerous -- there wasn't even a gunman in the first place. Earlier that day, a woman not affiliated with MIT was shot in the leg about a block away from campus. The shooter had never been MIT grounds or made threats to the MIT community. 
 
-“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” That acknowledgement didn't come right away: MIT didn't release a letter of explanation for two full days, long after business had returned to usual. DiFava says the blunder occurred because someone selected the wrong text box on MIT's campus alert system.
-
+“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” But while DiFava is quick to acknwoledge the bludner now, at the time, the Institute's follow-up to its initial missive was much slower in coming. And DiFava's explanation -- that an MIT police officer IS THIS RIGHT? selected the wrong text box on MIT's campus alert system -- doesn't explain the follow-up message instructing students to create their own weaponry. 
 
 “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
 
