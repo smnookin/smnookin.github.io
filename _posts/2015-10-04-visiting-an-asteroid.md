@@ -11,8 +11,7 @@ tags:
 title: Mapping a Cosmic Threat
 ---
 
-
-
+![](http://i.space.com/images/i/000/026/095/i02/nasa-osiris-rex-mission-art.jpg?1360586200)	
 Each summer, students do all sorts of activities, ranging from research internships to part-time jobs waiting tables. There are also those, like the few graduate and undergraduate students in the MIT Space Systems Laboratory, who spent their summer days helping to build specialized instruments for a mission to an enormous asteroid named Bennu – an asteroid whose orbit will bring it frighteningly close to Earth. 
 
 This is no casual, fact-finding mission either: According to the [Jet Propulsion Laboratory](http://neo.jpl.nasa.gov/risk/), there’s a one in 2,500 chance that Bennu, which has a diameter over two times larger than the height of the Prudential Center, will strike Earth sometime early next century. To put that in context, that’s almost twice as high as the [odds of an average American being killed in a bicycle accident](http://www.nsc.org/learn/safety-knowledge/Pages/injury-facts-chart.aspx). If all goes according to plan, the craft will launch in September next year with the goal of learning how we can defend ourselves.
