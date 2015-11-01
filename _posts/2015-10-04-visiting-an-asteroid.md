@@ -8,6 +8,7 @@ date: "2015-10-25"
 category: science
 tags: 
   - student
+  - slider
 title: Mapping a Cosmic Threat
 ---
 
