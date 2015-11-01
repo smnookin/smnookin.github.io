@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 author: Sophie Chou
 link: ""
 displaydate: "2015-10-24"
