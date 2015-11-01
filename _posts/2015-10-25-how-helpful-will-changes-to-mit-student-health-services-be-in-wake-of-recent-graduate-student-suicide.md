@@ -13,6 +13,7 @@ title: Changes to MIT Student Health Services Questioned By Some Students
 
 
 ![](http://tech.mit.edu/V128/N26/graphics/health-mentalhealth.jpg)
+
 MIT has not always been considered a leader in establishing campus-wide efforts to tackle student mental health: Over the past decade and a half, there have been two [wrongful death lawsuits](http://tech.mit.edu/V125/N30/shin71405.html) filed against the Institute [following student suicides](http://tech.mit.edu/V135/N1/lawsuit.html).
 
 But recently, that has changed, and today other colleges and universities often look to MIT when devising their own strategies for dealing with mental health issues. That does not mean there's not plenty of room for improvement, as a recent spate of tragedies, including the September 22nd suicide of graduate student Cara Anne Nickolaus, demonstrate. As a result, the administration is taking new steps to address mental health and wellness on campus. 
@@ -20,6 +21,10 @@ But recently, that has changed, and today other colleges and universities often 
 “By continuing to tap our passionate community spirit and innovative problem-solving skills, we are confident we can make progress," Chancellor Cynthia Barnhart and  Medical Director Dr. William Kettyle wrote in an email to the MIT community on **TK DATE**. Some of the changes being made include the addition of two new full-time psychologists at the Institute’s mental health and counseling center and a new staff member at Student Support Services, also known as S3. 
 
 The question remains, however, as to whether these changes will actually benefit the student body. Dan Schumaker, a current MIT student who returned from academic leave this past September, knows how tough it can be to reintegrate into the academic community. Prior to his leave, Schumaker was working with an S3 staffer named Laura Kajan who no longer works at MIT. 
+
+![](http://tech.mit.edu/V135/N23/graphics/thumb-lg-nickolaus.jpg)
+
+_Cara Anne Nickolaus_
 
 Her absence, Shumaker says, has made his return difficult. Since arriving back on campus, there have been no regular check-ins despite a promise made before he left. “They could give me a little more help,” Schumaker says. “They said that medical would contact me, and it has been two months already.”
 
