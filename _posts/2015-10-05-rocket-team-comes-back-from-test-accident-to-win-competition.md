@@ -3,8 +3,8 @@ layout: post
 published: false
 author: Janelle Mansfield
 link: ""
-displaydate: 10/8/15
-date: ""
+displaydate: "2015-10-05"
+date: "2015-10-05"
 category: politics
 tags: 
   - student

@@ -3,8 +3,8 @@ layout: post
 published: false
 author: Seth Mnookin
 link: ""
-displaydate: ""
-date: ""
+displaydate: "2015-09-28"
+date: "2015-09-28"
 category: MIT
 tags: null
 title: A new story

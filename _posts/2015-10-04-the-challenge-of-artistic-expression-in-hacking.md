@@ -3,8 +3,8 @@ layout: post
 published: false
 author: "Seraphina Kim "
 link: ""
-displaydate: 10/5/2015
-date: ""
+displaydate: "2015-10-05"
+date: "2015-10-05"
 category: politics
 tags: 
   - student

@@ -3,8 +3,8 @@ layout: post
 published: false
 author: Megan Belzner
 link: ""
-displaydate: "10-12-2015"
-date: ""
+displaydate: "2015-10-12"
+date: "2015-10-12"
 category: MIT
 tags: 
   - "null"
