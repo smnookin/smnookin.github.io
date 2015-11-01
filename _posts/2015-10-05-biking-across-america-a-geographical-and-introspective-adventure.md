@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: Anika Gupta
 link: ""
 displaydate: "2015-10-05"
@@ -16,11 +16,11 @@ title: "Rethinking education, one bike ride at a time"
 ![Screen Shot 2015-10-05 at 8.22.37 PM.png]({{site.baseurl}}/assets/Screen Shot 2015-10-05 at 8.22.37 PM.png)
 Biking across the country is a strenuous undertaking but not so rare as to merit special attention all on its own. Similarly, there are plenty of groups trying to make the four subjects collectively known as STEM (science, technology, engineering, and math) more enticing for young students. But a cross-country bike trip that teaches an innovative STEM curriculum along the way? Now that’s something new. 
 
-That’s exactly what a team of seven students from Harvard and M.I.T., known as Spokes 2015, did this past summer.
+That’s exactly what a team of seven students from Harvard and M.I.T., known as [Spokes 2015](http://spokesamerica.com/), did this past summer.
 
 “I think everyone should have the opportunity to learn by doing,” M.I.T. sophomore Drew Bent said, capturing the gist of the team’s motivations for pursuing such an ambitious journey.
 
-Collectively called Spokes 2015, this group embarked on a mission to teach students across the nation science and engineering subjects, with a twist. The group implemented a creative, workshop-centric, curriculum that they hoped would enable students to take more ownership of their learning, in an effort to modify the traditional classroom setting and reach students in a variety of communities. The team is dedicated to “revealing the exploratory and boundless nature of learning to students across the US,” Bent said. Their mission stems from the simple idea that learning often occurs through semi-random pursuits such as self-directed projects into fields that genuinely interest people, and primarily outside of a classroom.
+The group, which was founded last year, embarked on a mission to teach students across the nation science and engineering subjects, with a twist. The group implemented a creative, workshop-centric, curriculum that they hoped would enable students to take more ownership of their learning, in an effort to modify the traditional classroom setting and reach students in a variety of communities. The team is dedicated to “revealing the exploratory and boundless nature of learning to students across the US,” Bent said. Their mission stems from the simple idea that learning often occurs through semi-random pursuits such as self-directed projects into fields that genuinely interest people, and primarily outside of a classroom.
 
 Spokes members structured their teaching sessions around what they called “learning festivals.” These workshops entailed teaching hands-on, project-based classes. A dozen schools, libraries, and camps across America hosted the team over the course of the summer, directly reaching out to students in the local communities to gather interest.
 
