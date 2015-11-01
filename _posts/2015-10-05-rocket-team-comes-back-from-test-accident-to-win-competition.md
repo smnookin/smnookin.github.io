@@ -11,19 +11,12 @@ tags:
 title: Rocket Team comes back from test accident to win competition
 ---
 
+![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)	
+On a January afternoon in 2015, four members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike engine. The team had been working feverishly for the past two years in preparation for that summer's Intercollegiate Rocket Engineering Competition. The design had proved more challenging than expected. As they fell further behind, the tension increased. 
 
+That the Rocket Team was having difficulty isn't a surprise: aerospike engines, which operate at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine, are so difficult to manufacture that there are no commercial ones in production. 
 
-
-![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)
-The final rocket design during a test launch. Photo courtesy of MIT Rocket Team. 
-
-On a January afternoon in 2015, four members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike engine. 
-
-The aerospike engine is a rocket engine design that operates at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine. However, there are no aerospike engines in commercial production, due to both a lack of research into their design and the fact that they are incredibly difficult to manufacture.
-
-For the past two years, Rocket Team had been working fervently to design and build an aerospike engine, which they planned to launch in summer 2015 at the Intercollegiate Rocket Engineering Competition. The aerospike design had proved more challenging than expected, and everyday they fell further behind schedule, the tension increased. 
-
-The propulsion team ignited the engine to begin a propulsion test. After about ten seconds of operation, they heard a large bang and, at once, saw the inside of the blast chamber filled with a fiery explosion. 
+But on this day, the team's members were excited. About ten seconds after the propulsion team lit the ignition, there was a large bang. Suddenly, the inside of the blast chamber was filled with a fiery explosion. 
 
 Rocket Team members immediately shut off the engine, called the MIT Fire Department, and vented the blast chamber of hazardous gases. After the Fire Department declared the chamber safe to enter, the students took pictures of the remnants of their engine. They needed to find out if a flaw in their engine design had caused the explosion. 
 
