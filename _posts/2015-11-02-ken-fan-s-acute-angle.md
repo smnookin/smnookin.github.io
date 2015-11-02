@@ -10,6 +10,13 @@ tags: null
 title: Ken Fan’s Acute Angle
 ---
 
+
+![ken_fan_image.png]({{site.baseurl}}/assets/ken_fan_image.png)
+
+Ken Fan in one of the Girls' Angle projects.
+
+
+
 Ken Fan is a man of many degrees. He has been awarded advanced degrees in mathematics in MIT and Harvard University as well as working as an assistant mathematics professor in Harvard. Unlike the common track that students in elite schools tend to follow—continuing in academia or working for a huge firm or company—Fan rotated a complete 360 and went back to focus on the demographic often forgotten about by elite higher-ups: K-12 level girls.
 
 **Ken Fan Now: Girls’ Angle**
