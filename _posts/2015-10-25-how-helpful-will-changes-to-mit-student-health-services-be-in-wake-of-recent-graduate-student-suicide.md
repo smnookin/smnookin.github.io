@@ -16,6 +16,8 @@ title: Changes to MIT Student Health Services Questioned By Some Students
 
 ![](http://tech.mit.edu/V128/N26/graphics/health-mentalhealth.jpg)	
 
+
+
 MIT has not always been considered a leader in establishing campus-wide efforts to tackle student mental health: Over the past decade and a half, there have been two [wrongful death lawsuits](http://tech.mit.edu/V125/N30/shin71405.html) filed against the Institute [following student suicides](http://tech.mit.edu/V135/N1/lawsuit.html).
 
 But recently, that has changed, and today other colleges and universities often look to MIT when devising their own strategies for dealing with mental health issues. That does not mean there's not plenty of room for improvement, as a recent spate of tragedies, including the September 22nd suicide of graduate student Cara Anne Nickolaus, demonstrate. As a result, the administration is taking new steps to address mental health and wellness on campus. 
