@@ -25,11 +25,13 @@ MIT’s Student Support Services, or S3, entails an office that specializes in e
 
 In an interview with MIT’s newspaper, The Tech, Randall said, “We call ourselves deans, or administrators, who have a lot of experience working with students who have difficulties in their life.” The deans at S3 are known for being “lifesavers” for students in crisis, especially when it feels like they have no other outlets.
 
-“[Quote from Dan,]” said Dan Schumaker, a third year student at MIT.
+"My impression is that [the S3 Deans] are generally fairly useful and willing to work with students who are having problems," said Sarah Warkander, a senior at MIT.
 
 However, many students have mixed feelings about individual deans, Randall included. Valentina Chamorro, a senior at MIT, stated that she has heard that Randall is “not a great dean in that he thinks people ask for too many extensions.”
 
-On the other hand, Randall does genuinely care about the happiness and success of the undergraduate student population. Not only does he stand as a member of many health and wellness boards on campus, but also he has a clear understanding of how students feel alone and are afraid of getting help. 
+Warkander continued her thoughts and said "there's an unfortunate level of variation dean-to-dean. Some of the deans are much more understanding than others, and there is really nowhere to go if they are unreasonable to you." She continues that sometimes deans will not follow up with things that they have promised to do, since the office is usually fairly busy. "In general I think [S3 is] a very good resource, but it would be good if there were more mechanisms to effectively appeal their decisions and get a second opinion from a different dean."
+
+There is no doubt, however, that Randall does genuinely care about the happiness and success of the undergraduate student population. Not only does he stand as a member of many health and wellness boards on campus, but also he has a clear understanding of how students feel alone and are afraid of getting help. 
 
 Randall told The Tech, “[MIT students] feel that they’re struggling but don’t want to get help because they think their peers are doing fine. This isn’t the case at all though." He continues, "I think people need to know that they’re not alone. Above all, every MIT student should know that even at their worst weeks, they are all extraordinary.” 
 
