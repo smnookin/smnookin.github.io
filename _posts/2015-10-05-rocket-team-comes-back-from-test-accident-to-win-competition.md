@@ -11,6 +11,7 @@ tags:
 title: Rocket Team comes back from test accident to win competition
 ---
 
+
 ![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)	
 On a January afternoon in 2015, four members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike engine. The team had been working feverishly for the past two years in preparation for that summer's Intercollegiate Rocket Engineering Competition. The design had proved more challenging than expected. As they fell further behind, the tension increased. 
 
