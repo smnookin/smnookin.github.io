@@ -12,6 +12,8 @@ tags:
 title: Changes to MIT Student Health Services Questioned By Some Students
 ---
 
+
+
 ![](http://tech.mit.edu/V128/N26/graphics/health-mentalhealth.jpg)	
 MIT has not always been considered a leader in establishing campus-wide efforts to tackle student mental health: Over the past decade and a half, there have been two [wrongful death lawsuits](http://tech.mit.edu/V125/N30/shin71405.html) filed against the Institute [following student suicides](http://tech.mit.edu/V135/N1/lawsuit.html).
 
