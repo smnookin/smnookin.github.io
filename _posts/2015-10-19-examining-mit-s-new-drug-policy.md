@@ -11,11 +11,15 @@ tags:
 title: Examining MIT’s New Drug Policy
 ---
 
-
 ![](http://www.collegebound.net/blog/wp-content/uploads/2011/05/shutterstock_71425363.jpg)	
 When an alcohol-fueled night turns into an emergency, MIT's Help Seeking Practice policy, often referred to as the Good Samaritan rule, dictates that students calling for help won't be punished for violating campus alcohol rules. But for emergencies involving illegal drugs, students were not guaranteed the same protection, causing some to question whether the policy deters students from getting help when they need it most.
 
-These concerns were heightened after a series of incidents in recent years, including one in INSERT YEAR in which a YEAR OF STUDENT (EX: "...including one in 2014 in which a sophomore gave out a substance...) gave out what S/HE thought was LSD to classmates. After the substance caused a number of adverse reactions and several hospitalizations, MIT identified and expelled the student in question. (IS THIS CORRECT)
+This year, however, MIT instituted a Help Seeking Practice for illicit drugs as well -- and while 
+
+
+there are distinct differences in how drugs and alcohol are treated, it is a 
+
+These concerns were heightened after a series of incidents in recent years, including one several years ago in which a student gave out a substance thought to be LSD to classmates. After the substance caused a number of adverse reactions and several hospitalizations, MIT identified and the student in question.
 
 INSERT QUOTE HERE FROM SOMEONE FROM THE ADMINISTRATION WHO CAN COMMENT ON WHY EXTENDING POLICY TO DRUGS WAS NEEDED. 
 
