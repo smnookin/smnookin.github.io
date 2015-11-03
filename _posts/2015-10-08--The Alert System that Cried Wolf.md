@@ -8,16 +8,17 @@ date: "2015-10-26"
 category: MIT
 tags: 
   - student
-title: "The alert system that cried wolf. "
+title: The alert system that cried wolf.
 ---
+
 
 
 ![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
 On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued as community members sought refuge and watched as conflicting and alarming information poured in, including an MITAlert email with the instructions, "If confronted by shooter, attack using improvised weapons." 
 
-But not only were those instructions recklessly dangerous -- there wasn't even a gunman in the first place. Earlier that day, a woman not affiliated with MIT was shot in the leg about a block away from campus. The shooter had never been MIT grounds or made threats to the MIT community. 
+But not only were those instructions recklessly dangerous -- there wasn't even a gunman in the first place. Earlier that day, a woman not affiliated with MIT was shot in the leg about a block away from campus. The shooter had never been on campus grounds nor made threats to the MIT community. 
 
-“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” But while DiFava is quick to acknwoledge the bludner now, at the time, the Institute's follow-up to its initial missive was much slower in coming. And DiFava's explanation -- that an MIT police officer IS THIS RIGHT? selected the wrong text box on MIT's campus alert system -- doesn't explain the follow-up message instructing students to create their own weaponry. 
+“We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” But while DiFava is quick to acknowledge the blunder now, at the time, the Institute's follow-up to its initial missive was much slower in coming. And DiFava's explanation -- that an MIT police officer selected the wrong text box on MIT's campus alert system -- doesn't explain the follow-up message instructing students to create their own weaponry. 
 
 “At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
 
@@ -25,7 +26,7 @@ In particular, it was a blunder that happens to many people while filling out fo
 
 In this case, that detail was crucial. The false message was shared instantly across cell phones, inboxes, web pages, and social media. The panic spread beyond Cambridge: a tweet warning of an active shooter quickly gained over a thousand re-shares, prompting responses across the internet, and comments about Sandy Hook, gun rights, and conceal and carry. 
 
-![tweet_alert.png]({{site.baseurl}}/assets/tweet_alert.png)
+![email1.png]({{site.baseurl}}/assets/email1.png)
 
 By the time the slip-up was discovered by the MIT Police, and a corrective message was dispatched, ten long minutes had already passed, a significant gap when considering that the average length of an active shooter spree, according to Homeland Security, is only two and a half minutes longer.  Furthermore, ambiguities persisted: although the second message clarified that there was no active shooter on campus, it was unclear whether or not there had been an active shooter scenario at all.  
  
@@ -49,5 +50,4 @@ Soroush Vosoughi, a postdoctoral researcher who was working in the Media Lab bui
 
 
 
-According to Homeland Security, these scenarios are defined by their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.  
-
+According to Homeland Security, these scenarios are defined by their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.
