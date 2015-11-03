@@ -37,7 +37,7 @@ And many students do agree that he means well. Barbara Duckworth, a junior at MI
 
 
 
-Schumaker: "They are forced into a dual role, both being a support for students but also a support for the institute itself and really that's what leads to my neutral opinion of them. They do care about you, but there is a cutoff, past which point they really might not be able to help you or it would be unwise for them to help you, either for your own benefit or for the institutes (and which itself can often be unclear as well). That's about all I can say. I don't have a moment where I could say they were outstanding even though I'm sure there were those moments. The truth is I can't recall the good moments as well as the bad ones. I wish I had more to give you but that's it."
+Schumaker: "They [S3] are forced into a dual role, both being a support for students but also a support for the institute itself and really that's what leads to my neutral opinion of them. They do care about you, but there is a cutoff, past which point they really might not be able to help you or it would be unwise for them to help you, either for your own benefit or for the institutes (and which itself can often be unclear as well). That's about all I can say. I don't have a moment where I could say they were outstanding even though I'm sure there were those moments. The truth is I can't recall the good moments as well as the bad ones. I wish I had more to give you but that's it."
 
 [Past Life (and struggles) of Dean Randall:]
 
