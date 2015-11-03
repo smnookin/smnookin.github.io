@@ -13,6 +13,7 @@ title: "Rethinking education, one bike ride at a time"
 ---
 
 
+
 ![Screen Shot 2015-10-05 at 8.22.37 PM.png]({{site.baseurl}}/assets/Screen Shot 2015-10-05 at 8.22.37 PM.png)
 Biking across the country is a strenuous undertaking but not so rare as to merit special attention all on its own. Similarly, there are plenty of groups trying to make the four subjects collectively known as STEM (science, technology, engineering, and math) more enticing for young students. But a cross-country bike trip that teaches an innovative STEM curriculum along the way? Now that’s something new. 
 
@@ -20,7 +21,7 @@ That’s exactly what a team of seven students from Harvard and M.I.T., known as
 
 “I think everyone should have the opportunity to learn by doing,” M.I.T. sophomore Drew Bent said, capturing the gist of the team’s motivations for pursuing such an ambitious journey.
 
-The group, which was founded last year, embarked on a mission to teach students across the nation science and engineering subjects, with a twist. The group implemented a creative, workshop-centric, curriculum that they hoped would enable students to take more ownership of their learning, in an effort to modify the traditional classroom setting and reach students in a variety of communities. The team is dedicated to “revealing the exploratory and boundless nature of learning to students across the US,” Bent said. Their mission stems from the simple idea that learning often occurs through semi-random pursuits such as self-directed projects into fields that genuinely interest people, and primarily outside of a classroom.
+The group, which was founded last year, embarked on a mission to teach students across the nation science and engineering subjects, with a twist. The group implemented a creative, workshop-centric, curriculum that they hoped would enable students to take more ownership of their learning, in an effort to modify the traditional classroom setting and reach students in a variety of communities. The team is dedicated to revealing the exploratory and boundless nature of learning to students across the US. Their mission stems from the simple idea that learning often occurs through semi-random pursuits such as self-directed projects into fields that genuinely interest people, and primarily outside of a classroom.
 
 Spokes members structured their teaching sessions around what they called “learning festivals.” These workshops entailed teaching hands-on, project-based classes. A dozen schools, libraries, and camps across America hosted the team over the course of the summer, directly reaching out to students in the local communities to gather interest.
 
@@ -28,9 +29,9 @@ M.I.T. sophomore Jorge Tronsoco shared how throughout the course of three month 
 
 Teaching days involved three workshops, ranging from computer science to robotics to model rocket building, and each of which emphasized the creative process throughout.
 
-Focusing on mechanical engineering, the model rocket workshop aimed to point out to students how “different design decisions can drastically change the outcome of their product,” Tronsoco said, allowing freedom for exploration for the students building the rockets. In the electrical engineering workshop, “students [were] encouraged to think about personalizing their robots in the future,” further allowing this flexibility, accordingt to Tronsoco.
+Focusing on mechanical engineering, the model rocket workshop aimed to point out to students how “different design decisions can change the outcome of their product,” Tronsoco said, allowing freedom for exploration for the students building the rockets. In the electrical engineering workshop, “students [were] encouraged to think about personalizing their robots in the future,” further allowing this flexibility, according to Tronsoco.
 
-One of Tronsoco’s most memorable encounters was with a shy, home schooled student from Farmington, Connecticut. Although diligent, the boy did not quite understand the principles behind the robot he had made— Tronsoco proceeded to draw a circuit diagram, with the boy quietly observing. After copying the diagram, the student proudly showed his dad that evening. “I was humbled by the boy’s admiration, and by the feeling of being able to serve as a mentor for someone,” Tronsoco said.
+One of Tronsoco’s most memorable encounters was with a shy, home schooled student from Farmington, Connecticut. Although diligent, the boy did not quite understand the principles behind the robot he had made— Tronsoco proceeded to draw a circuit diagram, with the boy quietly observing. After copying the diagram, the student proudly showed his dad that evening. Tronsoco was humbled by the boy’s admiration, and "by the feeling of being able to serve as a mentor for someone."
 
 Harvard junior Francesca Childs was impacted by the similarities between herself and some of her students over the course of the summer. “A high school junior asked to stay after class to ask us about applying to college,” she said. “It was fun to talk to her and hear how her fears were so similar to mine,” particularly with respect to finding a suitable match, Childs said.
 
