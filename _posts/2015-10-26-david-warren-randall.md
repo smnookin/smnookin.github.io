@@ -11,9 +11,10 @@ tags:
 title: "Dean Randall's Rise to MIT"
 ---
 
+
 ![](http://tech.mit.edu/V132/N59/graphics/s3-2.jpg)	
 
-Doctor David Warren Randall was born on [date] in [place], unaware that there was huge city full of new ideas just outside his front door. When he was [age] years old, he knew that he wanted to study psychology, and eventually studied at three different prestigious schools that ended with him receiving a doctorate in Clinical Psychology.  
+Doctor David Warren Randall _____. _When he was [age] years old, he knew that he wanted to study psychology, and eventually studied at three different prestigious schools that ended with him receiving a doctorate in Clinical Psychology._  
 
 Today, Randall enjoys running around with his three boys and dog, as well as running an entire office at one of the most competitive and stressful colleges in the world. 
 
