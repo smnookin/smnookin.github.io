@@ -7,9 +7,10 @@ displaydate: "2015-10-12"
 date: "2015-10-12"
 category: MIT
 tags: 
-  - "null"
+  - student
 title: How not to build a course management system
 ---
+
 
 ![](http://web.mit.edu/belzner/Public/lmod-fail.png)
 
