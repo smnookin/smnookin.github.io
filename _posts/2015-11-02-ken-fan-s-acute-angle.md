@@ -3,12 +3,14 @@ layout: post
 published: false
 author: Rozanne Mungai
 link: ""
-displaydate: "11-02-15"
-date: ""
+displaydate: "2015-11-02"
+date: "2015-11-02"
 category: arts
-tags: null
+tags: 
+  - student
 title: Ken Fan’s Acute Angle
 ---
+
 
 
 ![ken_fan_image.png]({{site.baseurl}}/assets/ken_fan_image.png)
@@ -39,5 +41,4 @@ From there the girls went on to solve different puzzles and ultimately found som
 This approach only works, he told me, because “mentors work closely with each other, sharing and developing ideas to ensure that the girls receive high quality education. He hopes that Girls’ Angle can grow such that “parents can entrust [them] with the entire math education of their daughter.”
 
 **Ken Fan before Girls’ Angle**
-Fan describes himself as an “airforce brat.” His father was heavily involved with the military and so the whole family was forced to move around a lot. From Hawaii to California, back to Hawaii and then to Maryland, Fan never really got to make and keep close childhood friends. And with that, he only grew closer to his parents. 
-
+Fan describes himself as an “airforce brat.” His father was heavily involved with the military and so the whole family was forced to move around a lot. From Hawaii to California, back to Hawaii and then to Maryland, Fan never really got to make and keep close childhood friends. And with that, he only grew closer to his parents.
