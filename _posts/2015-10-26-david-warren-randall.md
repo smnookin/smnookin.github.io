@@ -7,9 +7,10 @@ displaydate: "2015-11-02"
 date: "2015-11-02"
 category: MIT
 tags: 
-  - "null"
+  - student
 title: "Dean Randall's Rise to MIT"
 ---
+
 
 
 ![](http://tech.mit.edu/V132/N59/graphics/s3-2.jpg)	
