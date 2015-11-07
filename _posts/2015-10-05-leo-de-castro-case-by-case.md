@@ -8,8 +8,10 @@ date: "2015-10-05"
 category: MIT
 tags: 
   - student
+  - slider
 title: "Leo de Castro: Case by Case"
 ---
+
 
 
 
