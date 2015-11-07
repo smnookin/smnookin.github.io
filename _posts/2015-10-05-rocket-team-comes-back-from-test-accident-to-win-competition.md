@@ -11,27 +11,24 @@ tags:
 title: Rocket Team comes back from test accident to win competition
 ---
 
-
-
-
 ![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)	
 On a January afternoon in 2015, four members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike engine. The team had been working feverishly for the past two years in preparation for that summer's Intercollegiate Rocket Engineering Competition. The design had proved more challenging than expected. As they fell further behind, the tension increased. 
 
 That the Rocket Team was having difficulty isn't a surprise: aerospike engines, which operate at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine, are so difficult to manufacture that there are no commercial ones in production. 
 
-But on this day, the team's members were excited. About ten seconds after the propulsion team lit the ignition, there was a large bang. Suddenly, the inside of the blast chamber was filled with a fiery explosion. 
+But on this day, the team's members were excited -- at least at first. But then, about ten seconds after the propulsion team lit the ignition, there was a large bang. Suddenly, the inside of the blast chamber was filled with a fiery explosion. 
 
-Rocket Team members immediately shut off the engine, called the MIT Fire Department, and vented the blast chamber of hazardous gases. After the Fire Department declared the chamber safe to enter, the students took pictures of the remnants of their engine. They needed to find out if a flaw in their engine design had caused the explosion. 
+"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're doing a rocket engine test, that's why we're doing this in a blast chamber," said Matt Vernacchia, who lead the Rocket Team's propulsion work. 
 
-The propulsion team had been investigating an ongoing issue with the engine. It was currently unable to sustain a flame inside the engine for longer than a few seconds. In order to successfully launch, the rocket would need to sustain combustion for several minutes. 
+But the team hadn't expected this type of explosion. After shutting off the engine, they called the MIT Fire Department and vented the blast chamber of hazardous gases. After the Fire Department declared the chamber safe to enter, the students took pictures of the remnants of their engine. They needed to find out if a flaw in their engine design had caused the explosion. 
+
+The propulsion team had been investigating an ongoing issue with the engine: It was unable to sustain a flame inside the engine for longer than a few seconds. In order to successfully launch, the rocket would need to sustain combustion for several minutes. 
 
 “We were trying to get the engine ready, and since it was the basis of the whole design, we couldn’t make any design decisions. So half the team was stuck without any information, and the engine kept iterating and getting more and more complicated," said Ryan Webb, 2014-2015 Rocket Team Vice President. 
 
-Shortly after the explosion occurred, Rocket Team was contacted by the facilities manager, Anthony Zolenik, who was investigating the accident. He had some information about the cause of the accident. The fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
+Shortly after the explosion occurred, the Rocket Team learned that the fan in the ventilation shaft of the blast chamber, which was installed in the 1960's, was not rated to the same safety standards as the rest of the chamber.
 
 During testing, the engine sprayed flammable gas into the ventilation shaft. A spark from the fan motor ignited the gas inside the shaft, causing an explosion that travelled down into the chamber. 
-
-"We were doing a rocket engine test. There was a small explosion. That's to be expected when you're doing a rocket engine test, that's why we're doing this in a blast chamber," said propulsion lead Matt Vernacchia.
 
 The explosion destroyed the fan, rendering the blast chamber unusable until it could be replaced. Rocket Team had used the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform propulsion testing. Now, they had no working engine and nowhere to test. 
 
