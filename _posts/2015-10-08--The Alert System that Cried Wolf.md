@@ -8,8 +8,9 @@ date: "2015-10-26"
 category: MIT
 tags: 
   - student
-title: The alert system that cried wolf.
+title: The alert system that cried wolf
 ---
+
 
 
 
@@ -24,7 +25,7 @@ But not only were those instructions recklessly dangerous -- there wasn't even a
 
 In particular, it was a blunder that happens to many people while filling out forms online: selecting the wrong text box. An officer had even typed the correct message into the campus alert system, but in submitting it checked the pre-scripted section, which defaulted to send the “active shooter” alert. 
 
-In this case, that detail was crucial. The false message was shared instantly across cell phones, inboxes, web pages, and social media. The panic spread beyond Cambridge: a tweet warning of an active shooter quickly gained over a thousand re-shares, prompting responses across the internet, and comments about Sandy Hook, gun rights, and conceal and carry. 
+In this case, that detail was crucial. The false message was shared instantly across cell phones, inboxes, web pages, and social media.  
 
 ![email1.png]({{site.baseurl}}/assets/email1.png)
 
@@ -44,10 +45,4 @@ There is also, of course, the added challenge of MIT’s location in a diverse u
 
 Soroush Vosoughi, a postdoctoral researcher who was working in the Media Lab building in the afternoon of the active shooter alert, recalls being calm during the lockdown, despite his proximity to the reported scene of crime. Even in a building whose walls are made entirely of glass on three sides, and in a see-through glass office, he was unfazed when the directions came to barricade doors and hide. After living through numerous alerts, during both the Boston Marathon Bombing and the shooting in August, he feels numb to react. “I would say [I’m] sadly more calm. I say sadly because it doesn’t surprise me anymore,” he said.
 
-
-
------------------------------------------
-
-
-
-According to Homeland Security, these scenarios are defined by their speed and scale, often occurring in confined and unsuspecting areas to random victims. This perpetuates fear and warrants different approaches to safety from other acts of gun violence.
+ 
