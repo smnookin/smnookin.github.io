@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: Leo de Castro
 link: ""
 displaydate: "2015-11-06"
@@ -10,6 +10,7 @@ tags:
   - student
 title: Examining MIT’s New Drug Policy
 ---
+
 
 ![](http://www.collegebound.net/blog/wp-content/uploads/2011/05/shutterstock_71425363.jpg)	
 When an alcohol-fueled night turns into an emergency, MIT's Help Seeking Practice policy, often referred to as the Good Samaritan rule, dictates that students calling for help won't be punished for violating campus alcohol rules. But for emergencies involving illegal drugs, students were not guaranteed the same protection, causing some to question whether the policy deters students from getting help when they need it most.
@@ -26,4 +27,4 @@ According to Camelio, that misses the point of the policy, which is not designed
 
 Camelio also said the policy will be reviewed and possibly reworded in light of some of the concerns that have been raised. In the meantime, Camelio says, students should direct any questions they may have about the policy [to his office](http://studentlife.mit.edu/cdsa/staff). 
 
-Referring to the old drug policy, one MIT senior said, “I know people who have not called the police specifically because of [the] policy.” It's the administration's goal that that not occur in the future. 
+Referring to the old drug policy, one MIT senior said, “I know people who have not called the police specifically because of [the] policy.” It's the administration's goal that that not occur in the future.
