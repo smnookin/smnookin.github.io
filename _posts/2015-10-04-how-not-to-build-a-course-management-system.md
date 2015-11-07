@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: Megan Belzner
 link: ""
 displaydate: "2015-10-12"
