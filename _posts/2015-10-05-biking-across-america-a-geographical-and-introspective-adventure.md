@@ -8,9 +8,10 @@ date: "2015-10-05"
 category: MIT
 tags: 
   - student
-  - slider
+  - image2
 title: "Rethinking education, one bike ride at a time"
 ---
+
 
 
 
