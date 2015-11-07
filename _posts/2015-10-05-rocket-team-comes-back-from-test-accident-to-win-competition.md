@@ -5,7 +5,7 @@ author: Janelle Mansfield
 link: ""
 displaydate: "2015-10-05"
 date: "2015-10-05"
-category: politics
+category: science
 tags: 
   - student
 title: Rocket Team comes back from test accident to win competition
