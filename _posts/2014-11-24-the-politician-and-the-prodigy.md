@@ -7,9 +7,10 @@ displaydate: December 8 2014
 date: November 24 2014
 tags: 
   - student
-  - slider
 author: Veronica Thomas
+link: ""
 ---
+
 
 ![Nadeem and Ali opening](http://i57.tinypic.com/205w76s.png)
 Buddies Ali Mohammad and Nadeem Mazen became business partners in May 2011, when they opened danger!awesome, a workshop in Cambridge. There, trained technicians and customers alike can cut and engrave anything from pint glasses to toilet seats using blazing lasers. 
