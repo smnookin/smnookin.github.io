@@ -8,8 +8,10 @@ date: "2015-10-12"
 category: MIT
 tags: 
   - student
+  - image3
 title: How not to build a course management system
 ---
+
 
 
 ![](http://web.mit.edu/belzner/Public/lmod-fail.png)	
