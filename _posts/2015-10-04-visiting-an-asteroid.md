@@ -8,9 +8,10 @@ date: "2015-10-25"
 category: science
 tags: 
   - student
-  - slider
+  - image1
 title: Mapping a Cosmic Threat
 ---
+
 
 
 ![](http://blogs.solidworks.com/teacher/wp-content/uploads/sites/3/vibration-testing-225x300.jpg)	
