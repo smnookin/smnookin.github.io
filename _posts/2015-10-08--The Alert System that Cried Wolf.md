@@ -21,13 +21,11 @@ But not only were those instructions recklessly dangerous -- there wasn't even a
 
 “We made a mistake," said John DiFava, MIT Chief of Police. "We made a mistake.” But while DiFava is quick to acknowledge the blunder now, at the time, the Institute's follow-up to its initial missive was much slower in coming. And DiFava's explanation -- that an MIT police officer selected the wrong text box on MIT's campus alert system -- doesn't explain the follow-up message instructing students to create their own weaponry. 
 
-“At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. 
+“At no time on Sunday did we believe there to be an active shooter posing a threat to any member of the MIT community,” it emphasized on Tuesday afternoon. The letter also verified that the redundancies and conflicting messages were due to human error. In this case, that detail was crucial. The false message was shared instantly across cell phones, inboxes, web pages, and social media.  
+ 
 
-In particular, it was a blunder that happens to many people while filling out forms online: selecting the wrong text box. An officer had even typed the correct message into the campus alert system, but in submitting it checked the pre-scripted section, which defaulted to send the “active shooter” alert. 
+![bmb.jpg]({{site.baseurl}}/assets/bmb.jpg)
 
-In this case, that detail was crucial. The false message was shared instantly across cell phones, inboxes, web pages, and social media.  
-
-![email1.png]({{site.baseurl}}/assets/email1.png)
 
 By the time the slip-up was discovered by the MIT Police, and a corrective message was dispatched, ten long minutes had already passed, a significant gap when considering that the average length of an active shooter spree, according to Homeland Security, is only two and a half minutes longer.  Furthermore, ambiguities persisted: although the second message clarified that there was no active shooter on campus, it was unclear whether or not there had been an active shooter scenario at all.  
  
