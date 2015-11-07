@@ -8,8 +8,10 @@ date: "2015-11-06"
 category: MIT
 tags: 
   - student
+  - slider
 title: Examining MIT’s New Drug Policy
 ---
+
 
 
 ![](http://www.collegebound.net/blog/wp-content/uploads/2011/05/shutterstock_71425363.jpg)	
