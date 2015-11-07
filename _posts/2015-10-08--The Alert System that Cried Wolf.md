@@ -8,7 +8,7 @@ date: "2015-10-26"
 category: MIT
 tags: 
   - student
-title: The alert system that cried wolf
+title: the Alert System that Cried Wolf
 ---
 
 
@@ -26,6 +26,7 @@ But not only were those instructions recklessly dangerous -- there wasn't even a
 
 ![bmb.jpg]({{site.baseurl}}/assets/bmb.jpg)
 
+__Police at the Boston Marathon Bombing, the last time there was a lockdown at MIT__ 
 
 By the time the slip-up was discovered by the MIT Police, and a corrective message was dispatched, ten long minutes had already passed, a significant gap when considering that the average length of an active shooter spree, according to Homeland Security, is only two and a half minutes longer.  Furthermore, ambiguities persisted: although the second message clarified that there was no active shooter on campus, it was unclear whether or not there had been an active shooter scenario at all.  
  
