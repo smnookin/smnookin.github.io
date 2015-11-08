@@ -16,6 +16,9 @@ title: MIT Administrators Struggle In Times of Campus Tradgedy
 
 ![](http://tech.mit.edu/V132/N59/graphics/s3-2.jpg)	
 
+Last year saw [four confirmed MIT student suicides](http://www.boston.com/news/education/2015/09/01/after-tough-year-suicides-campus-mit-aims-improve-mental-health-culture/Gv6q0XaqjxpjTmkm2XxapO/story.html) and [a lot of press](https://www.bostonglobe.com/metro/2015/03/16/mit-students-open-about-stress/dS61oA5tiKqjvVsJ5VZRAL/story.html?p1=Article_Related_Box_Article) about MIT's intense student stress levels.
+
+
 Doctor David Warren Randall _____. _When he was [age] years old, he knew that he wanted to study psychology, and eventually studied at three different prestigious schools that ended with him receiving a doctorate in Clinical Psychology._  
 
 Today, Randall enjoys running around with his three boys and dog, as well as running an entire office at one of the most competitive and stressful colleges in the world. 
@@ -81,5 +84,10 @@ After one of the deaths "I went out to dinner with my family and teh kids wanted
 Impact of a tough year at MIT on Dean Randall (25:54)
 "It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
 "although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feelinlg to have.
+
+
+
+![]({{site.baseurl}}/https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2015/03/11/BostonGlobe.com/Metro/Images/150310_rachel_031a.jpg)
+Rachel Davis, shown above, writes an [MIT Admissions Blog](http://mitadmissions.org/blogs/author/racdavis) about campus life. 
 
 
