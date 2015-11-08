@@ -8,8 +8,9 @@ date: "2015-11-02"
 category: MIT
 tags: 
   - student
-title: "Dean Randall's Rise to MIT"
+title: MIT Administrators Struggle In Times of Campus Tradgedy
 ---
+
 
 
 
@@ -58,3 +59,27 @@ Randall’s life quickly escalated as he and his wife and three boys moved aroun
 [The Future of Randall:]
 
 [The future – what comes next for David Randall?]
+
+1:58 - What do you do
+
+3:45 - RIse to Director (been at MIT since 2005, 2008/2009 crisis financial layoff and restructuring)
+
+7:02 - separation from mentla health (at other places the support network is a web that supports mental health, student life, academic support area. We all kind of structure it differently.
+
+8:56 - visitng other schools
+
+10:33  family (11, 9 and 6 year old boys
+
+12;04 - work-life balance - family is the priority
+22:41 - maintaining positiivity is very challenging
+MIT 
+How do you manage
+"Its challenging, umm, I try to be very efficient at work. I try to get all my work done during the day, but MIT makes it hard. I sometimes work later on when the kids are asleep. IT takes really prioritizing, for instance, my kids play baseball, I want to see them play, and that means that there are some days where I leave work early. But then I have to compensate for that. I think that the times that are the hardest are years like we had last year. Where it takes a toll on all of us."
+"It obviously takes a toll on the students but from a practical perspective it takes  a toll on a lot of us."
+After one of the deaths "I went out to dinner with my family and teh kids wanted to talk, so we went out to this dinner and we're sitting there with a pile of nachos and they're talking to me and they were saying that they missed me and haven't seen me. And in the middle fo the dinner I got an important phone call and had to leave the table. I could not prioritize them when the campus was struggling."
+
+Impact of a tough year at MIT on Dean Randall (25:54)
+"It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
+"although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feelinlg to have.
+
+
