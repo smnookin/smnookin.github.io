@@ -66,8 +66,7 @@ And the tough tradgedies of the past year did not just invade Randall's home lif
 
 
 
-
-![]({{site.baseurl}}/https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2015/03/11/BostonGlobe.com/Metro/Images/150310_rachel_031a.jpg)
+![](https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2015/03/11/BostonGlobe.com/Metro/Images/150310_rachel_031a.jpg)	
 Rachel Davis, shown above, writes an [MIT Admissions Blog](http://mitadmissions.org/blogs/author/racdavis) about campus life. 
 
 
