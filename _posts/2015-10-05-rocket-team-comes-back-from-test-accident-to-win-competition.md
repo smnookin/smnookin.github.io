@@ -13,10 +13,11 @@ title: Rocket Team comes back from test accident to win competition
 
 
 
-![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)	
-On a January afternoon in 2015, four members of MIT Rocket Team met in the blast chamber of Building 31 to test a prototype of their advanced aerospike engine. The team had been working feverishly for the past two years in preparation for that summer's Intercollegiate Rocket Engineering Competition. The design had proved more challenging than expected. As they fell further behind, the tension increased. 
 
-That the Rocket Team was having difficulty isn't a surprise: aerospike engines, which operate at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine, are so difficult to manufacture that there are no commercial ones in production. 
+![](http://rocketteam.scripts.mit.edu/cms/wp-content/uploads/2013/11/launch.jpg)	
+On a January afternoon in 2015, four members of [MIT Rocket Team](http://rocketry.mit.edu/) met in the blast chamber of Building 31 to test a prototype of their advanced aerospike engine. The team had been working feverishly for the past two years in preparation for that summer's [Intercollegiate Rocket Engineering Competition](http://www.soundingrocket.org/irec1.html). The design had proved more challenging than expected. As they fell further behind, the tension increased. 
+
+That the Rocket Team was having difficulty isn't a surprise: [aerospike engines](https://www.youtube.com/watch?v=EWf4iOMSPNc), which operate at maximum aerodynamic efficiency for a wider range of altitudes than a traditional engine, are so difficult to manufacture that there are no commercial ones in production. 
 
 But on this day, the team's members were excited -- at least at first. But then, about ten seconds after the propulsion team lit the ignition, there was a large bang. Suddenly, the inside of the blast chamber was filled with a fiery explosion. 
 
@@ -34,7 +35,7 @@ During testing, the engine sprayed flammable gas into the ventilation shaft. A s
 
 The explosion destroyed the fan, rendering the blast chamber unusable until it could be replaced. Rocket Team had used the blast chamber, owned by the Gas Turbine Laboratory (GTL), for the past year to perform propulsion testing. Now, they had no working engine and nowhere to test. 
 
-In the aftermath of the accident, the Aero/Astro department began to question some of the team's safety practices. When the accident occurred, none of the GTL staff, other than the technician in charge of the blast chamber, were aware that Rocket Team was conducting a test that day. The Aero/Astro department and GTL felt that more oversight was needed for propulsion testing. 
+In the aftermath of the accident, the [Aero/Astro department](http://aeroastro.mit.edu/) began to question some of the team's safety practices. When the accident occurred, none of the GTL staff, other than the technician in charge of the blast chamber, were aware that Rocket Team was conducting a test that day. The Aero/Astro department and GTL felt that more oversight was needed for propulsion testing. 
 
 Before the testing incident, “We were given a lot of autonomy. [Our faculty advisor, Professor Lozano] knew we were continuously doing stuff, but apparently that wasn't clear to the rest of the GTL staff,” said Webb. 
 
@@ -56,7 +57,7 @@ Rocket Team swapped the aerospike for a more conventional, off-the-shelf solid r
 
 Rocket Team suffered two more setbacks before their winning launch. During a test flight in May, the parachute failed to deploy and the rocket body was obliterated and had to be completely rebuilt. On the first day of the competition in June, the payload module broke while being attached to the rocket. 
 
-After repairing the payload module overnight, Rocket Team launched successfully the next day to win the basic rocket category. The basic category requires a 10lb payload be sent to 10,000 ft. Rocket Team reached an altitude of 9,690 ft and were awarded additional points for their payload design. 
+After repairing the payload module overnight, Rocket Team launched successfully [the next day to win the basic rocket category](http://news.mit.edu/2015/mit-rocket-team-places-first-international-rocket-engineering-competition-0722). The basic category requires a 10lb payload be sent to 10,000 ft. Rocket Team reached an altitude of 9,690 ft and were awarded additional points for their payload design. 
 
 The team plans to compete in the basic category again next summer, but use fewer commercial parts and more of their own hardware. The advanced category does not allow any commercial parts be used, and raises the altitude to 25,000 ft. 
 
