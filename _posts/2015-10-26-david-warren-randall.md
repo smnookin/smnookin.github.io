@@ -18,12 +18,16 @@ title: MIT Administrators Struggle In Times of Campus Tradgedy
 
 Last year saw [four confirmed MIT student suicides](http://www.boston.com/news/education/2015/09/01/after-tough-year-suicides-campus-mit-aims-improve-mental-health-culture/Gv6q0XaqjxpjTmkm2XxapO/story.html) and [a lot of press](https://www.bostonglobe.com/metro/2015/03/16/mit-students-open-about-stress/dS61oA5tiKqjvVsJ5VZRAL/story.html?p1=Article_Related_Box_Article) about MIT's intense student stress levels.
 
+Today, MIT is more than halfway through a fresh semester and a [new plan](http://cms350.com/mit/how-helpful-will-changes-to-mit-student-health-services-be-in-wake-of-recent-graduate-student-suicide.html) intended to decrease student stress levels and increase student resources on campus. Yet, both administrators and students are still reflecting upon the last year and the stress and anxiety that it instilled across campus. Doctor David Warren Randall, the Director of MIT's Student Support Services (S3) on campus, was among the administrators deeply affected by the tradgedies of the past year.
 
-Doctor David Warren Randall _____. _When he was [age] years old, he knew that he wanted to study psychology, and eventually studied at three different prestigious schools that ended with him receiving a doctorate in Clinical Psychology._  
+"It obviously takes a toll on the students but from a practical perspective it takes  a toll on a lot of us." Randall said,
+"It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
+
+MIT’s Student Support Services, or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is difficult to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services.
+
+
 
 Today, Randall enjoys running around with his three boys and dog, as well as running an entire office at one of the most competitive and stressful colleges in the world. 
-
-MIT’s Student Support Services, or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation. “What we have here is really unique,” Randall said.  It is difficult to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services.
 
 In an interview with MIT’s newspaper, The Tech, Randall said, “We call ourselves deans, or administrators, who have a lot of experience working with students who have difficulties in their life.” The deans at S3 are known for being “lifesavers” for students in crisis, especially when it feels like they have no other outlets.
 
@@ -78,7 +82,7 @@ Randall’s life quickly escalated as he and his wife and three boys moved aroun
 MIT 
 How do you manage
 "Its challenging, umm, I try to be very efficient at work. I try to get all my work done during the day, but MIT makes it hard. I sometimes work later on when the kids are asleep. IT takes really prioritizing, for instance, my kids play baseball, I want to see them play, and that means that there are some days where I leave work early. But then I have to compensate for that. I think that the times that are the hardest are years like we had last year. Where it takes a toll on all of us."
-"It obviously takes a toll on the students but from a practical perspective it takes  a toll on a lot of us."
+
 After one of the deaths "I went out to dinner with my family and teh kids wanted to talk, so we went out to this dinner and we're sitting there with a pile of nachos and they're talking to me and they were saying that they missed me and haven't seen me. And in the middle fo the dinner I got an important phone call and had to leave the table. I could not prioritize them when the campus was struggling."
 
 Impact of a tough year at MIT on Dean Randall (25:54)
