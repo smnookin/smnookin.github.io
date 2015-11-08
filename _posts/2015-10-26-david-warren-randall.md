@@ -25,17 +25,17 @@ Today, MIT is more than halfway through a fresh semester and a [new plan](http:/
 
 MIT’s Student Support Services, or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is difficult to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services.
 
-
-
-Today, Randall enjoys running around with his three boys and dog, as well as running an entire office at one of the most competitive and stressful colleges in the world. 
+********7:02 - separation from mentla health (at other places the support network is a web that supports mental health, student life, academic support area. We all kind of structure it differently.***********
 
 In an interview with MIT’s newspaper, The Tech, Randall said, “We call ourselves deans, or administrators, who have a lot of experience working with students who have difficulties in their life.” The deans at S3 are known for being “lifesavers” for students in crisis, especially when it feels like they have no other outlets.
+
+Randall oversees the entire service and manages day-to-day operations of the services. 
 
 "My impression is that [the S3 Deans] are generally fairly useful and willing to work with students who are having problems," said Sarah Warkander, a senior at MIT.
 
 However, many students have mixed feelings about individual deans, Randall included. 
 
-Kayla Esquivel, a recent graduate of MIT pursuing her masters in engineering at MIT, said, ""he was perfectly amiable when dealing with me, and I never had any serious problems with him, but I definitely heard horror stories form other people. Apparently he wasn't terribly good at being consistent with the things he claimed, and with the promises he would make."
+Kayla Esquivel, a recent graduate of MIT pursuing her masters in engineering at MIT, said, "he was perfectly amiable when dealing with me, and I never had any serious problems with him, but I definitely heard horror stories form other people. Apparently he wasn't terribly good at being consistent with the things he claimed, and with the promises he would make."
 
 Warkander continued her thoughts and said "there's an unfortunate level of variation dean-to-dean. Some of the deans are much more understanding than others, and there is really nowhere to go if they are unreasonable to you." She continues that sometimes deans will not follow up with things that they have promised to do, since the office is usually fairly busy. "In general I think [S3 is] a very good resource, but it would be good if there were more mechanisms to effectively appeal their decisions and get a second opinion from a different dean."
 
@@ -45,49 +45,25 @@ Randall told The Tech, “[MIT students] feel that they’re struggling but don�
 
 And many students do agree that he means well. Barbara Duckworth, a junior at MIT, said "Overall, Dean Randall was really helpful. He responded to my calls when I was freaking out about getting back into MIT, and basically handled everything regarding teachers for the duration of my absence."
 
-
-
-Schumaker: "They [S3] are forced into a dual role, both being a support for students but also a support for the institute itself and really that's what leads to my neutral opinion of them. They do care about you, but there is a cutoff, past which point they really might not be able to help you or it would be unwise for them to help you, either for your own benefit or for the institutes (and which itself can often be unclear as well). That's about all I can say. I don't have a moment where I could say they were outstanding even though I'm sure there were those moments. The truth is I can't recall the good moments as well as the bad ones. I wish I had more to give you but that's it."
-
-[Past Life (and struggles) of Dean Randall:]
-
 Randall has experienced his own fair of struggles, allowing him to empathize with students as they take a very short break from their hectic schedules to sit down and chat with him about their crazy lives. He obtained his Bachelor’s degree in Psychology and Economics in 1996 from a private liberal arts college in upstate New York, followed with a two-year pre-doctoral internship at Brown University and a six-year course of study to finally receive his Ph. D. in Clinical Psychology.
 
-[Insert quote from Randall about his pursuing of his Ph. D. Why did he choose clinical psychology? Did he know he wanted to work at a place like S3? What was it like moving around all the time? Major challenges in his work?]
+"I always was the sort of person people came to when they wanted help." Randall said on why he studied clinical psychology. "When I went to school I just thought that I was going to major in psychology." Randall also said that his professors made the field seem extremely exciting.
 
 Randall’s life quickly escalated as he and his wife and three boys moved around and eventually ended up at MIT’s S3, starting out as an Assistant Dean in 2005 and ending up as today’s Associate Dean and Director of the services.
 
-[Today of Dean Randall (Making the full circle):]
+And being a Dean and Director of S3 is difficult, especially when it comes to being a full-time director and a full-time parent. Randall says that his family is always the priority, but at times work seems to take over his life. 
 
-[More about work-life balance with S3 and his family]
-
-[More about family life – talk to someone else about this. Does it get stressful?]
-
-[The Future of Randall:]
-
-[The future – what comes next for David Randall?]
-
-1:58 - What do you do
-
-3:45 - RIse to Director (been at MIT since 2005, 2008/2009 crisis financial layoff and restructuring)
-
-7:02 - separation from mentla health (at other places the support network is a web that supports mental health, student life, academic support area. We all kind of structure it differently.
-
-8:56 - visitng other schools
-
-10:33  family (11, 9 and 6 year old boys
-
-12;04 - work-life balance - family is the priority
-22:41 - maintaining positiivity is very challenging
-MIT 
-How do you manage
 "Its challenging, umm, I try to be very efficient at work. I try to get all my work done during the day, but MIT makes it hard. I sometimes work later on when the kids are asleep. IT takes really prioritizing, for instance, my kids play baseball, I want to see them play, and that means that there are some days where I leave work early. But then I have to compensate for that. I think that the times that are the hardest are years like we had last year. Where it takes a toll on all of us."
+After one of the deaths last year, Randall said that he "went out to dinner with [his] family and the kids wanted to talk, so we went out to this dinner and we're sitting there with a pile of nachos and they're talking to [him] and they were saying that they missed [him] and haven't seen [him]. And in the middle fo the dinner I got an important phone call and had to leave the table. I could not prioritize them when the campus was struggling."
 
-After one of the deaths "I went out to dinner with my family and teh kids wanted to talk, so we went out to this dinner and we're sitting there with a pile of nachos and they're talking to me and they were saying that they missed me and haven't seen me. And in the middle fo the dinner I got an important phone call and had to leave the table. I could not prioritize them when the campus was struggling."
+And the tough tradgedies of the past year did not just invade Randall's home life. It impacted his psyche.  "It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
 
-Impact of a tough year at MIT on Dean Randall (25:54)
-"It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
-"although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feelinlg to have.
+"Although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feelinlg to have."
+
+
+
+
+
 
 
 
