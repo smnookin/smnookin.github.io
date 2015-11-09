@@ -12,6 +12,7 @@ title: Tony Kilbridge Profile
 
 Footnotes to be added to explain rowing things
 Still have one more source to talk to (one of tony’s boatmates from Harvard)
+Also gonna add pics/quotes
 
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure hanging off the riverbank, built in the 1930’s and covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
 
