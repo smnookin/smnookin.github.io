@@ -10,6 +10,9 @@ tags: null
 title: Tony Kilbridge Profile
 ---
 
+Footnotes to be added to explain rowing things
+Still have one more source to talk to (one of tony’s boatmates from Harvard)
+
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure hanging off the riverbank, built in the 1930’s and covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
 Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as head coach at MIT, and the fall racing season is just winding down. This fall the heavyweights have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
 Kilbridge was first introduced to rowing as a child when he and his family went to watch his father’s friend compete in the very first Head of the Charles (held 51 years ago in 1965). When he arrived at Harvard in the fall of 1978, he was inundated with advertising to join “Harvard’s #1 Sport.” He talks about his first impression of the Harvard team:
@@ -88,9 +91,6 @@ There’s no doubt that Kilbridge cares about the team and finding ways to overc
 He looks out the window of the boathouse, where sunlight is sparking on the Charles River. It’s a windy day and the water is choppy, but those are typical rowing conditions in Boston. Crews learn to adapt to the chop and row proficiently in a headwind.
 “I’ve always felt comfortable in the job, even from the beginning. I like that age group of people; I like working with people who are motivated,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
 
-
-Footnotes to be added to explain rowing things
-Email colgan’s source (one of tony’s boatmates from Harvard)
 
 
 
