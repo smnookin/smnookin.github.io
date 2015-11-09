@@ -1,11 +1,11 @@
 ---
 layout: post
 published: false
-author: ""
+author: Janelle Mansfield
 link: ""
-displaydate: ""
+displaydate: "11-09-2015"
 date: ""
-category: MIT
+category: arts
 tags: null
 title: Tony Kilbridge Profile
 ---
