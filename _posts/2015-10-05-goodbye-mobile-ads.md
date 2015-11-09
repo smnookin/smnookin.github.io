@@ -21,11 +21,11 @@ Now, iPhone users can download apps that block 3rd party advertisements on any w
 
 One MIT student, Colin McDonnell, gave a justification for the use of ad-blocking. He said that he “…would much rather pay a subscription than have to deal with ads everywhere. Since [publishers] don’t give an option to pay for the content, I will block ads until they change their business models.”
 
-Publishers are concerned that many people do not realize how much ad-blocking can harm business. If everyone used ad-blockers, many publishers would lose their revenue stream and likely go out of business. And ad blockers are on the rise. A new report from Adobe says $22 billion worth of ads will be blocked in 2015. ( http://downloads.pagefair.com/reports/2015_report-the_cost_of_ad_blocking.pdf )
+Publishers are concerned that many people do not realize how much ad-blocking can harm business. If everyone used ad-blockers, many publishers would lose their revenue stream and likely go out of business. And ad blockers are on the rise. A new report from Adobe says [$22 billion](http://downloads.pagefair.com/reports/2015_report-the_cost_of_ad_blocking.pdf) worth of ads will be blocked in 2015.
 
 While content blocking has been possible on desktops for many years, the introduction of the feature on iPhone poses a bigger problem to publishers because a large portion of people read news on phones, and iPhones account for over 50% of mobile web usage.
 
-Besides the visual distraction, online advertisements cause a number of other problems — especially on mobile devices. Advertisements make articles slower to download, and also take up a large amount of bandwidth — which can be costly to readers. For example — according to the New York Times — articles on Boston.com will load 3 times faster if ads are blocked. ( http://www.nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html?_r=0 ) 
+Besides the visual distraction, online advertisements cause a number of other problems — especially on mobile devices. Advertisements make articles slower to download, and also take up a large amount of bandwidth — which can be costly to readers. For example — according to the _New York Times_ — articles on _Boston.com_ will [load 3 times faster if ads are blocked](http://www.nytimes.com/2015/10/01/technology/personaltech/ad-blockers-mobile-iphone-browsers.html?_r=0). 
 
 Using an ad-blocker on the iPhone is very compelling. It will remove the visual image of the ad. It will make the article you are reading load faster. It will save you money on data costs. It will improve your battery life by decreasing the number of scripts running. And finally, it will prevent ad networks from recording a history of what sites you visit.
 
@@ -33,7 +33,7 @@ Developers have already written dozens of content blocking apps. The justificati
 
 However, it’s unclear that tracking is the biggest issue users have with ad-blockers. In a small polling of MIT students who use ad-blocking, the reason they used blockers was almost always because the visual ads were “annoying” or “frustrating.” Out of 15 students at MIT that said they used ad-blockers, none of them gave the reason that they had concerns about privacy and tracking.
 
-Nilay Patel, EIC of The Verge, suggests that as more people start to block advertisements, ad networks will create more intrusive ads to combat the lost revenue, which will cause more people to block ads.
+Nilay Patel, EIC of_The Verge_, suggests that as more people start to block advertisements, ad networks will create more intrusive ads to combat the lost revenue, which will cause more people to block ads.
 
 But Patel argues that this new feature on iOS is not about helping the consumer: it’s about helping Apple. Patel says that “the biggest provider of ads on the web is Google”, Apple’s biggest rival. Apple could have included this feature to benefit their own platform.
 
