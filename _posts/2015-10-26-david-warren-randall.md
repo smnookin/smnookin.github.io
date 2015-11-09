@@ -18,14 +18,13 @@ title: MIT Administrators Struggle In Times of Campus Tradgedy
 
 Last year saw [four confirmed MIT student suicides](http://www.boston.com/news/education/2015/09/01/after-tough-year-suicides-campus-mit-aims-improve-mental-health-culture/Gv6q0XaqjxpjTmkm2XxapO/story.html) and [a lot of press](https://www.bostonglobe.com/metro/2015/03/16/mit-students-open-about-stress/dS61oA5tiKqjvVsJ5VZRAL/story.html?p1=Article_Related_Box_Article) about MIT's intense student stress levels.
 
-Today, MIT is more than halfway through a fresh semester and a [new plan](http://cms350.com/mit/how-helpful-will-changes-to-mit-student-health-services-be-in-wake-of-recent-graduate-student-suicide.html) intended to decrease student stress levels and increase student resources on campus. Yet, both administrators and students are still reflecting upon the last year and the stress and anxiety that it instilled across campus. Doctor David Warren Randall, the Director of MIT's Student Support Services (S3) on campus, was among the administrators deeply affected by the tradgedies of the past year.
+Today, MIT is more than halfway through a fresh semester and a [new plan](http://cms350.com/mit/how-helpful-will-changes-to-mit-student-health-services-be-in-wake-of-recent-graduate-student-suicide.html) intended to decrease student stress levels and increase student resources on campus. Yet, both administrators and students are still reflecting upon the last year and the stress and anxiety that it excalated across campus. Doctor David Warren Randall, the Director of MIT's Student Support Services (S3) on campus, was among the administrators deeply affected by the tradgedies of the past year.
 
-"It obviously takes a toll on the students but from a practical perspective it takes  a toll on a lot of us." Randall said,
-"It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
+"It obviously takes a toll on the students but from a practical perspective, it takes  a toll on a lot of us." Randall said.
 
-MIT’s Student Support Services, or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is difficult to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services.
+MIT’s Student Support Services, or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is not always the case to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services, or that is so resource-heavy for students.
 
-********7:02 - separation from mentla health (at other places the support network is a web that supports mental health, student life, academic support area. We all kind of structure it differently.***********
+"Many mental health and counseling centers are tiny." Randall said, "we happen to have a huge service, but what I've seen at other places is that the support network is a web of support that exists in many different areas of the university, mainly mental health, student health, and academic support areas."
 
 In an interview with MIT’s newspaper, The Tech, Randall said, “We call ourselves deans, or administrators, who have a lot of experience working with students who have difficulties in their life.” The deans at S3 are known for being “lifesavers” for students in crisis, especially when it feels like they have no other outlets.
 
@@ -37,7 +36,7 @@ However, many students have mixed feelings about individual deans, Randall inclu
 
 Kayla Esquivel, a recent graduate of MIT pursuing her masters in engineering at MIT, said, "he was perfectly amiable when dealing with me, and I never had any serious problems with him, but I definitely heard horror stories form other people. Apparently he wasn't terribly good at being consistent with the things he claimed, and with the promises he would make."
 
-Warkander continued her thoughts and said "there's an unfortunate level of variation dean-to-dean. Some of the deans are much more understanding than others, and there is really nowhere to go if they are unreasonable to you." She continues that sometimes deans will not follow up with things that they have promised to do, since the office is usually fairly busy. "In general I think [S3 is] a very good resource, but it would be good if there were more mechanisms to effectively appeal their decisions and get a second opinion from a different dean."
+Warkander continued her thoughts and said "there's an unfortunate level of variation dean-to-dean. Some of the deans are much more understanding than others, and there is really nowhere to go if they are unreasonable to you." She continues that sometimes deans will not follow up with things that they have promised to do, since the office is usually fairly busy. 
 
 There is no doubt, however, that Randall does genuinely care about the happiness and success of the undergraduate student population. Not only does he stand as a member of many health and wellness boards on campus, but also he has a clear understanding of how students feel alone and are afraid of getting help. 
 
@@ -47,18 +46,23 @@ And many students do agree that he means well. Barbara Duckworth, a junior at MI
 
 Randall has experienced his own fair of struggles, allowing him to empathize with students as they take a very short break from their hectic schedules to sit down and chat with him about their crazy lives. He obtained his Bachelor’s degree in Psychology and Economics in 1996 from a private liberal arts college in upstate New York, followed with a two-year pre-doctoral internship at Brown University and a six-year course of study to finally receive his Ph. D. in Clinical Psychology.
 
+![](http://sciwrite.mit.edu/wp-content/uploads/2011/08/STRESSED-OUT-7.gif)
+
 "I always was the sort of person people came to when they wanted help." Randall said on why he studied clinical psychology. "When I went to school I just thought that I was going to major in psychology." Randall also said that his professors made the field seem extremely exciting.
 
-Randall’s life quickly escalated as he and his wife and three boys moved around and eventually ended up at MIT’s S3, starting out as an Assistant Dean in 2005 and ending up as today’s Associate Dean and Director of the services.
+Randall’s life quickly escalated as he and his wife got marrie and had three boys, all while moving around and eventually ending up at MIT’s S3. Randall and his wife, Beth, had three boys throughout the moves, Nathan, 11, Benji, 9, and Maxwell, 6. Randall started out as an Assistant Dean at S3 in 2005 and ended up as today’s Associate Dean and Director of the services.
 
 And being a Dean and Director of S3 is difficult, especially when it comes to being a full-time director and a full-time parent. Randall says that his family is always the priority, but at times work seems to take over his life. 
 
-"Its challenging, umm, I try to be very efficient at work. I try to get all my work done during the day, but MIT makes it hard. I sometimes work later on when the kids are asleep. IT takes really prioritizing, for instance, my kids play baseball, I want to see them play, and that means that there are some days where I leave work early. But then I have to compensate for that. I think that the times that are the hardest are years like we had last year. Where it takes a toll on all of us."
-After one of the deaths last year, Randall said that he "went out to dinner with [his] family and the kids wanted to talk, so we went out to this dinner and we're sitting there with a pile of nachos and they're talking to [him] and they were saying that they missed [him] and haven't seen [him]. And in the middle fo the dinner I got an important phone call and had to leave the table. I could not prioritize them when the campus was struggling."
+"Its challenging. I try to be very efficient at work. I try to get all my work done during the day, but MIT makes it hard. I sometimes work later on when the kids are asleep. It takes really prioritizing." 
+
+Randall says that when times are tough on campus, his life is very difficult and it becomes nearly impossible to keep work completely at work and not bring it home. "I think that the times that are the hardest are years like we had last year. Where it takes a toll on all of us," referring to the tragic suicides and other deaths that took place during the last two MIT semesters.
+
+After one of the deaths last year, Randall said that he "went out to dinner with [his] family and the kids wanted to talk, so we went out to this dinner and we're sitting there with a pile of nachos and they're talking to [him] and they were saying that they missed [him] and haven't seen [him]. And in the middle fo the dinner [he] got an important phone call and had to leave the table. [He] could not prioritize [his family] when the campus was struggling."
 
 And the tough tradgedies of the past year did not just invade Randall's home life. It impacted his psyche.  "It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
 
-"Although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feelinlg to have."
+"Although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feeling to have."
 
 
 
@@ -67,6 +71,7 @@ And the tough tradgedies of the past year did not just invade Randall's home lif
 
 
 ![](https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2015/03/11/BostonGlobe.com/Metro/Images/150310_rachel_031a.jpg)	
+
 Rachel Davis, shown above, writes an [MIT Admissions Blog](http://mitadmissions.org/blogs/author/racdavis) about campus life. 
 
 
