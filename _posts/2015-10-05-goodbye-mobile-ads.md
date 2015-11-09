@@ -11,6 +11,7 @@ tags:
 title: "Goodbye, Mobile Ads"
 ---
 
+
 ![Advertisement on iPhone](http://i.imgur.com/VreL2Nt.jpg)
 
 This month, Apple introduced a small change in the iPhone operating system could force publications to change the way they make money. iOS, Apple's mobile operating system, introduced a new feature that allows ad blocking on iPhones. In the past, web publishers have often relied on advertisements for revenue. Though many readers have avoided ads by using ad blockers on computers. Now, for the first time, readers are able to block ads on their phones as well.
@@ -33,12 +34,18 @@ Developers have already written dozens of content blocking apps. The justificati
 
 However, it’s unclear that tracking is the biggest issue users have with ad-blockers. In a small polling of MIT students who use ad-blocking, the reason they used blockers was almost always because the visual ads were “annoying” or “frustrating.” Out of 15 students at MIT that said they used ad-blockers, none of them gave the reason that they had concerns about privacy and tracking.
 
-Nilay Patel, EIC of_The Verge_, suggests that as more people start to block advertisements, ad networks will create more intrusive ads to combat the lost revenue, which will cause more people to block ads.
+Nilay Patel, EIC of _The Verge_, suggests that as more people start to block advertisements, ad networks will create more intrusive ads to combat the lost revenue, which will cause more people to block ads.
 
 But Patel argues that this new feature on iOS is not about helping the consumer: it’s about helping Apple. Patel says that “the biggest provider of ads on the web is Google”, Apple’s biggest rival. Apple could have included this feature to benefit their own platform.
 
 For example, there are ways for publishers to still show ads on iOS. They can use Apple’s proprietary news app, Apple News. Apple also includes a feature to host ads, so they receive a cut of the profits. It is possible that they introduced these two features at the same time in the attempt to convert publishers and readers to their proprietary system.
 
 Apple has always liked to control as much of the experience on their devices as possible, however this move could be damaging to the ideals of the open web. They did not respond to requests for comment.
+
+Mathew Butterick, an independent web publisher and designer, agrees that ads are far from the best way to monteize online content. Butterick says that he "loathes web ads as much as anyone... [and I'm] grateful for ad-blocking technology". He argues that ads detract from the design of websites as well as disobey the trust of readers' privacy.
+
+He thinks more publishers should switch to a business model like his. He has multiple online books that are free to read, with no ads. To make money, he sells physical copies of the books, asks for donations on his website, and sells custom made fonts.
+
+He warns that the only way readers can block ads and still allow publishers to stay in business is to help fund them in alternative ways. "Vote with your wallet," and pay for content you enjoy, "otherwise you’re a freeloader."
 
 The future of online journalism will definitely be impacted by this new feature. For now, users have to decide whether the improved experience is worth the ethical dilemma of hurting publishers. Publishers have to attempt to find new ways to monetize their content. And large tech companies, such as Apple, have to evaluate whether they are hurting the free and open web.
