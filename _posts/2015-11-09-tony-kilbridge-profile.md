@@ -22,6 +22,7 @@ Kilbridge was first introduced to rowing as a child when he and his family went 
 
 	I didn’t come on the first day of practice; I came on the second day. I was still making up my mind. This was still during freshman week, classes hadn’t even started. And [John Brock, the walk-on coach] said, “Where were you yesterday?!” That gave me some idea of the level of intensity about the whole thing. 
     
+
 Harvard University is a rowing powerhouse. For years, undefeated seasons were not unusual and they enjoyed complete domination of the collegiate rowing landscape. Kilbridge now found himself a part of this rowing dynasty. 
 
 “The big challenge was making the boat you wanted to make, rather than winning your races in the spring. The feeling was, if you made, whatever [boat you wanted]...you were gonna win most of your races,” said Kilbridge. 
@@ -38,6 +39,7 @@ The transition to the heavyweight team was difficult for Kilbridge because the h
 
 	At the time I was really angry about it, and it took me a long time to figure it out… If I had stayed on the lightweight team, that team was undefeated that year and won Sprints, and I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing. I bought a single and trained really hard in the single, and I immediately went into coaching. So I should thank my coach for putting me in the third boat. 
 
+
 (want to add some sort of line/visual break here)
 
 After graduation, Kilbridge, who had studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
@@ -47,7 +49,8 @@ After two years at St. Mark’s, Kilbridge wanted to get out into the world. “
 So, he chose to go to law school at Georgetown, “for all the wrong reasons...I want to reach back and smack myself in the head,” he said of his decision.  “I knew I was in trouble on one level, when i got to law school and I got the course brochure, and there’s dozens of classes… and I looked at it and said, well none of these interest me.” Kilbridge sighs and continues: 
 
 	“I did it for a long time. I enjoyed aspects of it, but overall, when I quit, I felt like I’d had a toothache for ten years and it finally went away. Don’t do that! That’s the crew thing you know. You get this stubbornness in rowing, like, I’m not really enjoying this but it has got to be good for me. It’s true when you’re rowing, but it’s not true in relationships and life and the rest of it, you know.” 
-    
+
+
 He laughs and adds, “You can edit out all the personal advice if you want to.”
 
 One good thing that came of Kilbridge’s decision to become a lawyer was that he returned to Boston to work at a law firm. He and his wife, who had met while living in the same dormitory at Harvard, dated during their senior year, and then parted ways, were suddenly back in the same city. “Long, boring story short: we got back together,” says Kilbridge. 
@@ -69,6 +72,7 @@ Kilbridge took inspiration for his coaching from his own rowing experience and f
 
 	“You know what it means to be like a duck? Here’s number three piece of personal advice for you. You gotta be like a duck. A duck on the surface of the water is very smooth, cruising along very peacefully, but under the water, he’s paddling like a mother as hard as possible. So that’s what I was trying to do.”
 
+
 Despite the challenge (or perhaps because of it), Kilbridge immediately fell in love with the job. His rowers appreciated his organization and candidness. Will Oliver, the current lightweight men’s coach at MIT, rowed under Kilbridge during his first years at UVA. 
 
 “Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He’s an impressive guy, he came in, told us what he intended to do with the team, how he was gonna try to make us faster, and we knew that he had a pretty good rowing background in terms of what he’d done himself, and that certainly never hurts, to feel like somebody’s got relevant experience. He made a big group of guys feel like they were in good hands.” 
@@ -88,7 +92,8 @@ Kilbridge laughs as he recalls his race in the doubles category at Henley. “It
 Kilbridge takes a moment to wax philosophical on training in the single. 
 
 	“Rowing a single can be rewarding, because if you succeed, it’s one hundred percent you, but it can be very discouraging because when you fail it’s one hundred percent you. It’s a lot harder than sweep rowing. It feels different than sweep rowing. It’s a lot more like erging. Every time you go to the catch it’s like ah! you know, you never get that light feeling of flying along the water. It’s like weightlifting in a boat.”
-    
+
+
 Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s nothing that’s more fun than rowing eights in college. That’s why all these alumni just never go away; they’re always around. I don’t think you can match it. It’s not like I’m ever trying to relive that or whatever, but it’s very special.”
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the weather’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
@@ -107,6 +112,7 @@ MIT’s crew program is an NCAA Division I sport, unlike other MIT athletic team
 
 	“There was dysfunction everywhere. The coaches didn’t like each other, the cox boxes were actually locked up downstairs so that one team wouldn’t take the other team’s cox boxes. And then the team itself, it was just dysfunctional on every level. So I looked at it and said, I can do better than this.”
     
+
 The atmosphere in the boathouse and between teams improved quickly after Kilbridge took over. However, the performance of the heavyweight men’s crew was extremely variable for Kilbridge’s first several years. 
 
 The crew he took on his first year had a lot of talent and in 2009 they had “the best year this team has had since the ‘70’s,” Kilbridge says. The crew beat Princeton, Yale, and Dartmouth, and finished in the middle of their league EARC at sprints (typically, the team finishes in the bottom third). The crew was so successful that they decided to travel to England compete in Henley that summer, and made it to semi-finals in the Ladies’ Challenge Plate. 
@@ -121,6 +127,7 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 
 	“If we are successful this year in being better than last year, which so far we are, then it will be five continuous years of progress, which is unusual in sports. Evan has done a really good job with the recruiting, so we’re getting better and better, and all the guys we have now are pretty good. The good guys we have now are really pretty good. We’re still not anywhere near the level of some crews, but it has come a long way.”
 
+
 Kilbridge pauses. This whole summary of the team’s performance began when I asked him what it took to build the team up. “Patience,” he says after a moment. “That’s the answer I should have given you. Patience.” 
 (want to add some sort of line/visual break here)
 
@@ -131,7 +138,7 @@ Kilbridge knows his rowers have to balance a difficult school workload with the 
 
 “It’s hard to tell a bunch of MIT students to just like turn your brain off and do exactly what the guy in front of you does,” says Nate Colgan, a class of 2015 alum. “Evan and Tony recognize that we’re not just brainless racehorses that you put in a boat.”
 
- According to Colgan, Kilbridge does a good job of explaining the technical intricacies of the rowing stroke to his rowers, so they understand why they row the way they do. Kilbridge takes time before each practice to break down the day’s technical focus, which is the part of the rowing stroke that they will focus on during practice. Kilbridge usually chooses drills and workouts that highlight the technical focus for that day. The team also regularly films their rowing and reviews the footage, so the rowers can see what they need to improve on. 
+According to Colgan, Kilbridge does a good job of explaining the technical intricacies of the rowing stroke to his rowers, so they understand why they row the way they do. Kilbridge takes time before each practice to break down the day’s technical focus, which is the part of the rowing stroke that they will focus on during practice. Kilbridge usually chooses drills and workouts that highlight the technical focus for that day. The team also regularly films their rowing and reviews the footage, so the rowers can see what they need to improve on. 
  
 “I always thought that Tony and Evan thought of their coaching style as giving us the tools to refine our own stroke,” said Colgan. “By giving us those mental checks--like on the pause drills--ideally it gets to the point where the rowers can use those thought processes that the coaches teach them to refine their own stroke. It’s hard as a rower to know if your stroke is right or wrong.”
 
