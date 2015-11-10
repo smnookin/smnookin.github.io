@@ -14,6 +14,7 @@ title: How not to build a course management system
 
 
 
+
 ![](http://web.mit.edu/belzner/Public/lmod-fail.png)	
 At one of the top engineering schools in the country, doing the homework should be the stressful part – not submitting it. But with the introduction of a new online course management system at the Massachusetts Institute of Technology, many students are having trouble with something as simple as that.
 
@@ -27,6 +28,6 @@ The development team at MIT's [Information Systems and Technology](http://ist.mi
 
 IS&T hopes that Learning Modules will ultimately be an effective solution for all classes at MIT, but many professors still choose other course management solutions for their own classes. Miller does give the software a bit of a pass, though. “They have to build something that works for everybody,” says Miller. “That’s a high bar to set.” For his own classes, Miller says he uses a mix of different tools. He’s quick to point out, though, that his is a simpler design problem to tackle. As a computer science professor, he can guarantee that all his course staff knows how to use certain technologies – a guarantee that definitely can’t be made for students or teaching assistants in every class.
 
-Miller isn’t even sure it’s possible to build a one-size-fits-all system that would work smoothly and efficiently. "A general-purpose [system] is never going to win,” he says But he says that IS&T should start by figuring out what works for the most people, and then focus on providing good interoperability – so that when a tool doesn’t work for any given class, the professor can substitute another tool with no friction. Miller points out that the old grading system made it easy to download and upload spreadsheets, a feature which the Learning Modules gradebook has lost.
+Miller isn’t even sure it’s possible to build a one-size-fits-all system that would work smoothly and efficiently. "A general-purpose [system] is never going to win,” he says. But he says that IS&T should start by figuring out what works for the most people, and then focus on providing good interoperability – so that when a tool doesn’t work for any given class, the professor can substitute another tool with no friction. Miller points out that the old grading system made it easy to download and upload spreadsheets, a feature which the Learning Modules gradebook has lost.
 
 In the meantime, he says, it's important for IS&T to work out the small but annoying bugs that plague features like sending out announcements. With something that basic, he says, "You just have to get it right. It should be a no-brainer.”
