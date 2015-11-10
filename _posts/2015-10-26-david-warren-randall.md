@@ -22,11 +22,11 @@ Today, MIT is more than halfway through a fresh semester and a [new plan](http:/
 
 "It obviously takes a toll on the students but from a practical perspective, it takes  a toll on a lot of us." Randall said.
 
-MIT’s Student Support Services, or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is not always the case to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services, or that is so resource-heavy for students.
+MIT’s [Student Support Services](http://mit.edu/uaap/s3/), or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is not always the case to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services, or that is so resource-heavy for students.
 
 "Many mental health and counseling centers are tiny." Randall said, "we happen to have a huge service, but what I've seen at other places is that the support network is a web of support that exists in many different areas of the university, mainly mental health, student health, and academic support areas."
 
-In an interview with MIT’s newspaper, The Tech, Randall said, “We call ourselves deans, or administrators, who have a lot of experience working with students who have difficulties in their life.” The deans at S3 are known for being “lifesavers” for students in crisis, especially when it feels like they have no other outlets.
+In [an interview](http://tech.mit.edu/V132/N59/s3.html) with MIT’s newspaper, The Tech, Randall said, “We call ourselves deans, or administrators, who have a lot of experience working with students who have difficulties in their life.” The deans at S3 are known for being “lifesavers” for students in crisis, especially when it feels like they have no other outlets.
 
 Randall oversees the entire service and manages day-to-day operations of the services. 
 
@@ -60,7 +60,7 @@ Randall says that when times are tough on campus, his life is very difficult and
 
 After one of the deaths last year, Randall said that he "went out to dinner with [his] family and the kids wanted to talk, so we went out to this dinner and we're sitting there with a pile of nachos and they're talking to [him] and they were saying that they missed [him] and haven't seen [him]. And in the middle fo the dinner [he] got an important phone call and had to leave the table. [He] could not prioritize [his family] when the campus was struggling."
 
-And the tough tradgedies of the past year did not just invade Randall's home life. It impacted his psyche.  "It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
+And the [tough tradgedies](https://www.bostonglobe.com/metro/2015/09/03/mit-bolsters-mental-health-services/26MMF8n9EbcxjZI3xVUxzI/story.html) of the past year did not just invade Randall's home life. It impacted his psyche.  "It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
 
 "Although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feeling to have."
 
