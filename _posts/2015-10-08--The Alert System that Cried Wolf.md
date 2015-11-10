@@ -8,8 +8,9 @@ date: "2015-10-26"
 category: MIT
 tags: 
   - student
-title: the Alert System that Cried Wolf
+title: The Alert System that Cried Wolf
 ---
+
 
 
 
@@ -32,7 +33,7 @@ By the time the slip-up was discovered by the MIT Police, and a corrective messa
 
 __Police at the crime scene following Officer Sean Collier's death, the last time there was a lockdown at MIT__  
 
-“I found it disconcerting, as the texts kept coming in, that it became clear that information that was told earlier could endanger students,” a researcher in the department of Urban Studies said. Her concern was directed towards the first message, which asked students to evacuate if possible, potentially leading them straight into the area of the crime. Moreover, although this had not been the case, the corrective text messages gave off the impression that the police had an unclear assessment of the situation. “It didn’t put a lot of faith in that I should follow directions for future events,” she said.
+“I found it disconcerting, as the texts kept coming in, that it became clear that information that was told earlier could endanger students,” said a researcher in Urban Studies who asked that her name not be used. Her concern was directed towards the first message, which asked students to evacuate if possible, potentially leading them straight into the area of the crime. Moreover, although this had not been the case, the corrective text messages gave off the impression that the police had an unclear assessment of the situation. “It didn’t put a lot of faith in that I should follow directions for future events,” she said.
 
 When asked about how MIT would avoid this mistake again, DiFava cited having additional personnel on campus focused solely on sending alerts. But putting emergency operators on call 24/7 would be a potential waste of valuable personnel, since there are few major emergencies at MIT. Another option would be to create a “consolidated dispatch concept,” although it is not yet determined what that concept would be, or whether it is underway. DiFava is quick to add, however, that “everything being relative, one is enough and I never want to make a mistake like that again.”
 
