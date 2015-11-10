@@ -12,8 +12,8 @@ title: "Goodbye, Mobile Ads"
 ---
 
 
-![Advertisement on iPhone](http://i.imgur.com/VreL2Nt.jpg)
 
+![Advertisement on iPhone](http://i.imgur.com/4msfj1u.jpg)
 This month, Apple introduced a small change in the iPhone operating system could force publications to change the way they make money. iOS, Apple's mobile operating system, introduced a new feature that allows ad blocking on iPhones. In the past, web publishers have often relied on advertisements for revenue. Though many readers have avoided ads by using ad blockers on computers. Now, for the first time, readers are able to block ads on their phones as well.
 
 Many articles that you read online are paid for by advertising. These ads can come in the form of pop-up ads, side images, sponsored links, and more. Companies pay online publishers to show ads to the readers, which allow articles to be seen for free. This is great for readers who don’t want to see ads, but bad for publishers who want to make money.
