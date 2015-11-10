@@ -3,12 +3,13 @@ layout: post
 published: false
 author: Andrew Owens
 link: ""
-displaydate: "11-09-2015"
-date: "11-09-2015"
+displaydate: "2015-11-09"
+date: "2015-11-09"
 category: science
 tags: null
 title: Celebrating Science
 ---
+
 
 “How cool is that?!”
 
