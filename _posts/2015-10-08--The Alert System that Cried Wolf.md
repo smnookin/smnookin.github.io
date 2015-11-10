@@ -11,7 +11,9 @@ tags:
 title: The Alert System that Cried Wolf
 ---
 
+
 ![textalert1.png]({{site.baseurl}}/assets/textalert1.png)
+
 On September 13th at 4:43PM, MIT sent a text to students, faculty, and staff, warning of an active shooter on campus and instructing those nearby to barricade doors and seek shelter. Panic ensued as community members sought refuge and watched as conflicting and alarming information poured in, including an MITAlert email with the instructions, "If confronted by shooter, attack using improvised weapons." 
 
 But not only were those instructions recklessly dangerous -- there wasn't even a gunman in the first place. Earlier that day, a woman not affiliated with MIT [was shot in the leg](https://www.bostonglobe.com/metro/2015/09/13/mit/cXtoYW5MSuFVqUpP0jvf3L/story.html) about a block away from campus. The shooter had never been on campus grounds nor made threats to the MIT community. 
