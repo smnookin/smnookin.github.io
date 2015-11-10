@@ -11,6 +11,7 @@ tags:
 title: "Uber-like Service Coming to MIT"
 ---
 
+
 ![](http://acl.mit.edu/projects/images/GEM.jpg)	
 Sometime in the next few years, MIT students could have the option of using self-driving custodial carts to travel to class, lab, lunch, or anything else they need to do on campus. This service is the brainchild of Jonathan How, a professor in the Department of Aeronautics and Astronautics. How, who also serves as Editor-in-Chief of IEEE Control Systems magazine, wants to use the carts to collect data about where students congregate at a given time so the vehicles can be deployed more effectively – sort of like the on-demand ride app Uber. 
 
@@ -18,7 +19,7 @@ Sometime in the next few years, MIT students could have the option of using self
 
 This idea contrasts with a lot of other research into autonomous vehicles, which tend to focus on improving the sensors so as to better avoid obstacles and provide a smoother ride. According to Miller, there will be two stages to the project. For the first stage, which could begin as early as this semester, the carts will be driven by humans and will only be available on East Campus, around Stata, Kendall and the Green building. Once that part of the trial is complete, How and his team hope to expand the project and use driverless carts. 
 
-Why the wait?  “The data can be gathered by driving [the carts] ourselves without a lot of the legal hassles…that come with trying to make vehicles autonomous,” Miller says. According to a CBS News story, there have already been issues deciding who is at fault when car crashes involve self-driving vehicles. INSERT LINK FOR THE CBS NEWS STORY
+Why the wait?  “The data can be gathered by driving [the carts] ourselves without a lot of the legal hassles…that come with trying to make vehicles autonomous,” Miller says. According to a CBS News story, [there have already been issues deciding who is at fault when car crashes involve self-driving vehicles](http://www.techtimes.com/articles/67253/20150728/driverless-cars-safe.htm).
 
 Liability issues are also part of the reason How’s team is using carts instead of larger vehicles. Carts can also access areas cars would be prohibited from, like sidewalks and other parts of campus, and the more places the carts can go, the better to collect data about where students tend to be at a certain time. Finally, Miller says, “people are used to these types of vehicles being on campus.” If the MIT trial goes well, How and his team hope to expand the project to an urban area in the near future.
 
@@ -30,11 +31,11 @@ Sound familiar? Companies such as Uber and Lyft have already been using mobile a
 
 Miller also adds that on-demand mobility is “a good way that these [autonomous vehicles] will start penetrating the market.” And with the average price of automated cars at $100,000, according to CBS news, they are out-of-reach for the average consumer. Using them as part of an on-demand service, will allow the public access to the vehicles.
 
-With all the buzz about self-driving vehicles, it only makes financial sense for companies to make them more accessible. Google and Tesla are already heavily invested in self-driving cars, and car companies such as Ford and Toyota are also getting involved and implementing automated features in their cars. CBC News has even hailed such cars as the “car of the future” and claimed that automated cars are better drivers than humans. YOU'RE RELYING A LOT ON CBS NEWS
+With all the buzz about self-driving vehicles, it only makes financial sense for companies to make them more accessible. Google and Tesla are already heavily invested in self-driving cars, and car companies such as Ford and Toyota are also getting involved and implementing automated features in their cars. A CBC News study has even hailed such cars as the “[car of the future](http://www.cbc.ca/news/technology/photos/cars-of-the-future-today-driverless-google-car-tesla-s-new-model-x-1.3250261)” and [claimed that automated cars are better drivers than humans](http://washington.cbslocal.com/2013/10/23/study-self-driving-cars-would-eliminate-majority-of-traffic-deaths-congestion/). YOU'RE RELYING A LOT ON CBS NEWS
 
 This huge public interest in self-driving technology is part of the reason why Miller believes on-demand automated services have the potential to radically change the way the public transportation works. However, he also adds that “what the future holds is hard to say.” 
 
-Daniela Rus, an MIT professor in EECS and Director of CSAIL, is also involved in attempting to make these out-of-reach vehicles reachable. In an interview with the MIT Technology Review, she said that her lab is focusing on creating a “minimalist solution” to the price problem by using fewer sensors in the vehicles. LINK TO TECH REVIEW ARTICLE
+Daniela Rus, an MIT professor in EECS and Director of CSAIL, is also involved in attempting to make these out-of-reach vehicles reachable. In an interview with the MIT News Office, [she said that her lab is focusing on creating a “minimalist solution” to the price problem by using fewer sensors in the vehicles](http://news.mit.edu/2015/autonomous-self-driving-golf-carts-0901).
 
 As it turns out, Miller’s approach—focusing on using automated vehicles as a taxi-like service—is still quite unique, and as he works on collecting all the data the lab needs, MIT students will be able to benefit from the cart rides as another way to get from class to class. 
 
