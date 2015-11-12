@@ -65,7 +65,7 @@ Hopkins seems imbued with superhuman time management skills, between her full ti
 
 “She doesn't sleep. I'm convinced she doesn't sleep! And if she does, it’s just in bursts. She sleeps from Friday midnight to Saturday noon, and that will sustain her for 4-5 days. She's an amazing hard worker,” she says. 
 
-Hopkins laughs but admits balancing all her commitments can be tough. 
+Hopkins admits balancing all her commitments can be tough. 
 
 “My day job always has to come first, otherwise the site wouldn’t be able to exist. I never say, ‘I’m going to leave work for five hours to watch gymnastics,’ although -” she lowers her voice, “I did go to the firm’s library and watch the women’s all around final in the middle of the day,” she laughs conspiratorially. 
 
