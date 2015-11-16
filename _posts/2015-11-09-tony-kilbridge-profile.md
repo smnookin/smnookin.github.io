@@ -118,7 +118,7 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 
 I ask Kilbridge what it took to build the team up. “Patience,” he says simply. 
 
-(want to add some sort of line/visual break here)
+(visual break)
 
 “There’s two big parts - there’s recruiting kids into the program and then there’s building a team culture,” Kilbridge says of growing the program.  
 
