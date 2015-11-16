@@ -88,39 +88,37 @@ Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s not
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the weather’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
-(want to add some sort of line/visual break here)
+(visual break)
 
-After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to a new position that had just opened up at MIT: Director of Rowing and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
+After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: Director of Rowing and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
-Under his leadership, the crew program at MIT has grown in leaps and bounds. The heavyweight men have improved on their league placement at EARC sprints and average erg scores for every year in the past four years. Kilbridge is cautiously optimistic about the team’s speed this year. “Testing so far shows that they’re a little stronger, a little faster than last year. It’s early on, trying to keep the expectations under control, but we feel good about it,” he said. 
+Under his leadership, the crew program at MIT has grown in leaps and bounds. The heavyweight men have improved their league placement at EARC sprints and average erg scores for every year in the past four years. Kilbridge is cautiously optimistic about the team’s speed this year. “Testing so far shows that they’re a little stronger, a little faster than last year,” he says.  
 
-Kilbridge faced a huge challenge when he initially came to MIT. MIT has four varsity crew teams: heavyweight men, lightweight men, openweight women, and lightweight women. When Kilbridge was hired on, all four crews had been underperforming for years, and often were either too slow or had too few rowers to compete at big regattas. 
+Kilbridge faced a huge challenge when he initially came to MIT. MIT has four varsity crew teams: heavyweight men, lightweight men, openweight women, and lightweight women. When Kilbridge was hired, all four crews had been underperforming for years, and often were either too slow or had too few rowers to compete at high profile regattas. 
 
-MIT’s crew program is an NCAA Division I sport, unlike other MIT athletic teams, which are Division III, and the crews face incredibly tough competition in the northeast region. However, the team has historically been competitive in the league as well. 
+Unlike other MIT athletic teams, which are Division III, MIT’s crew program is an NCAA Division I sport, and the crews face incredibly tough competition in the northeast region. However, the team has historically been competitive in the league as well. 
 
-“The alumni were up in arms,” said Kilbridge. MIT’s athletic department and the rowing alumni funded a study of MIT crew in 2005 to see how they could improve the program. The study results called for changes to the coaching staff and the creation of a new position: a director of rowing, to oversee all four crews in the boathouse and create a more cooperative atmosphere. Kilbridge was hired to be both the director of rowing and the men’s heavyweight coach. When he took the helm in 2006: 
+“The alumni were up in arms,” said Kilbridge. MIT’s athletic department and the rowing alumni funded a study of MIT crew in 2005 to see how they could improve the program. The study results called for changes to the coaching staff and the creation of a new position: a director of rowing, to oversee all four crews in the boathouse and create a more cooperative atmosphere. Kilbridge was hired to be both the director of rowing and the men’s heavyweight coach. 
 
-	“There was dysfunction everywhere. The coaches didn’t like each other, the cox boxes were actually locked up downstairs so that one team wouldn’t take the other team’s cox boxes. And then the team itself, it was just dysfunctional on every level. So I looked at it and said, I can do better than this.”
-    
+When he took the helm in 2006, “There was dysfunction everywhere. The coaches didn’t like each other, the cox boxes were actually locked up downstairs so that one team wouldn’t take the other team’s cox boxes... I looked at it and said, I can do better than this,” says Kilbridge.    
 
 The atmosphere in the boathouse and between teams improved quickly after Kilbridge took over. However, the performance of the heavyweight men’s crew was extremely variable for Kilbridge’s first several years. 
 
-The crew he took on his first year had a lot of talent and in 2009 they had “the best year this team has had since the ‘70’s,” Kilbridge says. The crew beat Princeton, Yale, and Dartmouth, and finished in the middle of their league EARC at sprints (typically, the team finishes in the bottom third). The crew was so successful that they decided to travel to England compete in Henley that summer, and made it to semi-finals in the Ladies’ Challenge Plate. 
+The rowers he took on his first year had a lot of talent and, as seniors in 2009, had “the best year this team has had since the ‘70’s,” Kilbridge says. The crew beat Princeton, Yale, and Dartmouth, and finished in the middle of their league EARC at sprints (typically, the team finishes in the bottom third). The crew was so successful that they decided to travel to England compete in Henley that summer, and made it to semi-finals in the Ladies’ Challenge Plate. 
 
-However, when the class of 2009 graduated, there was no one to fill their spots. “We had several years where we just had no one, no one good,” said Kilbridge. There were some years when the team could only field a four. A top half crew in the EARC is typically able to fill three to four eights and one or two fours of rowers, so Kilbridge knew the team was nowhere near the size it needed to be in order to be competitive. 
+However, when the class of 2009 graduated, there was no one to fill their spots. “We had several years where we just had no one,” says Kilbridge. There were some years when the team could only field a four. A top half crew in the EARC is typically able to fill three to four eights and one or two fours of rowers, so Kilbridge knew the team was nowhere near the size it needed to be in order to be competitive. 
 
 Recruiting challenges are part of the reason it took several years to build the team size and speed to its current level. 
 
-“I didn’t quite grasp how difficult it was to recruit here, or how big a role recruiting was playing in this league,” said Kilbridge. When he rowed as an undergraduate, varsity crew programs were comprised entirely of former walk-ons, who learned to row their freshman year and then progressed up through the ranks during their next three years. However, over time schools began to offer more athletic scholarships, and more teams are able to recruit experienced rowers. Now, it’s not unusual for very competitive schools, such as the University of Washington or Harvard, to have multiple Olympians in their varsity eight lineup. 
+“I didn’t quite grasp how difficult it was to recruit here, or how big a role recruiting was playing in this league,” said Kilbridge. When he rowed as an undergraduate, varsity crew programs were comprised entirely of former walk-ons, who learned to row their freshman year and then progressed up through the ranks during their next three years. However, over time schools began to offer more athletic scholarships, and collegiate teams now recruit a greater number of experienced rowers. Now, it’s not unusual for very competitive schools, such as the University of Washington or Harvard, to have multiple Olympians in their varsity eight lineup. 
 
-For a school like MIT, which doesn’t offer athletic scholarships, it’s not possible to recruit like the top teams in the EARC do. However, according to Kilbridge the quality of rowing recruits at MIT has risen especially in the past five years, and that has contributed greatly to the team’s improved speed. He talked about the team’s recent progress:
+For a school like MIT, which doesn’t offer athletic scholarships, it’s not possible to recruit like the top teams in the EARC do. However, according to Kilbridge the quality of rowing recruits at MIT has risen significantly in the past five years, and that has contributed to the team’s improved speed. 
 
-	“If we are successful this year in being better than last year, which so far we are, then it will be five continuous years of progress, which is unusual in sports. Evan has done a really good job with the recruiting, so we’re getting better and better, and all the guys we have now are pretty good. The good guys we have now are really pretty good. We’re still not anywhere near the level of some crews, but it has come a long way.”
+“If we are successful this year in being better than last year, which so far we are, then it will be five continuous years of progress, which is unusual in sports. Evan has done a really good job with the recruiting, so we’re getting better and better," says Kilbridge. "We’re still not anywhere near the level of some crews, but it has come a long way.”
 
+I ask Kilbridge what it took to build the team up. “Patience,” he says simply. 
 
-Kilbridge pauses. This whole summary of the team’s performance began when I asked him what it took to build the team up. “Patience,” he says after a moment. “That’s the answer I should have given you. Patience.” 
 (want to add some sort of line/visual break here)
-
 
 “There’s two big parts - there’s recruiting kids into the program and then there’s building a team culture,” Kilbridge says of growing the program.  
 
