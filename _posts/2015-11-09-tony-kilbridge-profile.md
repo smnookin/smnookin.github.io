@@ -88,7 +88,7 @@ Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s not
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the weather’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
-![](http://www.mitathletics.com/sports/m-crewhvy/2015-16/photos/0002/Heavyweight_Igor_2014-15_IMG_4296.jpg)	
+![](https://photos-1.dropbox.com/t/2/AAAhd7pfWTxqkJrK6GCmRBHLswOYXD_l7Q-C2VVuiepr9Q/12/348106856/jpeg/32x32/1/1447700400/0/2/IMG_6774.JPG/EPq0g90CGPFqIAcoBw/zJ453FCdwcwH1ZejeYEVNTeYbVqC_hWThgruF9Q_2ws?size_mode=2&size=1024x768)	
 	
 After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: Director of Rowing and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
@@ -118,8 +118,8 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 
 I ask Kilbridge what it took to build the team up. “Patience,” he says simply. 
 
-![] (http://static.psbin.com/k/9/s8ilokd6eymi42/WEB_img_0001-3626195649-O.jpg)
-
+![] (http://static.psbin.com/k/9/s8ilokd6eymi42/WEB_img_0001-3626195649-O.jpg)	
+	
 “There’s two big parts - there’s recruiting kids into the program and then there’s building a team culture,” Kilbridge says of growing the program.  
 
 Kilbridge knows his rowers have to balance a difficult school workload with the demands of a Division I sport. He also knows that his rowers tend to be very self-motivated and take an intellectual view of the sport. Kilbridge uses these characteristics of the team to his advantage, by focusing on efficiency in the technique of his crew, and encouraging internal leadership on the team. 
