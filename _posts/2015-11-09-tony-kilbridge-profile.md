@@ -146,4 +146,4 @@ There’s no doubt that Kilbridge cares about the team and finding ways to overc
 
 He looks out the window of the boathouse, where sunlight is sparking on the Charles River. It’s a windy day and the water is choppy, but those are typical rowing conditions in Boston. Crews learn to adapt to the chop and row proficiently in a headwind.
 
-“I’ve always felt comfortable in the coaching job, even from the beginning. I like that age group of people; I like working with people who are motivated,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
+“I’ve always felt comfortable in the coaching job, even from the beginning,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
