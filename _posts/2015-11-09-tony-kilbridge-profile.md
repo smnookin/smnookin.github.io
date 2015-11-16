@@ -38,7 +38,7 @@ The transition to the heavyweight team was difficult for Kilbridge because the h
 
 "If I had stayed on the lightweight team...I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing," he says. 
 
-(unsure how to break it up visually here)
+(unsure how to break it up visually here -- think im just gonna add pictures)
 
 After graduation, Kilbridge, who had studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
 
@@ -88,8 +88,8 @@ Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s not
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the weather’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
-![](https://photos-1.dropbox.com/t/2/AAAhd7pfWTxqkJrK6GCmRBHLswOYXD_l7Q-C2VVuiepr9Q/12/348106856/jpeg/32x32/1/1447700400/0/2/IMG_6774.JPG/EPq0g90CGPFqIAcoBw/zJ453FCdwcwH1ZejeYEVNTeYbVqC_hWThgruF9Q_2ws?size_mode=2&size=1024x768)	
-	
+(visual break)
+
 After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: Director of Rowing and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
 Under his leadership, the crew program at MIT has grown in leaps and bounds. The heavyweight men have improved their league placement at EARC sprints and average erg scores for every year in the past four years. Kilbridge is cautiously optimistic about the team’s speed this year. “Testing so far shows that they’re a little stronger, a little faster than last year,” he says.  
@@ -118,7 +118,7 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 
 I ask Kilbridge what it took to build the team up. “Patience,” he says simply. 
 
-![] (http://static.psbin.com/k/9/s8ilokd6eymi42/WEB_img_0001-3626195649-O.jpg)	
+(visual break)
 	
 “There’s two big parts - there’s recruiting kids into the program and then there’s building a team culture,” Kilbridge says of growing the program.  
 
