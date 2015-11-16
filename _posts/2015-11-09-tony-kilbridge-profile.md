@@ -124,26 +124,26 @@ I ask Kilbridge what it took to build the team up. “Patience,” he says simpl
 
 Kilbridge knows his rowers have to balance a difficult school workload with the demands of a Division I sport. He also knows that his rowers tend to be very self-motivated and take an intellectual view of the sport. Kilbridge uses these characteristics of the team to his advantage, by focusing on efficiency in the technique of his crew, and encouraging internal leadership on the team. 
 
-“It’s hard to tell a bunch of MIT students to just like turn your brain off and do exactly what the guy in front of you does,” says Nate Colgan, a class of 2015 alum. “Evan and Tony recognize that we’re not just brainless racehorses that you put in a boat.”
+“It’s hard to tell a bunch of MIT students to turn your brain off and do exactly what the guy in front of you does,” says Nate Colgan, a class of 2015 alum. “Evan [the assistant coach] and Tony recognize that we’re not just brainless racehorses that you put in a boat.”
 
-According to Colgan, Kilbridge does a good job of explaining the technical intricacies of the rowing stroke to his rowers, so they understand why they row the way they do. Kilbridge takes time before each practice to break down the day’s technical focus, which is the part of the rowing stroke that they will focus on during practice. Kilbridge usually chooses drills and workouts that highlight the technical focus for that day. The team also regularly films their rowing and reviews the footage, so the rowers can see what they need to improve on. 
+According to Colgan, Kilbridge does a good job of explaining the technical intricacies of the rowing stroke to his rowers, so they understand why they row the way they do. Kilbridge takes time before each practice to break down the day’s technical focus, which is the part of the rowing stroke that they will focus on improving during practice. Kilbridge usually chooses drills and workouts that highlight the technical focus for that day. The team also regularly films their rowing and reviews the footage, so the rowers can see what they need to improve on. 
  
-“I always thought that Tony and Evan thought of their coaching style as giving us the tools to refine our own stroke,” said Colgan. “By giving us those mental checks--like on the pause drills--ideally it gets to the point where the rowers can use those thought processes that the coaches teach them to refine their own stroke. It’s hard as a rower to know if your stroke is right or wrong.”
+“I always thought that Tony and Evan thought of their coaching style as giving us the tools to refine our own stroke,” says Colgan. “By giving us those mental checks--like on the pause drills--ideally it gets to the point where the rowers can use those thought processes that the coaches teach them to refine their own stroke. It’s hard as a rower to know if your stroke is right or wrong.”
 
 Another practice implemented by Kilbridge is the goal setting meeting. At the beginning of the fall and spring seasons, the rowers internally decided on their goals for the coming season. They then present their goals to the coaches, and the coaches will set the workouts and erg goals based on that. 
 
-“They have a higher respect for their rowers,” said Colgan. “They’re very big on team leadership.”
+“They have a higher respect for their rowers,” says Colgan. “They’re very big on team leadership.”
 
-“It’s a less direct coaching style in terms of motivation. He shows us how to get there but the drive comes from the team buying in. Tony just sets an expectation. He’s not yelling at you, but you know,” said current senior and captain Matthew Miklasevich. 
+“It’s a less direct coaching style in terms of motivation. He shows us how to get there but the drive comes from the team buying in,” says current senior and captain Matthew Miklasevich. 
 
 Both Colgan and Miklasevich mentioned that one of the things that make Kilbridge an effective coach is his personality and the effort he makes to get to know his rowers and a sense that he cares about their wellbeing outside of practice. 
 
-“He was very in touch with the rowers, their responsibilities outside of the boathouse,” said Colgan. “You can tell they care a lot about the progression of their rowers.”
+“He was very in touch with the rowers, their responsibilities outside of the boathouse,” says Colgan. “You can tell they care a lot about the progression of their rowers.”
 
-“I felt that he cared about who I was as a person, not just as a rower,” said Miklasevich. “They’re really accommodating of life at MIT in general. I think [Tony] does a good job of being patient, rolling with the punches, just making sure the program’s heading in the right direction.”
+“I felt that he cared about who I was as a person, not just as a rower,” says Miklasevich. “They’re really accommodating of life at MIT in general. I think [Tony] does a good job of being patient, rolling with the punches, just making sure the program’s heading in the right direction.”
 
-There’s no doubt that Kilbridge cares about the team and finding ways to overcome the challenges facing them. “It’s really difficult to on the one hand keep driving and be really competitive and be expecting the best, and on the other hand not shoot yourself in the head when things go wrong,” said Kilbridge. 
+There’s no doubt that Kilbridge cares about the team and finding ways to overcome the challenges facing them. “It’s really difficult to on the one hand keep driving and be really competitive and be expecting the best, and on the other hand not shoot yourself in the head when things go wrong,” says Kilbridge. 
 
 He looks out the window of the boathouse, where sunlight is sparking on the Charles River. It’s a windy day and the water is choppy, but those are typical rowing conditions in Boston. Crews learn to adapt to the chop and row proficiently in a headwind.
 
-“I’ve always felt comfortable in the job, even from the beginning. I like that age group of people; I like working with people who are motivated,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
+“I’ve always felt comfortable in the coaching job, even from the beginning. I like that age group of people; I like working with people who are motivated,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
