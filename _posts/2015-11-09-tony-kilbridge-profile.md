@@ -6,63 +6,59 @@ link: ""
 displaydate: "11-09-2015"
 date: ""
 category: arts
-tags: null
-title: Tony Kilbridge Profile
+tags: 
+  - "null"
+title: Tony Kilbridge
 ---
 
+
 Footnotes to be added to explain rowing things
-Still have one more source to talk to (one of tony’s boatmates from Harvard)
-Also gonna add pics/quotes
+Also gonna add pics/links
+Needs title
 
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure hanging off the riverbank, built in the 1930’s and covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
 
 Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as head coach at MIT, and the fall racing season is just winding down. This fall the heavyweights have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
 
-Kilbridge was first introduced to rowing as a child when he and his family went to watch his father’s friend compete in the very first Head of the Charles (held 51 years ago in 1965). When he arrived at Harvard in the fall of 1978, he was inundated with advertising to join “Harvard’s #1 Sport.” He talks about his first impression of the Harvard team:
+Kilbridge was first introduced to rowing as a child when he and his family went to watch his father’s friend compete in the very first Head of the Charles (held in 1965). When he arrived at Harvard in the fall of 1978, he was inundated with advertising to join “Harvard’s #1 Sport.”    
 
-	I didn’t come on the first day of practice; I came on the second day. I was still making up my mind. This was still during freshman week, classes hadn’t even started. And [John Brock, the walk-on coach] said, “Where were you yesterday?!” That gave me some idea of the level of intensity about the whole thing. 
-    
-
-Harvard University is a rowing powerhouse. For years, undefeated seasons were not unusual and they enjoyed complete domination of the collegiate rowing landscape. Kilbridge now found himself a part of this rowing dynasty. 
+Harvard University is a rowing powerhouse. For years, undefeated seasons were not unusual and they enjoyed complete domination of the collegiate rowing landscape. Kilbridge now found himself a part of this rowing dynasty, and from the first day of practice he could sense "the level of intensity about the whole thing." 
 
 “The big challenge was making the boat you wanted to make, rather than winning your races in the spring. The feeling was, if you made, whatever [boat you wanted]...you were gonna win most of your races,” said Kilbridge. 
 
 Kilbridge quickly adapted to the competitive environment. He made the fastest freshman eight, which won Eastern Sprints. This victory was, “in terms of pure joy,” Kilbridge’s favorite moment in his rowing career. The success continued as his sophomore year, he made the second fastest upperclassmen eight, which went undefeated during the spring season and won Eastern Sprints. His junior year, he made the first eight, which came in second at Eastern Sprints by 0.2 seconds. 
 
-Echoing a sentiment felt by many college rowers, Kilbridge found the friendships he made even more valuable than the victories and excitement of racing. “Overall the best thing about that is just the friends that you make. I’m still really close to those guys. I’ve rowed in the Head of the Charles now probably thirty times, most of those times with friends from college. That’s the most lasting thing I’ve gotten out of it,” he says. 
+Echoing a sentiment felt by many college rowers, Kilbridge found the friendships he made even more valuable than the victories and excitement of racing. “I’ve rowed in the Head of the Charles now probably thirty times, most of those times with friends from college. That’s the most lasting thing I’ve gotten out of it,” he says. 
 
 His rowing career wasn’t all smooth sailing, of course. Kilbridge had chosen to join the lightweight team as a freshman, since he weighed exactly the lightweight maximum. However, by the end of his junior year, he was 15lbs heavier than the maximum, and had to resort to drastic measures to make weight before each race. 
 
-“My junior year, I just didn’t eat well at all, eat much at all. I did a lot of sitting in a sauna, ski clothes and stuff. it was awful. I had enough. I thought I was strong enough to row on the heavyweight team so I just switched,” Kilbridge said. 
+“My junior year, I just didn’t eat well at all, eat much at all. I did a lot of sitting in a sauna, ski clothes and stuff... I had enough,” Kilbridge said. 
 
-The transition to the heavyweight team was difficult for Kilbridge because the heavyweights rowed with a different technical style than he was used to. He had originally hoped to make the first heavyweight eight, but ended up switching off between the second and third boats. Kilbridge was disappointed at the time, but now thinks of it as a blessing in disguise. 
+The transition to the heavyweight team was difficult for Kilbridge because the heavyweights rowed with a different technical style than he was used to. He had originally hoped to make the first heavyweight eight, but ended up switching off between the second and third boats. Kilbridge was "really angry" at the time, but now says "I should thank my coach for putting me in the third boat." 
 
-	At the time I was really angry about it, and it took me a long time to figure it out… If I had stayed on the lightweight team, that team was undefeated that year and won Sprints, and I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing. I bought a single and trained really hard in the single, and I immediately went into coaching. So I should thank my coach for putting me in the third boat. 
+"If I had stayed on the lightweight team...I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing," he said. 
 
-
-(want to add some sort of line/visual break here)
+(unsure how to break it up visually here)
 
 After graduation, Kilbridge, who had studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
 
 After two years at St. Mark’s, Kilbridge wanted to get out into the world. “I was twenty two, twenty three. I wanted to meet girls and have fun and it was not happening in the woods at Southborough,” he said.
 
-So, he chose to go to law school at Georgetown, “for all the wrong reasons...I want to reach back and smack myself in the head,” he said of his decision.  “I knew I was in trouble on one level, when i got to law school and I got the course brochure, and there’s dozens of classes… and I looked at it and said, well none of these interest me.” Kilbridge sighs and continues: 
+So, he chose to go to law school at Georgetown, “for all the wrong reasons," he says. "I want to reach back and smack myself in the head." Kilbridge went on to work as a lawyer in complex commercial law for ten years. 
 
-	“I did it for a long time. I enjoyed aspects of it, but overall, when I quit, I felt like I’d had a toothache for ten years and it finally went away. Don’t do that! That’s the crew thing you know. You get this stubbornness in rowing, like, I’m not really enjoying this but it has got to be good for me. It’s true when you’re rowing, but it’s not true in relationships and life and the rest of it, you know.” 
+"When I quit, I felt like I’d had a toothache for ten years and it finally went away," he said.  "That’s the crew thing. You get this stubbornness in rowing, like, I’m not really enjoying this but it has got to be good for me. It’s true when you’re rowing, but it’s not true in relationships and life.” 
 
-
-He laughs and adds, “You can edit out all the personal advice if you want to.”
+Kilbridge laughs and adds, “You can edit out all the personal advice if you want to.”
 
 One good thing that came of Kilbridge’s decision to become a lawyer was that he returned to Boston to work at a law firm. He and his wife, who had met while living in the same dormitory at Harvard, dated during their senior year, and then parted ways, were suddenly back in the same city. “Long, boring story short: we got back together,” says Kilbridge. 
 
-When Kilbridge made the decision to quit his law job, he and his wife decided to move to Virginia, settling there because it “looked like it had a good lifestyle, a good place to raise a family.” His wife, a doctor, found a job in the area immediately, but Kilbridge spent almost two years looking for work and staying home with their two boys.
+When Kilbridge quit his law job, he and his wife decided to move to Virginia, settling there because it “looked like it had a good lifestyle, a good place to raise a family.” His wife, a doctor, found a job in the area immediately, but Kilbridge spent almost two years looking for work and staying home with their two boys.
 
-“[That period] was very unsettling. I was almost 40, and there was just this fish out of water feeling, of changing your career when you’re early middle age,” said Kilbridge. Then, on the same summer day in 2001, Kilbridge heard back from two job opportunities he had applied to. He was offered the position of Associate Dean at the University of Virginia (UVA) Law School and head coach of the men’s rowing team there.  
+“[That period] was very unsettling... There was this fish out of water feeling,” said Kilbridge. Then, on the same summer day in 2001, Kilbridge heard back from two job opportunities he had applied to. He was offered the position of Associate Dean at the University of Virginia (UVA) Law School and head coach of the men’s rowing team at the same school.  
 
 “The difference in pay grade was substantial,” said Kilbridge. After seeking the advice of friends and family, he turned down the law school position and accepted the coaching offer. 
 
-“It was very visceral, kind of a gut feeling,” he said of his decision. “I spent 10 years doing something i didn’t really enjoy. My dad actually urged me to take the coaching job. I had a couple friends who were professors at the UVA Law School, and I called up one of them and he said, ‘Are you kidding? Take the coaching job.’  So people who weren’t going to be facing the pay differential
-thought it was pretty clear what i should do.” 
+“It was very visceral, kind of a gut feeling,” he said of his decision. “My dad actually urged me to take the coaching job... People who weren’t going to be facing the pay differential thought it was pretty clear what i should do.” 
 
 The transition to coaching at the collegiate level required “a specialized knowledge of how to make a college eight go fast,” according to Kilbridge, and although he had several years of coaching experience under his belt, there was a lot of new information to learn. 
 
@@ -70,8 +66,7 @@ The transition to coaching at the collegiate level required “a specialized kno
 
 Kilbridge took inspiration for his coaching from his own rowing experience and friends who were also coaching. He tried out different rowing drills and workouts, and began to develop the vocabulary he uses to teach the rowing stroke, all while keeping the team running smoothly. 
 
-	“You know what it means to be like a duck? Here’s number three piece of personal advice for you. You gotta be like a duck. A duck on the surface of the water is very smooth, cruising along very peacefully, but under the water, he’s paddling like a mother as hard as possible. So that’s what I was trying to do.”
-
+“You know what it means to be like a duck?" asks Kilbridge. "A duck on the surface of the water is very smooth, cruising along peacefully, but under the water, he’s paddling like a mother as hard as possible.” That's how Kilbridge describes his first year of collegiate coaching. 
 
 Despite the challenge (or perhaps because of it), Kilbridge immediately fell in love with the job. His rowers appreciated his organization and candidness. Will Oliver, the current lightweight men’s coach at MIT, rowed under Kilbridge during his first years at UVA. 
 
@@ -159,7 +154,3 @@ There’s no doubt that Kilbridge cares about the team and finding ways to overc
 He looks out the window of the boathouse, where sunlight is sparking on the Charles River. It’s a windy day and the water is choppy, but those are typical rowing conditions in Boston. Crews learn to adapt to the chop and row proficiently in a headwind.
 
 “I’ve always felt comfortable in the job, even from the beginning. I like that age group of people; I like working with people who are motivated,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
-
-
-
-
