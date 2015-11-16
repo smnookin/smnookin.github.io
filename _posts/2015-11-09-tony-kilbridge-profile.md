@@ -24,7 +24,7 @@ Kilbridge was first introduced to rowing as a child when he and his family went 
 
 Harvard University is a rowing powerhouse. For years, undefeated seasons were not unusual and they enjoyed complete domination of the collegiate rowing landscape. Kilbridge now found himself a part of this rowing dynasty, and from the first day of practice he could sense "the level of intensity about the whole thing." 
 
-“The big challenge was making the boat you wanted to make, rather than winning your races in the spring. The feeling was, if you made, whatever [boat you wanted]...you were gonna win most of your races,” said Kilbridge. 
+“The big challenge was making the boat you wanted to make, rather than winning your races in the spring. The feeling was, if you made, whatever [boat you wanted]...you were gonna win most of your races,” says Kilbridge. 
 
 Kilbridge quickly adapted to the competitive environment. He made the fastest freshman eight, which won Eastern Sprints. This victory was, “in terms of pure joy,” Kilbridge’s favorite moment in his rowing career. The success continued as his sophomore year, he made the second fastest upperclassmen eight, which went undefeated during the spring season and won Eastern Sprints. His junior year, he made the first eight, which came in second at Eastern Sprints by 0.2 seconds. 
 
@@ -32,21 +32,21 @@ Echoing a sentiment felt by many college rowers, Kilbridge found the friendships
 
 His rowing career wasn’t all smooth sailing, of course. Kilbridge had chosen to join the lightweight team as a freshman, since he weighed exactly the lightweight maximum. However, by the end of his junior year, he was 15lbs heavier than the maximum, and had to resort to drastic measures to make weight before each race. 
 
-“My junior year, I just didn’t eat well at all, eat much at all. I did a lot of sitting in a sauna, ski clothes and stuff... I had enough,” Kilbridge said. 
+“My junior year, I just didn’t eat well at all, eat much at all. I did a lot of sitting in a sauna, ski clothes and stuff... I had enough,” Kilbridge says. 
 
 The transition to the heavyweight team was difficult for Kilbridge because the heavyweights rowed with a different technical style than he was used to. He had originally hoped to make the first heavyweight eight, but ended up switching off between the second and third boats. Kilbridge was "really angry" at the time, but now says "I should thank my coach for putting me in the third boat." 
 
-"If I had stayed on the lightweight team...I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing," he said. 
+"If I had stayed on the lightweight team...I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing," he says. 
 
 (unsure how to break it up visually here)
 
 After graduation, Kilbridge, who had studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
 
-After two years at St. Mark’s, Kilbridge wanted to get out into the world. “I was twenty two, twenty three. I wanted to meet girls and have fun and it was not happening in the woods at Southborough,” he said.
+After two years at St. Mark’s, Kilbridge wanted to get out into the world. “I was twenty two, twenty three. I wanted to meet girls and have fun and it was not happening in the woods at Southborough,” he says.
 
 So, he chose to go to law school at Georgetown, “for all the wrong reasons," he says. "I want to reach back and smack myself in the head." Kilbridge went on to work as a lawyer in complex commercial law for ten years. 
 
-"When I quit, I felt like I’d had a toothache for ten years and it finally went away," he said.  "That’s the crew thing. You get this stubbornness in rowing, like, I’m not really enjoying this but it has got to be good for me. It’s true when you’re rowing, but it’s not true in relationships and life.” 
+"When I quit, I felt like I’d had a toothache for ten years and it finally went away," he says.  "That’s the crew thing. You get this stubbornness in rowing, like, I’m not really enjoying this but it has got to be good for me. It’s true when you’re rowing, but it’s not true in relationships and life.” 
 
 Kilbridge laughs and adds, “You can edit out all the personal advice if you want to.”
 
@@ -54,11 +54,11 @@ One good thing that came of Kilbridge’s decision to become a lawyer was that h
 
 When Kilbridge quit his law job, he and his wife decided to move to Virginia, settling there because it “looked like it had a good lifestyle, a good place to raise a family.” His wife, a doctor, found a job in the area immediately, but Kilbridge spent almost two years looking for work and staying home with their two boys.
 
-“[That period] was very unsettling... There was this fish out of water feeling,” said Kilbridge. Then, on the same summer day in 2001, Kilbridge heard back from two job opportunities he had applied to. He was offered the position of Associate Dean at the University of Virginia (UVA) Law School and head coach of the men’s rowing team at the same school.  
+“[That period] was very unsettling... There was this fish out of water feeling,” says Kilbridge. Then, on the same summer day in 2001, Kilbridge heard back from two job opportunities he had applied to. He was offered the position of Associate Dean at the University of Virginia (UVA) Law School and head coach of the men’s rowing team at the same school.  
 
-“The difference in pay grade was substantial,” said Kilbridge. After seeking the advice of friends and family, he turned down the law school position and accepted the coaching offer. 
+“The difference in pay grade was substantial,” says Kilbridge. After seeking the advice of friends and family, he turned down the law school position and accepted the coaching offer. 
 
-“It was very visceral, kind of a gut feeling,” he said of his decision. “My dad actually urged me to take the coaching job... People who weren’t going to be facing the pay differential thought it was pretty clear what i should do.” 
+“It was very visceral, kind of a gut feeling,” he says of his decision. “My dad actually urged me to take the coaching job... People who weren’t going to be facing the pay differential thought it was pretty clear what i should do.” 
 
 Coaching at the collegiate level requires “a specialized knowledge of how to make a college eight go fast,” according to Kilbridge, and although he had several years of coaching experience under his belt, there was a lot of new information to learn. 
 
@@ -98,7 +98,7 @@ Kilbridge faced a huge challenge when he initially came to MIT. MIT has four var
 
 Unlike other MIT athletic teams, which are Division III, MIT’s crew program is an NCAA Division I sport, and the crews face incredibly tough competition in the northeast region. However, the team has historically been competitive in the league as well. 
 
-“The alumni were up in arms,” said Kilbridge. MIT’s athletic department and the rowing alumni funded a study of MIT crew in 2005 to see how they could improve the program. The study results called for changes to the coaching staff and the creation of a new position: a director of rowing, to oversee all four crews in the boathouse and create a more cooperative atmosphere. Kilbridge was hired to be both the director of rowing and the men’s heavyweight coach. 
+“The alumni were up in arms,” says Kilbridge. MIT’s athletic department and the rowing alumni funded a study of MIT crew in 2005 to see how they could improve the program. The study results called for changes to the coaching staff and the creation of a new position: a director of rowing, to oversee all four crews in the boathouse and create a more cooperative atmosphere. Kilbridge was hired to be both the director of rowing and the men’s heavyweight coach. 
 
 When he took the helm in 2006, “There was dysfunction everywhere. The coaches didn’t like each other, the cox boxes were actually locked up downstairs so that one team wouldn’t take the other team’s cox boxes... I looked at it and said, I can do better than this,” says Kilbridge.    
 
@@ -110,7 +110,7 @@ However, when the class of 2009 graduated, there was no one to fill their spots.
 
 Recruiting challenges are part of the reason it took several years to build the team size and speed to its current level. 
 
-“I didn’t quite grasp how difficult it was to recruit here, or how big a role recruiting was playing in this league,” said Kilbridge. When he rowed as an undergraduate, varsity crew programs were comprised entirely of former walk-ons, who learned to row their freshman year and then progressed up through the ranks during their next three years. However, over time schools began to offer more athletic scholarships, and collegiate teams now recruit a greater number of experienced rowers. Now, it’s not unusual for very competitive schools, such as the University of Washington or Harvard, to have multiple Olympians in their varsity eight lineup. 
+“I didn’t quite grasp how difficult it was to recruit here, or how big a role recruiting was playing in this league,” says Kilbridge. When he rowed as an undergraduate, varsity crew programs were comprised entirely of former walk-ons, who learned to row their freshman year and then progressed up through the ranks during their next three years. However, over time schools began to offer more athletic scholarships, and collegiate teams now recruit a greater number of experienced rowers. Now, it’s not unusual for very competitive schools, such as the University of Washington or Harvard, to have multiple Olympians in their varsity eight lineup. 
 
 For a school like MIT, which doesn’t offer athletic scholarships, it’s not possible to recruit like the top teams in the EARC do. However, according to Kilbridge the quality of rowing recruits at MIT has risen significantly in the past five years, and that has contributed to the team’s improved speed. 
 
