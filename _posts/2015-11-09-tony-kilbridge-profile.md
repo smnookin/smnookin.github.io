@@ -60,7 +60,7 @@ When Kilbridge quit his law job, he and his wife decided to move to Virginia, se
 
 “It was very visceral, kind of a gut feeling,” he said of his decision. “My dad actually urged me to take the coaching job... People who weren’t going to be facing the pay differential thought it was pretty clear what i should do.” 
 
-The transition to coaching at the collegiate level required “a specialized knowledge of how to make a college eight go fast,” according to Kilbridge, and although he had several years of coaching experience under his belt, there was a lot of new information to learn. 
+Coaching at the collegiate level requires “a specialized knowledge of how to make a college eight go fast,” according to Kilbridge, and although he had several years of coaching experience under his belt, there was a lot of new information to learn. 
 
 “I can’t believe they actually made the boat go forward,” he joked, referring to his first year at UVA.
 
@@ -70,26 +70,21 @@ Kilbridge took inspiration for his coaching from his own rowing experience and f
 
 Despite the challenge (or perhaps because of it), Kilbridge immediately fell in love with the job. His rowers appreciated his organization and candidness. Will Oliver, the current lightweight men’s coach at MIT, rowed under Kilbridge during his first years at UVA. 
 
-“Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He’s an impressive guy, he came in, told us what he intended to do with the team, how he was gonna try to make us faster, and we knew that he had a pretty good rowing background in terms of what he’d done himself, and that certainly never hurts, to feel like somebody’s got relevant experience. He made a big group of guys feel like they were in good hands.” 
+“Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He made a big group of guys feel like they were in good hands.” 
 	
-(want to add some sort of line/visual break here)
+(Visual break)
 
-Throughout this entire time post-Harvard, Kilbridge was training in the single. 
+Throughout his entire time working post-Harvard, Kilbridge was training in the single. 
 
 “Yep, I’ve flipped over in all kinds of exciting places,” jokes Kilbridge, referring to the difficulty of rowing a single. The small boats are only as wide as a standard football stadium seat, and are known for unforgivingly tipping their rowers into the water when thrown off balance. 
 
-Kilbridge initially approached master’s rowing with the same tenacity that drove him to success in collegiate rowing. However, he found during law school that intensity was not always a good thing. After recovering from a back injury, four knee surgeries, and shoulder surgery, he emerged healthy on the other side and with a more tempered approach to training. His master’s rowing career began to take off after that. 
+Kilbridge initially approached master’s rowing with the same tenacity that drove him to success in collegiate rowing. However, he found during law school that intensity was not always a good thing. After recovering from a back injury, four knee surgeries, and shoulder surgery, all in his early twenties, he emerged healthy on the other side, with a more tempered approach to training. His master’s rowing career began to take off after that. 
 
-Although Kilbridge tends to skim over this part of his rowing career, he enjoyed considerable success in master’s rowing. His master’s rowing career has included gold, silver, and bronze medals at the U.S. Master’s National Championships, racing in the Head of the Charles with other Harvard alumni, and competing in the famous Henley Royal Regatta in England. 
+Kilbridge's master’s rowing career has included gold, silver, and bronze medals at the U.S. Master’s National Championships, racing in the Head of the Charles with other Harvard alumni, and competing in the famous Henley Royal Regatta in England. 
 
-Kilbridge laughs as he recalls his race in the doubles category at Henley. “It was a great trip. We hit one of those upright boons like twenty strokes into the start of the race and broke an oar. So our regatta lasted about 20 strokes.”
+Kilbridge laughs as he recalls his race in the doubles category at Henley. “Our regatta lasted about 20 strokes,” he says. During the starting strokes of the race, his boat steered into one of the wooden poles that mark the edge of the course and broke an oar, rendering them unable to continue rowing. 
 
-Kilbridge takes a moment to wax philosophical on training in the single. 
-
-	“Rowing a single can be rewarding, because if you succeed, it’s one hundred percent you, but it can be very discouraging because when you fail it’s one hundred percent you. It’s a lot harder than sweep rowing. It feels different than sweep rowing. It’s a lot more like erging. Every time you go to the catch it’s like ah! you know, you never get that light feeling of flying along the water. It’s like weightlifting in a boat.”
-
-
-Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s nothing that’s more fun than rowing eights in college. That’s why all these alumni just never go away; they’re always around. I don’t think you can match it. It’s not like I’m ever trying to relive that or whatever, but it’s very special.”
+Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s nothing that’s more fun than rowing eights in college. I don’t think you can match it... It’s very special.”
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the weather’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
