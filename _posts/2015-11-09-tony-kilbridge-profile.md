@@ -114,7 +114,7 @@ Recruiting challenges are part of the reason it took several years to build the 
 
 For a school like MIT, which doesn’t offer athletic scholarships, it’s not possible to recruit like the top teams in the EARC do. However, according to Kilbridge the quality of rowing recruits at MIT has risen significantly in the past five years, and that has contributed to the team’s improved speed. 
 
-“If we are successful this year in being better than last year, which so far we are, then it will be five continuous years of progress, which is unusual in sports. Evan [the assistant coach] has done a really good job with the recruiting, so we’re getting better and better," says Kilbridge. "We’re still not anywhere near the level of some crews, but it has come a long way.”
+“If we are successful this year in being better than last year, which so far we are, then it will be five continuous years of progress, which is unusual in sports," says Kilbridge. "We’re still not anywhere near the level of some crews, but it has come a long way.”
 
 I ask Kilbridge what it took to build the team up. “Patience,” he says simply. 
 
