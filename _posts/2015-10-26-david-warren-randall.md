@@ -14,13 +14,14 @@ title: MIT Administrators Struggle In Times of Campus Tradgedy
 
 
 
+
 ![](http://tech.mit.edu/V132/N59/graphics/s3-2.jpg)	
 
 Last year saw [four confirmed MIT student suicides](http://www.boston.com/news/education/2015/09/01/after-tough-year-suicides-campus-mit-aims-improve-mental-health-culture/Gv6q0XaqjxpjTmkm2XxapO/story.html) and [a lot of press](https://www.bostonglobe.com/metro/2015/03/16/mit-students-open-about-stress/dS61oA5tiKqjvVsJ5VZRAL/story.html?p1=Article_Related_Box_Article) about MIT's intense student stress levels.
 
-Today, MIT is more than halfway through a fresh semester and a [new plan](http://cms350.com/mit/how-helpful-will-changes-to-mit-student-health-services-be-in-wake-of-recent-graduate-student-suicide.html) intended to decrease student stress levels and increase student resources on campus. Yet, both administrators and students are still reflecting upon the last year and the stress and anxiety that it excalated across campus. Doctor David Warren Randall, the Director of MIT's Student Support Services (S3) on campus, was among the administrators deeply affected by the tradgedies of the past year.
+Today, MIT is more than halfway through a fresh semester and a [new plan](http://cms350.com/mit/how-helpful-will-changes-to-mit-student-health-services-be-in-wake-of-recent-graduate-student-suicide.html) intended to decrease student stress levels and increase student resources on campus. Yet, even with a new plan in place, the administration is still thinking of ways that it can lower the stress and anxiety that it excalated across campus. Dr. David Warren Randall, the Director of MIT's Student Support Services (S3) on campus, was among the administrators deeply affected by the tradgedies of the past year.
 
-"It obviously takes a toll on the students but from a practical perspective, it takes  a toll on a lot of us." Randall said.
+"It obviously takes a toll on the students but from a practical perspective, it takes a toll on a lot of us." Randall said.
 
 MIT’s [Student Support Services](http://mit.edu/uaap/s3/), or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is not always the case to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services, or that is so resource-heavy for students.
 
@@ -40,7 +41,7 @@ Warkander continued her thoughts and said "there's an unfortunate level of varia
 
 There is no doubt, however, that Randall does genuinely care about the happiness and success of the undergraduate student population. Not only does he stand as a member of many health and wellness boards on campus, but also he has a clear understanding of how students feel alone and are afraid of getting help. 
 
-Randall told The Tech, “[MIT students] feel that they’re struggling but don’t want to get help because they think their peers are doing fine. This isn’t the case at all though." He continues, "I think people need to know that they’re not alone. Above all, every MIT student should know that even at their worst weeks, they are all extraordinary.” 
+Randall told The Tech, “[MIT students] feel that they’re struggling but don’t want to get help because they think their peers are doing fine. This isn’t the case at all though." He continues, "I think people need to know that they’re not alone. Above all, every MIT student should know that even at their worst weeks, they are all extraordinary.” {USE OWN QUOTE FROM INTERVIEW WITH HIM}
 
 And many students do agree that he means well. Barbara Duckworth, a junior at MIT, said "Overall, Dean Randall was really helpful. He responded to my calls when I was freaking out about getting back into MIT, and basically handled everything regarding teachers for the duration of my absence."
 
@@ -69,9 +70,6 @@ And the [tough tradgedies](https://www.bostonglobe.com/metro/2015/09/03/mit-bols
 
 
 
+	
 
-![](https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2015/03/11/BostonGlobe.com/Metro/Images/150310_rachel_031a.jpg)	
-
-Rachel Davis, shown above, writes an [MIT Admissions Blog](http://mitadmissions.org/blogs/author/racdavis) about campus life. 
-
-
+Rachel Davis, shown above, writes an [MIT Admissions Blog](http://mitadmissions.org/blogs/author/racdavis) about campus life.
