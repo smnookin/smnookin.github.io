@@ -12,9 +12,16 @@ title: Tony Kilbridge
 ---
 
 
+
 Footnotes to be added to explain rowing things
 Also gonna add pics/links
 Needs title
+
+pics
+![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11351247_10205155497460934_5509127688271398378_n.jpg?oh=3c626ec6e05234957f955c60c0b5d989&oe=56B43B68)
+![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11081114_10204746305431389_1693409841751789385_n.jpg?oh=ae91f76074be6752304ee2b9d1810e20&oe=56B4C865)
+![](https://scullingfool.smugmug.com/CharlesRiverBlues/Blog-Posts/i-GFjSzcM/0/L/AT7A4850-L.jpg)
+![](https://photos-3.dropbox.com/t/2/AADBh4OmYx_fjTXi5VeLXQswuHKXy1Dx4n1dwXy7r_Mr5g/12/348106856/jpeg/32x32/1/1447736400/0/2/IMG_7882.JPG/EPq0g90CGPFqIAcoBw/S_fb-TyoDd1sVaNOxr7agTufMwTfhbNCvpXdnmTQuQo?size_mode=2&size=1024x768)
 
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure hanging off the riverbank, built in the 1930’s and covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
 
