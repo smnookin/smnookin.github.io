@@ -23,11 +23,7 @@ Today, MIT is more than halfway through a fresh semester and a [new plan](http:/
 
 "It obviously takes a toll on the students but from a practical perspective, it takes a toll on a lot of us." Randall said.
 
-MIT’s [Student Support Services](http://mit.edu/uaap/s3/), or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is not always the case to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services, or that is so resource-heavy for students.
-
-"Many mental health and counseling centers are tiny." Randall said, "we happen to have a huge service, but what I've seen at other places is that the support network is a web of support that exists in many different areas of the university, mainly mental health, student health, and academic support areas."
-
-In [an interview](http://tech.mit.edu/V132/N59/s3.html) with MIT’s newspaper, The Tech, Randall said, “We call ourselves deans, or administrators, who have a lot of experience working with students who have difficulties in their life.” The deans at S3 are known for being “lifesavers” for students in crisis, especially when it feels like they have no other outlets.
+MIT’s [Student Support Services](http://mit.edu/uaap/s3/), or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is not always the case to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services, or that is so resource-heavy for students. **{COMBINE AND CONDENSE INTO ONE PARAGRAPH}** "Many mental health and counseling centers are tiny." Randall said, "we happen to have a huge service, but what I've seen at other places is that the support network is a web of support that exists in many different areas of the university, mainly mental health, student health, and academic support areas."
 
 Randall oversees the entire service and manages day-to-day operations of the services. 
 
@@ -43,6 +39,8 @@ There is no doubt, however, that Randall does genuinely care about the happiness
 
 Randall told The Tech, “[MIT students] feel that they’re struggling but don’t want to get help because they think their peers are doing fine. This isn’t the case at all though." He continues, "I think people need to know that they’re not alone. Above all, every MIT student should know that even at their worst weeks, they are all extraordinary.” {USE OWN QUOTE FROM INTERVIEW WITH HIM}
 
+{INSERT EXPLANATION THAT STUDENTS OFTEN WORK WITH RANDALL DURING THE WORST TIMES OF THEIR LIVES, CAUSING THEM TO VIEW HIM POORLY}
+
 And many students do agree that he means well. Barbara Duckworth, a junior at MIT, said "Overall, Dean Randall was really helpful. He responded to my calls when I was freaking out about getting back into MIT, and basically handled everything regarding teachers for the duration of my absence."
 
 Randall has experienced his own fair of struggles, allowing him to empathize with students as they take a very short break from their hectic schedules to sit down and chat with him about their crazy lives. He obtained his Bachelor’s degree in Psychology and Economics in 1996 from a private liberal arts college in upstate New York, followed with a two-year pre-doctoral internship at Brown University and a six-year course of study to finally receive his Ph. D. in Clinical Psychology.
@@ -51,7 +49,7 @@ Randall has experienced his own fair of struggles, allowing him to empathize wit
 
 "I always was the sort of person people came to when they wanted help." Randall said on why he studied clinical psychology. "When I went to school I just thought that I was going to major in psychology." Randall also said that his professors made the field seem extremely exciting.
 
-Randall’s life quickly escalated as he and his wife got marrie and had three boys, all while moving around and eventually ending up at MIT’s S3. Randall and his wife, Beth, had three boys throughout the moves, Nathan, 11, Benji, 9, and Maxwell, 6. Randall started out as an Assistant Dean at S3 in 2005 and ended up as today’s Associate Dean and Director of the services.
+Randall’s life quickly escalated as he and his wife got married and had three boys, all while moving around and eventually ending up at MIT’s S3. Randall and his wife, Beth, had three boys throughout the moves, Nathan, 11, Benji, 9, and Maxwell, 6. Randall started out as an Assistant Dean at S3 in 2005 and ended up as today’s Associate Dean and Director of the services.
 
 And being a Dean and Director of S3 is difficult, especially when it comes to being a full-time director and a full-time parent. Randall says that his family is always the priority, but at times work seems to take over his life. 
 
