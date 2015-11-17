@@ -39,7 +39,9 @@ Randall says that when times are tough on campus, his life is very difficult and
 
 Randall told The Tech, “[MIT students] feel that they’re struggling but don’t want to get help because they think their peers are doing fine. This isn’t the case at all though." He continues, "I think people need to know that they’re not alone. Above all, every MIT student should know that even at their worst weeks, they are all extraordinary.”
 
-![](http://sciwrite.mit.edu/wp-content/uploads/2011/08/STRESSED-OUT-7.gif)
+
+![](http://sciwrite.mit.edu/wp-content/uploads/2011/08/STRESSED-OUT-7.gif)	
+
 
 There is no doubt that Randall does genuinely care about the happiness and success of the undergraduate student population. Not only does he stand as a member of many health and wellness boards on campus, but also he has a clear understanding of how students feel alone and are afraid of getting help. However, many students meet with Randall during the worst times of their lives, leading them to grow hostile or aggressive at times towards him. For the most part, though, students look positively upon Randall and the other S3 deans.
 
