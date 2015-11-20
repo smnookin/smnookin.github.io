@@ -20,7 +20,7 @@ title: MIT Administrators Struggle In Times of Campus Tradgedy
 
 Last year saw [four confirmed MIT student suicides](http://www.boston.com/news/education/2015/09/01/after-tough-year-suicides-campus-mit-aims-improve-mental-health-culture/Gv6q0XaqjxpjTmkm2XxapO/story.html) and [a lot of press](https://www.bostonglobe.com/metro/2015/03/16/mit-students-open-about-stress/dS61oA5tiKqjvVsJ5VZRAL/story.html?p1=Article_Related_Box_Article) about MIT's intense student stress levels.
 
-Today, MIT is more than halfway through a fresh semester and a [new plan](http://cms350.com/mit/how-helpful-will-changes-to-mit-student-health-services-be-in-wake-of-recent-graduate-student-suicide.html) intended to decrease student stress levels and increase student resources on campus. Yet, even with a new plan in place, the administration is still thinking of ways that it can lower the stress and anxiety that it excalated across campus. Dr. David Warren Randall, the Director of MIT's Student Support Services (S3) on campus, was among the administrators deeply affected by the tradgedies of the past year.
+Today, MIT is more than halfway through a fresh semester and a [new plan](http://cms350.com/mit/how-helpful-will-changes-to-mit-student-health-services-be-in-wake-of-recent-graduate-student-suicide.html) intended to decrease student stress levels and increase student resources on campus. Yet, even with a new plan in place, the administration is still thinking of ways that it can lower the stress and anxiety that it excalated across campus. [Dr. David Warren Randall](http://web.mit.edu/uaap/s3/about/dwr.html), the Director of MIT's [Student Support Services (S3)](http://web.mit.edu/uaap/s3/index.html) on campus, was among the administrators deeply affected by the tradgedies of the past year.
 
 "It obviously takes a toll on the students but from a practical perspective, it takes a toll on a lot of us." Randall said.
 
@@ -40,7 +40,7 @@ And being a Dean and Director of S3 is difficult, especially when it comes to be
 
 Randall says that when times are tough on campus, his life is very difficult and it becomes nearly impossible to keep work completely at work and not bring it home. "I think that the times that are the hardest are years like we had last year where it takes a toll on all of us," referring to the tragic suicides and other deaths that took place during the last two MIT semesters.
 
-Randall told MIT's _The Tech_, “[MIT students] feel that they’re struggling but don’t want to get help because they think their peers are doing fine. This isn’t the case at all though." He continues, "I think people need to know that they’re not alone. Above all, every MIT student should know that even at their worst weeks, they are all extraordinary.”
+Randall told MIT's [_The Tech_,](http://tech.mit.edu/V132/N59/s3.html) “[MIT students] feel that they’re struggling but don’t want to get help because they think their peers are doing fine. This isn’t the case at all though." He continues, "I think people need to know that they’re not alone. Above all, every MIT student should know that even at their worst weeks, they are all extraordinary.”
 
 
 ![](http://sciwrite.mit.edu/wp-content/uploads/2011/08/STRESSED-OUT-7.gif)	
