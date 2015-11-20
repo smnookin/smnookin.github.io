@@ -32,7 +32,7 @@ Randall has experienced his own fair of struggles, allowing him to empathize wit
 
 "I always was the sort of person people came to when they wanted help." Randall said on why he studied clinical psychology. "When I went to school I just thought that I was going to major in psychology." Randall also said that his professors made the field seem extremely exciting.
 
-Randall’s life intensified as he and his wife got married and had three boys, all while moving around and eventually ending up at MIT’s S3. Randall and his wife, Beth, had three boys throughout the moves, Nathan, 11, Benji, 9, and Maxwell, 6. Randall started out as an Assistant Dean at S3 in 2005 and ended up as today’s Associate Dean and Director of the services.
+Randall’s life intensified as he and his wife got married and had three boys, all while moving around and eventually ending up at MIT’s S3. Randall and his wife, Beth, had three boys throughout the moves- Nathan, 11, Benji, 9, and Maxwell, 6. Randall started out as an Assistant Dean at S3 in 2005 and ended up as today’s Associate Dean and Director of the services.
 
 And being a Dean and Director of S3 is difficult, especially when it comes to being a full-time director and a full-time parent. Randall says that his family is always the priority, but at times work seems to take over his life. 
 
@@ -46,7 +46,7 @@ Randall told MIT's _The Tech_, “[MIT students] feel that they’re struggling 
 ![](http://sciwrite.mit.edu/wp-content/uploads/2011/08/STRESSED-OUT-7.gif)	
 
 
-There is no doubt that Randall does genuinely care about the happiness and success of the undergraduate student population. Not only does he stand as a member of many health and wellness boards on campus, but also he has a clear understanding of how students feel alone and are afraid of getting help. However, many students meet with Randall during the worst times of their lives, leading them to grow or feel hostile or aggressive towards him. For the most part, though, students look positively upon Randall and the other S3 deans.
+There is no doubt that Randall does genuinely care about the happiness and success of the undergraduate student population. Not only does he stand as a member of many health and wellness boards on campus, but also he has a clear understanding of how students feel alone and are afraid of getting help. Unfortunately, some students meet with Randall during the worst times of their lives, leading them to grow or feel hostile or aggressive towards him. For the most part, though, students look positively upon Randall and the other S3 deans.
 
 "My impression is that [the S3 deans] are generally fairly useful and willing to work with students who are having problems," said Sarah Warkander, a senior at MIT.
 
