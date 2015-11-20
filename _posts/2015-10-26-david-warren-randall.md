@@ -32,7 +32,7 @@ Randall has experienced his own fair of struggles, allowing him to empathize wit
 
 "I always was the sort of person people came to when they wanted help." Randall said on why he studied clinical psychology. "When I went to school I just thought that I was going to major in psychology." Randall also said that his professors made the field seem extremely exciting.
 
-Randall’s life quickly escalated as he and his wife got married and had three boys, all while moving around and eventually ending up at MIT’s S3. Randall and his wife, Beth, had three boys throughout the moves, Nathan, 11, Benji, 9, and Maxwell, 6. Randall started out as an Assistant Dean at S3 in 2005 and ended up as today’s Associate Dean and Director of the services.
+Randall’s life intensified as he and his wife got married and had three boys, all while moving around and eventually ending up at MIT’s S3. Randall and his wife, Beth, had three boys throughout the moves, Nathan, 11, Benji, 9, and Maxwell, 6. Randall started out as an Assistant Dean at S3 in 2005 and ended up as today’s Associate Dean and Director of the services.
 
 And being a Dean and Director of S3 is difficult, especially when it comes to being a full-time director and a full-time parent. Randall says that his family is always the priority, but at times work seems to take over his life. 
 
