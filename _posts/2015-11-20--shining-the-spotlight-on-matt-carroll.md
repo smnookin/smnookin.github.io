@@ -6,9 +6,11 @@ link: ""
 displaydate: ""
 date: ""
 category: MIT
-tags: null
+tags: 
+  - "null"
 title: " Shining the Spotlight on Matt Carroll"
 ---
+
 
 ![matty_carroll.png]({{site.baseurl}}/assets/matty_carroll.png)
 
@@ -48,14 +50,3 @@ Now, at MIT, he runs the Future of News, an initiative that seeks to use creativ
 So many of Carroll’s concerns boil down to business— specifically, the business of funding news. His hopes for Spotlight are that it gives a new emphasis to investigative journalism, particularly that it’s worth paying for. He estimates that team of four, working on the story for five months, cost the Globe a million dollars at the time. 
 
 Ultimately, that’s what he wants to come out of his time at MIT, now that he’s made his mark in the field. What’s the next big project for Matt Carroll, now that he’s earned his Pulitzer and likeness on the silver screen? At this question, he finally parts with his coffee cup and pounds his fist on the table.  “I’d like to be part of the project that saves the news industry across the world by finding a way of minting gold coins for newsrooms.”
-
-
-
-
-
-
-
-
-
-
-
