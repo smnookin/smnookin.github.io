@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 author: Rachel Davis
 link: ""
-displaydate: "2015-11-02"
-date: "2015-11-02"
+displaydate: "2015-11-19"
+date: "2015-11-19"
 category: MIT
 tags: 
   - student
