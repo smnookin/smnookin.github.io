@@ -36,7 +36,7 @@ The transition to the heavyweight team was difficult for Kilbridge because the h
 
 "If I had stayed on the lightweight team...I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing," he says. 
 
-(unsure how to break it up visually here -- think im just gonna add pictures)
+![](http://cdn87.psbin.com/img/mw=160/mh=210/cr=n/d=726sv/bth0opu59m2l671k.jpg)	
 
 After graduation, Kilbridge, who had studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
 
