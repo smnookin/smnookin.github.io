@@ -3,9 +3,9 @@ layout: post
 published: false
 author: Andrew Owens
 link: ""
-displaydate: "2015-11-09"
-date: "2015-11-09"
-category: science
+displaydate: "2015-11-22"
+date: "2015-11-22"
+category: arts
 tags: 
   - "null"
 title: A Speaker for Science
