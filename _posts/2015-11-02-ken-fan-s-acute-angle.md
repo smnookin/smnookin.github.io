@@ -18,8 +18,14 @@ In a world where the number of women in STEM far lags behind the number of men, 
 Several years ago, Fan would have never expected to work in a nonprofit. Instead, he was envisaging the world of academia. He had already pocketed degrees from top universities—a PhD in Mathematics at MIT and an A.B. in Harvard University— and was teaching as an assistant mathematics professor at Harvard. He was rising up the ranks, aiming for the position that every academic dreams of: tenure in a top-level university.
 
 Despite his prestigious position, Fan was felt a calling to become an oil-painter. Painting was a passion he’d realized only briefly after finishing his MIT thesis, and Fan understood that joining the academic world would shut the door to that opportunity. So he left in order to try his luck as a full-time oil painter, and eventually, he returned to the mathematics world with the goal of improving girls’ education. 
-									…
-We were in Andala Coffeehouse—since Girls’ Angle was off-limits—a quirky little Middle Eastern coffee shop in Central Square. I had arrived early and was so absorbed in admiring the colorful and carefully placed Moroccan chairs and cabinetry, that by the time I returned, he was already waiting. I found him seated a few tables away, impatiently thumbing through his cell phone with his back slightly curved. He wore a crisp button-down shirt with blue jeans and had the poor posture of someone who worked in front of a computer all day. 
+									
+										* * *
+                                        
+We were in Andala Coffeehouse—since Girls’ Angle was off-limits—a quirky little Middle Eastern coffee shop in Central Square. I had arrived early and was so absorbed in admiring the colorful and carefully placed Moroccan chairs and cabinetry, that by the time I returned, he was already waiting. 
+
+![andalacoffeehouse.jpg]({{site.baseurl}}/assets/andalacoffeehouse.jpg)
+
+I found him seated a few tables away, impatiently thumbing through his cell phone with his back slightly curved. He wore a crisp button-down shirt with blue jeans and had the poor posture of someone who worked in front of a computer all day. 
 
 “Oh! Were you sitting there the whole time?” he asked when I walked up to him, his dark almond-shaped eyes wide with concern. His eyes were slightly wrinkled at the corners, but it was nearly impossible to guess at is age. It certainly didn’t help that he had “forgotten” his age.
 
@@ -27,10 +33,12 @@ He could have been anywhere between his late-thirties and mid-forties. His heart
 
 His genuine concern for my state of mind resonated with the words of one of his co-workers, Jane Wang: “I don’t understand how a person can be so nice.”
 And considering his elite background, it is only a wonder how Fan can remain so humble.
-										…
+										
+										* * *
+                                        
 Fan strives to improve K-12 U.S. math education. He founded Girls’ Angle in 2007 with nothing but his own pocket money with the vision of top-university academics personally encouraging K-12 girls to pursue math and acting as their role models.
 
-In a podcast, Fan said that the biggest reason for the national math education decline is the “disconnect between the mathematical world and the math education world.” 
+In a [podcast](http://wildaboutmath.com/2013/04/21/ken-fan-inspired-by-math-29/), Fan said that the biggest reason for the national math education decline is the “disconnect between the mathematical world and the math education world.” 
 He questions why the buzzing math savored by undergraduate level students and the breathing theoretical math envisioned by academics are so different from the “cold” textbook math taught to children. “I want Girls’ Angle to be a force pushing math education in a good direction,” Fan said. 
 
  “Math is a creative field,” he says, “it is not a fossilized subject.” It irks him that children, especially young girls, are taught math in this fixed way. He believes that there is a chasm between the mathematics of academics and the mathematics of K-12 students, and that this gap is to blame for so many students leaving math behind whenever it got tough—especially young girls.
@@ -65,7 +73,9 @@ Taken by surprise—and a little shocked—, little Fan couldn’t figure it out
 This went on a few more times. “Finally, I understood that my foot went back to keep me from falling over,” Fan said. He realized that instead of using vertical supports for the cardboard bridge, the supports should be triangular. “Just like your legs would form when you get pushed,” Fan said. 
 
 “[My father] was very patient,” Fan told me. “He really let me figure it out. He really waited and waited.” And that is one of the tenets Fan aims to follow in his teaching approach. “We can’t do this with all [of our] students,” he said, but “we are like cheerleaders.” He wants Girls’ Angle to be a program that focuses more on teaching girls problem solving skills, rather than actual content.
-										…
+
+										* * *
+                                        
 When the family moved to Maryland, Fan was in high school and his father wanted him to learn more advanced physics—physics outside of the regular high school curriculum. So his father took him to the University of Maryland College Park campus to find out if he could enroll in a physics class.  There, they met a professor who immediately asked Fan if he knew calculus and Fan, having had taught himself calculus the past summer, said yes.
 
 The professor then asked him if he knew the derivative of tangent. 
@@ -78,6 +88,8 @@ This experience is what propelled him into the world of mathematics and a huge r
 
 Fan recalls his first drawing class—a class he had randomly picked out for the January Independent Activities Period at MIT. It was a charcoal drawing class and the instructor asked the students “to pick out an object in the room and draw it,” Fan said. 
 “The first instance the charcoal hit the paper, I kind of fell in love.” He describes his new-found passion as a sort of “conversion.” 
+
+![charcoal4.jpg]({{site.baseurl}}/assets/charcoal4.jpg)
 
 “I would draw all the time,” he told me.  
 
