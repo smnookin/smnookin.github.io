@@ -8,7 +8,7 @@ date: ""
 category: arts
 tags: 
   - "null"
-title: "\"From the Beginning\": Tony Kilbridge on rowing and coaching"
+title: "\"From the Beginning\": Tony Kilbridge on Rowing and Coaching"
 ---
 
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11081114_10204746305431389_1693409841751789385_n.jpg?oh=ae91f76074be6752304ee2b9d1810e20&oe=56B4C865)	
@@ -71,7 +71,7 @@ Despite the challenge (or perhaps because of it), Kilbridge immediately fell in 
 “Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He made a big group of guys feel like they were in good hands.” 
 	
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11351247_10205155497460934_5509127688271398378_n.jpg?oh=3c626ec6e05234957f955c60c0b5d989&oe=56B43B68)	
-_Kilbridge and Thews-Wassell give feedback to their rowers during a piece_
+_Kilbridge and Thews-Wassell give feedback to the rowers during a piece_
 
 Throughout his entire time working post-Harvard, Kilbridge was training in the single. 
 
