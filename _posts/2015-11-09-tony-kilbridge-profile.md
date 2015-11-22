@@ -11,12 +11,6 @@ tags:
 title: "\"From the Beginning\": Tony Kilbridge on rowing and coaching"
 ---
 
-
-
-
-Footnotes to be added to explain rowing things
-Also gonna add pics/links
-
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11081114_10204746305431389_1693409841751789385_n.jpg?oh=ae91f76074be6752304ee2b9d1810e20&oe=56B4C865)	
 
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure hanging off the riverbank, built in the 1930’s and covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
@@ -150,4 +144,9 @@ There’s no doubt that Kilbridge cares about the team and finding ways to overc
 He looks out the window of the boathouse, where sunlight is sparking on the Charles River. It’s a windy day and the water is choppy, but those are typical rowing conditions in Boston. Crews learn to adapt to the chop and row proficiently in a headwind.
 
 “I’ve always felt comfortable in the coaching job, even from the beginning,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
+
+###Footnotes
+
+
+
 
