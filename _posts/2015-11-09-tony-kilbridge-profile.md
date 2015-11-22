@@ -12,7 +12,7 @@ title: "\"From the Beginning\": Tony Kilbridge on rowing and coaching"
 ---
 
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11081114_10204746305431389_1693409841751789385_n.jpg?oh=ae91f76074be6752304ee2b9d1810e20&oe=56B4C865)	
-__Kilbridge and MIT Heavyweight Men's Assistant Coach, Evan Thewswassle, during winter training in Cocoa Beach, FL__
+_Kilbridge and MIT Heavyweight Men's Assistant Coach, Evan Thewswassle, during winter training in Cocoa Beach, FL_
 
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure hanging off the riverbank, built in the 1930’s and covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
 
