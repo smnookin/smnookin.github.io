@@ -66,26 +66,26 @@ Kilbridge took inspiration for his coaching from his own rowing experience and f
 
 “You know what it means to be like a duck?" asks Kilbridge. "A duck on the surface of the water is very smooth, cruising along peacefully, but under the water, he’s paddling like a mother as hard as possible.” That's how Kilbridge describes his first year of collegiate coaching. 
 
-Despite the challenge (or perhaps because of it), Kilbridge immediately fell in love with the job. His rowers appreciated his organization and candidness. Will Oliver, the current lightweight men’s coach at MIT, rowed under Kilbridge during his first years at UVA. 
+Despite the challenge (or perhaps because of it), Kilbridge immediately fell in love with the job. His rowers appreciated his organization and candidness. [Will Oliver](http://www.mitathletics.com/sports/m-crewlt/coaches/index), the current lightweight men’s coach at MIT, rowed under Kilbridge during his first years at UVA. 
 
 “Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He made a big group of guys feel like they were in good hands.” 
 	
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11351247_10205155497460934_5509127688271398378_n.jpg?oh=3c626ec6e05234957f955c60c0b5d989&oe=56B43B68)	
 _Kilbridge and Thews-Wassell give feedback to the rowers during a piece_
 
-Throughout his entire time working post-Harvard, Kilbridge was training in the single. 
+Throughout his entire time working post-Harvard, Kilbridge was training in the [single](https://en.wikipedia.org/wiki/Single_scull). 
 
 “Yep, I’ve flipped over in all kinds of exciting places,” jokes Kilbridge, referring to the difficulty of rowing a single. The small boats are only as wide as a standard football stadium seat, and are known for unforgivingly tipping their rowers into the water when thrown off balance. 
 
 Kilbridge initially approached master’s rowing with the same tenacity that drove him to success in collegiate rowing. However, he found during law school that intensity was not always a good thing. After recovering from a back injury, four knee surgeries, and shoulder surgery, all in his early twenties, he emerged healthy on the other side, with a more tempered approach to training. His master’s rowing career began to take off after that. 
 
-Kilbridge's master’s rowing career has included gold, silver, and bronze medals at the U.S. Master’s National Championships, racing in the Head of the Charles with other Harvard alumni, and competing in the famous Henley Royal Regatta in England. 
+Kilbridge's master’s rowing career has included gold, silver, and bronze medals at the U.S. Master’s National Championships, racing in the Head of the Charles with other Harvard alumni, and competing in the famous [Henley Royal Regatta](http://www.hrr.co.uk/) in England. 
 
-Kilbridge laughs as he recalls his race in the doubles category at Henley. “Our regatta lasted about 20 strokes,” he says. During the starting strokes of the race, his boat steered into one of the wooden poles that mark the edge of the course and broke an oar, rendering them unable to continue rowing. 
+Kilbridge laughs as he recalls his race in the [doubles](https://en.wikipedia.org/wiki/Double_scull) category at Henley. “Our regatta lasted about 20 strokes,” he says. During the starting strokes of the race, his boat steered into one of the wooden poles that mark the edge of the course and broke an oar, rendering them unable to continue rowing. 
 
 Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s nothing that’s more fun than rowing eights in college. I don’t think you can match it... It’s very special.”
 
-Nowadays, Kilbridge finds himself taking it a little easier. “When the weather’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
+Nowadays, Kilbridge finds himself taking it a little easier. “When the [weather](https://twitter.com/BasinWindspeed)’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
 ![](https://scullingfool.smugmug.com/CharlesRiverBlues/Blog-Posts/i-GFjSzcM/0/L/AT7A4850-L.jpg)	
 _Scullers training on the Charles River_
