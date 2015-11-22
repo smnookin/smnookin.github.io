@@ -71,6 +71,7 @@ Despite the challenge (or perhaps because of it), Kilbridge immediately fell in 
 “Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He made a big group of guys feel like they were in good hands.” 
 	
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11351247_10205155497460934_5509127688271398378_n.jpg?oh=3c626ec6e05234957f955c60c0b5d989&oe=56B43B68)	
+_Kilbridge and Thews-Wassell give feedback to their rowers during a piece_
 
 Throughout his entire time working post-Harvard, Kilbridge was training in the single. 
 
@@ -86,7 +87,8 @@ Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s not
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the weather’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
-![](https://scullingfool.smugmug.com/CharlesRiverBlues/Blog-Posts/i-GFjSzcM/0/L/AT7A4850-L.jpg)
+![](https://scullingfool.smugmug.com/CharlesRiverBlues/Blog-Posts/i-GFjSzcM/0/L/AT7A4850-L.jpg)	
+_Scullers training on the Charles River_
 
 After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: Director of Rowing and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
@@ -116,7 +118,8 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 
 I ask Kilbridge what it took to build the team up. “Patience,” he says simply. 
 
-![](https://photos-3.dropbox.com/t/2/AADBh4OmYx_fjTXi5VeLXQswuHKXy1Dx4n1dwXy7r_Mr5g/12/348106856/jpeg/32x32/1/1447736400/0/2/IMG_7882.JPG/EPq0g90CGPFqIAcoBw/S_fb-TyoDd1sVaNOxr7agTufMwTfhbNCvpXdnmTQuQo?size_mode=2&size=1024x768)
+![](https://photos-3.dropbox.com/t/2/AADBh4OmYx_fjTXi5VeLXQswuHKXy1Dx4n1dwXy7r_Mr5g/12/348106856/jpeg/32x32/1/1447736400/0/2/IMG_7882.JPG/EPq0g90CGPFqIAcoBw/S_fb-TyoDd1sVaNOxr7agTufMwTfhbNCvpXdnmTQuQo?size_mode=2&size=1024x768)	
+_MIT rowers in a pair_
 	
 “There’s two big parts - there’s recruiting kids into the program and then there’s building a team culture,” Kilbridge says of growing the program.  
 
