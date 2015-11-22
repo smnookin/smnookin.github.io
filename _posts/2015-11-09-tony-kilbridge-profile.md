@@ -90,7 +90,7 @@ Nowadays, Kilbridge finds himself taking it a little easier. “When the [weathe
 ![](https://scullingfool.smugmug.com/CharlesRiverBlues/Blog-Posts/i-GFjSzcM/0/L/AT7A4850-L.jpg)	
 _Scullers training on the Charles River_
 
-After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: Director of Rowing and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
+After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: [Director of Rowing](http://tech.mit.edu/V126/N28/28rowingcoach.html) and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
 Under his leadership, the crew program at MIT has grown in leaps and bounds. The heavyweight men have improved their league placement at EARC sprints and average erg scores for every year in the past four years. Kilbridge is cautiously optimistic about the team’s speed this year. “Testing so far shows that they’re a little stronger, a little faster than last year,” he says.  
 
@@ -100,11 +100,11 @@ Unlike other MIT athletic teams, which are Division III, MIT’s crew program is
 
 “The alumni were up in arms,” says Kilbridge. MIT’s athletic department and the rowing alumni funded a study of MIT crew in 2005 to see how they could improve the program. The study results called for changes to the coaching staff and the creation of a new position: a director of rowing, to oversee all four crews in the boathouse and create a more cooperative atmosphere. Kilbridge was hired to be both the director of rowing and the men’s heavyweight coach. 
 
-When he took the helm in 2006, “There was dysfunction everywhere. The coaches didn’t like each other, the cox boxes were actually locked up downstairs so that one team wouldn’t take the other team’s cox boxes... I looked at it and said, I can do better than this,” says Kilbridge.    
+When he took the helm in 2006, “There was dysfunction everywhere. The coaches didn’t like each other, the [cox boxes](https://en.wikipedia.org/wiki/Cox_box) were actually locked up downstairs so that one team wouldn’t take the other team’s cox boxes... I looked at it and said, I can do better than this,” says Kilbridge.    
 
 The atmosphere in the boathouse and between teams improved quickly after Kilbridge took over. However, the performance of the heavyweight men’s crew was extremely variable for Kilbridge’s first several years. 
 
-The rowers he took on his first year had a lot of talent and, as seniors in 2009, had “the best year this team has had since the ‘70’s,” Kilbridge says. The crew beat Princeton, Yale, and Dartmouth, and finished in the middle of their league EARC at sprints (typically, the team finishes in the bottom third). The crew was so successful that they decided to travel to England compete in Henley that summer, and made it to semi-finals in the Ladies’ Challenge Plate. 
+The rowers he took on his first year had a lot of talent and, as seniors in 2009, had “the best year this team has had since the ‘70’s,” Kilbridge says. The crew beat [Princeton](http://www.mitathletics.com/sports/m-crewhvy/recaps/041909aaa.html) (for the first time since 1975), Yale, and Dartmouth, and finished [12th in their league](http://www.mitathletics.com/sports/m-crewhvy/recaps/051809aaa.html) at Eastern Sprints. The crew was so successful that they decided to travel to England compete in Henley that summer, and made it to semi-finals in the [Ladies’ Challenge Plate](https://en.wikipedia.org/wiki/Ladies%27_Challenge_Plate). 
 
 However, when the class of 2009 graduated, there was no one to fill their spots. “We had several years where we just had no one,” says Kilbridge. There were some years when the team could only field a four. A top half crew in the EARC is typically able to fill three to four eights and one or two fours of rowers, so Kilbridge knew the team was nowhere near the size it needed to be in order to be competitive. 
 
