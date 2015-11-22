@@ -24,7 +24,7 @@ Harvard University is a rowing powerhouse. For years, undefeated seasons were no
 
 “The big challenge was making the boat you wanted to make, rather than winning your races in the spring. The feeling was, if you made, whatever [boat you wanted]...you were gonna win most of your races,” says Kilbridge. 
 
-Kilbridge quickly adapted to the competitive environment. He made the fastest freshman eight, which won Eastern Sprints. This victory was, “in terms of pure joy,” Kilbridge’s favorite moment in his rowing career. The success continued as his sophomore year, he made the second fastest upperclassmen eight, which went undefeated during the spring season and won Eastern Sprints. His junior year, he made the first eight, which came in second at Eastern Sprints by 0.2 seconds. 
+Kilbridge quickly adapted to the competitive environment. He made the fastest freshman eight, which won [Eastern Sprints](https://en.wikipedia.org/wiki/Eastern_Sprints). This victory was, “in terms of pure joy,” Kilbridge’s favorite moment in his rowing career. The success continued as his sophomore year, he made the second fastest upperclassmen eight, which went undefeated during the spring season and won Eastern Sprints. His junior year, he made the first eight, which came in second at Eastern Sprints by 0.2 seconds. 
 
 Echoing a sentiment felt by many college rowers, Kilbridge found the friendships he made even more valuable than the victories and excitement of racing. “I’ve rowed in the Head of the Charles now probably thirty times, most of those times with friends from college. That’s the most lasting thing I’ve gotten out of it,” he says. 
 
@@ -149,8 +149,7 @@ He looks out the window of the boathouse, where sunlight is sparking on the Char
 
 “I’ve always felt comfortable in the coaching job, even from the beginning,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
 
-###Footnotes
-
+ 
 
 
 
