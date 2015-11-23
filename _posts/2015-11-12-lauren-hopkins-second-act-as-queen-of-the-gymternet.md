@@ -66,6 +66,8 @@ Hopkins found various roles in New England regional theater productions, which c
 
 “I lived in seven apartments in two years...you make ends meet, in that you can pay your rent and make dinner, but nothing else. I had exactly $200 left at the end of the month, so I never had a steady source of income. It’s like, I was 23, and I wanted to do was buy a couch or something! Even for something like going to the Gap and buying a pair of jeans, I had to think about it.”
 
+**Birth of the gymter.net**
+
 During her six years as an actor, Hopkins began laying the foundation for her second act as a sports journalist, though she didn’t know it at the time. In 2008, she re-kindled her interest in gymnastics during the Beijing Olympics. By 2009, she had dedicated herself to learning the [Code of Points](http://www.fig-docs.com/Media/Codes%20of%20Points%202013%20-%202016/WAG/2013-2016%20WAG%20CoP.pdf), the daunting 200 page document that governs the point value of every skill a gymnast can perform. Most lay people can describe twisting, or flipping in vague terms, but Hopkins can tell you from memory that the start value of a [double layout](https://www.youtube.com/watch?v=YK1pEQj6qnY) on floor exercise is 0.6.
 
 In 2010, Hopkins shelved her acting career and enrolled in Columbia University. She majored in history and wanted a “regular life, regular apartment, and a regular job.” During college, she began writing for the Couch Gymnast and was promoted to U.S. editor in 2012. True to her multi-tasking nature, she also picked up a 20/hour week job freshman year as an admin for a physical therapy practice, a job she held for 3.5 years. 
@@ -91,7 +93,7 @@ Hopkins stays upbeat. “The haters used to really bother me in the beginning, b
 She adds, “I was spending so much time on Tumblr, so it was almost a blessing in disguise.”
 
 ***
-
+**Balancing Act ** 
 On top of her day job, part time job, and website, Hopkins also recently completed her first book, [_Finding Our Balance_](http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins' goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
 
 ![](https://laurenhopkinsgym.files.wordpress.com/2015/11/fullsizerender.jpg?w=193&h=300)
