@@ -69,7 +69,7 @@ In 2010, Hopkins shelved her acting career and enrolled in Columbia University. 
 
 “School always came first, and I was usually pretty good at saying when I was too busy to write. The only time it came up was during the 2012 Olympics, when I was taking this four hours a day, four person summer class on US-foreign relations pre and post war. I went for two days, and was like, ‘Hmm, do I want to stay at home and cover the Olympics all day, or do I want to go to this class?’” she laughs.
 
-She dropped the class and chose the Olympics. Two years later, [thegymter.net] (http://thegymter.net/) was born.
+She dropped the class and chose the Olympics. Two years later, [thegymter.net](http://thegymter.net/) was born.
 
 For three months, the site had no ads, and Hopkins self financed all travel expenses. Last year, she covered US Nationals in Pittsburgh, Pennsylvania, eschewing a $200 flight for an 8 hour $40 bus ride from New York City. 
 
@@ -89,7 +89,7 @@ She adds, “I was spending so much time on Tumblr, so it was almost a blessing 
 
 ***
 
-On top of her day job, part time job, and website, Hopkins also recently completed her first book, ]_Finding Our Balance_](http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
+On top of her day job, part time job, and website, Hopkins also recently completed her first book, ]_Finding Our Balance_(http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
 
 “I had 3 agents that were interested, and none said they would be able to sell it with sports as the main focus. They all wanted to change the story so that gymnastics was secondary. One of the editors even said, ‘there needs to be boy drama, there needs to be boy drama’ but I’m like, you don’t understand! These are 15 year old girls trying to make the Olympics, and you think they have boyfriends?” she says, stressing the last word incredulously. 
 
