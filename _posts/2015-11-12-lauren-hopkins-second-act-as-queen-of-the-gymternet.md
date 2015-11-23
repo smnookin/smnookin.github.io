@@ -24,7 +24,7 @@ Hopkins did not disappoint. She wrote an impassioned response, [“Why I’m ang
 
 Former and current Belarusian gymnasts shared the essay on social media. Svetlana Boginskaya, three time Olympic champion who competed for the Soviet Union in the late 1980s to 1990s [commented](https://www.facebook.com/thegymternet/posts/964527733586216) on thegymter.net's Facebook page. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
 
-![Boginskaya comments on thegymter.net's Facebook page]({{site.baseurl}}/assets/Screen%20Shot%202015-11-22%20at%2011.37.57%20PM.png)
+![Boginskaya comments on thegymter.net's Facebook page]({{site.baseurl}}/assets/gymternetfb.png)
 
 Two days later, Hopkins followed up with, [“Meet the Belarusian Gymnasts,”](http://thegymter.net/2015/10/03/meet-the-belarusian-gymnasts/) an 1100 word profile of the entire Belarusian team, including the two athletes displaced by the Americans. A week later, Hopkins published an [explainer](http://thegymter.net/2015/10/16/how-these-world-championships-work/) detailing the intricate rules that govern how countries and individuals qualify to the 2016 Olympic Games from the World Championships. 
 
