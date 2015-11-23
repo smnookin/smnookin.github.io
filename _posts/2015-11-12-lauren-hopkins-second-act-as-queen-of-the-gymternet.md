@@ -79,7 +79,7 @@ During this time, Hopkins also contemplated law school and worked as a paralegal
 
 WIth law school off the table, Hopkins switched day jobs and doubled down on the site. Though the site isn’t financially secure enough to pay a salary, money from ads and the occasional donation pay for travel expenses. Hopkins now does digital media for a New York City law firm (“It pays really well”), where she is much happier. In August, she also picked up a part time Public Relations gig for [Texas Dream Gymnastics](http://texasdreams.com/), a well-known gymnastics training ground for Olympic hopefuls.
 
-Recently, though, Hopkins has faced the ugly side of the gymternet. Two weeks ago, her Tumblr account, where she answers dozens of gymnastics questions daily, was hacked. The intruder deleted her posts, one by one. All 10,000+ entries are gone. One insouciant word remains: “Well.” Another person, or possibly the same one, impersonated her on Twitter and sent her daily, racist tweets about a prominent gymnast. Hopkins managed to get Twitter to shut it down. Another twitter account popped up to accuse Hopkins of bullying teenagers.
+Recently, though, Hopkins has faced the ugly side of the gymternet. Two weeks ago, her Tumblr account, where she answers dozens of gymnastics questions daily, was hacked. The intruder deleted her posts, one by one. All 10,000+ entries are gone. One insouciant word remains: “Well.” Another person, or possibly the same one, impersonated her on Twitter and sent her daily, racist tweets about a prominent gymnast. Hopkins managed to get Twitter to shut it down. Another Twitter account popped up to accuse Hopkins of bullying teenagers.
 
 “I’ve had crazy anons before, but no one has ever gone to this extreme of trying to destroy my online presence,” she says.
 
@@ -89,7 +89,7 @@ She adds, “I was spending so much time on Tumblr, so it was almost a blessing 
 
 ***
 
-On top of her day job, part time job, and website, Hopkins also recently completed her first book, ]_Finding Our Balance_(http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
+On top of her day job, part time job, and website, Hopkins also recently completed her first book, [_Finding Our Balance_(http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
 
 “I had 3 agents that were interested, and none said they would be able to sell it with sports as the main focus. They all wanted to change the story so that gymnastics was secondary. One of the editors even said, ‘there needs to be boy drama, there needs to be boy drama’ but I’m like, you don’t understand! These are 15 year old girls trying to make the Olympics, and you think they have boyfriends?” she says, stressing the last word incredulously. 
 
