@@ -15,7 +15,7 @@ Three weeks before this year’s World Artistic Gymnastics Championships (held O
 
 The backlash was such a big deal that it was covered in mainstream news outlets like the [AP](http://bigstory.ap.org/article/3567690e44a847aea3d3df3282e345de/american-gymnasts-create-unlikely-alliance-belarus) and the [Wall Street Journal](http://www.wsj.com/articles/u-s-women-gymnasts-qualify-for-rio-olympics-though-in-mixed-fashion-1445729014) three weeks later during the competition. But in the meantime, for die-hard gym fans interested in more than a quick-gloss on the controversy, there was only one place to go: Lauren Hopkin’s [thegymter.net](http://thegymter.net/), the eight person, volunteer news and fansite she founded in July of 2014. 
 
-Hopkins did not disappoint. She wrote an impassioned response, [“Why I’m angry about Belarus],”(http://thegymter.net/2015/10/01/why-im-angry-about-belarus/) which got 15,000 pageviews, the second most popular article in the site’s history. 
+Hopkins did not disappoint. She wrote an impassioned response, [“Why I’m angry about Belarus](http://thegymter.net/2015/10/01/why-im-angry-about-belarus/),” which got 15,000 pageviews, the second most popular article in the site’s history. 
 
 “When I first heard the news, I was wondering, ‘Should I just report what happened?’ No, that's what everyone else will do. I like writing when I have a strong opinion, so I decided to write something that had the potential to be ‘inflammatory,'" she said.
 
