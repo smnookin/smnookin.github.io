@@ -21,7 +21,7 @@ Hopkins did not disappoint. She wrote an impassioned response, [“Why I’m ang
 
 Former Belarusian gymnasts, including Svetlana Boginskaya, 3x Olympic champion who competed for the Soviet Union in the late 1980s to 1990s commented on her essay. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
 
-Two days later, Hopkins followed up with, [“Meet the Belarusian Gymnasts,”](http://thegymter.net/2015/10/03/meet-the-belarusian-gymnasts/) an 1100 word profile of the entire Belarusian team, including the two athletes displaced by the Americans. A week later, Hopkins published an explainer detailing the intricate rules that govern how countries and individuals qualify to the 2016 Olympic Games from the World Championships. 
+Two days later, Hopkins followed up with, [“Meet the Belarusian Gymnasts,”](http://thegymter.net/2015/10/03/meet-the-belarusian-gymnasts/) an 1100 word profile of the entire Belarusian team, including the two athletes displaced by the Americans. A week later, Hopkins published an [explainer](http://thegymter.net/2015/10/16/how-these-world-championships-work/) detailing the intricate rules that govern how countries and individuals qualify to the 2016 Olympic Games from the World Championships. 
 
 This type of detailed, insider coverage is typical for Hopkins' site, which bills itself as the “ultimate gym site, for the ultimate gym nerd.” The site averages 300,000-400,000 pageviews a month, going up to half a million during major competitions. 
 
