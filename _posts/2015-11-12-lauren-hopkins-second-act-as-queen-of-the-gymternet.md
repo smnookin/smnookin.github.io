@@ -6,34 +6,45 @@ link: ""
 displaydate: "October 11, 2015"
 date: ""
 category: MIT
-tags: null
+tags: 
+  - "null"
 title: "Lauren Hopkins’ Second Act, as Queen of the Gymternet"
 ---
 
-Two months before this year’s Gymnastics World Championships, the online gymnastics community, the “gymternet,” erupted in controversy when two American gymnasts from California, Alain Kwan and Kylie Dickson announced they would be competing for Belarus. The kicker? Neither Kwan nor Dickson had ever set foot in Belarus or had any previous ties to the country, but when the Belarusian Gymnastics Federation’s vice president, a former teammate of their coach, offered them spots on the team, it was a deal they couldn’t pass up. 
+Three weeks before this year’s World Artistic Gymnastics Championships (held October 23 - November 1) the online gymnastics community, a.k.a. the gymternet, erupted in controversy when two American gymnasts from California, Alain Kwan and Kylie Dickson, announced they would be competing for Belarus. The kicker? Neither Kwan nor Dickson had ever set foot in Belarus or had any previous ties to the country. In exchange for expedited dual US-Belarusian citizenship and the chance to make their international debut, the two athletes were supposed to help Belarus secure a spot at the 2016 Olympics test event. 
 
-In exchange for expedited dual US-Belarusian citizenship and the chance to make their international debut, the two athletes would don Belarusian flag on their leotards and contribute scores that would, if all went as planned, help the country qualify to the 2016 Olympics. In the end, Kwan and Dickson finished 73rd, and 75th overall, and the Belarusian team did not qualify. 
+The backlash was such a big deal that it was covered in mainstream news outlets like the AP and the Wall Street Journal. But for die-hard gym fans interested in more than a quick-gloss on the controversy, there was only one place to go: Lauren Hopkin’s thegymter.net, the eight person, volunteer news and fan-site she founded in July of 2014. 
 
-The online community’s reactions ranged from outraged incredulity to criticisms of American exceptionalism. Among these voices was Lauren Hopkins, Editor in Chief and founder of the site, The Gymter.net, who wrote an impassioned response, “Why I’m angry about Belarus.” Several mainstream news outlets, including AP and the Wall Street Journal also covered the story, but only Hopkins followed up two days later with, “Meet the Belarusian Gymnasts,” an 1100 word profile of the entire Belarusian team, including the two athletes displaced by the Americans. A week later, Hopkins published an explainer detailing the intricate rules that govern how countries and individuals qualify to the 2016 Olympic Games from the World Championships. 
+Hopkins did not disappoint. She wrote an impassioned response, “Why I’m angry about Belarus,” which got 15,000 pageviews, the second most popular article in the site’s history. Former Belarusian gymnasts, including Svetlana Boginskaya, 3x Olympic champion who competed for the Soviet Union in the late 1980’s to 1990’s [TK action]. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
 
-[TK: Quote by Lauren - need to ask her about how she handled this situation]
+Two days later, she followed up with, “Meet the Belarusian Gymnasts,” an 1100 word profile of the entire Belarusian team, including the two athletes displaced by the Americans. A week later, Hopkins published an explainer detailing the intricate rules that govern how countries and individuals qualify to the 2016 Olympic Games from the World Championships. 
 
-This type of detailed, insider coverage is typical for Hopkin’s site, which bills itself as the “ultimate gym site, for the ultimate gym nerd.” Content spans the globe - in a typical year, Hopkins will cover everything from the American Cup to Chinese Nationals and Australian Championships. In a world where NBC broadcasts just 3-5 gymnastics meets annually, this year, Hopkins and her team covered nearly 90 gymnastics competitions, most of which would be of little interest to the average American viewer who might prefer baseball or football. 
+This type of detailed, insider coverage is typical for Hopkin’s site, which bills itself as the “ultimate gym site, for the ultimate gym nerd.” The site averages 300,000-400,000 pageviews a month, going up to half a million during major competitions. 
 
-On the Internet, however, fandom knows no bounds. Between Twitter, Tumblr, and the blogosphere, the Internet has allowed gym fans from all over the world to unite as the gymternet, who now enjoy an unprecedented level of access into the goings-on of the international gymnastics circuit. Obsessives pore over and dissect gymnasts routines, making gifs and [some other behavior]. Hopkin’s site is poised perfectly to capture this readership. 
+Content spans the globe - in a typical year, Hopkins and her team of seven volunteers will cover everything from the American Cup to Chinese Nationals and Australian Championships. In a world where NBC broadcasts just 3-5 gymnastics meets annually, this year, Hopkins and her team covered nearly 90 gymnastics competitions, most of which would be of little interest to the average American viewer who might prefer baseball or football. 
 
-Hopkins started the Gymter.net in 2014 [TK month], after four years of writing for other gymnastics publications. She spends 25-40 hours a week on the hybrid news and fan site, where she writes with both the factual, objective voice associated with mainstream news outlets and the conversational, enthusiastic [TK word] of an obsessed gymnastics fan. She’s may be self professed “stan,” gymternet lingo for “stalker fan,” of Brenna Dowell, a member of the US national team, but admits she is “realistic” about her shot at making the 2016 Olympic team. 
-[but readily points out her falls in competition recaps]. 
+But the Internet as allowed fans from all around the world to form online communities, where obsessives endlessly dissect routines and write treatises about their favorite athletes. Gymnastics is no exception, and Hopkins’ site is poised perfectly to capture this readership.
 
-One of Hopkin’s biggest challenges is figuring out the right tone to strike. Female gymnasts are young and can start competing as early as age 7, with many peaking between 14-18. The minimum age to participate in the Olympics is 16. They may be on national television before they’ve graduated high school. When they fall, millions of viewers gasp, and hours later, gifs will be shared and replayed on the Internet. The gymternet can often be harsh, holding middle-school aged gymnasts to scrutiny most teenagers will never experience. 
+During college, Hopkins spent four years as a writer and editor for the website Couch Gymnast, receiving ⅓ of the monthly ad revenue as payment. When the site crashed for two months in 2014, Hopkins, wanting an outlet to write, decided to strike out on her own, launching thegymter.net in last July. 
 
-“It’s hard because you want to be realistic, when they’re young. I think to myself, if this was another sport, like football, we would be pointing out a person’s flaws, but there’s a way to do that by being honest and not sugarcoating it, as opposed to be cruel.”
+She spends 25-40 hours a week on the hybrid news and fan site, where she writes with both the factual, objective voice associated with mainstream news outlets and the conversational enthusiasm of an obsessed gymnastics fan. She may be self-professed “stan,” internet lingo for “stalker fan,” of Brenna Dowell, a member of the US national team, but admits she is “realistic” about her shot at making the 2016 Olympic team. 
 
-Hopkins recounts her first ever article on gymnastics in 2011, where she learned this lesson the hard way. “I went to the Woga Classic [TK describe] and tried to be snarky and funny, and it came off as super mean. So now, instead of saying ‘she’s terrible and won’t go anywhere,’ I’ll find something about her I liked to say. Even if I don’t think she’s going to the Olympics, I’ll point out I’m looking forward to seeing where she goes in the future.”
+One of Hopkin’s early challenges was figuring out the right tone to strike. Female gymnasts can start competing as early as age 7, and many peak between 14-18. Gabby Douglas, for example was 16 when she won the 2012 Olympic All-Around medal, and Nastia Liukin was 18 when she won in 2008.
+
+The best gymnasts are featured on national television before they’ve graduated high school. When they fall, millions of viewers are watching – and, in some cases, mocking and teasing as well. The gymternet can be harsh, holding teenagers to a level of scrutiny most adults will never experience. 
+
+“It’s hard because you want to be realistic, when they’re young,” Hopkins says. “I think to myself, if this was another sport, like football, we would be pointing out a person’s flaws, but there’s a way to do that by being honest and not sugarcoating it, as opposed to be cruel.”
+
+Hopkins recounts an early article she wrote for the Couch Gymnast 2011, where she learned this lesson the hard way. In her coverage of a small meet in Texas, Hopkins wrote that one of the gymnasts was wearing a heavy knee brace and “looked like she was about to cry.” The gymnast’s coach took offense and emailed her editor. 
+
+“The way it came off was that I was accusing the coach of not paying attention to [the gymnast’s] injury, that I was saying, ‘get this girl off the gym floor!’, when I didn’t mean that at all,” said Hopkins. Afterward, Hopkins amended the article, and now, she says, she tries to strike a positive, but fair tone. 
+
+“When I have a criticism or an observation, I’ll find something about her I liked to say. Even if I don’t think someone is going to the Olympics, I’ll point out I’m looking forward to seeing where she goes in the future,” she says.
+
 
 ***
 
-Hopkins, who is 27, grew up in Dartmouth, Massachusetts, a sleepy [TK might change to suburban] coastal town an hour south of Boston. Though she dabbled in recreational gymnastics, her passion was musical theater. 
+Hopkins, who is 27, grew up in Dartmouth, Massachusetts, a suburban coastal town an hour south of Boston. Though she dabbled in recreational gymnastics, her passion was musical theater. 
 
 “My goal  was to be on Broadway. I’d go to school, go to theater practice, stay there until 10-11pm, go home and go to bed. My mom loved it,” she laughs, “because it didn’t leave a lot of time to get into trouble - meanwhile, all my friends were sneaking out of the house and going to parties.”
 
@@ -65,18 +76,8 @@ Hopkins seems imbued with superhuman time management skills, between her full ti
 
 “She doesn't sleep. I'm convinced she doesn't sleep! And if she does, it’s just in bursts. She sleeps from Friday midnight to Saturday noon, and that will sustain her for 4-5 days. She's an amazing hard worker,” she says. 
 
-Hopkins admits balancing all her commitments can be tough. 
+Hopkins laughs but admits balancing all her commitments can be tough. 
 
 “My day job always has to come first, otherwise the site wouldn’t be able to exist. I never say, ‘I’m going to leave work for five hours to watch gymnastics,’ although -” she lowers her voice, “I did go to the firm’s library and watch the women’s all around final in the middle of the day,” she laughs conspiratorially. 
 
 “But I think my coworkers know that what you do is a hobby, just like what normal people do in their spare time. They go golfing, I do gymnastics.”
-
-
-Planned for final draft:
-More about the book and her future
-Interview with a media studies person who can contextualize her site
-Interview with owner of competitor site
-Ideally meeting her in person to hover and watch her work
-How she deals with trolls/haters - her tumblr was taken offline while during the writing of this profile
-How she deals with sensitive issues like racism in the Gymternet
-
