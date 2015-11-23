@@ -45,7 +45,6 @@ Hopkins recounts an early article she wrote for the [Couch Gymnast](http://www.t
 
 “When I have a criticism or an observation, I’ll find something about her I liked to say. Even if I don’t think someone is going to the Olympics, I’ll point out I’m looking forward to seeing where she goes in the future,” she says.
 
-
 ***
 
 Hopkins, who is 27, grew up in Dartmouth, Massachusetts, a suburban coastal town an hour south of Boston. Though she dabbled in recreational gymnastics, her passion was musical theater. 
@@ -64,36 +63,37 @@ Hopkins found various roles in New England regional theater productions, which c
 
 “I lived in seven apartments in two years...you make ends meet, in that you can pay your rent and make dinner, but nothing else. I had exactly $200 left at the end of the month, so I never had a steady source of income. It’s like, I was 23, and I wanted to do was buy a couch or something! Even for something like going to the Gap and buying a pair of jeans, I had to think about it.”
 
-During her six years as an actor, Hopkins began laying the foundation for her second act as a sports journalist, even though she didn’t know it at the time. In 2008, she re-kindled her interest in gymnastics during the Beijing Olympics, and by 2009, she had dedicated herself to learning the Code of Points, the daunting 200 page document that governs the point value of every skill a gymnast can perform. Most lay people can describe twisting, or flipping in vague terms, but Hopkins can tell you from memory that the start value of a double layout is 0.6.
+During her six years as an actor, Hopkins began laying the foundation for her second act as a sports journalist, though she didn’t know it at the time. In 2008, she re-kindled her interest in gymnastics during the Beijing Olympics. By 2009, she had dedicated herself to learning the [Code of Points](http://www.fig-docs.com/Media/Codes%20of%20Points%202013%20-%202016/WAG/2013-2016%20WAG%20CoP.pdf), the daunting 200 page document that governs the point value of every skill a gymnast can perform. Most lay people can describe twisting, or flipping in vague terms, but Hopkins can tell you from memory that the start value of a [double layout] on floor exercise(https://www.youtube.com/watch?v=YK1pEQj6qnY) is 0.6.
 
 In 2010, Hopkins shelved her acting career and enrolled in Columbia University. She majored in history and wanted a “regular life, regular apartment, and a regular job.” During college, she began writing for the Couch Gymnast and was promoted to U.S. editor in 2012. True to her multi-tasking nature, she also picked up a 20/hour week job freshman year as an admin for a physical therapy practice, a job she held for 3.5 years. 
 
 “School always came first, and I was usually pretty good at saying when I was too busy to write. The only time it came up was during the 2012 Olympics, when I was taking this four hours a day, four person summer class on US-foreign relations pre and post war. I went for two days, and was like, ‘Hmm, do I want to stay at home and cover the Olympics all day, or do I want to go to this class?’” she laughs.
 
-She dropped the class and chose the Olympics. Two years later, thegymter.net was born.
+She dropped the class and chose the Olympics. Two years later, [thegymter.net] (http://thegymter.net/) was born.
 
 For three months, the site had no ads, and Hopkins self financed all travel expenses. Last year, she covered US Nationals in Pittsburgh, Pennsylvania, eschewing a $200 flight for an 8 hour $40 bus ride from New York City. 
 
-During this time, Hopkins was also contemplating law school and worked as a paralegal to test out the waters.
+During this time, Hopkins also contemplated law school and worked as a paralegal to test out the waters.
 
 “I absolutely hated it. I was working in litigation and watching our lawyers work from 6am to midnight. They were always going on dinners and golf trips,” she laughs. “That seemed like the absolute worst thing to me, networking for life. It’s all business people, doing business all the time. Even when I really hated going to the office, I kept telling myself, you’re making money to finance [travel to] Worlds.”
 
-WIth law school off the table, Hopkins switched day jobs and doubled down on the site. Though the site isn’t financially secure enough to pay a salary, money from ads and the occasional donation pay for travel expenses. Hopkins now does digital media for a New York City law firm (“It pays really well”), where she is much happier. In August, she also picked up a part time Public Relations gig for Texas Dream Gymnastics, a well-known gymnastics club that has two gymnasts vying for the 2016 Olympics. 
+WIth law school off the table, Hopkins switched day jobs and doubled down on the site. Though the site isn’t financially secure enough to pay a salary, money from ads and the occasional donation pay for travel expenses. Hopkins now does digital media for a New York City law firm (“It pays really well”), where she is much happier. In August, she also picked up a part time Public Relations gig for [Texas Dream Gymnastics](http://texasdreams.com/, a well-known gymnastics training ground for Olympic hopefuls.
 
-Recently, however, Hopkins has faced the ugly side of the Internet. Two weeks ago, her Tumblr account, where she answers dozens of gymnastics questions daily, was hacked. The intruder deleted her posts, one by one. All 10,000+ entries are gone. One insouciant word remains: “Well.” Another person, or possibly the same one, impersonated her on Twitter and sent her daily, racist tweets about a prominent gymnast. Hopkins managed to get Twitter to shut it down. Another twitter account popped up to accuse Hopkins of bullying teenagers.
+Recently, though, Hopkins has faced the ugly side of the gymternet. Two weeks ago, her Tumblr account, where she answers dozens of gymnastics questions daily, was hacked. The intruder deleted her posts, one by one. All 10,000+ entries are gone. One insouciant word remains: “Well.” Another person, or possibly the same one, impersonated her on Twitter and sent her daily, racist tweets about a prominent gymnast. Hopkins managed to get Twitter to shut it down. Another twitter account popped up to accuse Hopkins of bullying teenagers.
+
 “I’ve had crazy anons before, but no one has ever gone to this extreme of trying to destroy my online presence,” she says.
 
 Hopkins stays upbeat. “The haters used to really bother me in the beginning, because I was taking it personally, but now, I think of it as the people who are doing it clearly have nothing going on with their lives, if they’re messaging me 10 times a day or constantly tweeting at me,” she laughs. 
 
-Also, she adds, “I was spending so much time on Tumblr, so it was almost a blessing in disguise.”
+She adds, “I was spending so much time on Tumblr, so it was almost a blessing in disguise.”
 
 ***
 
-On top of her day job, part time job, and website, Hopkins also recently completed her first book, Finding Our Balance, a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
+On top of her day job, part time job, and website, Hopkins also recently completed her first book, ]_Finding Our Balance_](http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
 
 “I had 3 agents that were interested, and none said they would be able to sell it with sports as the main focus. They all wanted to change the story so that gymnastics was secondary. One of the editors even said, ‘there needs to be boy drama, there needs to be boy drama’ but I’m like, you don’t understand! These are 15 year old girls trying to make the Olympics, and you think they have boyfriends?” she says, stressing the last word incredulously. 
 
-The book comes out in December and Hopkins plans to write two more to complete the trilogy. 
+The book comes out in December and Hopkins plans to write two more to complete a trilogy. 
 
 Her friend Jennifer Iacopelli, who is also a novelist, tells me the secret to making it work. 
 
@@ -103,5 +103,4 @@ Hopkins laughs but admits balancing all her commitments can be tough.
 
 “My day job always has to come first, otherwise the gymnastics stuff wouldn’t be able to exist. I never say, ‘I’m going to leave work for five hours to watch gymnastics,’ although -” she lowers her voice, “I did go to the firm’s library and watch the women’s all around final in the middle of the day,” she laughs conspiratorially. 
 
-How she deals with trolls/haters - her tumblr was taken offline while during the writing of this profile
-How she deals with sensitive issues like racism in the Gymternet
+“But I think my coworkers know that what you do is a hobby, just like what normal people do in their spare time. They go golfing, I do gymnastics," she says.
