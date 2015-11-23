@@ -11,6 +11,8 @@ tags:
 title: "Lauren Hopkins’ Second Act, as Queen of the Gymternet"
 ---
 
+![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZUAAAAJDNjYjQxNTFmLTE5NDItNGFhYy1hOTc5LWMxMmMzMDBkN2ViYQ.jpg)
+
 Three weeks before this year’s World Artistic Gymnastics Championships (held October 23 - November 1) the online gymnastics community, a.k.a. the gymternet, erupted in controversy when two American gymnasts from California, Alain Kwan and Kylie Dickson, announced they would be competing for Belarus. The kicker? Neither Kwan nor Dickson had ever set foot in Belarus or had any previous ties to the country. In exchange for expedited dual US-Belarusian citizenship and the chance to make their international debut, the two athletes were supposed to help Belarus secure a spot at the 2016 Olympics test event. 
 
 The backlash was such a big deal that it was covered in mainstream news outlets like the [AP](http://bigstory.ap.org/article/3567690e44a847aea3d3df3282e345de/american-gymnasts-create-unlikely-alliance-belarus) and the [Wall Street Journal](http://www.wsj.com/articles/u-s-women-gymnasts-qualify-for-rio-olympics-though-in-mixed-fashion-1445729014) three weeks later during the competition. But in the meantime, for die-hard gym fans interested in more than a quick-gloss on the controversy, there was only one place to go: Lauren Hopkins' [thegymter.net](http://thegymter.net/), the eight person, volunteer news and fansite she founded in July of 2014. 
