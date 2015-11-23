@@ -67,6 +67,7 @@ The six years she spent pursuing acting was tough, she admits, but she did not g
 Hopkins found various roles in New England regional theater productions, which cast actors from New York for lead parts and local actors for the ensemble parts. She starred in Orphan Annie, Little House on the Prairie, Grease, and Wizard of Oz, often on the road for months at a time. Money was always an issue.
 
 ![Lauren Hopkins as Dorothy in the Wizard of Oz]({{site.baseurl}}/assets/199306_4560611595_453_n.jpg)
+
 Lauren Hopkins as Dorothy in the Wizard of Oz
 
 “I lived in seven apartments in two years...you make ends meet, in that you can pay your rent and make dinner, but nothing else. I had exactly $200 left at the end of the month, so I never had a steady source of income. It’s like, I was 23, and I wanted to do was buy a couch or something! Even for something like going to the Gap and buying a pair of jeans, I had to think about it.”
@@ -97,7 +98,6 @@ Hopkins stays upbeat. “The haters used to really bother me in the beginning, b
 
 She adds, “I was spending so much time on Tumblr, so it was almost a blessing in disguise.”
 
-***
 **Balancing Act ** 
 On top of her day job, part time job, and website, Hopkins also recently completed her first book, [_Finding Our Balance_](http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins' goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
 
