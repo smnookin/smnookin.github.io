@@ -49,6 +49,7 @@ Hopkins recounts an early article she wrote for the [Couch Gymnast](http://www.t
 
 ***
 **Broadway Dreams**
+
 Hopkins, who is 27, grew up in Dartmouth, Massachusetts, a suburban coastal town an hour south of Boston. Though she dabbled in recreational gymnastics, her passion was musical theater. 
 
 “My goal  was to be on Broadway. I’d go to school, go to theater practice, stay there until 10-11pm, go home and go to bed. My mom loved it,” she laughs, “because it didn’t leave a lot of time to get into trouble - meanwhile, all my friends were sneaking out of the house and going to parties.”
