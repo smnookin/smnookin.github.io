@@ -33,7 +33,7 @@ During college, Hopkins spent four years as a writer and editor for the website 
 
 She spends 25-40 hours a week on the hybrid news and fan site, where she writes with both the factual, objective voice associated with mainstream news outlets and the conversational enthusiasm of an obsessed gymnastics fan. She may be self-professed “stan,” internet lingo for “stalker fan,” of Brenna Dowell, a member of the US national team, but admits she is “realistic” about Dowell's shot at the 2016 Olympic team. 
 
-One of Hopkin’s early challenges was figuring out the right tone to strike. Female gymnasts can start competing as early as age 5, and many peak between 14-18. Gabby Douglas, for example was 16 when she won the 2012 Olympic All-Around medal and Nastia Liukin was 18 when she won in 2008.
+One of Hopkins' early challenges was figuring out the right tone to strike. Female gymnasts can start competing as early as age 5, and many peak between 14-18. Gabby Douglas, for example was 16 when she won the 2012 Olympic All-Around medal and Nastia Liukin was 18 when she won in 2008.
 
 The best gymnasts are featured on national television before they’ve graduated high school. When they fall, millions of viewers are watching – and, in some cases, mocking and teasing as well. The gymternet can be harsh, holding teenagers to a level of scrutiny most adults will never experience. 
 
