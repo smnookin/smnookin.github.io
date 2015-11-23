@@ -50,7 +50,6 @@ Hopkins recounts an early article she wrote for the [Couch Gymnast](http://www.t
 
 “When I have a criticism or an observation, I’ll find something about her I liked to say. Even if I don’t think someone is going to the Olympics, I’ll point out I’m looking forward to seeing where she goes in the future,” she says.
 
-***
 **Broadway Dreams**
 
 Hopkins, who is 27, grew up in Dartmouth, Massachusetts, a suburban coastal town an hour south of Boston. Though she dabbled in recreational gymnastics, her passion was musical theater. 
@@ -68,6 +67,7 @@ The six years she spent pursuing acting was tough, she admits, but she did not g
 Hopkins found various roles in New England regional theater productions, which cast actors from New York for lead parts and local actors for the ensemble parts. She starred in Orphan Annie, Little House on the Prairie, Grease, and Wizard of Oz, often on the road for months at a time. Money was always an issue.
 
 ![Lauren Hopkins as Dorothy in the Wizard of Oz]({{site.baseurl}}/assets/199306_4560611595_453_n.jpg)
+Lauren Hopkins as Dorothy in the Wizard of Oz
 
 “I lived in seven apartments in two years...you make ends meet, in that you can pay your rent and make dinner, but nothing else. I had exactly $200 left at the end of the month, so I never had a steady source of income. It’s like, I was 23, and I wanted to do was buy a couch or something! Even for something like going to the Gap and buying a pair of jeans, I had to think about it.”
 
