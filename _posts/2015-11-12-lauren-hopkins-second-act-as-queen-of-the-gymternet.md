@@ -22,7 +22,9 @@ Hopkins did not disappoint. She wrote an impassioned response, [“Why I’m ang
 
 “When I first heard the news, I was wondering, ‘Should I just report what happened?’ No, that's what everyone else will do. I like writing when I have a strong opinion, so I decided to write something that had the potential to be ‘inflammatory,'" she said.
 
-Former and current Belarusian gymnasts shared the essay on social media. Svetlana Boginskaya, three time Olympic champion who competed for the Soviet Union in the late 1980s to 1990s [commented](https://www.facebook.com/thegymternet/posts/964527733586216) on the gymter.net's Facebook page. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
+Former and current Belarusian gymnasts shared the essay on social media. Svetlana Boginskaya, three time Olympic champion who competed for the Soviet Union in the late 1980s to 1990s [commented](https://www.facebook.com/thegymternet/posts/964527733586216) on thegymter.net's Facebook page. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
+
+![Boginskaya comments on thegymter.net's Facebook page]({{site.baseurl}}/assets/Screen%20Shot%202015-11-22%20at%2011.37.57%20PM.png)
 
 Two days later, Hopkins followed up with, [“Meet the Belarusian Gymnasts,”](http://thegymter.net/2015/10/03/meet-the-belarusian-gymnasts/) an 1100 word profile of the entire Belarusian team, including the two athletes displaced by the Americans. A week later, Hopkins published an [explainer](http://thegymter.net/2015/10/16/how-these-world-championships-work/) detailing the intricate rules that govern how countries and individuals qualify to the 2016 Olympic Games from the World Championships. 
 
@@ -63,7 +65,9 @@ The six years she spent pursuing acting was tough, she admits, but she did not g
 
 “Auditions are terrible. You wake up at 5am, there’s anywhere between 100-500 people, and you wait in line all day. And there’s this thing called ‘typing,” where they bring you in groups of 40 and say, ‘you stay, you stay, everyone else leave,’ because you’re not what they want physically. Then, you go to your side job, you don’t get home until midnight, and then you have to be up at 5am again.”
 
-Hopkins found various roles in New England regional theater productions, which cast actors from New York for lead parts and local actors for the ensemble parts. She starred in Orphan Annie, Little House on the Prairie, and Grease, often on the road for months at a time. Money was always an issue.
+Hopkins found various roles in New England regional theater productions, which cast actors from New York for lead parts and local actors for the ensemble parts. She starred in Orphan Annie, Little House on the Prairie, Grease, and Wizard of Oz, often on the road for months at a time. Money was always an issue.
+
+![Lauren Hopkins as Dorothy in the Wizard of Oz]({{site.baseurl}}/assets/199306_4560611595_453_n.jpg)
 
 “I lived in seven apartments in two years...you make ends meet, in that you can pay your rent and make dinner, but nothing else. I had exactly $200 left at the end of the month, so I never had a steady source of income. It’s like, I was 23, and I wanted to do was buy a couch or something! Even for something like going to the Gap and buying a pair of jeans, I had to think about it.”
 
