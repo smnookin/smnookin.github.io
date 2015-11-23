@@ -55,7 +55,7 @@ Hopkins got her first paid acting gig at 15, and at 17, left her hometown for Ne
 
 “They definitely didn’t want me to do theater. When I left, they said, ‘you’ll be back in a year! You’ll cave and come back.’ You’ll never go to college, you’ll be stuck working, they said. They kept threatening I’d be working at McDonald’s for the rest of my life. I really wanted to prove them wrong,” she said.
 
-She admits the six years she spent pursuing acting was tough, but notes with a gleam of triumph that she did not go “crawling back.” Instead, she filled her days with auditions and her nights with side gigs, picking up jobs as a waitress or an usherer. 
+The six years she spent pursuing acting was tough, she admits, but she did not go “crawling back.” Instead, she filled her days with auditions and her nights with side gigs, picking up jobs as a waitress or an usherer. 
 
 “Auditions are terrible. You wake up at 5am, there’s anywhere between 100-500 people, and you wait in line all day. And there’s this thing called ‘typing,” where they bring you in groups of 40 and say, ‘you stay, you stay, everyone else leave,’ because you’re not what they want physically. Then, you go to your side job, you don’t get home until midnight, and then you have to be up at 5am again.”
 
