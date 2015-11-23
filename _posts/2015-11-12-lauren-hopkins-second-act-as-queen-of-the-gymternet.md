@@ -53,7 +53,7 @@ Hopkins, who is 27, grew up in Dartmouth, Massachusetts, a suburban coastal town
 
 Hopkins got her first paid acting gig at 15, and at 17, left her hometown for New York City, eschewing college for her Broadway dreams. It was a hard decision for her parents to swallow. But for Hopkins, the doubts only fueled her desire.
 
-“They definitely didn’t want me to do theater. When I left, they said, ‘you’ll be back in a year! You’ll cave and come back.’ You’ll never go to college, you’ll be stuck working, they said. They kept threatening I’d be working at McDonald’s for the rest of my life. I really wanted to prove them wrong.”
+“They definitely didn’t want me to do theater. When I left, they said, ‘you’ll be back in a year! You’ll cave and come back.’ You’ll never go to college, you’ll be stuck working, they said. They kept threatening I’d be working at McDonald’s for the rest of my life. I really wanted to prove them wrong,” she said.
 
 She admits the six years she spent pursuing acting was tough, but notes with a gleam of triumph that she did not go “crawling back.” Instead, she filled her days with auditions and her nights with side gigs, picking up jobs as a waitress or an usherer. 
 
