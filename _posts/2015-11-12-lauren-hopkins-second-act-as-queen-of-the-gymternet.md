@@ -11,6 +11,7 @@ tags:
 title: "Lauren Hopkins’ Second Act, as Queen of the Gymternet"
 ---
 
+
 ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZUAAAAJDNjYjQxNTFmLTE5NDItNGFhYy1hOTc5LWMxMmMzMDBkN2ViYQ.jpg)
 
 Three weeks before this year’s World Artistic Gymnastics Championships (held October 23 - November 1) the online gymnastics community, a.k.a. the gymternet, erupted in controversy when two American gymnasts from California, Alain Kwan and Kylie Dickson, announced they would be competing for Belarus. The kicker? Neither Kwan nor Dickson had ever set foot in Belarus or had any previous ties to the country. In exchange for expedited dual US-Belarusian citizenship and the chance to make their international debut, the two athletes were supposed to help Belarus secure a spot at the 2016 Olympics test event. 
@@ -21,7 +22,9 @@ Hopkins did not disappoint. She wrote an impassioned response, [“Why I’m ang
 
 “When I first heard the news, I was wondering, ‘Should I just report what happened?’ No, that's what everyone else will do. I like writing when I have a strong opinion, so I decided to write something that had the potential to be ‘inflammatory,'" she said.
 
-Former Belarusian gymnasts, including Svetlana Boginskaya, 3x Olympic champion who competed for the Soviet Union in the late 1980s to 1990s commented on her essay. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
+Former Belarusian gymnasts, including Svetlana Boginskaya, three time Olympic champion who competed for the Soviet Union in the late 1980s to 1990s commented on the gymter.net's Facebook page. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/thegymternet/posts/964527733586216" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/thegymternet/posts/964527733586216"><p>Over the past few days, the support we&#039;ve seen for the Belarusian gymnasts has been incredible. Many have written in...</p>Posted by <a href="https://www.facebook.com/thegymternet/">The Gymternet</a> on&nbsp;<a href="https://www.facebook.com/thegymternet/posts/964527733586216">Saturday, 3 October 2015</a></blockquote></div></div>
 
 Two days later, Hopkins followed up with, [“Meet the Belarusian Gymnasts,”](http://thegymter.net/2015/10/03/meet-the-belarusian-gymnasts/) an 1100 word profile of the entire Belarusian team, including the two athletes displaced by the Americans. A week later, Hopkins published an [explainer](http://thegymter.net/2015/10/16/how-these-world-championships-work/) detailing the intricate rules that govern how countries and individuals qualify to the 2016 Olympic Games from the World Championships. 
 
