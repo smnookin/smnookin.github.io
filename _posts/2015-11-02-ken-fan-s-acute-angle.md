@@ -36,7 +36,8 @@ His genuine concern for my state of mind resonated with the words of one of his 
 And considering his elite background, it is only a wonder how Fan can remain so humble.
 										
 										* * *
-                                        
+
+
 Fan founded Girls’ Angle in 2007 with nothing but his own pocket money in order to improve K-12 U.S. math education. He envisioned a system where top-university academics would personally encourage K-12 girls to pursue math and act as their role models.
 
 In a [podcast](http://wildaboutmath.com/2013/04/21/ken-fan-inspired-by-math-29/), Fan said that the biggest reason for the national math education decline is the “disconnect between the mathematical world and the math education world.” 
@@ -62,6 +63,7 @@ The extracurricular math programs that attempt to fix this issue, Fan says, also
 “One of the things Girls’ Angle tries to do is create new venues and activities that are non-competitive,” he said. “We call them math collaborations” because “math is not a competition.”
 
 
+
 **Ken Fan before Girls’ Angle**
 
 Fan, from Maryland, describes himself as an “Air Force brat.” His father was a pediatrician in the Air Force, a job that would move the family several times within Hawaii, California and Maryland. Through all of this change, education was an important constant for him and his sister. It was no surprise then, that Fan’s father was deeply involved in their education.
@@ -80,7 +82,8 @@ This went on a few more times. “Finally, I understood that my foot went back t
 He wants Girls’ Angle to be a program that focuses more on teaching girls problem solving skills, rather than actual content.
 
 										* * *
-                                        
+            
+            
 When the family moved to Maryland, Fan was in high school and his father wanted him to learn more advanced physics. So, as any loving dad would, his father took him to the University of Maryland College Park campus to find out if he could enroll in a physics class. There, they met a professor who immediately asked Fan if he knew calculus and Fan, having had taught himself calculus the past summer, said yes.
 
 The professor then asked him if he knew the derivative of tangent. 
