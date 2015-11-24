@@ -11,7 +11,8 @@ tags:
 title: Ken Fan’s Angle on Girls Math Education
 ---
 
-![ken_fan_image.png]({{site.baseurl}}/assets/ken_fan_image.png)
+
+![ken_fan_image_cropped.png]({{site.baseurl}}/assets/ken_fan_image_cropped.png)
 
 In a world where the number of women in STEM far lags behind the number of men, Dr. Ken Fan has dedicated his life to narrowing this gender gap. He spends his time mentoring middle school girls one-on-one in his own non-profit, Girls’ Angle. Unmarried and with no children, he has centered his life around this small building in Central Square—the location kept secret from anyone outside of the organization. 
 
