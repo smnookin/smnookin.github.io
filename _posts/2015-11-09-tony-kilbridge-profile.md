@@ -63,7 +63,7 @@ When Kilbridge quit his law job, he and his wife decided to move to Virginia, se
 
 “The difference in pay grade was substantial,” says Kilbridge. After seeking the advice of friends and family, he turned down the law school position and accepted the coaching offer. 
 
-“It was very visceral, kind of a gut feeling,” he says of his decision. “My dad actually urged me to take the coaching job... People who weren’t going to be facing the pay differential thought it was pretty clear what i should do.” 
+“It was very visceral, kind of a gut feeling. My dad actually urged me to take the coaching job,” he says of his decision. “People who weren’t going to be facing the pay differential thought it was pretty clear what i should do.” 
 
 Coaching at the collegiate level requires “a specialized knowledge of how to make a college eight go fast,” according to Kilbridge, and although he had several years of coaching experience under his belt, there was a lot of new information to learn. 
 
