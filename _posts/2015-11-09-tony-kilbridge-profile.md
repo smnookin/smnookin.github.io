@@ -28,7 +28,7 @@ Kilbridge was first introduced to rowing as a child when he and his family went 
 
 Harvard University is a rowing powerhouse. For years, undefeated seasons were not unusual and they enjoyed complete domination of the collegiate rowing landscape. Kilbridge now found himself a part of this rowing dynasty, and from the first day of practice he could sense "the level of intensity about the whole thing." 
 
-“The big challenge was making the boat you wanted to make, rather than winning your races in the spring. The feeling was, if you made, whatever [boat you wanted]...you were gonna win most of your races,” says Kilbridge. 
+“The big challenge was making the boat you wanted to make, rather than winning your races in the spring. The feeling was, if you made [it] ... you were going to win most of your races,” says Kilbridge. 
 
 Kilbridge quickly adapted to the competitive environment. He made the fastest freshman eight, which won [Eastern Sprints](https://en.wikipedia.org/wiki/Eastern_Sprints). This victory was, “in terms of pure joy,” Kilbridge’s favorite moment in his rowing career. The success continued as his sophomore year, he made the second fastest upperclassmen [eight](https://en.wikipedia.org/wiki/Eight_(rowing)), which went undefeated during the spring season and won Eastern Sprints. His junior year, he made the first eight, which came in second at Eastern Sprints by 0.2 seconds. 
 
