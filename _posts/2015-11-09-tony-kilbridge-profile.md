@@ -11,12 +11,17 @@ tags:
 title: "\"From the Beginning\": Tony Kilbridge on Rowing and Coaching"
 ---
 
+
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11081114_10204746305431389_1693409841751789385_n.jpg?oh=ae91f76074be6752304ee2b9d1810e20&oe=56B4C865)	
 _Kilbridge and MIT Heavyweight Men's Assistant Coach, Evan Thews-Wassell, during winter training in Cocoa Beach, FL_
 
+%get rid of self in first sentence
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure hanging off the riverbank, built in the 1930’s and covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
 
 Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as head coach at MIT, and the fall racing season is just winding down. This fall the [heavyweights](http://www.mitathletics.com/sports/m-crewhvy/2015-16/news) have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
+
+%some sort of break here - as natural as it seems for him to be here now, there was a period of his life where it seemed he would be anywhere but here. 
+%put subheadings?
 
 Kilbridge was first introduced to rowing as a child when he and his family went to watch his father’s friend compete in the very first [Head of the Charles](http://www.hocr.org/) (held in 1965). When he arrived at Harvard in the fall of 1978, he was inundated with advertising to join “Harvard’s #1 Sport.”    
 
@@ -148,8 +153,3 @@ There’s no doubt that Kilbridge cares about the team and finding ways to overc
 He looks out the window of the boathouse, where sunlight is sparking on the Charles River. It’s a windy day and the water is choppy, but those are typical rowing conditions in Boston. Crews learn to adapt to the chop and row proficiently in a headwind.
 
 “I’ve always felt comfortable in the coaching job, even from the beginning,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
-
- 
-
-
-
