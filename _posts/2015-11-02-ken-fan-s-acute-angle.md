@@ -104,7 +104,7 @@ The instructor, noticing Fan’s fixation, recommended that he try out oil-paint
 
 It is this same passion and excitement that Fan instills in his work at Girls Angle. Even though he is no longer able to paint recreationally, he still continues to draw and he hopes that as Girls Angle grows he will be able to continue drawing.
 
-According to Wang, Fan can occasionally be found teaching the girls different painting and drawing techniques. It is no surprise considering that the math and art worlds are so intertwined. Theories such as the golden ratio show that mathematicians tend to appreciate art at a different level than the average art enthusiast.  
+According to Wang, Fan can occasionally be found teaching the girls different painting and drawing techniques. It is no surprise considering that the math and art worlds are so intertwined. Theories such as the [golden ratio](http://mathcentral.uregina.ca/beyond/articles/Art/art1.html) show that mathematicians tend to appreciate art at a different level than the average art enthusiast.  
 
 More importantly, Fan hopes that Girls’ Angle will be able to instill a change in the math educational system so that students can receive more individualized attention. 
 Fan acknowledges that this goal will be difficult to achieve. “It’s just like in mathematics,” he told me. “The circle is an ideal concept and you can never actually draw a perfect circle…It’s always a work in progress.”
