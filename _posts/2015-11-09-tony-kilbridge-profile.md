@@ -16,6 +16,7 @@ title: "\"From the Beginning\": Tony Kilbridge on Rowing and Coaching"
 _Kilbridge and MIT Heavyweight Men's Assistant Coach, Evan Thews-Wassell, during winter training in Cocoa Beach, FL_
 
 %get rid of self in first sentence
+%check comma clauses
 When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, at the MIT Pierce Boathouse, it’s an unusually warm and sunny October morning. The banks of the Charles River are lined with fiery red and orange trees. The boathouse itself, a sagging rectangular structure built in the 1930’s that hangs off the riverbank and is covered with peeling white paint, is warm and bright on the inside. A few hours ago, the crew teams were out on the water in semi-darkness and pouring rain, but the weather has cleared up now and the boathouse is quiet and peaceful, empty except for the coaches.
 
 Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as head coach at MIT, and the fall racing season is just winding down. This fall the [heavyweights](http://www.mitathletics.com/sports/m-crewhvy/2015-16/news) have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
