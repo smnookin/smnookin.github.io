@@ -21,7 +21,7 @@ When I visit Tony Kilbridge, Director of Rowing and Heavyweight Men’s Coach, a
 Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as head coach at MIT, and the fall racing season is just winding down. This fall the [heavyweights](http://www.mitathletics.com/sports/m-crewhvy/2015-16/news) have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
 
 %some sort of break here - as natural as it seems for him to be here now, there was a period of his life where it seemed he would be anywhere but here. 
-%put subheadings?
+%put subheadings? or section breaks
 
 Kilbridge was first introduced to rowing as a child when he and his family went to watch his father’s friend compete in the very first [Head of the Charles](http://www.hocr.org/) (held in 1965). When he arrived at Harvard in the fall of 1978, he was inundated with advertising to join “Harvard’s #1 Sport.”    
 
