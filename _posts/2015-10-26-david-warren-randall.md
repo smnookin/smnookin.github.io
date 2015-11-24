@@ -29,10 +29,6 @@ MIT’s [Student Support Services](http://mit.edu/uaap/s3/), or S3, entails an o
 
 Randall oversees the entire service and manages day-to-day operations of the services. 
 
-
-***
-
-
 Randall has experienced his own fair of struggles, allowing him to empathize with students as they take a very short break from their hectic schedules to sit down and chat with him about their crazy lives. He obtained his Bachelor’s degree in Psychology and Economics in 1996 from a private liberal arts college in upstate New York, followed with a two-year pre-doctoral internship at Brown University and a six-year course of study to finally receive his Ph. D. in Clinical Psychology.
 
 "I always was the sort of person people came to when they wanted help." Randall said on why he studied clinical psychology. "When I went to school I just thought that I was going to major in psychology." Randall also said that his professors made the field seem extremely exciting.
