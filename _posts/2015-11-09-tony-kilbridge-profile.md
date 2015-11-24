@@ -59,7 +59,7 @@ One good thing that came of Kilbridge’s decision to become a lawyer was that h
 
 When Kilbridge quit his law job, he and his wife decided to move to Virginia, settling there because it “looked like it had a good lifestyle, a good place to raise a family.” His wife, a doctor, found a job in the area immediately, but Kilbridge spent almost two years looking for work and staying home with their two boys.
 
-“That period was very unsettling," he said. "There was this fish out of water feeling.” Then, on the same summer day in 2001, Kilbridge was offered two dramatically different positons. He was offered the position of Associate Dean at the University of Virginia (UVA) Law School and head coach of the [men’s rowing team](http://aig.alumni.virginia.edu/virginiarowing/) at the same school.  
+“That period was very unsettling," he said. "There was this fish out of water feeling.” Then, on the same summer day in 2001, Kilbridge was offered two dramatically different positons. %exemplified internal conflict? He was offered the position of Associate Dean at the University of Virginia (UVA) Law School and head coach of the [men’s rowing team](http://aig.alumni.virginia.edu/virginiarowing/) at the same school.  
 
 “The difference in pay grade was substantial,” says Kilbridge. After seeking the advice of friends and family, he turned down the law school position and accepted the coaching offer. 
 %maybe expand on lawyer thing
