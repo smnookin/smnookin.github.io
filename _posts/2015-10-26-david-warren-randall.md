@@ -16,6 +16,7 @@ title: MIT Administrators Struggle In Times of Campus Tradgedy
 
 
 
+
 ![](http://tech.mit.edu/V132/N59/graphics/s3-2.jpg)	
 
 Last year saw [four confirmed MIT student suicides](http://www.boston.com/news/education/2015/09/01/after-tough-year-suicides-campus-mit-aims-improve-mental-health-culture/Gv6q0XaqjxpjTmkm2XxapO/story.html) and [a lot of press](https://www.bostonglobe.com/metro/2015/03/16/mit-students-open-about-stress/dS61oA5tiKqjvVsJ5VZRAL/story.html?p1=Article_Related_Box_Article) about MIT's intense student stress levels.
@@ -27,6 +28,10 @@ Today, MIT is more than halfway through a fresh semester and a [new plan](http:/
 MIT’s [Student Support Services](http://mit.edu/uaap/s3/), or S3, entails an office that specializes in ensuring student health and success at MIT. The office sees about 5,000 visits a year, and about 50% of a given class year before graduation.  It is not always the case to find a similar support structure in other top-tier colleges that is not directly intertwined with mental health clinical services, or that is so resource-heavy for students.  "Many mental health and counseling centers are tiny;" Randall said, "we happen to have a huge service."
 
 Randall oversees the entire service and manages day-to-day operations of the services. 
+
+
+***
+
 
 Randall has experienced his own fair of struggles, allowing him to empathize with students as they take a very short break from their hectic schedules to sit down and chat with him about their crazy lives. He obtained his Bachelor’s degree in Psychology and Economics in 1996 from a private liberal arts college in upstate New York, followed with a two-year pre-doctoral internship at Brown University and a six-year course of study to finally receive his Ph. D. in Clinical Psychology.
 
@@ -59,5 +64,3 @@ After one of the deaths last year, Randall said "I went out to dinner with the f
 And the [tough tradgedies](https://www.bostonglobe.com/metro/2015/09/03/mit-bolsters-mental-health-services/26MMF8n9EbcxjZI3xVUxzI/story.html) of the past year did not just invade Randall's home life. It impacted his psyche.  "It was awful. I didn't get this job because I like tradgedy and want tradgedy to happen. I want to help people."
 
 "Although none of these are one person's fault, I want to do whatever I can to make MIT as caring a community as possible. In the end, doing that is not enough. It makes you question the job and is what you are doing is a good enough job. It also creates some anxiety, everytime my phone rings now I worry, and that's not such a good feeling to have."
-
-
