@@ -6,9 +6,11 @@ link: ""
 displaydate: "November 29, 2015"
 date: "November 29, 2015"
 category: MIT
-tags: null
+tags: 
+  - "null"
 title: "Warning: This Book is not for the Mentally Unsteady"
 ---
+
 
 ![](http://www.drfranklipman.com/images/2013/06/Anatomy-of-an-Epidemic1.jpg)	
 
@@ -17,6 +19,14 @@ Rachel Davis
 A Book Review of Robert Whitaker’s “The Anatomy of An Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America.”
 
 _“The psychopharmacology revolution was born from one part science and two parts wishful thinking”_
+
+***
+
+***
+
+***
+
+***
 
 ***
 
@@ -62,5 +72,4 @@ However, Whitaker does offer potential solutions, or “blueprints for reform”
 
 “As a society, we put our trust in the medical profession to develop the best possible clinical care for diseases and ailments of all types. We expect that the profession will be honest with us as it goes about this task. And yet, as we look for ways to stem the epidemic of disabling mental illness that has erupted in this country, we cannot trust psychiatry, as a profession, to fulfill that responsibility.”
 
-Great, now I can sleep at night knowing that I cannot trust my doctors. 
-
+Great, now I can sleep at night knowing that I cannot trust my doctors.
