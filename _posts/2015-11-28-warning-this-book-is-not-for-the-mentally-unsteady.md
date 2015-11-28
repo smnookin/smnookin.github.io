@@ -18,7 +18,7 @@ A Book Review of Robert Whitaker’s “The Anatomy of An Epidemic: Magic Bullet
 
 _“The psychopharmacology revolution was born from one part science and two parts wishful thinking”_
 
-.*** {
+*** {
   stroke-width: 5px;
 }
 
