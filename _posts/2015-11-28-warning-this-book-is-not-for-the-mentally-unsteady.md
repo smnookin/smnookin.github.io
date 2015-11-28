@@ -18,7 +18,7 @@ A Book Review of Robert Whitaker’s “The Anatomy of An Epidemic: Magic Bullet
 
 _“The psychopharmacology revolution was born from one part science and two parts wishful thinking”_
 
-***
+***  stroke-width: 5px;
 
 
 The first time I read Robert Whitaker’s “The Anatomy of an Epidemic,” I took a lighter to one of the chapters. I left a scorch mark on the page as publisher Broadway Books’ 2010 book was describing a man who was addicted to Klonopin, and Whitaker’s meticulous description of how this man’s life was ruined by this drug drove me into a craze. As an anxious college student, I was on Klonopin at the time, and was stricken for the first time with the idea that I might never stop taking this medication that can poison someone’s life so easily.
