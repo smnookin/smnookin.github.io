@@ -7,10 +7,11 @@ displaydate: "11-29-2015"
 date: "11-29-2015"
 category: MIT
 tags: null
-title: "Journalism’s Emerging Values: “Making News at The New York Times”"
+title: Journalism’s Emerging Values
 ---
 
-The newsroom is in flux in this new, digital age. Reporters are having to contend with the emergent values of “immediacy, interactivity, and participation,” and new roles and workflows often find themselves at odds with the traditions of the daily print newspaper. At least, this is what Nikki Usher wants you to get from her book, “Making News at The New York Times,” an in-depth look at the patterns of the digital-age newsroom at one of the nation’s top newspapers.
+![](http://2.bp.blogspot.com/-_IB22ldq4Eo/UHViCciDiKI/AAAAAAAATKQ/tqiVQ-DChPM/s1600/DSC_0031.JPG)	
+The newsroom is in flux in this new, digital age. Reporters are having to contend with the emergent values of “immediacy, interactivity, and participation,” and new roles and workflows often find themselves at odds with the traditions of the daily print newspaper. At least, this is what Nikki Usher wants you to get from her book, “[Making News at The New York Times](https://www.press.umich.edu/7137512/making_news_at_the_new_york_times),” an in-depth look at the patterns of the digital-age newsroom at one of the nation’s top newspapers.
 
 This book is the result of five months spent in the newsroom at _The Times_, research that was conducted to gather material for Usher’s doctoral dissertation. True to its origins, the book reads like an academic paper - often overly analytical and dry. At times, the writing could even be compared to that of a high-school research paper artificially padded to reach the word count – Usher returns again and again to the same points in her analysis, constantly looking for new ways to restate the same conclusions.
 
