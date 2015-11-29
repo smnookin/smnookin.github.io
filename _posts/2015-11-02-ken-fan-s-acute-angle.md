@@ -60,6 +60,7 @@ The extracurricular math programs that attempt to fix this issue, Fan says, also
 “One of the things Girls’ Angle tries to do is create new venues and activities that are non-competitive,” he said. “We call them [math collaborations](http://www.girlsangle.org/page/math_collaborations.html)” because “math is not a competition.”
 
 
+
 **Ken Fan: an “Air Force brat”**
 
 Fan, from Maryland, describes himself as an “Air Force brat.” His father was a pediatrician in the Air Force, a job that would move the family several times within Hawaii, California and Maryland. Through all of this change, education was an important constant for him and his sister. It was no surprise then, that Fan’s father was deeply involved in their education.
@@ -113,9 +114,11 @@ Fan acknowledges that this goal will be difficult to achieve. “It’s just lik
 
 **Ken Fan: Girls’ Angle is a “conveyor belt”**
 
+![math-girls.jpg]({{site.baseurl}}/assets/math-girls.jpg)
+
 Fan’s math collaborations aim to approach this ideal. The Girls’ Angle mentors pit all the participants against some fictitious entity—evil ghosts, treasure hunts, locked treasure chests, etc—and the girls have to work together to solve the puzzle. The club’s activities culminate in a SUMiT where the girls are faced with their biggest challenge of the season. 
 
-One of Fan’s favorite events was a [2012 SUMiT](http://girlsangle.org/page/SUMiT.html) called "The Spirit of Hypatia." Ken laughed as he recalled the story. The girls were taken to a large room with rows of desks with a pencil and paper each. On the paper said “DO NOT TURN UNTIL INSTRUCTED TO DO SO” and, when the session began, each girl was shocked to find only one short math problem. When they finished, they realized that none of the mentors were ending the session, so they kept looking at each other awkwardly, wondering what to do next. 
+One of Fan’s favorite events was a [2012 SUMiT](http://girlsangle.org/page/SUMiT.html) called "The Spirit of [Hypatia](http://penelope.uchicago.edu/~grout/encyclopaedia_romana/greece/paganism/hypatia.html)." Ken laughed as he recalled the story. The girls were taken to a large room with rows of desks with a pencil and paper each. On the paper said “DO NOT TURN UNTIL INSTRUCTED TO DO SO” and, when the session began, each girl was shocked to find only one short math problem. When they finished, they realized that none of the mentors were ending the session, so they kept looking at each other awkwardly, wondering what to do next. 
 
 Fan smiled, “It had all the rules of a standardized test except ‘do not talk’.” 
 
