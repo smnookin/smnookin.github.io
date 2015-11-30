@@ -52,8 +52,7 @@ So, he chose to go to law school at Georgetown, “for all the wrong reasons," h
 
 Kilbridge laughs and adds, “You can edit out all the personal advice if you want to.”
 
-%rework the sentence with his wife
-One good thing that came of Kilbridge’s decision to become a lawyer was that he returned to Boston to work at a law firm. He and his wife, who had met while living in the same dormitory at Harvard, dated during their senior year, and then parted ways, were suddenly back in the same city. “Long, boring story short: we got back together,” says Kilbridge. 
+One good thing came out of Kilbridge’s decision to become a lawyer. He returned to Boston and reconnected with his college girlfriend, who he had met while living in the same dormitory at Harvard. “Long, boring story short: we got back together,” says Kilbridge. 
 
 When Kilbridge quit his law job, he and his wife decided to move to Virginia, settling there because it “looked like it had a good lifestyle, a good place to raise a family.” His wife, a doctor, found a job in the area immediately, but Kilbridge spent almost two years looking for work and staying home with their two boys.
 
