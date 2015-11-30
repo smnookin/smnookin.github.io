@@ -6,13 +6,15 @@ link: ""
 displaydate: ""
 date: ""
 category: MIT
-tags: null
+tags: 
+  - "null"
 title: The Curse of a Vision
 ---
 
+
 ## The Curse of a Vision
 
-Below is the raw text for my profile, but until I figure out the formatting, I suggest reading it here: [NELSON PROFILE](https://www.dropbox.com/s/eexplekmtb0yb10/Nelson%20Profile.pdf?dl=0).
+Below is the raw text for my profile, but until I figure out the formatting, I suggest reading it here: [NELSON PROFILE](http://projects.kennethfriedman.org/nelson).
 
 The Curse of an Vision:
 A Stately Pleasure-Dome Decree
