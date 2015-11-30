@@ -76,9 +76,8 @@ Kilbridge took inspiration for his coaching from his own rowing experience and f
 Despite the challenge (or perhaps because of it), Kilbridge immediately fell in love with the job. His rowers appreciated his organization and candidness. [Will Oliver](http://www.mitathletics.com/sports/m-crewlt/coaches/index), the current lightweight men’s coach at MIT, rowed under Kilbridge during his first years at UVA. 
 
 “Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He made a big group of guys feel like they were in good hands.” 
-	
-![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11351247_10205155497460934_5509127688271398378_n.jpg?oh=3c626ec6e05234957f955c60c0b5d989&oe=56B43B68)	
-_Kilbridge and Thews-Wassell give feedback to the rowers during a piece_
+
+	*	*	*
 
 Throughout his entire time working post-Harvard, Kilbridge was training in the [single](https://en.wikipedia.org/wiki/Single_scull). 
 
@@ -114,6 +113,9 @@ The rowers he took on his first year had a lot of talent and, as seniors in 2009
 
 However, when the class of 2009 graduated, there was no one to fill their spots. “We had several years where we just had no one,” says Kilbridge. There were some years when the team could only field a four. A top half crew in the EARC is typically able to fill three to four eights and one or two fours of rowers, so Kilbridge knew the team was nowhere near the size it needed to be in order to be competitive. 
 
+![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/11351247_10205155497460934_5509127688271398378_n.jpg?oh=3c626ec6e05234957f955c60c0b5d989&oe=56B43B68)	
+_Kilbridge and Thews-Wassell give feedback to the rowers during a piece_
+
 Recruiting challenges are part of the reason it took several years to build the team size and speed to its current level. 
 
 “I didn’t quite grasp how difficult it was to recruit here, or how big a role recruiting was playing in this league,” says Kilbridge. When he rowed as an undergraduate, varsity crew programs were comprised entirely of former walk-ons, who learned to row their freshman year and then progressed up through the ranks during their next three years. However, over time schools began to offer more athletic scholarships, and collegiate teams now recruit a greater number of experienced rowers. Now, it’s not unusual for very competitive schools, such as the University of Washington or Harvard, to have multiple Olympians in their varsity eight lineup. 
@@ -125,9 +127,6 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 I ask Kilbridge what it took to build the team up. “Patience,” he says simply.
 
 	*	*	*
-
-![](https://photos-3.dropbox.com/t/2/AADBh4OmYx_fjTXi5VeLXQswuHKXy1Dx4n1dwXy7r_Mr5g/12/348106856/jpeg/32x32/1/1447736400/0/2/IMG_7882.JPG/EPq0g90CGPFqIAcoBw/S_fb-TyoDd1sVaNOxr7agTufMwTfhbNCvpXdnmTQuQo?size_mode=2&size=1024x768)	
-_MIT rowers in a pair_
 	
 “There’s two big parts - there’s recruiting kids into the program and then there’s building a team culture,” Kilbridge says of growing the program.  
 
@@ -138,6 +137,9 @@ Kilbridge knows his rowers have to balance a difficult school workload with the 
 According to Colgan, Kilbridge does a good job of explaining the technical intricacies of the rowing stroke to his rowers, so they understand why they row the way they do. Kilbridge takes time before each practice to break down the day’s technical focus, which is the part of the rowing stroke that they will focus on improving during practice. Kilbridge usually chooses drills and workouts that highlight the technical focus for that day. The team also regularly films their rowing and reviews the footage, so the rowers can see what they need to improve on. 
  
 “I always thought that Tony and Evan thought of their coaching style as giving us the tools to refine our own stroke,” says Colgan. “By giving us those mental checks--like on the pause drills--ideally it gets to the point where the rowers can use those thought processes that the coaches teach them to refine their own stroke. It’s hard as a rower to know if your stroke is right or wrong.”
+
+![](https://photos-3.dropbox.com/t/2/AADBh4OmYx_fjTXi5VeLXQswuHKXy1Dx4n1dwXy7r_Mr5g/12/348106856/jpeg/32x32/1/1447736400/0/2/IMG_7882.JPG/EPq0g90CGPFqIAcoBw/S_fb-TyoDd1sVaNOxr7agTufMwTfhbNCvpXdnmTQuQo?size_mode=2&size=1024x768)	
+_MIT rowers in a pair_
 
 Another practice implemented by Kilbridge is the goal setting meeting. At the beginning of the fall and spring seasons, the rowers internally decided on their goals for the coming season. They then present their goals to the coaches, and the coaches will set the workouts and erg goals based on that. 
 
