@@ -1,17 +1,17 @@
 ---
 layout: post
 published: false
-author: ""
+author: Andrew Owens
 link: ""
-displaydate: ""
-date: ""
-category: MIT
+displaydate: "2015-11-30"
+date: "2015-11-30"
+category: science
 tags: null
 title: Relativistic Messenger
 ---
 
 
-[]!(http://images.randomhouse.com/cover/9780812998986)
+![](http://images.randomhouse.com/cover/9780812998986)
 
 Mercury doesn’t play by Newton’s rules. For over half a century, scientists searched for a hidden planet - a planet they called Vulcan - whose gravitational influence would explain Mercury’s odd orbit while preserving the classical Newtonian order of the universe. Unfortunately, in all that time Mercury continued to defy Newton while Vulcan (which, after all, doesn’t exist) refused to be found. The mismatch between theory and observation persisted until one of the greatest minds of the 20th century developed a new theory to explain it all. In “[The Hunt for Vulcan](http://www.penguinrandomhouse.com/books/254788/the-hunt-for-vulcan-by-thomas-levenson/9780812998986/),” Thomas Levenson tells the story of the false planet Vulcan - from the seeds of its creation in Newtonian mechanics to its death at the hands of Einstein - and the people who pursued it.
 
