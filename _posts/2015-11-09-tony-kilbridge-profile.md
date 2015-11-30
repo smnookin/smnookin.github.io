@@ -20,10 +20,10 @@ It’s an unusually warm and sunny October morning. The banks of the Charles Riv
 
 Tony Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as Director of Rowing and Heavyweight Men's Head Coach at MIT, and the fall racing season is just winding down. This fall the [heavyweights](http://www.mitathletics.com/sports/m-crewhvy/2015-16/news) have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
 
+As natural as it seems for him to be here now, there was a period of Kilbridge's life where he was on a completely different career trajectory. After graduating from Harvard University, where he learned to row and went on to win two [Eastern Sprints](https://en.wikipedia.org/wiki/Eastern_Sprints) championships, Kilbridge earned his law degree at Georgetown University. He spent ten years as a trial lawyer in complex commercial law before returning to the rowing world to coach. 
+
 ![](http://cdn87.psbin.com/img/mw=160/mh=210/cr=n/d=726sv/bth0opu59m2l671k.jpg)		
 _Tony Kilbridge_
-
-As natural as it seems for him to be here now, there was a period of Kilbridge's life where he was on a completely different career trajectory. After graduating from Harvard University, where he learned to row and went on to win two [Eastern Sprints](https://en.wikipedia.org/wiki/Eastern_Sprints) championships, Kilbridge earned his law degree at Georgetown University. He spent ten years as a trial lawyer in complex commercial law before returning to the rowing world to coach. 
 
 Kilbridge was first introduced to rowing as a child when he and his family went to watch his father’s friend compete in the very first [Head of the Charles](http://www.hocr.org/) (held in 1965). When he arrived at Harvard in the fall of 1978, he was inundated with advertising to join “Harvard’s #1 Sport.”    
 
@@ -45,7 +45,7 @@ The transition to the heavyweight team was difficult for Kilbridge because the h
 
 	*	*	*
 
-After graduation, Kilbridge, who had studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
+After graduation, Kilbridge, who studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
 
 After two years at St. Mark’s, Kilbridge wanted to get out into the world. “I was twenty two, twenty three. I wanted to meet girls and have fun and it was not happening in the woods at Southborough,” he says.
 
