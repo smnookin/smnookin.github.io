@@ -20,6 +20,9 @@ It’s an unusually warm and sunny October morning. The banks of the Charles Riv
 
 Tony Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as Director of Rowing and Heavyweight Men's Head Coach at MIT, and the fall racing season is just winding down. This fall the [heavyweights](http://www.mitathletics.com/sports/m-crewhvy/2015-16/news) have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
 
+![](http://cdn87.psbin.com/img/mw=160/mh=210/cr=n/d=726sv/bth0opu59m2l671k.jpg)		
+_Tony Kilbridge_
+
 As natural as it seems for him to be here now, there was a period of Kilbridge's life where he was on a completely different career trajectory. After graduating from Harvard University, where he learned to row and went on to win two [Eastern Sprints](https://en.wikipedia.org/wiki/Eastern_Sprints) championships, Kilbridge earned his law degree at Georgetown University. He spent ten years as a trial lawyer in complex commercial law before returning to the rowing world to coach. 
 
 Kilbridge was first introduced to rowing as a child when he and his family went to watch his father’s friend compete in the very first [Head of the Charles](http://www.hocr.org/) (held in 1965). When he arrived at Harvard in the fall of 1978, he was inundated with advertising to join “Harvard’s #1 Sport.”    
@@ -40,7 +43,7 @@ The transition to the heavyweight team was difficult for Kilbridge because the h
 
 "If I had stayed on the lightweight team...I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing," he says. 
 
-![](http://cdn87.psbin.com/img/mw=160/mh=210/cr=n/d=726sv/bth0opu59m2l671k.jpg)	
+	*	*	*
 
 After graduation, Kilbridge, who had studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
 
@@ -91,8 +94,7 @@ Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s not
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the [weather](https://twitter.com/BasinWindspeed)’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
-![](https://scullingfool.smugmug.com/CharlesRiverBlues/Blog-Posts/i-GFjSzcM/0/L/AT7A4850-L.jpg)	
-_Scullers training on the Charles River_
+	*	*	*
 
 After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: [Director of Rowing](http://tech.mit.edu/V126/N28/28rowingcoach.html) and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
@@ -120,7 +122,9 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 
 “If we are successful this year in being better than last year, which so far we are, then it will be five continuous years of progress, which is unusual in sports," says Kilbridge. "We’re still not anywhere near the level of some crews, but it has come a long way.”
 
-I ask Kilbridge what it took to build the team up. “Patience,” he says simply. 
+I ask Kilbridge what it took to build the team up. “Patience,” he says simply.
+
+	*	*	*
 
 ![](https://photos-3.dropbox.com/t/2/AADBh4OmYx_fjTXi5VeLXQswuHKXy1Dx4n1dwXy7r_Mr5g/12/348106856/jpeg/32x32/1/1447736400/0/2/IMG_7882.JPG/EPq0g90CGPFqIAcoBw/S_fb-TyoDd1sVaNOxr7agTufMwTfhbNCvpXdnmTQuQo?size_mode=2&size=1024x768)	
 _MIT rowers in a pair_
