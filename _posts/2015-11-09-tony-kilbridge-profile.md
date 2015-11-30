@@ -49,7 +49,7 @@ After graduation, Kilbridge, who studied American History at Harvard, went to te
 
 After two years at St. Mark’s, Kilbridge wanted to get out into the world. “I was twenty two, twenty three. I wanted to meet girls and have fun and it was not happening in the woods at Southborough,” he says.
 
-So, he chose to go to law school at Georgetown, “for all the wrong reasons," he says. "I want to reach back and smack myself in the head." Kilbridge went on to work as a lawyer in complex commercial law for ten years. 
+So, he chose to go to law school at Georgetown, “for all the wrong reasons," he says. "I want to reach back and smack myself in the head." Kilbridge worked as a lawyer in complex commercial law for ten years. 
 
 "When I quit, I felt like I’d had a toothache for ten years and it finally went away," he says.  "That’s the crew thing. You get this stubbornness in rowing, like, I’m not really enjoying this but it has got to be good for me. It’s true when you’re rowing, but it’s not true in relationships and life.” 
 
