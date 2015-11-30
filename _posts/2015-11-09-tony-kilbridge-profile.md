@@ -43,7 +43,8 @@ The transition to the heavyweight team was difficult for Kilbridge because the h
 
 "If I had stayed on the lightweight team...I might have just hung it up at that point and moved on because I would have been satisfied. But as it was, I was very dissatisfied when I graduated. So I kept rowing," he says. 
 
-	*	*	*
+	*	*	*	
+    
 
 After graduation, Kilbridge, who studied American History at Harvard, went to teach history at St. Mark’s School, a private school located in Southborough, MA. As part of his job, he also coached the boy’s crew team there. This was actually his second coaching job, as he had coached his dormitory’s recreational crew team in college.
 
@@ -77,7 +78,8 @@ Despite the challenge (or perhaps because of it), Kilbridge immediately fell in 
 
 “Tony is an exceptionally organized, well thought out guy,” says Oliver of his first impressions of Kilbridge as a coach. “He made a big group of guys feel like they were in good hands.” 
 
-	*	*	*
+	*	*	*	
+    
 
 Throughout his entire time working post-Harvard, Kilbridge was training in the [single](https://en.wikipedia.org/wiki/Single_scull). 
 
@@ -93,7 +95,8 @@ Even though he enjoyed master’s rowing, Kilbridge says, “to me there’s not
 
 Nowadays, Kilbridge finds himself taking it a little easier. “When the [weather](https://twitter.com/BasinWindspeed)’s perfect I’ll go out [to row]. If there’s a cloud or it’s a tiny bit chilly I might not,” he jokes. 
 
-	*	*	*
+	*	*	*	
+    
 
 After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: [Director of Rowing](http://tech.mit.edu/V126/N28/28rowingcoach.html) and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
@@ -126,7 +129,8 @@ For a school like MIT, which doesn’t offer athletic scholarships, it’s not p
 
 I ask Kilbridge what it took to build the team up. “Patience,” he says simply.
 
-	*	*	*
+	*	*	*	
+    
 	
 “There’s two big parts - there’s recruiting kids into the program and then there’s building a team culture,” Kilbridge says of growing the program.  
 
