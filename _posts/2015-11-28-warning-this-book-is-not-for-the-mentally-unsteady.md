@@ -17,7 +17,7 @@ title: "Warning: This Book is not for the Mentally Unsteady"
 
 THE ANATOMY OF AN EPIDEMIC Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America. By Robert Whitaker. Broadway Books/ Amazon.com $12.77.
 
-_“The psychopharmacology revolution was born from one part science and two parts wishful thinking”_
+_“The psychopharmacology revolution was born from one part science and two parts wishful thinking.”_
 
 ***
 
