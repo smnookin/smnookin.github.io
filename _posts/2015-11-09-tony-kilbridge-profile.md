@@ -97,7 +97,7 @@ Nowadays, Kilbridge finds himself taking it a little easier. “When the [weathe
 
 After five years of coaching at UVA, Kilbridge and his wife made another big move. His wife wanted to move to a city with better career opportunities. Kilbridge applied to and was hired for a new position that had just opened up at MIT: [Director of Rowing](http://tech.mit.edu/V126/N28/28rowingcoach.html) and head coach of the heavyweight men’s team. His wife also received an offer in the city, and they moved their family to Boston. 
 
-Under his leadership, the crew program at MIT has grown in leaps and bounds. The heavyweight men have improved their league placement at EARC sprints and average erg scores for every year in the past four years. Kilbridge is cautiously optimistic about the team’s speed this year. “Testing so far shows that they’re a little stronger, a little faster than last year,” he says.  
+Under his leadership, the crew program at MIT has grown in leaps and bounds. The [heavyweight men](https://www.instagram.com/mitmensrowing/) have improved their league placement at EARC sprints and average erg scores for every year in the past four years. Kilbridge is cautiously optimistic about the team’s speed this year. “Testing so far shows that they’re a little stronger, a little faster than last year,” he says.  
 
 Kilbridge faced a huge challenge when he initially came to MIT. MIT has four varsity crew teams: heavyweight men, lightweight men, openweight women, and lightweight women. When Kilbridge was hired, all four crews had been underperforming for years, and often were either too slow or had too few rowers to compete at high profile regattas. 
 
@@ -138,9 +138,6 @@ According to Colgan, Kilbridge does a good job of explaining the technical intri
  
 “I always thought that Tony and Evan thought of their coaching style as giving us the tools to refine our own stroke,” says Colgan. “By giving us those mental checks--like on the pause drills--ideally it gets to the point where the rowers can use those thought processes that the coaches teach them to refine their own stroke. It’s hard as a rower to know if your stroke is right or wrong.”
 
-![](https://photos-3.dropbox.com/t/2/AADBh4OmYx_fjTXi5VeLXQswuHKXy1Dx4n1dwXy7r_Mr5g/12/348106856/jpeg/32x32/1/1447736400/0/2/IMG_7882.JPG/EPq0g90CGPFqIAcoBw/S_fb-TyoDd1sVaNOxr7agTufMwTfhbNCvpXdnmTQuQo?size_mode=2&size=1024x768)	
-_MIT rowers in a pair_
-
 Another practice implemented by Kilbridge is the goal setting meeting. At the beginning of the fall and spring seasons, the rowers internally decided on their goals for the coming season. They then present their goals to the coaches, and the coaches will set the workouts and erg goals based on that. 
 
 “They have a higher respect for their rowers,” says Colgan. “They’re very big on team leadership.”
@@ -156,5 +153,5 @@ Both Colgan and Miklasevich mentioned that one of the things that make Kilbridge
 There’s no doubt that Kilbridge cares about the team and finding ways to overcome the challenges facing them. “It’s really difficult to on the one hand keep driving and be really competitive and be expecting the best, and on the other hand not shoot yourself in the head when things go wrong,” says Kilbridge. 
 
 He looks out the window of the boathouse, where sunlight is sparking on the Charles River. It’s a windy day and the water is choppy, but those are typical rowing conditions in Boston. Crews learn to adapt to the chop and row proficiently in a headwind.
-%check this quote
+
 “I’ve always felt comfortable in the coaching job, even from the beginning,” he says. “I love the sport and being on the water. I’ve always liked it, from the beginning.”
