@@ -12,6 +12,7 @@ title: "Warning: This Book is not for the Mentally Unsteady"
 ---
 
 
+
 ![](http://www.drfranklipman.com/images/2013/06/Anatomy-of-an-Epidemic1.jpg)	
 
 
@@ -35,9 +36,9 @@ _“The psychopharmacology revolution was born from one part science and two par
 
 ***
 
-The first time I read Robert Whitaker’s “The Anatomy of an Epidemic,” I took a lighter to one of the chapters. I left a scorch mark on the page as Whitaker described a man who was addicted to Klonopin, and Whitaker’s meticulous description of how this man’s life was ruined by this drug drove me into a craze. I was stricken for the first time with the idea that I might never stop taking certain medications that could poison someone’s life so easily and make an even more anxious person out of an anxious person.
+The first time I read Robert Whitaker’s “The Anatomy of an Epidemic,” it made me so angry that I almost took a lighter to one of the chapters. Whitaker had described a man who was addicted to Klonopin, and Whitaker’s meticulous description of how this man’s life was ruined by this drug drove me into a craze. I was stricken for the first time with the idea that I might never stop taking certain medications that could poison someone’s life so easily and make an even more anxious person out of an anxious person.
 
-The book is extremely informative, but it is triggering as hell. It is not for the faint of mind.
+The book is extremely informative, but it is triggering as hell. It is not for the faint of mind. However, it's ability to engage the reader through mind-numbing statistics and research is incredible.
 
 It is not likely that Whitaker intended to frighten every teenage girl reading his book. In the book, he looks to determine why psychiatric disability numbers are rising, while more and more people are being prescribed antidepressents, and more is being spent on antidepressant and antipsychotic research each year. With all the effort put into solving this “epidemic,” why are the numbers of people with disabilities increasing?
 
