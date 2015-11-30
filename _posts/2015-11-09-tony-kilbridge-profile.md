@@ -54,7 +54,7 @@ Kilbridge laughs and adds, “You can edit out all the personal advice if you wa
 
 One good thing came out of Kilbridge’s decision to become a lawyer. He returned to Boston and reconnected with his college girlfriend, who he met while living in the same dormitory at Harvard. “Long, boring story short: we got back together,” says Kilbridge. The two are now happily married with two sons. 
 
-When Kilbridge quit his law job, he and his wife decided to move to Virginia because it “looked like it had a good lifestyle, a good place to raise a family.” His wife, a doctor, found a job in the area immediately, but Kilbridge spent almost two years looking for work and staying home with their two boys.
+When Kilbridge quit his law job, he and his wife decided to move to Virginia because it “looked like it had a good lifestyle, a good place to raise a family.” His wife, a doctor, found a job in the area immediately, but Kilbridge spent almost two years looking for work and staying home with their boys.
 
 “That period was very unsettling," he said. "There was this fish out of water feeling.” Then, on the same summer day in 2001, Kilbridge was offered two dramatically different positons. %exemplified internal conflict? He was offered the position of Associate Dean at the University of Virginia (UVA) Law School and head coach of the [men’s rowing team](http://aig.alumni.virginia.edu/virginiarowing/) at the same school.  
 
