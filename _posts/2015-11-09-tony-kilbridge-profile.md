@@ -13,6 +13,7 @@ title: "\"From the Beginning\": Tony Kilbridge on Rowing and Coaching"
 
 
 
+
 ![](https://scontent-iad3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11081114_10204746305431389_1693409841751789385_n.jpg?oh=ae91f76074be6752304ee2b9d1810e20&oe=56B4C865)	
 _Kilbridge and MIT Heavyweight Men's Assistant Coach, Evan Thews-Wassell, during winter training in Cocoa Beach, FL_
 
@@ -20,7 +21,7 @@ It’s an unusually warm and sunny October morning. The banks of the Charles Riv
 
 Tony Kilbridge is tall and lanky, in his mid-fifties with close-cropped grey hair that is balding on top and typically covered with a baseball hat. He wears clunky boots, a flannel button down, and a puffy Patagonia vest with the MIT Crew logo embroidered on the chest. It’s his tenth year as Director of Rowing and Heavyweight Men's Head Coach at MIT, and the fall racing season is just winding down. This fall the [heavyweights](http://www.mitathletics.com/sports/m-crewhvy/2015-16/news) have already posted promising results, including a 4th place finish in the collegiate eights race at Head of the Charles. 
 
-As natural as it seems for him to be here now, there was a period of Kilbridge's life where he was on a completely different career trajectory. After graduating from Harvard University, where he learned to row and went on to win two [Eastern Sprints](https://en.wikipedia.org/wiki/Eastern_Sprints) championships, Kilbridge earned his law degree at Georgetown University. He spent ten years as a trial lawyer in complex commercial law before returning to the rowing world to coach. 
+As natural as it seems for him to be here now, there was a period of Kilbridge's life where he was on a completely different career trajectory. After graduating from Harvard University, where he learned to row and went on to win two [Eastern Sprints](https://en.wikipedia.org/wiki/Eastern_Sprints) championships, Kilbridge earned his law degree at Georgetown University. He then spent ten years as a trial lawyer in complex commercial law before returning to the rowing world to coach. 
 
 ![](http://cdn87.psbin.com/img/mw=160/mh=210/cr=n/d=726sv/bth0opu59m2l671k.jpg)		
 _Tony Kilbridge_
