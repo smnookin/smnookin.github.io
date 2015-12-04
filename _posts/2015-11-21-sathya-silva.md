@@ -8,7 +8,7 @@ date: ""
 category: MIT
 tags: 
   - "null"
-title: A space fanatic
+title: "Sathya Silva: A stronghearted space fanatic"
 ---
 
 
