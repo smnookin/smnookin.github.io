@@ -6,46 +6,40 @@ link: ""
 displaydate: ""
 date: ""
 category: MIT
-tags: null
-title: Sathya Silva
+tags: 
+  - "null"
+title: A space fanatic
 ---
 
+
 ## 
-A characteristic scene greeting those entering Sathya Silva’s apartment in MIT’s dorm Maseeh Hall is an almost perpetually open door, propped in place by a tiny rubber doorstop shaped like a paper airplane. Silva, a fifth-year PhD student in MIT’s Department of Aeronautics and Astronautics, devotes as much energy to her role as a source of positivity and comfort for those around her as she does to her role as an aviation aficionado and field expert.
+A characteristic scene greeting those entering Silva’s apartment in MIT’s dorm Maseeh Hall is an almost perpetually open door, propped in place by a tiny rubber doorstop shaped like a paper airplane. Silva, a fifth-year PhD student in MIT’s Department of Aeronautics and Astronautics, devotes as much energy to her role as a source of support and comfort for those around her as she does to her role as an aviation aficionado and field expert.
 
-Silva, a 29-year-old Sri Lankan-American woman with straight, dark brown hair, mocha skin and a beaming smile plastered on her face, radiates an uncanny vibrancy and zest wherever she goes.
+Among the experiences that both have shaped Sathya Silva and now comprise her contribution to the world are a dream-turned-reality of pioneering work in the aviation industry, her role as a mentor to students, and a personal loss that has enabled her to spread positivity.
 
-But Silva’s bubbly nature contrasts the serious nature of her work. She has developed her interest in all things flying throughout her life and is now wrapping up projects that have been adopted by the Federal Aviation Administration and directly feed into improving the safety of future airplane system designs, work that impacts everyone who decides to travel via flight in the future.
+Silva, a 29-year-old Sri Lankan-American woman with straight, dark brown hair, and mocha skin, has a beaming smile plastered on her face that contrasts the serious nature of her work. She has developed her interest in all things flying throughout her life and is now wrapping up projects that have been adopted by the Federal Aviation Administration and directly feed into improving the safety of future airplane system designs, work that impacts everyone who will travel via flight in the future.
 
-Over the past five years, Silva has been studying the “divergence between crew mental model and actual system state.” In other words, she has come up with a theory saying that the reason for many flight accidents is that the crew has a different mental model of the state of the system compared to the state the system is actually in. Her work involves looking at dozens of accidents to identify trends that can help explain what goes into human decision-making.
+Over the past five years, Silva has been studying the “divergence between crew mental model and actual system state.” In other words, she has come up with a theory explaining why pilots’ perceptions of reality differ from what is actually going on. Her work involves looking at dozens of accidents to identify trends that can help explain what goes into human decision-making.
 
-Often times this discrepancy she studies is attributed to “pilot error.” “I don’t like to use that term, since it’s often not the pilot’s fault,” Silva said. She said that people often use their expectations to tailor what they look at, as well as what they think is going to happen. According to Silva, a lot of the times people actually change what they see to fit their meld of what they expect. “Usually the faults occur when humans try to normalize something abnormal,” she said.
+Often times this discrepancy she studies is attributed to “pilot error.” “I don’t like to use that term, since it’s often not the pilot’s fault,” Silva said. According to Silva, a lot of the times people actually change what they see to fit their meld of what they expect. “Usually the faults occur when humans try to normalize something abnormal,” she said.
 
 Silva’s work, which she hopes will address many pitfalls that currently plague the aviation industry, is a sort of culmination of a lifetime fascination with the world above our heads. 
 
-Silva says that her most defining moment was in 3rd grade, where the class theme was space. Her teacher was really good at encouraging the students and flourishing their passion. Since then, Silva has wanted to be an astronaut. “I haven’t really let go of that dream, and so everything I’ve done has been getting me closer to that dream,” Silva said. A first generation Sri Lankan American and the oldest of three siblings, Sathya was driven to act on her space passion, particularly when college came around by joining the Flying Club.
+An early defining moment for Silva was in 3rd grade, where the class theme was space. Her teacher was really good at encouraging the students and flourishing their passion. Since then, Silva has wanted to be an astronaut. “I haven’t really let go of that dream, and so everything I’ve done has been getting me closer to that dream,” Silva said. Sathya was driven to act on her space passion, particularly when college came around, by joining the Flying Club.
 
 “I remember that feeling the first time we took off. I felt at home. I think I was grinning the whole time,” Silva said. That first flight was a huge turning point for Silva. Flying was something that she hadn’t expected to be a passion. “That one day shaped the rest of my life, and I can still say that,” Silva said.
 
-After that initial experience, Silva continued her training. “I got totally addicted,” she said. She became a flight instructor at only 20 years of age, an uncommon feat considering the many hours of training required for certification. “Instructing was the perfect mix, because I love a challenge and living on the edge. I work really well in high-stress environments, so teaching students to land in situations where we were so close to death was the perfect opportunity for me,” Silva said. Silva also went to Jacobs Engineering in Houston for co-ops, an international technical professional services firm that allocates a portion of its efforts to aerospace technology, during her undergraduate years, essentially serving as a sub-contractor and a shuttle-flying instructor for NASA. Silva came back from Houston with a passion for improving aviation safety. “I wanted to make a difference in the world. That’s what I came back to school for,” Silva said.
+After that initial experience, Silva continued her training. “I got totally addicted,” she said. She became a flight instructor at only 20 years of age, an uncommon feat considering the many hours of training required for certification. “Instructing was the perfect mix, because I love a challenge and living on the edge. I work really well in high-stress environments, so teaching students to land in situations where we were so close to death was the perfect opportunity for me,” Silva said.
 
-During her Masters at Georgia Tech, she interned at NASA’s Mission Control Center as a United Space Alliance contractor. “The internship sucked. I hated it.” However, she also said, “just because you have one experience with certain people, it doesn’t mean that the entire institution is bad.” Who you are working with makes all the difference. For her main Masters project, Silva was in charge of “leading human factor studies for a collision alerting system.” Her job was to simulate crashing planes, putting pilots in an airplane simulation and seeing how much benefit her system added to their predicted safety.
+Through an internship at a technical aviation firm and a Masters project on pilot safety, Silva quickly developed with a passion for improving aviation safety. “I wanted to make a difference in the world. That’s what I came back to school for,” Silva said. Silva worked on a stint in NASA’s Johnson Space Center post graduation, after which she decided to come to MIT.
 
-Post graduation, Silva worked full time on the data processing system at NASA’s Johnson Space Center in mission control, a job she went into “knowing it had an expiration date,” but whose high stress, high impact work (which actually went directly into space) fueled her.
+Beyond her scientific prowess however, lies another side of Sathya that defines her impact perhaps equally: her human one. Silva’s Co-Graduate Resident Tutor (GRT) Jason Haas, said, “I like how passionate she is. She worked at NASA, but it’s just another thing to her.”
 
-“As it turned out, nothing really went wrong during missions, so I got really bored and applied to MIT,” where she began working on her now FAA-adopted theory.
+“At MIT, being a GRT was by far the best decision I ever made,” Silva said. Before GRTing, Silva found it hard to find meaningful friendships, and it was hard for her to find a home. “Turns out that all the meaningful relationships were in this building,” Silva said.
 
-Beyond her scientific prowess however, lies another side of Sathya that defines her impact perhaps equally: her human one. Silva’s Co-Graduate Resident Tutor (GRT) Jason Haas, said, “I like how passionate she is. She worked at NASA, but it’s just another thing to her. She is humble. Open-hearted. She’s silly, but she’s also sharp.”
+Silva hopes that that she motivates (‘inspire’ is a very strong word, she said) and is not overbearing. Helping others has given her energy, while teaching her about herself and growing internally. Silva realized that it’s a big transition to being empathetic but not taking on people’s burdens. “Maintaining a balance between some kind of authority but still being able to form real connections with the undergrads involved being open about communication. It’s really enlightening,” Silva said with a soft sigh of appreciation in her eyes.
 
-“At MIT, being a GRT was by far the best decision I ever made. I guarantee I would not still be at MIT if I was not a GRT,” Silva said. Before GRTing, Silva found it hard to find meaningful friendships, and it was hard for her to find a home. “Turns out that all the meaningful relationships were in this building,” Silva said.
-
-When asked about the role she plays for the undergraduates she supervises, Silva said, “I hope that I motivate—inspire is a very strong word—I hope that I give good advice and am not overbearing with it.” The helping aspect gives her a lot more energy, she claims. She has been able to learn a lot about herself and grow internally with this. Silva has realized that it’s a big transition to being empathetic but not taking on people’s burdens. “Maintaining a balance between some kind of authority but still being able to form real connections with the undergrads involved being open about communication. It’s really enlightening,” Silva said with a soft sigh of appreciation in her eyes.
-
-Haas further said that it didn’t take very long for the two of them to have a relatively wordless way of communicating. “You don’t need to speak sometimes to understand what the other person is thinking how they felt about what just happened. I like how much students trust her.”
-
-When Halloween rolled around this year, Sathya went all out. He said that GRTs don’t get a ton of money to spend on certain things, but “how doggedly she pursues making the Halloween spread is awesome,” Haas said. “I just like doing this job with her. For instance, she didn’t have to take all the supplies out for tomorrow’s study break, but there they are, perched upon the kitchen island counter top.”
-
-“She has a very pragmatic but very joyful approach. What more can you ask, especially from an MIT grad student?” Haas said as he half-laughed.
+When Halloween rolled around this year, Sathya went all out. He said that GRTs don’t get a ton of discretionary money, but that Sathya still doggedly pursued making the Halloween spread, a detail many would ignore. Regarding an upcoming floor study break, Haas said that Silva didn’t have to take all the supplies out for tomorrow’s study break, but there they were, perched upon her kitchen island counter top. “She has a very pragmatic but very joyful approach. What more can you ask, especially from an MIT grad student?” Haas said as he half-laughed.
 
 If Silva passed by, beaming smile and energy radiating from her presence, one would never be able to guess the formative hardships hidden behind her outpouring of warmth and positivity.
 
