@@ -13,7 +13,7 @@ title: "Sathya Silva: A stronghearted space fanatic"
 
 
 
-##
+## 
 A characteristic scene greeting those entering Silva’s apartment in MIT’s dorm Maseeh Hall is an almost perpetually open door, propped in place by a tiny rubber doorstop shaped like a paper airplane. Silva, a fifth-year PhD student in MIT’s Department of Aeronautics and Astronautics, devotes as much energy to her role as a source of support and comfort for those around her as she does to her role as an aviation aficionado and field expert.
 
 Among the experiences that both have shaped Sathya Silva and now comprise her contribution to the world are a dream-turned-reality of pioneering work in the aviation industry, her role as a mentor to students, and a personal loss that has enabled her to spread positivity.
