@@ -12,20 +12,21 @@ title: "Sathya Silva: A stronghearted space fanatic"
 ---
 
 
-## 
+
+##
 A characteristic scene greeting those entering Silva’s apartment in MIT’s dorm Maseeh Hall is an almost perpetually open door, propped in place by a tiny rubber doorstop shaped like a paper airplane. Silva, a fifth-year PhD student in MIT’s Department of Aeronautics and Astronautics, devotes as much energy to her role as a source of support and comfort for those around her as she does to her role as an aviation aficionado and field expert.
 
 Among the experiences that both have shaped Sathya Silva and now comprise her contribution to the world are a dream-turned-reality of pioneering work in the aviation industry, her role as a mentor to students, and a personal loss that has enabled her to spread positivity.
 
 Silva, a 29-year-old Sri Lankan-American woman with straight, dark brown hair, and mocha skin, has a beaming smile plastered on her face that contrasts the serious nature of her work. She has developed her interest in all things flying throughout her life and is now wrapping up projects that have been adopted by the Federal Aviation Administration and directly feed into improving the safety of future airplane system designs, work that impacts everyone who will travel via flight in the future.
 
-Over the past five years, Silva has been studying the “divergence between crew mental model and actual system state.” In other words, she has come up with a theory explaining why pilots’ perceptions of reality differ from what is actually going on. Her work involves looking at dozens of accidents to identify trends that can help explain what goes into human decision-making.
+Over the past five years, Silva has been studying the “divergence between crew mental model and actual system state.” In other words, she has formalized with a theory explaining why pilots’ perceptions of reality differ from what is actually going on. Her work involves looking at dozens of accidents to identify trends that can help explain what goes into human decision-making.
 
 Often times this discrepancy she studies is attributed to “pilot error.” “I don’t like to use that term, since it’s often not the pilot’s fault,” Silva said. According to Silva, a lot of the times people actually change what they see to fit their meld of what they expect. “Usually the faults occur when humans try to normalize something abnormal,” she said.
 
 Silva’s work, which she hopes will address many pitfalls that currently plague the aviation industry, is a sort of culmination of a lifetime fascination with the world above our heads. 
 
-An early defining moment for Silva was in 3rd grade, where the class theme was space. Her teacher was really good at encouraging the students and flourishing their passion. Since then, Silva has wanted to be an astronaut. “I haven’t really let go of that dream, and so everything I’ve done has been getting me closer to that dream,” Silva said. Sathya was driven to act on her space passion, particularly when college came around, by joining the Flying Club.
+An early defining moment for Silva was in 3rd grade, where the class theme was space. Her teacher, Coach Hack, organized the students’ desks by space shuttle and even took the kids to Kennedy Space Center. Since then, Silva has wanted to be an astronaut. “I haven’t really let go of that dream, and so everything I’ve done has been getting me closer to that dream,” Silva said. Sathya was driven to act on her space passion, particularly when college came around, by joining the Flying Club.
 
 “I remember that feeling the first time we took off. I felt at home. I think I was grinning the whole time,” Silva said. That first flight was a huge turning point for Silva. Flying was something that she hadn’t expected to be a passion. “That one day shaped the rest of my life, and I can still say that,” Silva said.
 
@@ -43,9 +44,15 @@ When Halloween rolled around this year, Sathya went all out. He said that GRTs d
 
 If Silva passed by, beaming smile and energy radiating from her presence, one would never be able to guess the formative hardships hidden behind her outpouring of warmth and positivity.
 
-One of her best friends from college, Wesley, committed suicide in April. They had just reconnected two weeks before he died. They were both “floating on air” after the day they met, and Silva remembers thinking, “I finally got my friend back after all those years!”
+Last April, Silva had just reconnected with one of her best friends from college, Wesley. Wesley told Silva his plans for the future, and she shared her hardships at school—just the “normal stuff.” When they went to dinner with Silva’s high school friends, Silva remembered his social awkwardness and wasn’t sure he would be okay when she left to use the restroom. “When I got back, the three of them were in this super intense conversation about autism,” Silva recalled, as she shared her sense of pride in how far he had come.
+
+Both Silva and her friend were “floating on air” after the day they met, and Silva remembers thinking, “I finally got my friend back after all those years!” Uncharacteristic of her, Silva texted him after their reunion, “I'm so glad we caught up, you're definitely value added in my life!"
+
+Two weeks after their meeting, Wesley committed suicide.
 
 Silva walked through her thoughts after the incident. “I had never really felt those things before; going through all of those stages of grief. I’m a more controlling person, so this taught me how to accept certain things and let them go. I had to remake those memories so I wouldn’t be scared of them anymore. And I had to understand his state of mind, so getting more information was really important for me. It was good for me to experience those feelings, because now I can empathize with people better because of it.”
+
+“Part of the grief was that I felt that if only he knew he had me, he wouldn't have done it. But seeing that I had done even more than I normally do to tell someone I care about them, I finally realized that he did know he had me,” Silva shared.
 
 Silva said that the experience has made her see the good in a lot of things. She was able to get close to his family—they told her so much more than what she had known about him and what she had done for him, which she had no idea about. “There was one other time when he had considered suicide, and I was the reason he didn’t do it. You never know who’s listening and you never know what they’re going through,” Silva said.
 
