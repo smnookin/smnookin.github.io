@@ -6,9 +6,11 @@ link: ""
 displaydate: "2015-11-30"
 date: "2015-11-30"
 category: science
-tags: null
+tags: 
+  - "null"
 title: Relativistic Messenger
 ---
+
 
 
 ![](http://images.randomhouse.com/cover/9780812998986)
@@ -16,7 +18,7 @@ title: Relativistic Messenger
 Mercury doesn’t play by Newton’s rules. For over half a century, scientists searched for a hidden planet - a planet they called Vulcan - whose gravitational influence would explain Mercury’s odd orbit while preserving the classical Newtonian order of the universe. Unfortunately, in all that time Mercury continued to defy Newton while Vulcan (which, after all, doesn’t exist) refused to be found. The mismatch between theory and observation persisted until one of the greatest minds of the 20th century developed a new theory to explain it all. In “[The Hunt for Vulcan](http://www.penguinrandomhouse.com/books/254788/the-hunt-for-vulcan-by-thomas-levenson/9780812998986/),” Thomas Levenson tells the story of the false planet Vulcan - from the seeds of its creation in Newtonian mechanics to its death at the hands of Einstein - and the people who pursued it.
 
 **An Orbital Mystery**   
-The story begins with Newton. After he laid out his laws of gravitation in Principia in 1687, astronomers and mathematicians carefully measured and mapped the paths of all the planets known to them, and nearly all of them fell in line with the predictions given by Newton’s equations. Indeed, Newton’s laws were so powerful - so universal - that they could even be used to predict where an as-yet-unobserved planet must exist, based on perturbations in the orbits of the known planets. It was by this method that, in 1846, a French mathematician was able to tell a German astronomer exactly where to look to find Neptune - and lo and behold, there it was.
+The story begins with Newton. After he laid out his laws of gravitation in _Principia_ in 1687, astronomers and mathematicians carefully measured and mapped the paths of all the planets known to them, and nearly all of them fell in line with the predictions given by Newton’s equations. Indeed, Newton’s laws were so powerful - so universal - that they could even be used to predict where an as-yet-unobserved planet must exist, based on perturbations in the orbits of the known planets. It was by this method that, in 1846, a French mathematician was able to tell a German astronomer exactly where to look to find Neptune - and lo and behold, there it was.
 
 However, Mercury didn’t fall in line. Its orbit doesn’t follow the Newtonian path, and no known planet accounted for the difference. In order to explain this deviation (and perhaps hoping to repeat the victory of the discovery of Neptune), scientists hypothesized a new planet, Vulcan, which orbited between the sun and Mercury and whose gravitational pull would account for Mercury’s oddities. Surely, they thought, there must be a planet there to explain Mercury’s motion. For if there wasn’t, then that would imply that Newton’s laws - a triumph of modern science - were not quite correct.
 
@@ -39,5 +41,3 @@ In the end, “The Hunt for Vulcan” stands both as a curious and entertaining 
 Does history behave like that? Do human beings?
 
 No. Real life and cherished fables routinely diverge.”
-
-
