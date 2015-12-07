@@ -1,9 +1,9 @@
 ---
 layout: post
 published: false
-author: ""
+author: Deborah Chen
 link: ""
-displaydate: ""
+displaydate: "December 7, 2015"
 date: ""
 category: MIT
 tags: null
