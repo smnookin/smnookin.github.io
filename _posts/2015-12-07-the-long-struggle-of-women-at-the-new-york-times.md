@@ -30,7 +30,7 @@ The book also pays lipservice to the plights of other minorities at the _Times_,
 
 At the end of the book, Robertson touches briefly on the future of women at the _Times_. During the 10 year anniversary celebration of the Women’s Caucus, we learn the original pioneers’ careers have stalled, but that the women coming in after them were succeeding in droves. Speakers included a national editor, the Sunday business editor, and a member of the editorial board. 
 
-Yet, for all the progress, the women noted that sexism evolved. No longer is it so blatant. Instead, it has become the insidious, hard to prove version familiar to professional women today. The national news editor, who had hired a significant number of women to copy edit didn’t believe he constantly interrupted women. When Carolyn Lee becoming the first woman to join the _New York Times_ masthead, Max Frankel, the executive editor welcomed her as an “adornment.” To his credit, he did apologize on the spot. 
+Yet, for all the progress, the women noted that sexism evolved. No longer is it so blatant. Instead, it has become the insidious, hard to prove version familiar to professional women today. The national news editor, who had hired a significant number of women to copy edit didn’t believe he constantly interrupted women. When Carolyn Lee becoming the first woman to join the _New York Times_ masthead, Max Frankel, the reigning executive editor welcomed her as an “adornment.” To his credit, he did apologize on the spot. 
 
 One editor said, “We are drowned out, not listened to...The men running the _Times_ now truly do not believe themselves capable of sexist feelings. But they are still looking for, and are only comfortable with people in their own image - in other words, other white men.”
 
