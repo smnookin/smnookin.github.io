@@ -1,15 +1,17 @@
 ---
 layout: post
 published: false
-author: ""
+author: Rozanne Mungai
 link: ""
-displaydate: ""
+displaydate: "12-7-15"
 date: ""
 category: MIT
 tags: null
 title: The Incredible Life of Jeanette Walls
 ---
 
+
+![glass_castle_cover.jpg]({{site.baseurl}}/assets/glass_castle_cover.jpg)
 
 There are over 600,000 homeless people in the US on any given night, according to the Department of Housing and Urban Development (HUD). A lot of whom are families living in rural areas, unnoticed by society. Most of them live a nomadic lifestyle, moving from one small town to another, but never quite settling. This was once the former life of former MSNBC gossip column writer, Jeanette Walls. In her memoire, The Glass Castle, Jeanette recalls her family doing the “skedaddle” whenever her parents were bored of their current city or town—or more likely, whenever it became clear that her nonconformist father, Rex Walls, would finally get caught. 
 
@@ -30,10 +32,10 @@ Her mother chose this life, Walls said in an [interview with Oprah](https://www.
 
 On the other hand, Walls shows incredible compassion towards her parents—at least she does so[outside of the memoire](http://abcnews.go.com/Primetime/Entertainment/story?id=552776&page=1). After all, her parents shaped her to be the driven, goal-oriented and successful woman she is today. Her parents must have definitely seen that in her, because her frustrated mother had once told her, “Jeanette, you’re so focused it’s scary,” an insult that Walls took as a compliment. She and her siblings spent a year saving up for the day when they would leave their destructive parents behind and start a new life in the city of dreams, New York city. The day before she left, her mother was distraught and Walls tried to comfort her. Her mother shaking her head said, “I’m not upset because I’ll miss you. I’m upset because you get to go to New York and I’m stuck here. It’s not fair.” 
 
-Walls definitely paints a harsh portrait of her parents, something she may have not intended to do given that she originally wrote the memoire as a homage to her parents. More importantly, her memoire makes it clear that every troubled person comes with a tragic history. In the words of her mother, who had her wise moments, “No child is born a delinquent. They only become that way if no one loved them when they were kids.” She’d been referring to her husband at the time, who was likely sexually abused by his mother—who was in turn orphaned an abused by her relatives. 
+Walls definitely paints a harsh portrait of her parents, something she may have not intended to do given that she originally wrote the memoire as a [homage to her parents](http://abcnews.go.com/Primetime/Entertainment/story?id=552776&page=1). More importantly, her memoire makes it clear that every troubled person comes with a tragic history. In the words of her mother, who had her wise moments, “No child is born a delinquent. They only become that way if no one loved them when they were kids.” She’d been referring to her husband at the time, who was likely sexually abused by his mother—who was in turn orphaned an abused by her relatives. 
 
 Similarly, her mother’s irresponsibility likely stems from the strict lifestyle of her own mother, and coupled with her bipolar illness, she had a very self-absorbed personality. The kids, then, were completely abandoned when the father focused his attention towards drinking away his nightmares. What goes around comes around. Right? After all, it would have been too easy for the Walls children to follow the family trend and become bitter alcoholics, but they managed to use their teamwork and resourcefulness to make it out. And that, in itself, is an amazing feat.
 
-Walls’ longing for the “Glass Castle” is strong in the memoir and certainly a major symbol in the book. What is symbolizes, however, Walls said could be either hope for the future or simply one of her father’s drunken promises. “It is whatever you make of it”, she said. Whichever is true, it is clear that the Glass Castle dream died in Welch, when the family quit the “skedaddle” and the hole Walls and her brother dug for Glass Castle foundation was slowly filled with garbage. The biggest tragedy in the story may be that Rex Walls never lived to see the Glass Castle dream flower—in the success of his daughter. 
+Walls’ longing for the “Glass Castle” is strong in the memoir and certainly a major symbol in the book. What is symbolizes, however, Walls said could be either hope for the future or simply one of her father’s drunken promises. “It is whatever you make of it”, [she said](https://www.youtube.com/watch?v=lW0XVno-0gM). Whichever is true, it is clear that the Glass Castle dream died in Welch, when the family quit the “skedaddle” and the hole Walls and her brother dug for Glass Castle foundation was slowly filled with garbage. The biggest tragedy in the story may be that Rex Walls never lived to see the Glass Castle dream flower—in the success of his daughter. 
 
-As for other critisms… Of course I can point out that her memory in the hospital when she was four-years old is too vivid to be true, and how farfetched it is that a zoo cheetah would harmlessly lick her hand, but as Walls said in an interview “people are just interested in a good story.” And whether or not every astonishing detail of the memoire is true, this well-written book does an exceptional job of telling a good story.
+As for other critisms… Of course I can point out that her memory in the hospital when she was four-years old is too vivid to be true, and how farfetched it is that a zoo cheetah would harmlessly lick her hand, but as Walls said in [an interview](https://www.youtube.com/watch?v=eIqPov5UbRE) “people are just interested in a good story.” And whether or not every astonishing detail of the memoire is true, this well-written book does an exceptional job of telling a good story.
