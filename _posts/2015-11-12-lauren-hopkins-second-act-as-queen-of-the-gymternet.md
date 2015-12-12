@@ -103,6 +103,7 @@ Hopkins stays upbeat. “The haters used to really bother me in the beginning, b
 Hopkins has since started a new tumblr, but for a while, she was glad to have a break. “I was spending so much time on Tumblr, so it was almost a blessing in disguise.”
 
 **Balancing Act ** 
+
 On top of her day job, part time job, and website, Hopkins also recently completed her first book, [_Finding Our Balance_](http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins' goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
 
 ![](https://laurenhopkinsgym.files.wordpress.com/2015/11/fullsizerender.jpg?w=193&h=300)
