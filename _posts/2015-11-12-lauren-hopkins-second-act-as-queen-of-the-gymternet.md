@@ -11,16 +11,17 @@ tags:
 title: "Lauren Hopkins’ Second Act, as Queen of the Gymternet"
 ---
 
-
 ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZUAAAAJDNjYjQxNTFmLTE5NDItNGFhYy1hOTc5LWMxMmMzMDBkN2ViYQ.jpg)
 
-Three weeks before this year’s World Artistic Gymnastics Championships (held October 23 - November 1) the online gymnastics community, a.k.a. the gymternet, erupted in controversy when two American gymnasts from California, Alain Kwan and Kylie Dickson, announced they would be competing for Belarus. The kicker? Neither Kwan nor Dickson had ever set foot in Belarus or had any previous ties to the country. In exchange for expedited dual US-Belarusian citizenship and the chance to make their international debut, the two athletes were supposed to help Belarus secure a spot at the 2016 Olympics test event. 
+When Lauren Hopkins, founder of the gymnastics site, [thegymter.net](http://thegymter.net), heard the news that two American gymnasts were competing for Belarus, despite having no previous ties to the country, she debated how she should cover the story. It was three weeks before the World Artistic Gymnastics Championships, and the online gymnastics community, a.k.a. the gymternet, was already erupting in controversy.  
 
-The backlash was such a big deal that it was covered in mainstream news outlets like the [AP](http://bigstory.ap.org/article/3567690e44a847aea3d3df3282e345de/american-gymnasts-create-unlikely-alliance-belarus) and the [Wall Street Journal](http://www.wsj.com/articles/u-s-women-gymnasts-qualify-for-rio-olympics-though-in-mixed-fashion-1445729014) three weeks later during the competition. But in the meantime, for die-hard gym fans interested in more than a quick-gloss on the controversy, there was only one place to go: Lauren Hopkins' [thegymter.net](http://thegymter.net/), the eight person, volunteer news and fansite she founded in July of 2014. 
+“Should I just report what happened?” Hopkins wondered. That would be the safe, neutral course of action. But her gut instinct told her to take a bolder stance.
 
-Hopkins did not disappoint. She wrote an impassioned response, [“Why I’m angry about Belarus](http://thegymter.net/2015/10/01/why-im-angry-about-belarus/),” which got 15,000 pageviews, the second most popular article in the site’s history. 
+“[Just covering the story] is what everyone else will do,” she said. “I like writing when I have a strong opinion, so I decided to write something that had the potential to be ‘inflammatory.”
 
-“When I first heard the news, I was wondering, ‘Should I just report what happened?’ No, that's what everyone else will do. I like writing when I have a strong opinion, so I decided to write something that had the potential to be ‘inflammatory,'" she said.
+Hopkins, took to the her eight person, volunteer news and fansite to pen an impassioned response, [“Why I’m angry about Belarus](http://thegymter.net/2015/10/01/why-im-angry-about-belarus/)." The essay got 15,000 pageviews, the second most popular article in the site’s seventeen month history.
+
+Eventually, mainstream news outlets like the [AP](http://bigstory.ap.org/article/3567690e44a847aea3d3df3282e345de/american-gymnasts-create-unlikely-alliance-belarus) and the [Wall Street Journal](http://www.wsj.com/articles/u-s-women-gymnasts-qualify-for-rio-olympics-though-in-mixed-fashion-1445729014) would cover the story three weeks later during the actual World Championships. But in the meantime, for die-hard gym fans, Hopkin’s essay became a central point of discussion. 
 
 Former and current Belarusian gymnasts shared the essay on social media. Svetlana Boginskaya, three time Olympic champion who competed for the Soviet Union in the late 1980s to 1990s [commented](https://www.facebook.com/thegymternet/posts/964527733586216) on thegymter.net's Facebook page. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
 
@@ -38,7 +39,7 @@ But the Internet has allowed fans from all around the world to form online commu
 
 During college, Hopkins spent four years as a writer and editor for the website Couch Gymnast, receiving ⅓ of the monthly ad revenue as payment. When the site crashed for two months in 2014, Hopkins, wanting an outlet to write, decided to strike out on her own. She launched [thegymter.net](http://thegymter.net/) last July. 
 
-She spends 25-40 hours a week on the hybrid news and fan site, where she writes with both the factual, objective voice associated with mainstream news outlets and the conversational enthusiasm of an obsessed gymnastics fan. She may be self-professed “stan,” internet lingo for “stalker fan,” of Brenna Dowell, a member of the US national team, but admits she is “realistic” about Dowell's shot at the 2016 Olympic team. 
+She spends 25-40 hours a week on the hybrid news and fan site, where she writes with both the factual, objective voice associated with mainstream news outlets and the conversational enthusiasm of an obsessed gymnastics fan. She has her favorite gymnasts, most notably Brenna Dowell, a member of the US national team, but strives to be objective in covering meets.
 
 One of Hopkins' early challenges was figuring out the right tone to strike. Female gymnasts can start competing as early as age 5, and many peak between 14-18. Gabby Douglas, for example was 16 when she won the 2012 Olympic All-Around medal and Nastia Liukin was 18 when she won in 2008.
 
@@ -90,15 +91,15 @@ During this time, Hopkins also contemplated law school and worked as a paralegal
 
 “I absolutely hated it. I was working in litigation and watching our lawyers work from 6am to midnight. They were always going on dinners and golf trips,” she laughs. “That seemed like the absolute worst thing to me, networking for life. It’s all business people, doing business all the time. Even when I really hated going to the office, I kept telling myself, you’re making money to finance [travel to] Worlds.”
 
-WIth law school off the table, Hopkins switched day jobs and doubled down on the site. Though the site isn’t financially secure enough to pay a salary, money from ads and the occasional donation pay for travel expenses. Hopkins now does digital media for a New York City law firm (“It pays really well”), where she is much happier. In August, she also picked up a part time Public Relations gig for [Texas Dream Gymnastics](http://texasdreams.com/), a well-known gymnastics training ground for Olympic hopefuls.
+WIth law school off the table, Hopkins switched day jobs and doubled down on the site. Though the site isn’t financially secure enough to pay a salary, money from ads and the occasional donation pay for travel expenses. Hopkins now does digital media for a New York City law firm where she is much happier. In August, she also picked up a part time Public Relations gig for [Texas Dream Gymnastics](http://texasdreams.com/), a well-known gymnastics training ground for Olympic hopefuls.
 
-Recently, though, Hopkins has faced the ugly side of the gymternet. Two weeks ago, her Tumblr account, where she answers dozens of gymnastics questions daily, was hacked. The intruder deleted her posts, one by one. All 10,000+ entries are gone. One insouciant word remains: “Well.” Another person, or possibly the same one, impersonated her on Twitter and sent her daily, racist tweets about a prominent gymnast. Hopkins managed to get Twitter to shut it down. Another Twitter account popped up to accuse Hopkins of bullying teenagers.
+Recently, though, the opinionated Hopkins has faced the ugly side of the gymternet. Two weeks ago, her Tumblr account, where she answers dozens of gymnastics questions daily, was hacked. The intruder deleted her posts, one by one. All 10,000+ entries are gone. One insouciant word remains: “Well.” Another person, or possibly the same one, impersonated her on Twitter and sent her daily, racist tweets about a prominent gymnast. Hopkins managed to get Twitter to shut it down. Another Twitter account popped up to accuse Hopkins of bullying teenagers.
 
 “I’ve had crazy anons before, but no one has ever gone to this extreme of trying to destroy my online presence,” she says.
 
 Hopkins stays upbeat. “The haters used to really bother me in the beginning, because I was taking it personally, but now, I think of it as the people who are doing it clearly have nothing going on with their lives, if they’re messaging me 10 times a day or constantly tweeting at me,” she laughs. 
 
-She adds, “I was spending so much time on Tumblr, so it was almost a blessing in disguise.”
+Hopkins has since started a new tumblr, but for a while, she was glad to have a break. “I was spending so much time on Tumblr, so it was almost a blessing in disguise.”
 
 **Balancing Act ** 
 On top of her day job, part time job, and website, Hopkins also recently completed her first book, [_Finding Our Balance_](http://laurenhopkinsbooks.com/), a YA novel about a gymnast vying for a spot on the 2016 Olympic team. Hopkins' goal for the book is to accurately capture what it’s like to be an elite gymnast today, eschewing needless “melodrama” for gymnastics verisimilitude. The choice to put gymnastics in the foreground turned off agents, and Hopkins chose to self publish. 
@@ -109,7 +110,7 @@ On top of her day job, part time job, and website, Hopkins also recently complet
 
 The book comes out in December and Hopkins plans to write two more to complete a trilogy. 
 
-Her friend Jennifer Iacopelli, who is also a novelist, tells me the secret to making it work. 
+Her friend Jennifer Iacopelli, who is also a novelist, often marvels are Hopkin’s work ethic.
 
 “She doesn't sleep. I'm convinced she doesn't sleep! And if she does, it’s just in bursts. She sleeps from Friday midnight to Saturday noon, and that will sustain her for 4-5 days. She's an amazing hard worker,” she says. 
 
@@ -118,3 +119,4 @@ Hopkins laughs but admits balancing all her commitments can be tough.
 “My day job always has to come first, otherwise the gymnastics stuff wouldn’t be able to exist. I never say, ‘I’m going to leave work for five hours to watch gymnastics,’ although -” she lowers her voice, “I did go to the firm’s library and watch the women’s all around final in the middle of the day,” she laughs conspiratorially. 
 
 “But I think my coworkers know that what you do is a hobby, just like what normal people do in their spare time. They go golfing, I do gymnastics," she says.
+
