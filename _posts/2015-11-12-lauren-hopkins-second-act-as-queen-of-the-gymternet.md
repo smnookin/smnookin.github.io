@@ -21,7 +21,7 @@ When Lauren Hopkins, founder of the gymnastics site, [thegymter.net](http://theg
 
 Hopkins, took to the her eight person, volunteer news and fansite to pen an impassioned response, [“Why I’m angry about Belarus](http://thegymter.net/2015/10/01/why-im-angry-about-belarus/)." The essay got 15,000 pageviews, the second most popular article in the site’s seventeen month history.
 
-Eventually, mainstream news outlets like the [AP](http://bigstory.ap.org/article/3567690e44a847aea3d3df3282e345de/american-gymnasts-create-unlikely-alliance-belarus) and the [Wall Street Journal](http://www.wsj.com/articles/u-s-women-gymnasts-qualify-for-rio-olympics-though-in-mixed-fashion-1445729014) would cover the story three weeks later during the actual World Championships. But in the meantime, for die-hard gym fans, Hopkin’s essay became a central point of discussion. 
+Eventually, mainstream news outlets like the [AP](http://bigstory.ap.org/article/3567690e44a847aea3d3df3282e345de/american-gymnasts-create-unlikely-alliance-belarus) and the [Wall Street Journal](http://www.wsj.com/articles/u-s-women-gymnasts-qualify-for-rio-olympics-though-in-mixed-fashion-1445729014) would cover the story three weeks later during the actual World Championships. But in the meantime, for die-hard gym fans, Hopkins' essay became a central point of discussion. 
 
 Former and current Belarusian gymnasts shared the essay on social media. Svetlana Boginskaya, three time Olympic champion who competed for the Soviet Union in the late 1980s to 1990s [commented](https://www.facebook.com/thegymternet/posts/964527733586216) on thegymter.net's Facebook page. Even the president of the Cayman Islands Gymnastics Association reached out - she emailed Hopkins to say her organization would never do what Belarus did.
 
@@ -39,7 +39,7 @@ But the Internet has allowed fans from all around the world to form online commu
 
 During college, Hopkins spent four years as a writer and editor for the website Couch Gymnast, receiving ⅓ of the monthly ad revenue as payment. When the site crashed for two months in 2014, Hopkins, wanting an outlet to write, decided to strike out on her own. She launched [thegymter.net](http://thegymter.net/) last July. 
 
-She spends 25-40 hours a week on the hybrid news and fan site, where she writes with both the factual, objective voice associated with mainstream news outlets and the conversational enthusiasm of an obsessed gymnastics fan. She has her favorite gymnasts, most notably Brenna Dowell, a member of the US national team, but strives to be objective in covering meets.
+She spends 25-40 hours a week on the hybrid news and fan site, where she writes with both the factual, objective voice associated with mainstream news outlets and the conversational enthusiasm of an obsessed gymnastics fan. She has her favorite gymnasts, most notably Brenna Dowell, a member of the US national team, but strives to cover meet results objectively.
 
 One of Hopkins' early challenges was figuring out the right tone to strike. Female gymnasts can start competing as early as age 5, and many peak between 14-18. Gabby Douglas, for example was 16 when she won the 2012 Olympic All-Around medal and Nastia Liukin was 18 when she won in 2008.
 
@@ -57,7 +57,7 @@ Hopkins recounts an early article she wrote for the [Couch Gymnast](http://www.t
 
 Hopkins, who is 27, grew up in Dartmouth, Massachusetts, a suburban coastal town an hour south of Boston. Though she dabbled in recreational gymnastics, her passion was musical theater. 
 
-“My goal  was to be on Broadway. I’d go to school, go to theater practice, stay there until 10-11pm, go home and go to bed. My mom loved it,” she laughs, “because it didn’t leave a lot of time to get into trouble - meanwhile, all my friends were sneaking out of the house and going to parties.”
+“My goal was to be on Broadway. I’d go to school, go to theater practice, stay there until 10-11pm, go home and go to bed. My mom loved it,” she laughs, “because it didn’t leave a lot of time to get into trouble. Meanwhile, all my friends were sneaking out of the house and going to parties.”
 
 Hopkins got her first paid acting gig at 15, and at 17, left her hometown for New York City, eschewing college for her Broadway dreams. It was a hard decision for her parents to swallow. But for Hopkins, the doubts only fueled her desire.
 
