@@ -3,13 +3,14 @@ layout: post
 published: false
 author: Deborah Chen
 link: ""
-displaydate: "October 11, 2015"
+displaydate: "December 11, 2015"
 date: ""
 category: MIT
 tags: 
   - "null"
 title: "Lauren Hopkins’ Second Act, as Queen of the Gymternet"
 ---
+
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZUAAAAJDNjYjQxNTFmLTE5NDItNGFhYy1hOTc5LWMxMmMzMDBkN2ViYQ.jpg)
 
@@ -119,4 +120,3 @@ Hopkins laughs but admits balancing all her commitments can be tough.
 “My day job always has to come first, otherwise the gymnastics stuff wouldn’t be able to exist. I never say, ‘I’m going to leave work for five hours to watch gymnastics,’ although -” she lowers her voice, “I did go to the firm’s library and watch the women’s all around final in the middle of the day,” she laughs conspiratorially. 
 
 “But I think my coworkers know that what you do is a hobby, just like what normal people do in their spare time. They go golfing, I do gymnastics," she says.
-
