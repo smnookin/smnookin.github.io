@@ -118,6 +118,6 @@ Her friend Jennifer Iacopelli, who is also a novelist, often marvels are Hopkin�
 
 Hopkins laughs but admits balancing all her commitments can be tough. 
 
-“My day job always has to come first, otherwise the gymnastics stuff wouldn’t be able to exist. I never say, ‘I’m going to leave work for five hours to watch gymnastics,’ although -” she lowers her voice, “I did go to the firm’s library and watch the women’s all around final in the middle of the day,” she laughs conspiratorially. 
+“My day job always has to come first, otherwise the gymnastics stuff wouldn’t be able to exist. I never say, ‘I’m going to leave work for five hours to watch gymnastics,’ although -” she lowers her voice, “I did go to the firm’s library and watch the women’s all around final in the middle of the day during the world championships,” she says conspiratorially. 
 
 “But I think my coworkers know that what you do is a hobby, just like what normal people do in their spare time. They go golfing, I do gymnastics," she says.
