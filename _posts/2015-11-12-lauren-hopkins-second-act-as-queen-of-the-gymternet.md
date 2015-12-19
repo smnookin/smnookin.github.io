@@ -12,6 +12,7 @@ title: "Lauren Hopkins’ Second Act, as Queen of the Gymternet"
 ---
 
 
+
 ![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZUAAAAJDNjYjQxNTFmLTE5NDItNGFhYy1hOTc5LWMxMmMzMDBkN2ViYQ.jpg)
 
 When Lauren Hopkins, founder of the gymnastics site, [thegymter.net](http://thegymter.net), heard the news that two American gymnasts were competing for Belarus, despite having no previous ties to the country, she debated how she should cover the story. It was three weeks before the World Artistic Gymnastics Championships, and the online gymnastics community, a.k.a. the gymternet, was already erupting in controversy.  
@@ -68,7 +69,7 @@ The six years she spent pursuing acting was tough, she admits, but she did not g
 
 “Auditions are terrible. You wake up at 5am, there’s anywhere between 100-500 people, and you wait in line all day. And there’s this thing called ‘typing,” where they bring you in groups of 40 and say, ‘you stay, you stay, everyone else leave,’ because you’re not what they want physically. Then, you go to your side job, you don’t get home until midnight, and then you have to be up at 5am again.”
 
-Hopkins found various roles in New England regional theater productions, which cast actors from New York for lead parts and local actors for the ensemble parts. She starred in Orphan Annie, Little House on the Prairie, Grease, and Wizard of Oz, often on the road for months at a time. Money was always an issue.
+Hopkins found various roles in New England regional theater productions, which cast actors from New York for lead parts and local actors for the ensemble parts. She starred in Annie, Little House on the Prairie, Grease, and Wizard of Oz, often on the road for months at a time. Money was always an issue.
 
 ![Lauren Hopkins as Dorothy in the Wizard of Oz]({{site.baseurl}}/assets/199306_4560611595_453_n.jpg)
 
