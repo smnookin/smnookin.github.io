@@ -10,7 +10,7 @@ tags: null
 title: Designing a Firefly
 ---
 
-![]({{site.baseurl}}/assets/isometric from Matt (cropped).JPG)
+![]({{site.baseurl}}/assets/isometric from Matt cropped.JPG)
 
 On a clear day in the near future, an aircraft opens one of its flare tubes and ejects a small, streamlined object. As the smaller craft falls away from its mothership, small wings swing into position on its underside and click into place. Then, with a flash and puff of smoke, the tiny rocket ignites and flies off at nearly the speed of sound to complete its mission. This is Firefly, the latest project underway at [Beaver Works](https://beaverworks.ll.mit.edu/CMS/bw/), a collaboration between the MIT [School of Engineering](http://engineering.mit.edu/) and [Lincoln Laboratory](http://www.ll.mit.edu/).
 
